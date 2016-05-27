@@ -1,0 +1,985 @@
+10104-8{_}0{_}The Project Gutenberg EBook of Punchinello, Vol.
+10104-8{_}1{_}2., No.
+10104-8{_}2{_}32,  November 5, 1870, by Various  This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever.
+10104-8{_}3{_}You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.net   Title: Punchinello, Vol.
+10104-8{_}4{_}2., No.
+10104-8{_}5{_}32,  November 5, 1870  Author: Various  Release Date: November 17, 2003 [EBook #10104]  Language: English  Character set encoding: ISO-8859-1  *** START OF THIS PROJECT GUTENBERG EBOOK PUNCHINELLO 32 ***     Produced by Joshua Hutchinson, Steve Schulze and PG Distributed Proofreaders         +--------------------------------------------------------------+   |                                                              |   |                           CONANT'S                           |   |                                                              |   |                        PATENT BINDERS                        |   |                                                              |   |                             FOR                              |   |                                                              |   |                        "PUNCHINELLO,"                        |   |                                                              |   |to preserve the paper for binding, will be sent post-paid, on |   |                  receipt of One Dollar, by                   |   |                                                              |   |               PUNCHINELLO PUBLISHING COMPANY,                |   |                                                              |   |               83 Nassau street, New York City.
+10104-8{_}6{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                      We will Mail Free                       |   |                                                              |   |                           A COVER                            |   |                                                              |   |          Lettered and Stamped, with New Title-Page,          |   |                                                              |   |                         FOR BINDING                          |   |                                                              |   |                        FIRST VOLUME,                         |   |                                                              |   |                   On Receipt of 50 Cents,                    |   |                                                              |   |                            OR THE                            |   |                                                              |   |                   TITLE-PAGE ALONE, FREE,                    |   |                                                              |   |                      On application to                       |   |                                                              |   |                 PUNCHINELLO PUBLISHING CO.,                  |   |                                                              |   |                      83 Nassau Street.
+10104-8{_}7{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                  HARRISON, BRADFORD & CO.'S                  |   |                                                              |   |                         STEEL PENS.
+10104-8{_}8{_}|   |                                                              |   |     These Pens are of a finer quality, more durable, and     |   | cheaper than any other Pen in the market.
+10104-8{_}9{_}Special attention  |   |  is called to the following grades, as being better suited   |   |     for business purposes than any Pen Manufactured.
+10104-8{_}10{_}The     |   |                                                              |   |            "505," "22," and the "Anti-Corrosive,"            |   |                                                              |   |            we recommend for Bank and Office use.
+10104-8{_}11{_}|   |                                                              |   |                      D. APPLETON & CO.,                      |   |                                                              |   |                Sole agents for United States.
+10104-8{_}12{_}|   |                                                              |   +--------------------------------------------------------------+   Vol.
+10104-8{_}13{_}II.
+10104-8{_}14{_}No.
+10104-8{_}15{_}32    SATURDAY, NOVEMBER 5, 1870.
+10104-8{_}16{_}PUBLISHED BY THE   PUNCHINELLO PUBLISHING COMPANY,  83 NASSAU STREET, NEW YORK.
+10104-8{_}17{_}*       *       *       *       *  THE MYSTERY OF MR. E. DROOD,  By ORPHEUS C. KERR,  Is concluded in this Number.
+10104-8{_}18{_}See 15th Page for Extra Premiums.
+10104-8{_}19{_}+--------------------------------------------------------------+   |                                                              |   |                     Bound Volume No.
+10104-8{_}20{_}1.
+10104-8{_}21{_}|   |                                                              |   |             The first volume of PUNCHINELLO--the             |   |           only first-class, original, illustrated,           |   |             humorous and satirical weekly paper              |   |            published in this country--ending with            |   |                 No.
+10104-8{_}22{_}26, September 24, 1870,                  |   |                                                              |   |                    Bound in Extra Cloth,                     |   |                                                              |   |                  is now ready for delivery,                  |   |                                                              |   |                         PRICE $2.50.
+10104-8{_}23{_}|   |                                                              |   |           Sent postpaid to any part of the United            |   |                 States on receipt of price.
+10104-8{_}24{_}|   |                                                              |   |            A copy of the paper for one year, from            |   |              October 1st, No.
+10104-8{_}25{_}27, and the Bound              |   |          Volume (the latter prepaid), will be sent           |   |                 to any subscriber for $5.50.
+10104-8{_}26{_}|   |                                                              |   |             Three copies for one year, and three             |   |             Bound Volumes, with an extra copy of             |   |             Bound Volume, to any person sending              |   |              us three subscriptions for $16.50.
+10104-8{_}27{_}|   |                                                              |   |                                                              |   |               One copy of paper for one year,                |   |                 with a fine chromo premium,                  |   |                        for..... $4.00                        |   |                                                              |   |                Single copies, mailed free .10                |   |                                                              |   |                                                              |   |             Back numbers can always be supplied,             |   |                as the paper is electrotyped.
+10104-8{_}28{_}|   |                                                              |   |           Book canvassers will find this volume a            |   |                                                              |   |                     Very Saleable Book.
+10104-8{_}29{_}|   |                                                              |   |         Orders supplied at a very liberal discount.
+10104-8{_}30{_}|   |                                                              |   |              All remittances should be made in               |   |                     Post Office orders.
+10104-8{_}31{_}|   |                                                              |   |               Canvassers wanted for the paper                |   |          everywhere.
+10104-8{_}32{_}Send for our Special Circular.
+10104-8{_}33{_}|   |                                                              |   |                           Address,                           |   |                                                              |   |                 Punchinello Publishing Co.,                  |   |                                                              |   |                     83 NASSAU ST., N. Y.
+10104-8{_}34{_}|   |                                                              |   |                     P. O.
+10104-8{_}35{_}Box No.
+10104-8{_}36{_}2783.
+10104-8{_}37{_}|   +--------------------------------------------------------------+   |                                                              |   |               APPLICATIONS FOR ADVERTISING IN                |   |                                                              |   |                        "PUNCHINELLO"                         |   |                                                              |   |                    SHOULD BE ADDRESSED TO                    |   |                                                              |   |                       JOHN NICKINSON,                        |   |                                                              |   |                         ROOM NO.
+10104-8{_}38{_}4,                          |   |                                                              |   |                 No.
+10104-8{_}39{_}83 Nassau Street, N. Y.
+10104-8{_}40{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                       TO NEWS-DEALERS.
+10104-8{_}41{_}|   |                                                              |   |                    Punchinello's Monthly.
+10104-8{_}42{_}|   |                                                              |   |              The Weekly Numbers for September,               |   |                                                              |   |                  Bound in a Handsome Cover,                  |   |                                                              |   |                Is now ready.
+10104-8{_}43{_}Price 50 cents.
+10104-8{_}44{_}|   |                                                              |   |                          THE TRADE                           |   |                                                              |   |                       Supplied by the                        |   |                                                              |   |                    AMERICAN NEWS COMPANY,                    |   |                                                              |   |           Who are now prepared to receive Orders.
+10104-8{_}45{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                 Bowling Green Savings-Bank,                  |   |                                                              |   |                         33 BROADWAY,                         |   |                                                              |   |                          NEW YORK.
+10104-8{_}46{_}|   |                                                              |   |            Open Every Day from 10 A.M. to 3 P.M.             |   |                                                              |   |             _Deposits of any sum, from Ten Cents             |   |         to Ten Thousand Dollars, will be received._          |   |                                                              |   |                   Six Per Cent.
+10104-8{_}47{_}Interest,                    |   |                   Free of Government Tax.
+10104-8{_}48{_}|   |                                                              |   |                   INTEREST ON NEW DEPOSITS                   |   |                                                              |   |            Commences on the First of every Month.
+10104-8{_}49{_}|   |                                                              |   |                  HENRY SMITH.
+10104-8{_}50{_}_President._                   |   |                                                              |   |                REEVES E. SELMES, _Secretary._                |   |                                                              |   |        WALTER ROCHE, EDWARD HOGAN, _Vice-Presidents._        |   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                         J. NICKINSON                         |   |                                                              |   |              begs to announce to the friends of              |   |                                                              |   |                        "PUNCHINELLO,"                        |   |                                                              |   | residing in the country, that, for their convenience, he has |   |    made arrangements by which, on receipt of the price of    |   |                                                              |   |                 Any Standard Book Published,                 |   |          the same will be forwarded, postage paid.
+10104-8{_}51{_}|   |                                                              |   |     Parties desiring Catalogues of any of our Publishing     |   |     Houses, can have the same forwarded by inclosing two     |   |                           stamps.
+10104-8{_}52{_}|   |                                                              |   |                          OFFICE OF                           |   |                                                              |   |                 PUNCHINELLO PUBLISHING CO.,                  |   |                                                              |   |                      83 Nassau Street.
+10104-8{_}53{_}|   |                                                              |   |                       [P.O.
+10104-8{_}54{_}Box 2783.]
+10104-8{_}55{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                       FORST & AVERELL,                       |   |                                                              |   |             Steam, Lithograph, and Letter Press              |   |                                                              |   |                          PRINTERS,                           |   |                                                              |   |               EMBOSSERS, ENGRAVERS, AND LABEL                |   |                        MANUFACTURERS.
+10104-8{_}56{_}|   |                                                              |   |      Sketches and Estimates furnished upon application.
+10104-8{_}57{_}|   |                                                              |   |           23 Platt Street, and 20-22 Gold Street,            |   |                                                              |   |                      [P. O.
+10104-8{_}58{_}Box 2845.]
+10104-8{_}59{_}|   |                                                              |   |                          NEW YORK.
+10104-8{_}60{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                           FOLEY'S                            |   |                                                              |   |                          GOLD PENS.
+10104-8{_}61{_}|   |                                                              |   |                    THE BEST AND CHEAPEST.
+10104-8{_}62{_}|   |                                                              |   |                        256 BROADWAY.
+10104-8{_}63{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |          The only Journal of its kind in America!!
+10104-8{_}64{_}|   |                                                              |   |                    The American Chemist:                     |   |                                                              |   |                      A MONTHLY JOURNAL                       |   |                              OF                              |   |       THEORETICAL, ANALYTICAL AND TECHNICAL CHEMISTRY.
+10104-8{_}65{_}|   |                                                              |   |          DEVOTED ESPECIALLY TO AMERICAN INTERESTS.
+10104-8{_}66{_}|   |                                                              |   |                          EDITED BY                           |   |                                                              |   |         Chas.
+10104-8{_}67{_}F. Chandler, Ph.
+10104-8{_}68{_}D., & W. H. Chandler.
+10104-8{_}69{_}|   |                                                              |   |                                                              |   |   The Proprietors and Publishers of THE AMERICAN CHEMIST,    |   |   having purchased the subscription list and stock of the    |   |    American reprint of THE CHEMICAL NEWS have decided to     |   |  advance the interests of American Chemical Science by the   |   |     publication of a Journal which shall be a medium of      |   |  communication for all practical, thinking, experimenting,   |   |   and manufacturing scientific men throughout the country.
+10104-8{_}70{_}|   |                                                              |   |     The columns of THE AMERICAN CHEMIST are open for the     |   | reception of original articles from any part of the country, |   | subject to the approval of the editor.
+10104-8{_}71{_}Letters of inquiry on |   |  any point of interest within the scope of the Journal will  |   |                  receive prompt attention.
+10104-8{_}72{_}|   |                                                              |   |                                                              |   |                     THE AMERICAN CHEMIST                     |   |                                                              |   |             Is a Journal of especial interest to             |   |                                                              |   |    SCHOOLS AND MEN OF SCIENCE, TO COLLEGES, APOTHECARIES,    |   |    DRUGGISTS, PHYSICIANS, ASSAYERS, DYERS, PHOTOGRAPHERS,    |   |                        MANUFACTURERS.
+10104-8{_}73{_}|   |                                                              |   |          And all concerned in scientific pursuits.
+10104-8{_}74{_}|   |                                                              |   |    Subscription, $5.00 per annum, in advance; 50 cts.
+10104-8{_}75{_}per    |   |               number.
+10104-8{_}76{_}Specimen copies, 25 cts.
+10104-8{_}77{_}|   |                                                              |   |                Address WILLIAM BALDWIN & CO.,                |   |                                                              |   |                 Publishers and Proprietors,                  |   |                                                              |   |                434 _Broome Street, New York_.
+10104-8{_}78{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                        GEORGE WEVILL,                        |   |                                                              |   |                        WOOD ENGRAVER,                        |   |                                                              |   |                        208 BROADWAY,                         |   |                                                              |   |                          NEW YORK.
+10104-8{_}79{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                       GEO.
+10104-8{_}80{_}B. BOWLEND,                       |   |                                                              |   |                   Draughtsman & Designer;                    |   |                                                              |   |                    No.
+10104-8{_}81{_}160 Fulton Street,                    |   |                                                              |   |                    Room No.
+10104-8{_}82{_}11, NEW YORK.
+10104-8{_}83{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                      HENRY L. STEPHENS,                      |   |                                                              |   |                           ARTIST,                            |   |                                                              |   |                    No.
+10104-8{_}84{_}160 FULTON STREET,                    |   |                                                              |   |                          NEW YORK.
+10104-8{_}85{_}|   |                                                              |   +--------------------------------------------------------------+  Entered according to Act of Congress, in the year 1870, by the PUNCHINELLO PUBLISHING COMPANY, in the Office of the Librarian of Congress at Washington.
+10104-8{_}86{_}*       *       *       *       *  THE MYSTERY OF MR. E. DROOD,  AN ADAPTATION.
+10104-8{_}87{_}BY ORPHEUS C. KERR  CHAPTER XXVI.
+10104-8{_}88{_}FOR BETTER, FOR WORSE.
+10104-8{_}89{_}Miss CARROWTHERS having gone out with Mrs. SKAMMERHORN to skirmish with the world of dry-goods clerks for one of those alarming sacrifices in feminine apparel which woman unselfishly, yet never needlessly, is always making, FLORA sat alone in her new home, working the latest beaded pin-cushion of her useful life.
+10104-8{_}90{_}Frequently experiencing the truth of the adage, that as you sew so shall you rip, the fair young thing was passing half her valuable time in ripping out the mistaken stitches she had made in the other half; and the severe moral discipline thus endured, made her mad, as equivalent vexation would have made a man the reverse of that word.
+10104-8{_}91{_}Flippant social satirists cannot dwell with sufficient sarcasm upon the difference between the invincible amiability affected by artless girls in society and their occasional bitterness of aspect in the privacy of home; never stopping to reflect that there are sore private trials for these industrious young crochet creatures in which the thread of the most equable female existence is necessarily worsted.
+10104-8{_}92{_}Miss POTTS, then, although looking up from her trying worsted occupation at the servant who entered with a rather snappish expression of countenance, was guilty of no particularly hypocritical assumption in at once suffering her features to relax into a sweetly pensive smile upon learning that there was a gentleman to see her in the parlor.
+10104-8{_}93{_}"'MONTGOMERY PENDRAGON,'" she softly read from the card presented.
+10104-8{_}94{_}"Is he alone, BRIDGET, dear?"
+10104-8{_}95{_}"Sorra any wan with him but his cane, Miss; and that he axed me wud I sthand it behind the dure for him."
+10104-8{_}96{_}There was a look of desperate purpose about this.
+10104-8{_}97{_}When a sentimental young man seeks a private interview with a marriageable young woman, and recklessly refuses at the outset to retain at least his cane for the solution of the intricate conversational problem of what to do with his hands, it is an infallible sign that some madly rash intention has temporarily overpowered his usual sheepish imbecility, and that he may be expected to speak and act with almost human intelligence.
+10104-8{_}98{_}With hand instinctively pressed upon her heart, to moderate its too sanguine pulsations and show the delicate lace around her cuffs, FLORA shyly entered the parlor, and surprised Mr. PENDRAGON striding up and down the apartment like one of the more comic of the tragic actors of the day.
+10104-8{_}99{_}"Miss POTTS!"
+10104-8{_}100{_}ejaculated the wild young Southern pedestrian, pausing suddenly at her approach, with considerable excitement of manner, "scorn me, spurn me, if you will; but do not let sectional embitterment blind you to the fact that I am here by the request of Mr.
+10104-8{_}101{_}DIBBLE."
+10104-8{_}102{_}"I wasn't scorning and spurning anybody," explained the startled orphan, coyly accepting the chair he pushed forward.
+10104-8{_}103{_}"I'm sure I don't feel any sectional hatred, nor any other ridiculous thing."
+10104-8{_}104{_}"Forgive me!"
+10104-8{_}105{_}pleaded MONTGOMERY.
+10104-8{_}106{_}"I reckon I'm a heap too sensitive about my Southern birth; but only think, Miss POTTS, what I've had to go through since I've been amongst you Yankees!
+10104-8{_}107{_}Fancy what it is to be suspected of a murder, and have no political influence."
+10104-8{_}108{_}"It must be _so_ absurd!"
+10104-8{_}109{_}murmured FLORA.
+10104-8{_}110{_}"I've felt wretched enough about it to become a contributor to the first-class American comic paper on the next floor below me," he continued, gloomily.
+10104-8{_}111{_}"And here, to-day, without any explanation, your guardian desires me to come here and wait for him."
+10104-8{_}112{_}"I'm sorry that's such a trial for you, Mr. PENDRAGON," simpered the Flowerpot.
+10104-8{_}113{_}"Perhaps you'd prefer to wait on the front stoop and appear as though you'd just come, you know?"
+10104-8{_}114{_}"And can you think," cried the young man with increased agitation "that it would be any trial for me to be in your society, if--?
+10104-8{_}115{_}But tell me, Miss POTTS, has your guardian the right to dispose of your hand in marriage?"
+10104-8{_}116{_}"I suppose so," answered FLORA, with innocent surprise and a pretty blush; "he has charge of _all_ my money matters, you know."
+10104-8{_}117{_}"Then it is as I feared," groaned her questioner, smiting his forehead.
+10104-8{_}118{_}"He is coming here to-day to tell you what man of opulence he wants you to have, and I am to be witness to my own hopelessness!"
+10104-8{_}119{_}"What makes you think anything so ridiculous, you absurd thing?"
+10104-8{_}120{_}asked the orphan, not unkindly.
+10104-8{_}121{_}"He as good as said so," sighed the unhappy Southerner.
+10104-8{_}122{_}"He told me, with his own mouth, that he wanted to get you off his hands as soon as possible, and thought he saw his way clear to do it."
+10104-8{_}123{_}The girl knew what bitter, intolerable emotions were tearing the heart of the ill-fated secessionist before her, and, in her own gentle heart, pitied him.
+10104-8{_}124{_}"He needn't be so sure about it," she said, with indignant spirit.
+10104-8{_}125{_}"I'll never marry _any_ stranger, unless he's awful rich--oh, as rich as anything!"
+10104-8{_}126{_}"Oh, Miss POTTS!"
+10104-8{_}127{_}roared MONTGOMERY, suddenly, folding-down upon one knee before her, and scratching his nose with a ring upon the hand he sought to kiss, "why will you not bestow upon me the heart so generously disdainful of everything except the most extreme wealth?
+10104-8{_}128{_}Why waste your best years in waiting for proposals from a class of Northern men who occasionally expect that their brides, also, shall have property, when here I offer you the name and hand of a loving Southern gentleman, who only needs the paying off of a few mortgages on his estate in the South to be beyond all immediate danger of starvation?"
+10104-8{_}129{_}Turning her pretty head aside, but unconsciously allowing him to retain her hand, she faintly asked how they were to live?
+10104-8{_}130{_}"Live!"
+10104-8{_}131{_}repeated the impetuous lover.
+10104-8{_}132{_}"On love, hash, mutual trust, bread pudding: anything that's cheap.
+10104-8{_}133{_}I'll do the washing and ironing myself."
+10104-8{_}134{_}"How perfectly ridiculous!"
+10104-8{_}135{_}said the orphan, bashfully turning her head still further aside, and bringing one ear-ring to bear strongly upon him.
+10104-8{_}136{_}"You'd never be able to do fluting and pinking in the world."
+10104-8{_}137{_}"I could do anything, with you by my side!"
+10104-8{_}138{_}he retorted, eagerly.
+10104-8{_}139{_}Oh, Miss POTTS!--FLORA!--think how lonely I am.
+10104-8{_}140{_}My sister, as on may have heard, has accepted Gospeler SIMPSON'S proposal, by mail, for her hand, and is already so busy quarrelling with his mother that she is no longer any company for me.
+10104-8{_}141{_}My fate is in your hands; it is in woman's power to either make or marry the roan who loves her--"  "Provided, always, that her legal guardian consents," interrupted the benignant voice of Mr. DIBBLE, who, unperceived by them, had entered the room in time to finish the sentence.
+10104-8{_}142{_}Springing alertly to an upright position, and coughing excessively, Mr. PENDRAGON was a shamefaced reproach to his whole sex, while the young lady used the edge of her right foot against a seam of the carpet with that extreme solicitude as to the result which is always so entirely deceiving to those who have hoped to see her show signs of painful embarrassment.
+10104-8{_}143{_}After surveying them in thoughtful silence for a moment, the old lawyer bent over his ward, and hugged and kissed her with an unctuousness justified by his great age and extreme goodness.
+10104-8{_}144{_}It was his fine old way of bestowing an inestimable blessing upon all the plump younger women of his acquaintance, and the benediction was conferred on the slightest pretexts, and impartially, up to a certain age.
+10104-8{_}145{_}"Am I to construe what I have seen and heard, my dear, as equivalent to the conclusion of my guardianship?"
+10104-8{_}146{_}he asked, smilingly.
+10104-8{_}147{_}"Oh, please don't be so ridiculous--oh, I never was so exquisitely nervous," pleaded the helpless, fluttered young creature.
+10104-8{_}148{_}"I reckon I've betrayed your confidence, sir," said MONTGOMERY, desperately; "but you must have known, from hearsay at least, how I have felt toward this young lady ever since our first meeting, and should not have exposed me to a temptation stronger than I could bear.
+10104-8{_}149{_}I have, indeed, done myself the honor to offer her the hand and heart if one who, although but a poor gentleman, will be richer than kings if she deigns to make him so."
+10104-8{_}150{_}"Why, how absurd!"
+10104-8{_}151{_}ejaculated the orphan, quickly.
+10104-8{_}152{_}"It's perfectly ridiculous to call me well off: and how could I make you richer than kings and things, you know?"
+10104-8{_}153{_}The old and the young men exchanged looks of unspeakable admiration at such touching artlessness.
+10104-8{_}154{_}"Sweet innocence!"
+10104-8{_}155{_}exclaimed her guardian, playfully pinching her cheek and privately surprised at its floury feeling.
+10104-8{_}156{_}"What would you say if I told you that, since our shrewd EDDY retired from the contest, I have been wishing to see you and our Southern friend here brought to just such terms as you appear to have reached?
+10104-8{_}157{_}What would you say if I added that, such consummation seeming to be the best you or your friends could do for yourself, I have determined to deal with you as a daughter, in the matter of seeing to it that you begin your married life with a daughter's portion from my own estate?"
+10104-8{_}158{_}Both the young people had his hands in theirs, on either side of him, in an instant.
+10104-8{_}159{_}"There!
+10104-8{_}160{_}there!"
+10104-8{_}161{_}continued the excellent old gentleman, "don't try to express yourselves.
+10104-8{_}162{_}FLORA, place one of your hands in the breast of my coat, and draw out the parcel you find there.
+10104-8{_}163{_}* * * That's it.
+10104-8{_}164{_}The article it contains once belonged to your mother, my dear, and has been returned to me by the hands to which I once committed it in the hope that they would present it to you.
+10104-8{_}165{_}I loved your mother well, my child, but had not enough property at the time to contend with your father.
+10104-8{_}166{_}Open the parcel in private, and be warned by its moral: Better is wilful waist than woeful want of it."
+10104-8{_}167{_}It was the stay-lace by which Mrs. POTTS, from too great persistence in drawing herself up proudly, had perished in her prime.
+10104-8{_}168{_}"Now come into the open air with me, and let us walk to Central Park," continued Mr. DIBBLE, shaking off his momentary fit of gloom, "I have strange things to tell you both.
+10104-8{_}169{_}I have to teach you, in justice to a much-injured man, that we have, in our hearts, cruelly wronged that excellent and devout Mr. BUMSTEAD, by suspecting him of a crime whereof he is now proved innocent at least _I_ suspected him.
+10104-8{_}170{_}To-morrow night we must all be in Bumsteadville.
+10104-8{_}171{_}I will tell you why as we walk."
+10104-8{_}172{_}CHAPTER XXVII.
+10104-8{_}173{_}SOLUTION.
+10104-8{_}174{_}In the darkness of a night made opaque by approaching showers, a man stands under the low-drooping branches of the edge of a wood skirting the cross-road leading down to Gospeler's Gulch.
+10104-8{_}175{_}"Not enough saved from the wreck even to buy the merciful rope that should end all my humor and impecuniosity!"
+10104-8{_}176{_}he mutters, over his folded arms and heaving chest.
+10104-8{_}177{_}"I have come to this out-of-the-way suburb to end my miserable days, and not so much as one clothes-line have I seen yet.
+10104-8{_}178{_}There is the pond, however; I can jump into that, I suppose: but how much more decent were it to make one's quietus under the merry greenwood tree with a cord--"  He stops suddenly, holding his breath; and, almost simultaneously with a sharp, rushing noise in the leaves overhead, something drops upon his shoulder.
+10104-8{_}179{_}He grasps it, cautiously feels of it, and, to his unspeakable amazement, discovers that it is a rope apparently fastened to the branches above!
+10104-8{_}180{_}"Wonderful!"
+10104-8{_}181{_}he ejaculates, in an awe-stricken whisper.
+10104-8{_}182{_}"Providence helps a wretch to die, if not to live.
+10104-8{_}183{_}At any other time I should think this very strange, but just now I've got but one thing to do.
+10104-8{_}184{_}Here's my rope, here's my neck, and here goes!"
+10104-8{_}185{_}Heedless of everything but his dread intention, he rapidly ties the rope about his throat, and is in the act of throwing forward his whole weight upon it, when there is a sharp jerk of the rope, he is drawn up about three feet in the air, and, before he can collect his thoughts, is as abruptly let down upon his feet again.
+10104-8{_}186{_}Simultaneously, a sound almost like suppressed swearing comes very clearly to his ear, and he is conscious of something dimly white in the profound darkness, not far away.
+10104-8{_}187{_}"Sold again: signed, J. BUMSTEAD," exclaims a deep voice.
+10104-8{_}188{_}"I thought the rope was caught in a crotch; but 'twasn't.
+10104-8{_}189{_}Try't once more."
+10104-8{_}190{_}The astounded hearer feels the rope tugging at his own neck again, and, with a half comprehension of the situation, calls "Stop!"
+10104-8{_}191{_}in a suffocating voice.
+10104-8{_}192{_}"Who's there?"
+10104-8{_}193{_}comes from the darkness.
+10104-8{_}194{_}"JEREMY BENTHAM, late proprietor of first-class American Comic Paper.--Died of Comic Serial.--Want to hang myself," is the jerky reply from the other side.
+10104-8{_}195{_}"Got your own rope, sir?"
+10104-8{_}196{_}"No.
+10104-8{_}197{_}One fell down on my shoulders just as I was wishing for it; but it seems to be too elastic."
+10104-8{_}198{_}"That's the other end 'f _my_ rope, air," rejoins the second voice, as in wrath.
+10104-8{_}199{_}"I threw't over the branches and thought it had caught, instead of that it let me down, sir."
+10104-8{_}200{_}"And drew me up," says Mr. BENTHAM.
+10104-8{_}201{_}Before another word can be spoken by either, the light of a dark-lantern is flashed upon them.
+10104-8{_}202{_}There is Mr. BUMSTEAD, not three yards from Mr. BENTHAM; each with an end of the same rope about his neck, and the head of the former turbaned with a damp towel.
+10104-8{_}203{_}"Are ye men?"
+10104-8{_}204{_}exclaims the deep voice of Mr. MELANCTHON SCHENCK from behind the lantern, "and would ye madly incur death before having taken out life-policies in the Boreal?"
+10104-8{_}205{_}"And would my uncle celebrate my return in this style?"
+10104-8{_}206{_}cried still another voice from the darkness.
+10104-8{_}207{_}"Who's that spoke just then?"
+10104-8{_}208{_}cries the Ritualistic organist.
+10104-8{_}209{_}The answer comes like the note of a trumpet:--  "EDWIN DROOD!"
+10104-8{_}210{_}At the same instant a great glare of light breaks upon the scene from a bonfire of tar-barrels, ignited at the higher end of the cross-road by young SMALLEY; and, to the mingled bewilderment and exasperation of Mr. BUMSTEAD, the radiance reveals, as in noonday, Mr. SCHENCK and his long-lost nephew standing before him; and, coming towards them in festive procession from Gospeler's Gulch.
+10104-8{_}211{_}MONTGOMERY PENDRAGON with FLORA on his arm, the Reverend OCTAVIUS SIMPSON escorting MAGNOLIA, Mr. DIBBLE guarding Mrs. SIMPSON, Mr. CLEW'S arm in arm with JOHN McLAUGHLIN.
+10104-8{_}212{_}Father DEAN and Judge SWEENEY, Miss CAROWTHERS, and the SMYTHES.
+10104-8{_}213{_}"Trying to hang yourselves!"
+10104-8{_}214{_}exclaims Mr. DIBBLE, as the throng gathers curiously around the two gentlemen of the rope.
+10104-8{_}215{_}"And my old friend BENTHAM, too!"
+10104-8{_}216{_}cries the Gospeler.
+10104-8{_}217{_}"How perfectly ridiculous!"
+10104-8{_}218{_}warbles FLORA.
+10104-8{_}219{_}Staring majestically from one face to the other, and from thence towards the illuminating bonfire, Mr. BUMSTEAD, quite unconscious of the picturesque effect of the towel on his head, deliberately draws an antique black bottle from his pocket, moistens his lips therewith, passes it to the Comic Paper man, and eats a clove.
+10104-8{_}220{_}"What is the meaning of this general intoxication?"
+10104-8{_}221{_}he then asks quite severely.
+10104-8{_}222{_}"Why does this mass-meeting, greatly under the influence of inferior liquor as it plainly is, intrude thus upon the last hours of a Ritualistic gentleman and a humorous publisher?"
+10104-8{_}223{_}"Because, Uncle JACK," returns EDWIN DROOD, holding his hands curiously behind him as he speaks, "this is a night of general rejoicing Bumsteadville, in honor of my reappearance; and, directed by your landlord, Mr. SMYTHE, we have come out to make you join in our cheer.
+10104-8{_}224{_}We are all heartily sorry for the great anguish you have endured in consequence of my unexplained absence.
+10104-8{_}225{_}Let me tell you ow it was, as I have already told all our friends here.
+10104-8{_}226{_}You know where you placed me while you were in your clove-trance, and I was o unbecomingly asleep, on Christmas night.
+10104-8{_}227{_}Well, I was discovered there, in less than three hours thereafter, by JOHN MCLAUGHLIN, who carried me to his own house, and there managed to awaken me.
+10104-8{_}228{_}Recovering my senses, I was disgusted with myself, ashamed of what had happened, and anxious to leave Bumsteadville.
+10104-8{_}229{_}I swore 'Old Mortarity' to secrecy--"  "--Which I have observed," explains MCLAUGHLIN, nodding.  "
+10104-8{_}230{_}--And started immediately for Egypt, in Illinois," continues Mr. DROOD.
+10104-8{_}231{_}"There I went into railroading; am engaged to a nice little girl there; and came back two days ago to explain myself all around, returning here, I saw JOHN MCLAUGHLIN first, who told me that a certain Mr. CLEWS was here to unravel the Mystery about me, and persuaded me to let Mr. CLEWS work you into another visit to the cellar the Pauper Burial Ground, and there appear to you as my own ghost, before finally revealing myself as I now do."
+10104-8{_}232{_}The glassy eyes of the Ritualistic organist are fixed upon him in a most uncomfortable manner, but no comment comes.
+10104-8{_}233{_}"And I, Mr. BUMSTEAD," says the old lawyer, "must apologize to you for having indulged a wrong suspicion.
+10104-8{_}234{_}Possibly you were rather rash in charging everybody else with assassination and larceny, and offering to marry my ward upon the strength of her dislike to you; but we'll say no more of those things now.
+10104-8{_}235{_}Miss POTTS has consented to become Mrs. PENDRAGON; Miss PENDRAGON is the betrothed of Rev.
+10104-8{_}236{_}Mr. SIMPSON,--"  "--Miss CAROWTHERS honors me with a matrimonial preference," interpolates Judge SWEENEY, gallantly bowing to that spinster.--  "--Breachy Mr.
+10104-8{_}237{_}BLODGETT!"
+10104-8{_}238{_}sighs the lady, to herself.--  "--And three weddings will help us to forget everything but that which is bright and pleasant," concludes the lawyer.
+10104-8{_}239{_}Next steps to the front Mr. TRACEY CLEWS, with his surprising head of hair, and archly remarks:  "I believe you take me for a literary man, Mr.
+10104-8{_}240{_}BUMSTEAD."
+10104-8{_}241{_}"What is that to me, sir?
+10104-8{_}242{_}_I've_ no money to lend," returns the organist, with marked uneasiness.
+10104-8{_}243{_}"To tell you the truth," proceeds the author of "The Amateur Detective," --"to tell you the whole truth, I have been playing the detective with you by order of Mr. DIBBLE, and hope you will excuse my practice upon you."
+10104-8{_}244{_}"He is my clerk," explains Mr. DIBBLE.
+10104-8{_}245{_}Whereupon Mr. TRACEY CLEWS dexterously whips off his brush of red hair, and stands revealed as Mr. BLADAMS.
+10104-8{_}246{_}Merely waiting to granulate one more clove, Mr. BUMSTEAD settles the rope about his neck anew, squints around under the wet towel in a curiously ghastly manner, and thus addresses the meeting:--  "Ladies and gen'l'men--I've listened to y'r impudence with patience, and on any other 'casion would be happy to see y'all safe home.
+10104-8{_}247{_}At present, however, Mr. BENTHAM and I desire to be left alone, if 'ts all th' same t' you.
+10104-8{_}248{_}You can come for the bodies in th' morning."
+10104-8{_}249{_}"BENTHAM!
+10104-8{_}250{_}BENTHAM!"
+10104-8{_}251{_}calls the Gospeler, "I can't see you acting in that way, old friend.
+10104-8{_}252{_}Come home with me to-night, and we'll talk of starting a Religious Weekly together.
+10104-8{_}253{_}That's your only successful American Comic Paper."
+10104-8{_}254{_}"By Jove!
+10104-8{_}255{_}so it is!"
+10104-8{_}256{_}bawls JEREMY BENTHAM, like one possessed.
+10104-8{_}257{_}"I never thought of that before!
+10104-8{_}258{_}I'm with you, my boy."
+10104-8{_}259{_}And, hastily slipping the rope from his neck, he hurries to his friend's side.
+10104-8{_}260{_}"And you, Uncle JACK--look at this!"
+10104-8{_}261{_}exclaims Mr. E. DROOD, bringing from behind his back and presenting to the melancholy organist a thing that looks, at first glance, like an incredibly slim little black girl, headless, with no waist at all, and balanced on one leg.
+10104-8{_}262{_}Mr. BUMSTEAD reaches for it mechanically; a look of intelligence comes into his glassy eyes; then they fairly flame.
+10104-8{_}263{_}"ALLIE!"
+10104-8{_}264{_}he cries, dancing ecstatically.
+10104-8{_}265{_}It is the Umbrella--old familiar bone-handle, brass ferrule--in a bran-new dress of alpaca!
+10104-8{_}266{_}All gaze at him with unspeakable emotion, as, with the rope cast from him, he pats his dear old friend, opens her half way, shuts her again, and the while smiles with ineffable tenderness.
+10104-8{_}267{_}Suddenly a shriek--the voice of FLORA--breaks the silence:--  "It rains!--oh, my complexion!"
+10104-8{_}268{_}"Rains?"
+10104-8{_}269{_}thunders the regenerated BUMSTEAD, in a tone of inconceivable triumph.
+10104-8{_}270{_}"So it does.
+10104-8{_}271{_}Now then, ALLIE, do your duty;" and, with a softly wooing, hospitable air, he opens the umbrella and holds it high over his head.
+10104-8{_}272{_}By a common instinct they all swarm in upon him, craning their heads far over each other's shoulders to secure a share of the Providential shelter.
+10104-8{_}273{_}The glare of the great bonfire falls upon the scene; the rain pours down in torrents: they crowd in upon him on all sides, until what was once a stately Ritualistic man resembles some tremendous monster with seventeen wriggling bodies, thirty-four legs, and an alpaca canopy above all.
+10104-8{_}274{_}THE END.
+10104-8{_}275{_}*       *       *       *       *  THE RACE OF THE DAUNTLESS AND CAMBRIA.
+10104-8{_}276{_}Punchinello's Sporting Special went down to Sandy Hook last week to supervise the race between the _Dauntless_ and the _Cambria_.
+10104-8{_}277{_}The affair was consequently a great success.
+10104-8{_}278{_}Attired in white corduroy breeches, a blue velvet waistcoat, and a light boating-jacket of yellow flannel, your reporter left the Battery at 6 hrs.
+10104-8{_}279{_}22 m, and 5 secs, on Friday morning, and steamed slowly down the bay in the editorial row-boat _Punchinelletto_, which was manned by an individual of remarkable oar-acular powers.
+10104-8{_}280{_}So highly was he gifted indeed in this respect, that your special was enabled to predict the result of the aquatic gambols with perfect accuracy, as it afterward appeared.
+10104-8{_}281{_}Having got the yachts in position, he gave Messrs. BENNETT and ASHBURY an audience, in which it was settled by your representative that, owing to a split in the _Cambria's_ club-topsail, both parties should carry their block-headed jibs; and the contest was begun.
+10104-8{_}282{_}In his anxiety to see fair play, however, your reporter at first innocently took the lead, shooting off, at the given signal, far in advance of the two yachts.
+10104-8{_}283{_}His surprise was therefore great when the latter suddenly hove to on their beam-ends, and declared an armistice, to permit of Mr. ASHBURY'S publishing the following:  _Card_.
+10104-8{_}284{_}Much as I appreciate the kindness and attention extended to me on all previous occasions in these waters, I must still politely insist that the _Punchinelletto_ relinquish her natural and perhaps unavoidable tendency to take the wind out of everybody's sails, and submit to remain in the wake of these yachts during the continuance of the race.
+10104-8{_}285{_}And I hereby challenge all fast-sailing yachts of over 100 tons burthen, and under 50, to a 15-mile race dead to windward and back again alive.
+10104-8{_}286{_}(Signed) ASHBURY.
+10104-8{_}287{_}Upon this your reporter manned the yard-arms, fired a salute of 100 guns, and directed the Oar-acular to back water; thereby giving the _Dauntless_ the lead, which she retained up to the end of the race.
+10104-8{_}288{_}By the clever management of her Tacks she succeeded in completely Nailing the _Cambria_.
+10104-8{_}289{_}On the home-stretch, however, the latter began "eating up" on her to such an alarming degree, that it was feared the provisions of the Dauntless would not hold out.
+10104-8{_}290{_}By putting the crew on half-rations of champagne and sponge-cake this awful calamity was averted.
+10104-8{_}291{_}Excited by the presence of danger, your reporter forgot his habitual caution, and giving his Oar-ist a hearing, made all sail for the mark-boat.
+10104-8{_}292{_}The tow-line was passed from the bows aft, and there attached to the boat-hook, held by your representative.
+10104-8{_}293{_}Upon this impromptu clothes-line was crowded all the canvas, velvet, linen, and other dry-goods appertaining to the gallant captain and his self-sacrificing crew.
+10104-8{_}294{_}The latter gentleman might have been seen under this gay cloud of drapery working fitfully but energetically to and fro.
+10104-8{_}295{_}But 't was all in vain!
+10104-8{_}296{_}The _Dauntless_ passed the mark-boat, and the race was won.
+10104-8{_}297{_}Won?
+10104-8{_}298{_}But by whom?
+10104-8{_}299{_}The daily papers, with their usual inaccuracy, have made it appear that the _Dauntless_ was the winner, but among thinking men there is but one opinion in regard to the matter, an opinion fully explained and corroborated in the following, published by Mr. ASHBURY, immediately on the _Punchinelletto_ passing the mark-boat:  _Card_.
+10104-8{_}300{_}I take this opportunity of saying that whatever misunderstanding may have arisen in the early part of this race as to the position of the _Punchinelletto_, it is now but just to admit that she has shown herself worthy, both in point of speed and management, to take rank among the first-class yachts of the fleet, and I hereby challenge, &c., &c.  (Signed) ASHBURY.
+10104-8{_}301{_}This was further supplemented by a  _Card_ from Mr. BENNETT.
+10104-8{_}302{_}In token of my concurrence in the brilliant success of the _Punchinelletto_, and my personal esteem for her commander, I hereby beg to place at his disposal my yacht _Dauntless_, together with all her stores, ordnance, by-laws, and small arms.
+10104-8{_}303{_}(Signed) BENNETT.
+10104-8{_}304{_}In reply to both of which your reporter circulated the following:  _Reply_.
+10104-8{_}305{_}It is my express desire that no public mention shall be made of the part by which the _Dauntless_ was permitted apparently to win the race.
+10104-8{_}306{_}It is the duty of him who might have been victor to display a magnanimous spirit to those who in that case would have been the vanquished.
+10104-8{_}307{_}I must, however, regret that circumstances of a peculiar nature prevent my availing myself of Mr. BENNETT's kind offer.
+10104-8{_}308{_}Though this will not stand in the way of my accepting with pleasure--nay, even with alacrity--the $250 silver cup appointed for the winner of to-day's race, as the just meed of one who, though of a naturally retiring disposition, is forced on the present occasion to acknowledge himself _facile princeps_.
+10104-8{_}309{_}(Signed) Sporting Spec, _vice_ PUNCHINELLO.
+10104-8{_}310{_}After waiting for Mr. BENNETT'S gig, or water-buggy, to row up and award the prize, your special nodded majestically to the Oar-acular, who thereupon steamed slowly up the bay again, arriving at the Battery in the rosy dawn.
+10104-8{_}311{_}*       *       *       *       *  PRUSSIA'S POSITION PHILOSOPHICALLY PUT.
+10104-8{_}312{_}German metaphysicians have settled so completely to the satisfaction of their countrymen that "being" and "not being" are identical, that this may serve to explain how, while holding possession of her share in the partition of Poland, Prussia professes to be virtuously indignant at France for retaining Alsace and Lorraine.
+10104-8{_}313{_}*       *       *       *       *  OUT OF THE PAN INTO THE FIRE.
+10104-8{_}314{_}What with BISMARCK'S pangerrmanism, the CZAR'S panslavism, NAPOLEON'S panlatinism, the spread of pantheism, the threatened metamorphosis of pantalettes into pantaloons, ANDREWS' pantarchy, and Fox's pantomime, the old régime seems going precipitately to pot.
+10104-8{_}315{_}*       *       *       *       *  A JUDICIOUS JEW.
+10104-8{_}316{_}Such was the one who wished to contract for the sweepings of Steinway Hall when he heard that NILSSON showered throughout the room her precious tones.
+10104-8{_}317{_}*       *       *       *       *  EXIT "SUN."
+10104-8{_}318{_}The newsboys in the streets no longer cry _The Sun_, with stentorian voices, but in gentle whispers, fearing to disturb the repose of that waning luminary.
+10104-8{_}319{_}*       *       *       *       *  TAPPING THE TILL.
+10104-8{_}320{_}Is there any connection between the quite common offence in New York of "tapping the till," and the nomination of a Mr. TAPPAN for Comptroller by the JOHN REAL Democracy?
+10104-8{_}321{_}*       *       *       *       *  THE PLAYS AND SHOWS  Pretty _Fräulein_ Margarat asks me to go to church with her.
+10104-8{_}322{_}She is not a New Yorker--or, as Webster would probably say,--a New Yorkeress.
+10104-8{_}323{_}She is rural in her ways and thoughts, a daisy of the fields.
+10104-8{_}324{_}Never having seen the interior of a city church, she asks me to go with her to any Protestant church that I may select.
+10104-8{_}325{_}So we go to the shrine of St. APOLLOS, which, I am told, is regarded as one of the most fashionable houses in the city.
+10104-8{_}326{_}It is a matinee service that we elect to attend.
+10104-8{_}327{_}A long procession of carriages is drawn up beside the building as we enter, and I recognize in the coachmen the familiar faces that wait outside the ACADEMY on opera nights.
+10104-8{_}328{_}The organ overture is already begun, and the audience is rapidly assembling.
+10104-8{_}329{_}We enter the parquette--I should say, the body of the church--and, standing in picturesque attitudes against the wall, wait for the coming of the usher.
+10104-8{_}330{_}We continue to wait.
+10104-8{_}331{_}Evidently the usher, in common with his kind, despises those who are not holders of reserved seats.
+10104-8{_}332{_}He welcomes with a smile the owners of private boxes--pews, I mean--and shows them politely up the aisle; but for us, who have not even an order from the mana--, sexton, I should say--he has neither smile nor glance.
+10104-8{_}333{_}By and by I pluck up courage and pluck him by the sleeve.
+10104-8{_}334{_}So, with a severe air of suppressed indignation, he shows us to a couple of ineligible seats, where the draft disarranges MARGARET'S hair, and the charity children drop books of the op--, that is to say, prayer-books, and molasses candy in unpleasant proximity to our helpless feet.
+10104-8{_}335{_}Neither MARGARET nor I possess a libret--, a prayer-book I mean.
+10104-8{_}336{_}However, that is a matter of no consequence, as we are both familiar with the dialog--, or rather the service.
+10104-8{_}337{_}The organist having ended his overture, the service begins.
+10104-8{_}338{_}Not even the wretched method of the tenor--I refer of course to the clerk--and his miserably affected execution of the recitative passages, can mar the beauty of the words.
+10104-8{_}339{_}The audience evidently feels their solemn import.
+10104-8{_}340{_}The young lady and the young male person who sit immediately in front of me clasp surreptitious hands as they bow their heads to repeat the confession that they are miserable sinners, and she whispers by no means softly to him of the "frightful bonnets the SMITH girls have on."
+10104-8{_}341{_}Presently the recitative of the clerk is succeeded by a contest in chanting--probably for the championship--by two rival choruses of shrill-voiced boys, who hurl alternate verses of the Psalms at one another with the fiercest intensity.
+10104-8{_}342{_}MARGARET is betrayed into an inadvertent competition with them, by reading a verse aloud, as had been her custom elsewhere, but the charity children smile aloud at her, and the usher frowns, so she sits down again with reddened cheeks.
+10104-8{_}343{_}I say to her, "that this choir contest is an excellent feature, one that is sure to draw."
+10104-8{_}344{_}But she answers nothing, and busily reads the libret--, the psalm, to herself.
+10104-8{_}345{_}Then comes the litany.
+10104-8{_}346{_}And here again MARGARET betrays her rural habits, by repeating audibly the first response, thus encroaching on the province of the choir-boys, who have now united, and form a fine and powerful chorus, less picturesque perhaps than the Druidical chorus in the first act of _Norma_, but quite as religious in its effect.
+10104-8{_}347{_}After which comes a hymn, executed by a soprano, who is really a deserving little girl, and whom I little expected to find doing the leading business in a first-class church, when I first saw her in the chorus at the Stadt Theatre, seven years ago.
+10104-8{_}348{_}MARGARET, warned by experience, does not venture to interfere with the singing, to the evident disappointment of the usher, who is watching her with the intention, plainly expressed on his face, of peremptorily putting her out, if she sings a single note.
+10104-8{_}349{_}Then comes a recitation of the commandments by the leading male perfor--, that is to say, by the rector, supported by the double chorus, and the orches--, the organ, I should say; and then we have the sermon.
+10104-8{_}350{_}I like the sermon.
+10104-8{_}351{_}It is delivered with admirable effect, and is, on the whole, more soothing than the average syrup of the apocryphal Mrs. WINSLOW.
+10104-8{_}352{_}The rector compliments us all on our many virtues, and contrasts us with the supposititious sinners who are presumed to abound somewhere in the vicinity of rival houses.
+10104-8{_}353{_}The middle-aged men evidently feel that he will make no mistake worth noticing, and so go to sleep as calmly as though they were at BOOTH'S THEATRE.
+10104-8{_}354{_}The middle-aged ladies contemplate the dresses of their neighbors, and the young people flirt with cautious glances.
+10104-8{_}355{_}When the curtain--when it is over, I mean--we go cheerfully away, like an audience that has slept through a Shakesperean play, and feels that it has done its duty.
+10104-8{_}356{_}And when we are once more in the street, I say to MARGARET: "This has been a delightful performance.
+10104-8{_}357{_}There has been nothing said to make one feel disagreeably discontented with one's self, nor has there been any impolite suggestions as to the undesirable future of anybody, except the low wretches who, of course, don't go to any church.
+10104-8{_}358{_}How much better this is than the solemn service, and, the unpleasantly personal sermons that we used to hear at your little rural church."
+10104-8{_}359{_}MARGARET.--"I do not like it.
+10104-8{_}360{_}Why should boys be hired to pray, and women to sing for me?
+10104-8{_}361{_}Why should I be told by the preacher that I am perfectly good, when I have just confessed that I am a 'miserable sinner?'
+10104-8{_}362{_}Why do you call this service religious, and Rip Van Winkle theatrical?
+10104-8{_}363{_}Believe me, St. APOLLOS deserves a place among your 'Plays and Shows' quite as much as does BOOTH'S or WALLACK'S."'
+10104-8{_}364{_}And I to her--"St. APOLLOS shall take its proper place in PUNCHINELLO'S show.
+10104-8{_}365{_}But permit me to say that you are very unreasonable.
+10104-8{_}366{_}What do you go to church for?
+10104-8{_}367{_}To be made uncomfortable and dissatisfied with yourself?"
+10104-8{_}368{_}MARGARET,--"To be made better."
+10104-8{_}369{_}MATADOR.
+10104-8{_}370{_}*       *       *       *       *  A PASTOR ON POLITICS.
+10104-8{_}371{_}The Reverend Mr. CREAMCHEESE congratulated the hearers of his last sermon upon the encouraging religious aspects of the time, remarking how pleasant it was in this fall season to find all the political parties in the country so interested in making their election sure.
+10104-8{_}372{_}We maybe mistaken, but we think the Rev.
+10104-8{_}373{_}gentleman's zeal outruns his discretion.
+10104-8{_}374{_}The preying of politicians is of a kind which we trust the clergy will never seek to imitate; but now that Congress has undertaken to supervise this matter of election, there no knowing what it may become in the future.
+10104-8{_}375{_}*       *       *       *       *  AN EVASIVE REPLY.
+10104-8{_}376{_}A Correspondent suggests that in No.
+10104-8{_}377{_}30 our artist has given Mr. C. A. DANA, in representing him as refusing a bribe with virtuous indignation, a two-cent-imental an expression.
+10104-8{_}378{_}In reply, Mr. PUNCHINELLO--although his own opinion is that the mistake has been in making it rather dollar-ous than cent-imental--would refer his correspondent to the artist.
+10104-8{_}379{_}*       *       *       *       *  A QUERY FOR SOL-UTION.
+10104-8{_}380{_}Is it a fact that, because _Sol_ is the Latin for _Sun_, being on the _Sun_ is therefore equivalent to being a SOLON?
+10104-8{_}381{_}*       *       *       *       *  TO THE DIPLOMATISTS OF THE HUB.
+10104-8{_}382{_}Whether the Boston dip is a penny one or not, it is nevertheless scandalous.
+10104-8{_}383{_}*       *       *       *       *  POEMS OF THE CRADLE.
+10104-8{_}384{_}CANTO IX.
+10104-8{_}385{_}Rub-a-dub, dub,     Three men in a tub,     The Butcher, the Baker, the Candlestick-Maker,     They all jumped into a rotten potato.
+10104-8{_}386{_}Behold the gentle Poet, now in the midst of the tumult of war.
+10104-8{_}387{_}How calmly he surveys from his elevated position the situation of the hosts and the signs of the times.
+10104-8{_}388{_}He hears the drums beat and the bugle call to arms, and his soul is filled with martial ardor.
+10104-8{_}389{_}Unable to wield the sword, he seizes his poetical pen, resolved to become the Chronicler and Historian of the war, and thus add his little mite for the improvement of future generations.
+10104-8{_}390{_}He decided that it must be characteristic, and in keeping in style with his other productions: short, pithy, and comprehensive; simple and amusing enough for a child; deep and sarcastic enough for the most astute mind.
+10104-8{_}391{_}He begins by describing in graphic style the sounds that first struck on his ear and fired his manly soul--the beat of the rolling drum.
+10104-8{_}392{_}Then comes a description of the terrible conflict that occurred in his native village, between the three most prominent men of the day.
+10104-8{_}393{_}This, not to be too verbose, he simply likens to being "in a tub."
+10104-8{_}394{_}BILLY the butcher, stout, red-faced, and pugilistic, with his particular friend MARC the baker, having become jealous of the beautiful shop and immense patronage of JOHNNY the candlestick-maker, resolve to put an end to it in some way, even if they have to fight him.
+10104-8{_}395{_}That showy candlestick shop, with its gay trimmings and beautiful ornaments, open every day before their face and eyes, and attracting crowds of idlers who stand gazing in at the windows, or lounging around the doors, is a little too much for the Butcher, who in vain displays before his door the fresh-cut meat and the tempting sausage.
+10104-8{_}396{_}True, he has plenty of customers; but they come because they need what he has to sell; they come of necessity, not for pleasure.
+10104-8{_}397{_}The Baker experiences the same vexation, as he sees his loaves passed by and mockingly made light of.
+10104-8{_}398{_}They bear awhile in silent envy the annoying sight of the rollicking crowd and the joyful JOHNNY with his troop of apprentices, who have all they can possibly do to attend to their numerous customers, and who receive their broad pieces of money with a careless ease that makes the fingers of the lookers-on tingle.
+10104-8{_}399{_}At last human nature can stand it no longer.
+10104-8{_}400{_}The two malicious storekeepers put their heads together, and resolve to draw their prosperous enemy into a fight that will ruin him and enable them to smash his windows.
+10104-8{_}401{_}Accordingly, they throw stones and dirt at him, but he, intently interested in his store, notices them not.
+10104-8{_}402{_}His noisy apprentices and loungers around see and point out the insult, and urge him to avenge himself.
+10104-8{_}403{_}But no; he has no time to pay attention to petty annoyances; he is too busy getting up a huge candlestick for the Fair, and so, to smooth matters over, he sends his two enemies an invitation to view the magnificent candlestick that is to throw so much light on the world.
+10104-8{_}404{_}"He is either too stupid or too sharp for us," sighs the Baker; "we can't do anything in that way.
+10104-8{_}405{_}Suppose we set up an opposition store, with one of your sons for Proprietor, and see what effect that will have."
+10104-8{_}406{_}--"Good, it shall be done," says the Butcher.
+10104-8{_}407{_}Soon an empty store adjoining is hired, and being put in order, when the hitherto blind Proprietor wakes up to the fact that there is a coalition against him, and that he had better be stirring or he will lose his trade.
+10104-8{_}408{_}Accordingly he writes a remonstrance to his friend the Butcher, telling him "he wishes no rival in the trade.
+10104-8{_}409{_}He has always had a monopoly, and he intends to keep it."
+10104-8{_}410{_}His apprentices back him up in his assertions, and declare they are ready to die for him and their candlesticks.
+10104-8{_}411{_}The advent of the messenger is noticed with inward rejoicing by the twain, but, when he presents his remonstrance, he is immediately kicked out of doors.
+10104-8{_}412{_}That is the last feather, the one straw too much, and the excitable little Candlestick-maker at once challenges his opponents to deadly combat.
+10104-8{_}413{_}The Poet, with a sublime contempt for the mysterious and wonderful intricacies of war, significantly calls this rush to arms a "jumping into a rotten potato."
+10104-8{_}414{_}Alas!
+10104-8{_}415{_}it proves a rotten potato to the poor Candlestick-maker.
+10104-8{_}416{_}Out sallies the Butcher with his cleaver, and his boys with their knives, and by his side the Baker with his rolling-pin, followed by his crowd of friends armed with toasting-forks and cutting-irons, presenting a formidable front to the astonished JOHNNY and his handful of apprentices.
+10104-8{_}417{_}But there is no back-door to creep out through now; so at it they go, Valor against Might, but Might is the stronger, and Valor gets knocked on the head and has to fall back.
+10104-8{_}418{_}This exasperates the heroic defenders of the shop, who exclaim, "If you can't fight any better than that, you had better leave," and immediately begin an attack in his rear.
+10104-8{_}419{_}The poor man, astonished at this unlooked-for defection from his ranks, turns his eyes imploringly around for aid, but sees none that can avail him.
+10104-8{_}420{_}He hears on all sides the shout, "Clear out, clear out.
+10104-8{_}421{_}If you can't win the battle for yourself, we will win it for ourselves, and keep the spoils."
+10104-8{_}422{_}Sadly he views the situation; he feels the kicks of the Candlestick-makers in the rear, and he knows there is no hope for him.
+10104-8{_}423{_}But his beloved store!
+10104-8{_}424{_}he will save that if he can; he will offer himself as a sacrifice.
+10104-8{_}425{_}With compressed lips he walks to the Butcher, and says, "You have got the best of me; I'll give in.
+10104-8{_}426{_}Stop the fighting."
+10104-8{_}427{_}BILLY, overjoyed at the victory, embraces him, and is about to give the order for retreat, when the wily Baker whispers, "The shop is there yet, and it is that that troubles us as much as the man.
+10104-8{_}428{_}Let us keep at it till we demolish it, and thus put a stop to all future controversy.
+10104-8{_}429{_}After killing the old fox, don't leave a nest of young ones to grow up and bite us.
+10104-8{_}430{_}What is their loss is our gain, you know.
+10104-8{_}431{_}Do you understand?"
+10104-8{_}432{_}"Yah, Yah!"
+10104-8{_}433{_}*       *       *       *       *  Latest from Below.
+10104-8{_}434{_}An unsophisticated young imp, who had not long been in Hades, was cowering over a small fire in a distant corner, endeavoring to keep from freezing, when his Impious Majesty himself heard the youth soliloquizing: "When will LIE BIG, the editor of the _Sun_, keep me company?"
+10104-8{_}435{_}"You blockhead!"
+10104-8{_}436{_}exclaimed his Majesty, "LIE BIG, the editor of the _Sun_, is not coming back for some time; he is of more service to me on earth, making converts for my jurisdiction, than the public are probably aware."
+10104-8{_}437{_}*       *       *       *       *  [Illustration: ENGAGEMENT IN HIGH LIFE.
+10104-8{_}438{_}Perhaps it is not generally known that Miss SUSAN B. ANTHONY desires to leave one field only that she may enter another; in other words, that the lady contemplates marriage.
+10104-8{_}439{_}Our authority is uncertain whether the prospective groom is one of our border aborigines or an ex-Fenian leader of noted gallantry.
+10104-8{_}440{_}We have, however, ventured upon the following sketch illustrative, in advance, of the reception, and which, in the absence of more explicit information, we may as well call--  ANTHONY AND CLEOPATRICK.]
+10104-8{_}441{_}*       *       *       *       *  [Illustration: A CARPET GENERAL.
+10104-8{_}442{_}_Brigadier-General Woodford_.
+10104-8{_}443{_}"DEAR ME, WHAT A DISAGREEABLE SMELL!
+10104-8{_}444{_}WONDER WHAT IT CAN BE?"
+10104-8{_}445{_}_Lady_.
+10104-8{_}446{_}"OH!
+10104-8{_}447{_}THAT'S GUNPOWDER, GENERAL."
+10104-8{_}448{_}_Brigadier-General Woodford_.
+10104-8{_}449{_}"GUNPOWDER?--AW!
+10104-8{_}450{_}IS IT?
+10104-8{_}451{_}NEVER SMELT ANYTHING OF THE KIND BEFAW."]
+10104-8{_}452{_}*       *       *       *       *  HIGH-HANDED OUTRAGE.
+10104-8{_}453{_}EDITOR OF PUNCHINELLO: Sir:--I am the young lady, travelling in New Jersey (perhaps they will next make a crime of _that_!
+10104-8{_}454{_}), and mentioned in a recent paragraph as having been asked by a person (called a _man_) "if _this_ was ELIZABETH?"
+10104-8{_}455{_}I insist, Sir, that I was right in resenting, as I did, the impudent familiarity of this person (called a _man_), who, after sitting for an hour or two in perfect silence (having first intruded himself into the seat beside me without making any kind of apology), abruptly turns to me and says, "Is _this_ ELIZABETH?"
+10104-8{_}456{_}I insist, Sir, that I was right in asking the ruffian what he meant.
+10104-8{_}457{_}Consider the abruptness, Sir, of this question--this selfish question, as it turned out, after a grim and gruff silence of an hour and a quarter.
+10104-8{_}458{_}Could not this unamiable person (called a _man_), have prepared me for it by a few moments' affable conversation?
+10104-8{_}459{_}Why should he dare intrude his "Is this ELIZABETH?"
+10104-8{_}460{_}with such brutal abruptness?
+10104-8{_}461{_}Not a sudden proposal from one of my numerous suitors could have startled me more.
+10104-8{_}462{_}Look at the question, Sir, as pointing at my supposed Christian name (I _have_ one, but it is _not_ ELIZABETH, nor yet ELIZA); can you imagine anything more odiously familiar?
+10104-8{_}463{_}"Well known for his mild and gentle disposition" this "gentleman" of Brooklyn may be; but there was no mildness, no gentleness this time, I assure you!
+10104-8{_}464{_}The language alone proves _that_!
+10104-8{_}465{_}The rudeness was all the more shocking and discomposing, from the fact that I was at that moment contemplating the elegant features of a gentleman at the other end of the car, who seemed not altogether indifferent to my appearance (which he would have been, perhaps, had I seemed of "uncertain age," as the low fellow observes who wrote this paragraph), and there was every appearance of a growing interest in two susceptible hearts, when this cold-blooded (but "mild and gentle") person launched his brutal interrogatory, so selfish and unfeeling, with such violent abruptness.
+10104-8{_}466{_}Look, if you will, Sir, at the question as referring purely to the city which we were approaching.
+10104-8{_}467{_}How did I know that my new found, but already dear friend was not about to alight (as, indeed, he seemed to be), and leave me to the disgusting society of this "mild and gentle" barbarian sitting beside me in such a state of stolid indifference, and thinking only of a vulgar town, and his still more vulgar affairs in that town!
+10104-8{_}468{_}Consider again, Sir, the audacity of this person (called a _man_), in repeating his odious question after the rebuke I had administered!
+10104-8{_}469{_}Yes, he actually repeated it!
+10104-8{_}470{_}as though I were a long-lost acquaintance, of whose identity he felt more than doubtful; I simply said to him (though the slanderous report says I _screamed_ it), "You may think you are a gentleman, Sir" (and here I claim is evinced a disposition to be fair even to an enemy)--"you may _think_ you are a gentleman, Sir, to address a lady so; but I do not wish to continue any further talk with you."
+10104-8{_}471{_}You may fancy the state of my feelings, Mr. PUNCHINELLO, at being obliged to make this little speech, and my friend at the other end of the car looking on, with wonder in every one of his expressive features, and the conductor at that instant coming in and shouting, "ELIZABETH!"
+10104-8{_}472{_}as though I were called for and must go that very instant.
+10104-8{_}473{_}Indeed, I felt very much like doing so--but not, I assure you, on perceiving that the "mild and gentle" ogre I have been speaking of was already going out.
+10104-8{_}474{_}No; I was thankful I was going further, though the behavior of the remaining passengers was not calculated to inspire me with a very quieting sense of ease.
+10104-8{_}475{_}You will, I am sure, excuse the feelings of a lady who has been insulted by a ruffianly person (called a _man_), and affronted by a car-full of insolent and vulgar mob, called the American Public.
+10104-8{_}476{_}I hope the gentleman at the other end of the car will take for granted that _he_ was not one of this brutal mob.
+10104-8{_}477{_}Yours, with much feeling,  MEDORA EUPHEMIA SLAPSADDLE.
+10104-8{_}478{_}*       *       *       *       *  THE LAST MOTTO OF THE JOHN REAL DEMOCRACY.--O'BRIEN, LED--WITH a hook.
+10104-8{_}479{_}*       *       *       *       *  [Illustration: THE POLITICAL CAT'S-PAW.
+10104-8{_}480{_}JOCKO WOODFORD MAKES TOMCAT LEDWITH USEFUL FOR PULLING THE ROASTED CHESTNUTS OFF THE FIRE.]
+10104-8{_}481{_}*       *       *       *       *  HIRAM GREEN INTERVIEWS HORACE GREELEY.
+10104-8{_}482{_}Some unpublished Facts--H.G.
+10104-8{_}483{_}of the Tribune reveals to H.G.
+10104-8{_}484{_}of Punchinello what he Knows of Farming.
+10104-8{_}485{_}"H. G. OF THE _Tribune_, I believe," said I, reaching out and taking his lilly-white hand, one Saturday mornin at Chattaqua.
+10104-8{_}486{_}"Jess so," said he, politely, "and this is H.G.
+10104-8{_}487{_}of PUNCHINELLO.
+10104-8{_}488{_}We're a helthy team at writin' comic essays--eh!
+10104-8{_}489{_}Squire?"
+10104-8{_}490{_}And the hills, dales, and barn-yards resounded with our innercent prattle.
+10104-8{_}491{_}"My bizziness, Mister GREELEY, is to see if you know as much about agricoltural economy as you do about politikle economy.
+10104-8{_}492{_}As I useter say to culprits, who was bein tried before me when I was Gustise of the Peece, you needent say nothin which will criminate yourself."
+10104-8{_}493{_}"Well, my lerned friend," said he, hily pleased at my happy way of puttin' things, "foller me, and I'le show you what farmin on scientific prenciples can do for a man."
+10104-8{_}494{_}Arm in arm we sailed forth, as gay and festiv as a pair of turkle doves--HORRIS with his panterloons stuffed in his bute legs, and the undersined with his specturcals adjusted on his nose.
+10104-8{_}495{_}"Do you see that piece of land over yender?"
+10104-8{_}496{_}said he, pintin to a strip of 10 akers.
+10104-8{_}497{_}"That was a worthless swamp two yeer ago.
+10104-8{_}498{_}For $15,000.00 I made it what it is, and to-day, I'me proud to say it, my farm is worth $1,750.00 more, with that 10 akers under cultivation, than it was before I drained it."
+10104-8{_}499{_}"HORRIS," said I, wishin to humor him, "as an economist, this shows your brains is in the rite spot."
+10104-8{_}500{_}He then took me in his garden, and showed me what his success in the sass bizziness had been.
+10104-8{_}501{_}"Do you see that 10 aker bed?"
+10104-8{_}502{_}said he.
+10104-8{_}503{_}"Well!
+10104-8{_}504{_}last fall I saw a lot of pie plant growing in a wild state.
+10104-8{_}505{_}I said nothin to nobody, but when it got ripe I saved the seed.
+10104-8{_}506{_}This spring I planted that patch of ground with it, anticipatin the biggest crop of pie timber in the State.
+10104-8{_}507{_}And, sir, jest as sartin as this white hat was once new," said he, pintin to his old plade out shappo, "when that stuff grode to maturity, I sent a cart lode down to the market, and it was all sent back with a note, statin that burdocks wasn't worth a cuss for pies.
+10104-8{_}508{_}But," said he, takin me by the button-hole, "no man can fool me agin on pie timber."
+10104-8{_}509{_}"As a farmer, HORRIS," said I, so as to keep the rite side of him, "your ekal hasent been hatched."
+10104-8{_}510{_}He then shode me the remains of a young orchird; said he: "The borers got into the roots of them trees, which trees cost me, within the last two yeer, about $5,000.00.
+10104-8{_}511{_}I tried all sorts of ways to get rid of them.
+10104-8{_}512{_}I even set my hired man to readin artikles on 'What I know of farmin' to 'em.
+10104-8{_}513{_}This put the grubs to sleep 'long at first, but they finally stopt their ears up with clay, and wouldent listen.
+10104-8{_}514{_}So that dodge was plade out.
+10104-8{_}515{_}I then bought a lot of ile of vitril and poured it about the roots of them trees, and I tell you, friend GREEN," said he, as tickled as a boy with his first pair of new boots, "it would have made you laff to see them borers moosey."
+10104-8{_}516{_}"But," said I, "it killed them trees deader'n a smelt."
+10104-8{_}517{_}"Which don't amount to shucks, so long as the cause of sientific farmin is benifitted, by showin bugs that the superior critter man is too many meesles for the animile kingdom," was his reply.
+10104-8{_}518{_}"Them trees over there," said this distingished farmer, "was a present to me.
+10104-8{_}519{_}They come marked _pine_ trees.
+10104-8{_}520{_}It is over three yeers since they was sot out, and not a solitary _pine apple_ have they yielded yet.
+10104-8{_}521{_}I reckon it takes time for them to bear fruit," said he in his simplisity.
+10104-8{_}522{_}"Not only time," said I, somewhat surprised, "but if you live through all etarnity, you won't see a darned apple on them trees."
+10104-8{_}523{_}"But, Squire GREEN," said he, with a downcast air, "H. WARD BEECHER says pine apples grows on pine trees, and as long as brother B. spends all his salary in edicatin hisself for a farmer, he orter know."
+10104-8{_}524{_}"Brother fiddlesticks," said I, a little riled at hearin him cote H.W.B.
+10104-8{_}525{_}as a farmist.
+10104-8{_}526{_}"HANK is a 4 hoss team at raisin food for the sowl; but when you come to depend on sich chaps to raise grub and other vegetables for the stomack, excoose me for sayin it, it haint H. WARD'S fort, no more'n it is mine to outsing NILLSON for the beer."
+10104-8{_}527{_}We entered his poultry yard.
+10104-8{_}528{_}"You're old peaches on raisin fouls, I've been told," said I.
+10104-8{_}529{_}"Ker-r-rect," said he, "chickens is my best holt.
+10104-8{_}530{_}Last spring I had a favorite speckled hen--she was the specklest biped which ever wore feathers.
+10104-8{_}531{_}One day, I sot her on 300 eggs.
+10104-8{_}532{_}That fowl done her level best and spread evry feather, but she hadent enuff elasticity to cover so much territory at one settin."
+10104-8{_}533{_}"Well, sir," said he, straitenin his form, up to its full hite, "Sients come to my ade.
+10104-8{_}534{_}I got a feather bed, and with a glue pot bilt out that hen's spread."
+10104-8{_}535{_}"What," I says, "the hen dident hatch all them eggs?"
+10104-8{_}536{_}"Not exsactly," was his reply; "she would have hatched every egg, but--but--but--," and he broke down and bust into teers.
+10104-8{_}537{_}"But--why?"
+10104-8{_}538{_}I asked, soothin his perturbed spirrit.
+10104-8{_}539{_}"She had a great deal of pride that hen did.
+10104-8{_}540{_}She was terribly stuck up.
+10104-8{_}541{_}Just as she got settled down for a good square old-fashioned set, she was so proud of her position, that somehow or other, it struck _in_ and killed her."
+10104-8{_}542{_}We visited his barn, which was chock full of farmin tools.
+10104-8{_}543{_}Said he:  "It is allers a mistery to peeple how I make farmin pay, but, Squire, between you and I, heer's where I reckon I've got 'em.
+10104-8{_}544{_}Where I loses in other branches I make up heer.
+10104-8{_}545{_}Any and everybody which invents a farmin masheen sends me one, and I gives them a puff.
+10104-8{_}546{_}Every 30 days I gets up a bee, to which I invites the nabors.
+10104-8{_}547{_}With hammers we knock them masheens to pieces, and, sir!"
+10104-8{_}548{_}said he, blowin his bugle horn of liberty with his cote sleeve, "as the Roman mother once said, 'these is my tressoors,' for, sure's your born, the sales of old iron more'n pays runnin my farm, losses and all."
+10104-8{_}549{_}The shades of nite was a fallin, so thankin H.G.
+10104-8{_}550{_}for posten me up on his farmin nolidge, I left him, with my mind fully made up, that, with the Filosifer, the _pen_ was a heep site mitier in his hand than a farm is, in which opinion any well-bred, onprejodiced farmer will fall into.
+10104-8{_}551{_}Ewers farminly,  HIRAM GREEN, ESQ.,  Lait Gustise of the Peece.
+10104-8{_}552{_}*       *       *       *       *  [Illustration: FASHIONABLE INTELLIGENCE.
+10104-8{_}553{_}"AT A PRIVATE THEATRE IN THIS CITY MR. J--N SM--TH RECENTLY MADE HIS _début_ AS _Rolla_, AND CREATED A MARKED SENSATION."]
+10104-8{_}554{_}*       *       *       *       *  THE NEWMAN FUND.
+10104-8{_}555{_}About seventy of the artists connected with the illustrated press of this city and Boston have contributed drawings for the benefit of the family of the late WILLIAM NEWMAN, formerly one of the designers of the London _Punch_, and who for the last ten years held a prominent position among the graphic artists of this city.
+10104-8{_}556{_}To this move on the part of kindred spirits, PUNCHINELLO cries "Bravo!"
+10104-8{_}557{_}The kindly worker who has passed away from our midst would have been foremost himself in moving thus when death or sickness had fallen upon a brother of his guild.
+10104-8{_}558{_}To aid his family, then, in the manner proposed, is the best tribute than can be paid to his memory.
+10104-8{_}559{_}Due notice will be given of the arrangements for exhibiting and disposing of the contributed pictures, to possess some of which, PUNCHINELLO hopes, will be a matter of emulation with his New York readers.
+10104-8{_}560{_}*       *       *       *       *  [Illustration: OUR BAD CHILDREN ON THE BORDER.
+10104-8{_}561{_}_Missionary_.
+10104-8{_}562{_}"AND IT CAME TO PASS THAT CAIN WAS WROTH WITH ABEL, HIS BROTHER, AND ROSE UP AGAINST HIM AND SLEW HIM."
+10104-8{_}563{_}_Comanche Warrior_.
+10104-8{_}564{_}"HOW!
+10104-8{_}565{_}HOW!--GOOD!--CAIN RED MAN, EH?--ABEL WHITE MAN?--HOW!
+10104-8{_}566{_}HOW!
+10104-8{_}567{_}CAIN GET ABEL'S SCALP--GOOD!"]
+10104-8{_}568{_}*       *       *       *       *  VENUS AND ADONIS  An Eclogue of the Period.
+10104-8{_}569{_}(Respectfully dedicated to the ladies of the Free-love Pantarchy.)
+10104-8{_}570{_}_Venus._      Adonis, sweet, hide not thy blushing face:       What terrors masculine thy soul abash?
+10104-8{_}571{_}And why with boyish pout dost mar the grace       Of maiden lip and innocent moustache?
+10104-8{_}572{_}_Adonis._      O you dry up!
+10104-8{_}573{_}I tell you.
+10104-8{_}574{_}I'll be cussed       If I'm a-going to stand such pesky bother     From you strong-minded gals.
+10104-8{_}575{_}And, what's the wust,       I darn't touch ye.--G'long, 'r I'll tell your mother!
+10104-8{_}576{_}_Venus._      And feel'st thou then no solemn intuition--       No subtle psychological vibration--     Or instant, full, spontaneous recognition       Of my pantarchic self-annunciation?
+10104-8{_}577{_}For love is free, and mutual reaction       Of kindred organisms airily     Subsists and ceases, as 't gives satisfaction:       We change with changes of affinity.
+10104-8{_}578{_}_Adonis._      Now just look here, you don't sponge no love free       At this here shop: it's stealing,--that's the sin it is!
+10104-8{_}579{_}What's more, too, if you want to hang 'round _me_       You'd better just play light on them affinities!
+10104-8{_}580{_}*       *       *       *       *  A LETTER FROM THE "HUB."
+10104-8{_}581{_}THE BOSS TOWN OF NEW ENGLAND,             October 1870 times.
+10104-8{_}582{_}DEAR PUNCHINELLO: Hailing (not to say reigning) from this august (and all the year round) place, I naturally feel privileged to pour my troubles into your ears, with doubts as to their length.
+10104-8{_}583{_}[Length of what, troubles or ears?--ED.]
+10104-8{_}584{_}The fact is, no man was ever treated so badly or so seldom as I have been.
+10104-8{_}585{_}Others have "waked up" and found themselves famous.
+10104-8{_}586{_}I've practised waking for years, and never found myself in fame, or anything else, excepting energetic "tailors' bills," and an occasional square meal.
+10104-8{_}587{_}Thirsting for renown, I have coined my wealth of brains into one transcending effort, and amid much travail of genius, and travel of paw to pate, have produced the following  ORIGINAL LINES,  ---------------------------------------- ---------------------------------------- ---------------------------------------- ----------------------------------------  *      *       *       *       *       *  ---------------------------------------- ---------------------------------------- ---------------------------------------- ----------------------------------------  which I dedicate to the late Political Convention, as embodying the principles there adopted, with this difference, that, while their Resolutions have no point, my resolution enables me to make two points in every line.
+10104-8{_}588{_}While I'm not in the proverb business, I have a couple on hand that are getting mouldy, so I send 'em along.
+10104-8{_}589{_}"Once go to grass, and your enemies will soon make a hey-day over you."
+10104-8{_}590{_}"Get all you can, and can all you get."
+10104-8{_}591{_}But that reminds me of a Beautiful Tale:--  Deacon K---- lacked the confidence of the inhabitants of M----.
+10104-8{_}592{_}He was most sincerely detested for his hypocrisy and double-dealing, and so very unpopular, that a few wags conceived the idea of drawing up a paper requesting him to leave town.
+10104-8{_}593{_}Once endorsed by two or three respectable names, the joke took; the paper circulated like wildfire and soon contained every business name in the place.
+10104-8{_}594{_}A most horrible position to occupy in respect to one's neighbors.
+10104-8{_}595{_}But the Deacon was a genius in his way.
+10104-8{_}596{_}Getting possession of the document, he adroitly changed the heading, and behold!
+10104-8{_}597{_}the intended rebuke was transformed into a humble petition to the President that Deakon K---- be appointed Postmaster of M----.
+10104-8{_}598{_}In due time the appointment came, much to the consternation and chagrin of the villagers.
+10104-8{_}599{_}The position was held one season in spite of all opposition; but the Deacon did not prosper in the end, for after wandering about the streets of New York a miserable outcast, he naturally drifted on to the editorial staff of the _Sun_.
+10104-8{_}600{_}The End.
+10104-8{_}601{_}Trusting, my dear 'NELLO, you will give me a good setting-up, and cast my lines in pleasant places, I remain,  Yours in fun,  S. R. DEEN.
+10104-8{_}602{_}*       *       *       *       *  TIMELY.
+10104-8{_}603{_}They now put little watches on the outside of portemonnaies and cigar-cases.
+10104-8{_}604{_}There has been doubt expressed as to the value of these time-pieces; but if they go as certainly as the money and the cigars, they will do very well.
+10104-8{_}605{_}*       *       *       *       *  HEAVY.
+10104-8{_}606{_}There is now a strike among the blacksmiths, and as the men have already come down very heavily, it is supposed it will be successful.
+10104-8{_}607{_}*       *       *       *       *  [Illustration: ADVICE TO YOUNG LADIES.
+10104-8{_}608{_}WHEN YOU HAVE NEW DRESSES OR BONNETS TO SHOW, ALWAYS GO LATE TO CHURCH, SO THAT THERE MAY BE A FULL CONGREGATION TO PLAY OFF YOUR AIRS AND GRACES UPON.]
+10104-8{_}609{_}*       *       *       *       *  MR. PUNCHINELLO'S POLITICAL MANUAL.
+10104-8{_}610{_}I.
+10104-8{_}611{_}QUALIFICATIONS OF A VOTER.
+10104-8{_}612{_}Now and then Mr. PUNCHINELLO has noticed (with infinite scorn and contempt) all the stuff and nonsense published in the newspapers about registry and inspection, about citizenship and twenty-one years of age, and other games and devices of that soft sort.
+10104-8{_}613{_}The qualifications of a voter may be stated with severe and scientific accuracy, as follows:--  _Ubiquity._--By this is to be understood the power, not of _being_, but of _belonging_ in from six to twelve Wards at the same time.
+10104-8{_}614{_}Analogous to this is the capacity of being at once a subject of VICTORIA REGINA and a loyal citizen of the United States--a talent most exquisitely developed in the Hibernian nature.
+10104-8{_}615{_}_Receptivity_.--This may be divided into two classes, as follows:--  1.
+10104-8{_}616{_}The material power, which is that of receiving from any candidate any sum of money which, the said ass of a candidate may be willing to pay for a vote.
+10104-8{_}617{_}2.
+10104-8{_}618{_}The spiritual power, which is that of imbibing, at the expense of the aforesaid candidate, any number of fluid pounds of anything good to take, whether the same may be punches, cock-tails, smashes, slings, or plain drinks.
+10104-8{_}619{_}_Pugnacity_.--This is a quality by no means to be lightly spoken of, especially in a District represented by that eminent warrior, the Hon.
+10104-8{_}620{_}Mr. MORRISSEY.
+10104-8{_}621{_}Our fathers fought, bled, and died for liberty, and the least an independent citizen can do is to be willing to fight and bleed (and even he "kilt") in the same behalf.
+10104-8{_}622{_}There is a difference, however, between dying and being "kilt," which we need not point out to those noble champions of liberty who are also of the Celtic persuasion.
+10104-8{_}623{_}II.
+10104-8{_}624{_}QUALIFICATIONS OF AN EDITOR.
+10104-8{_}625{_}_Mendacity_.--This is a talent mainly developed in the manipulation of election returns.
+10104-8{_}626{_}But it may be exhibited in various other ways.
+10104-8{_}627{_}Here, for instance, is an obnoxious candidate who is a quiet, respectable, honest, church-going family man.
+10104-8{_}628{_}The height of mendacious talent is shown in representing this paragon of virtue to be a brawler, a blackguard, a swindler, an infidel, and a bad husband and father.
+10104-8{_}629{_}If he mildly denies that he is any such person, the proper course is to call him all the unpleasant names over again, adding, by way of clincher, that he is popularly supposed to have murdered his grandmother.
+10104-8{_}630{_}This will floor him.
+10104-8{_}631{_}_Verbosity_.--This is the power of writing two columns in answer to a three-line paragraph--of twisting, turning, transmogrifying, dissecting, kicking, cuffing, illustrating, turning inside out, and outside in again the aforesaid paragraph.
+10104-8{_}632{_}The real master of this art will show his skill by the great number of times in which he will manage to say "We" in the course of his lucubration.
+10104-8{_}633{_}III.
+10104-8{_}634{_}QUALIFICATIONS OF A CANDIDATE.
+10104-8{_}635{_}_Density_.--This indicates the utter incapacity of a candidate to understand any public question.
+10104-8{_}636{_}It is a very safe quality, for the more he knows, the less likely is he to commit himself.
+10104-8{_}637{_}It is an equally pleasant quality, since it enables its possessor to take the fence and to maintain it, while, by a sort of optical delusion, each party supposes him to be upon its own side.
+10104-8{_}638{_}It saves regular out and out _lying_, if Mr. GREELEY will allow us to use so strong a word.
+10104-8{_}639{_}For instance, if asked, "Are you in favor of a Protective Tariff?"
+10104-8{_}640{_}the candidate may answer, "I am" (for he doesn't know whether he is) or "I am not" (for he does not know but he may be a most cantankerous Free Trader).
+10104-8{_}641{_}In this way he may, with Roman honesty, satisfy everybody, and promote peace and good-will and that sort of thing in the handsomest manner.
+10104-8{_}642{_}_Capillary Attraction_.--This is analogous to receptivity in the voter.
+10104-8{_}643{_}If the citizen drinks hugely, the candidate must be able to keep up with him; and to have a sponge stomach equal to the absorption of quarts, and even of gallons, is a piece of excellent good fortune for the man who is fool enough to want to go to Congress, instead of enjoying the delights of obscurity.
+10104-8{_}644{_}Verily, he has his reward.
+10104-8{_}645{_}He who suffers in the gin-mills of New York may recover himself in the Champagne-sparkling saloons of Washington.
+10104-8{_}646{_}_Pecuniosity_.--"To him that hath shall be given."
+10104-8{_}647{_}The candidate must beg, borrow, or steal something to begin with.
+10104-8{_}648{_}He must possess a power of bleeding equal to that of twenty-four country doctors.
+10104-8{_}649{_}MR. PUNCHINELLO has here given a skeleton sketch of his great work upon politics.
+10104-8{_}650{_}The reader had better make the most of it; for the Great Book will not be published until after the author's death, which he doesn't think (if he knows himself) is likely to happen tomorrow.
+10104-8{_}651{_}And so he closes with a brief exhortation: Go on, worthy gentlemen!
+10104-8{_}652{_}Continue to spend, drink, war, falsify, for the good of your country!
+10104-8{_}653{_}Are you a Voter?
+10104-8{_}654{_}Show yourself to be such indeed, by voting all day, all the time, and at all the polling-places!
+10104-8{_}655{_}Are you a Candidate?
+10104-8{_}656{_}Show yourself to be a good one by keeping your mouth shut (except for drinking) and your pocket open!
+10104-8{_}657{_}Are you an Editor?
+10104-8{_}658{_}Ah!
+10104-8{_}659{_}Mr. P. has nothing to say to you.
+10104-8{_}660{_}Mr. P. is an Editor too!
+10104-8{_}661{_}We understand each other, worthy brother!
+10104-8{_}662{_}We know where the world keeps its cakes and ale!
+10104-8{_}663{_}*       *       *       *       *  CAPITAL REMOVAL.
+10104-8{_}664{_}MR. PUNCHINELLO having been invited to attend and address the Capital Removal Convention (so called) held in Cincinnati, wrote a letter declining to be present, upon the ground that he was exceedingly comfortable where he was.
+10104-8{_}665{_}However, he added his views at great length, but the ingrates did not even read his letter.
+10104-8{_}666{_}In this he advocated the removal of the Capitol to some point so distant that twenty-three months of an Honorable Member's term of twenty-four months would be spent in going and returning.
+10104-8{_}667{_}At the same time Mr. P. suggested the abolition of the salaries of the Members; and the passage of an act making it a forgery for any member to print in _The Globe_ a never-uttered speech.
+10104-8{_}668{_}But, alas for the wisdom of age!
+10104-8{_}669{_}he doesn't see that the Convention acted on any of these suggestions.
+10104-8{_}670{_}*       *       *       *       *  SMALL POTATOES.--The "Murphy" Radicals.
+10104-8{_}671{_}*       *       *       *       *  [Illustration: VERY APPROPRIATE.
+10104-8{_}672{_}_Young Man_.
+10104-8{_}673{_}"HELLO!
+10104-8{_}674{_}MRS. CRUMBLETY, WHAT ARE YER DOIN' ALONG ER THAT NEWFOUDLING DORG?"
+10104-8{_}675{_}_Mrs.
+10104-8{_}676{_}C._ "WELL, HE STRAYED INTO OUR HOUSE LAST NIGHT AND AS HE DIDN'T SEEM TO HAVE NO MASTER, I THOUGHT I'D JEST TAKE HIM ROUND TO THIS HERE NEW FOUNDLING HOSPITAL."]
+10104-8{_}677{_}*       *       *       *       *  SARSFIELD YOUNG'S REMINISCENCES OF CHARLES DICKENS.
+10104-8{_}678{_}It is surprising that since Mr. DICKEN'S decease no one should have conceived the idea of writing a sketch of that illustrious author.
+10104-8{_}679{_}It is perhaps too much to require that some competent person prepare his biography, but the public have a right to expect at least a few reminiscences.
+10104-8{_}680{_}I am persuaded to sketch the following imperfect outlines only from a conviction that the great novelist has in this respect been neglected.
+10104-8{_}681{_}I trust I shall not be deemed to have broken the seal of private confidence in this disclosing how well I knew him, and (what is still more remarkable) how well he knew me:--  [While Mr. DICKENS was on his first visit to this country, the writer had not the pleasure of his acquaintance.
+10104-8{_}682{_}He put up in Philadelphia, at a well-known and fashionable boarding-house then kept by an aunt of mine, at the corner of Second and Thirteenth streets.
+10104-8{_}683{_}He never said anything while there, until he came to pay his board bill, when bidding my aunt farewell, he observed: _"Mrs. SAGOE, for terseness and brevity, your steaks surpass any I have ever met with.
+10104-8{_}684{_}"_ Aunt Sarah had these words neatly framed, and they have hung in her back parlor to this day.
+10104-8{_}685{_}Before he came again, the country had made wonderful progress.
+10104-8{_}686{_}A new generation had been born, including myself.]
+10104-8{_}687{_}When the steamer was signalled, I went down on the wharf.
+10104-8{_}688{_}DICKENS was standing near the rail, and wore a coat, vest, pants, and a hat.
+10104-8{_}689{_}I couldn't make out through the glass how much they cost, and I forgot to ask him afterward.
+10104-8{_}690{_}Shortly after she had hauled into the dock, I went on board.
+10104-8{_}691{_}We shook hands.
+10104-8{_}692{_}Mr. DICKENS had a peculiar way of reserving his right hand for this process, though on great occasions he would use both.
+10104-8{_}693{_}We employed all four, with the understanding that a more formal demonstration should be made at PARKER'S.
+10104-8{_}694{_}I offered to carry his valise.
+10104-8{_}695{_}Graciously declining my services, he betokened his appreciation of my delicate attention by presenting me on the spot with a complete set of his works--Author's Edition.
+10104-8{_}696{_}"My dear fellow," he whispered, "there's a Boston man down below, blacking my other pair of boots, who'd feel hurt if I should let anybody else take that bag."
+10104-8{_}697{_}I called upon him as soon as he was fairly settled, and found him in his shirt-sleeves, writing vigorously.
+10104-8{_}698{_}Mr. DICKENS'S intimate friends are aware that he indulged in the habit, while writing, of occasionally dipping his pen in the inkstand.
+10104-8{_}699{_}I don't remember much about the room except that there were several chairs (good chairs) and a table in it.
+10104-8{_}700{_}The distinguished occupant was sitting about nine and a half feet from the door facing the Southwest, his hair well brushed, head a little inclined to the right, except his eyes, which, were inclined to twinkle as though he had just hit upon something particularly bright and happy.
+10104-8{_}701{_}The carpet was green with a red figure.
+10104-8{_}702{_}You could see in a moment that he was a man of genius.
+10104-8{_}703{_}The room was lighted with gas.
+10104-8{_}704{_}Was it possible that the immortal author of "DICKENS'S Works" was before me?
+10104-8{_}705{_}[Upon the table was a cigar, half consumed, an inkstand, three pen-holders, a bundle of envelopes, a brass key, several bouquets, a paper-cutter, a stick of sealing-wax, a quantity of writing-paper, a table-cloth (spread), a newspaper (the date has escaped me), and such other things as are usually on such tables.]
+10104-8{_}706{_}DICKENS, as soon as he saw me, stopped writing, wiped his pen, ran his fingers through his hair, took out his watch and wound it up, brushed his coat and put it on (not forgetting to place a rose in the button-hole), and then, waving his hands very gracefully (he wore high-priced studs and a pair of elaborately built sleeve-buttons), addressed me as follows:--  Mr. DICKENS _(with tender embrace)_ SARSFIELD!!!!
+10104-8{_}707{_}Mr. YOUNG _(representing American Literature)_ CHARLES!!!!
+10104-8{_}708{_}The remainder of our conversation was devoted to minor topics.
+10104-8{_}709{_}Early one morning we started from the Parker House, and walking rapidly over West Boston bridge, passed through Cambridge, by the Colleges, and kept on travelling, without speaking a word, the best part of a couple of days, I should judge, though I didn't have my watch with me.
+10104-8{_}710{_}Suddenly he asked the name of the town we were rapidly approaching.
+10104-8{_}711{_}"Great Harrington," said I.
+10104-8{_}712{_}"Is it possible?"
+10104-8{_}713{_}said he.
+10104-8{_}714{_}And we turned and walked home again.
+10104-8{_}715{_}His first reading in America was a private one to me.
+10104-8{_}716{_}We had come in from a thirty-mile walk, and I was somewhat tired.
+10104-8{_}717{_}Taking up the second volume of his History of England, he began in an easy, careless way.
+10104-8{_}718{_}So did I. I went to sleep.
+10104-8{_}719{_}Just as he was finishing the book I woke up; and when he asked me how I liked it, I told him frankly that, in my opinion, it never would do in the world--the plot was too eccentric.
+10104-8{_}720{_}He was a kind man.
+10104-8{_}721{_}Frequently he would ride for days together up and down a railroad, for no other purpose than to help take cinders out of people's eyes.
+10104-8{_}722{_}He was fond of oysters, of children, dogs, and an international copyright.
+10104-8{_}723{_}I remember his meeting me once on Broadway and he didn't recognize me.
+10104-8{_}724{_}He never mentioned the incident afterward.
+10104-8{_}725{_}It has been said that he was also fond of dress.
+10104-8{_}726{_}I regret that I never asked him about this, though I recall the circumstance of my inquiring where he had his vests made.
+10104-8{_}727{_}Said he; "My waistcoats were made abroad."
+10104-8{_}728{_}He never liked to sit for his photograph; consequently, he generally stood up.
+10104-8{_}729{_}It pleased him to receive letters requesting his autograph and a lock of his hair.
+10104-8{_}730{_}The articles were invariably sent by return mail.
+10104-8{_}731{_}He was also gratified at the privilege of shaking hands with people whom he was never to see again.
+10104-8{_}732{_}I once humored him by introducing in a body two fire companies and a Sunday school.
+10104-8{_}733{_}As we parted he gave me excellent advice: "Write with vigor," said he, "with sincerity, and blue ink; but don't write novels.
+10104-8{_}734{_}It might injure the sale of my books."
+10104-8{_}735{_}I promised him I would not, and we saw each other no more.
+10104-8{_}736{_}SARSFIELD YOUNG.
+10104-8{_}737{_}+--------------------------------------------------------------+   |                                                              |   |                     A. T. STEWART & CO.                      |   |                                                              |   |                            OFFER                             |   |                                                              |   |                     A SUPERB COLLECTION                      |   |                                                              |   |                              OF                              |   |                                                              |   |                       New Fall Silks,                        |   |                                                              |   |                SELECTED WITH THE UTMOST CARE,                |   |                                                              |   |                            WHICH                             |   |                                                              |   |                  FOR IMPORTANCE AND VALUE,                   |   |                                                              |   |                             ARE                              |   |                                                              |   |                   UNEQUALLED IN THE CITY.
+10104-8{_}738{_}|   |                                                              |   |                   CUSTOMERS AND STRANGERS                    |   |             ARE RESPECTFULLY INVITED TO EXAMINE.
+10104-8{_}739{_}|   |                                                              |   |              BLACK GROUND, WHITE STRIPED SILKS,              |   |                   FOR YOUNG LADIES' SUITS,                   |   |                         $1 per Yard.
+10104-8{_}740{_}|   |                                                              |   |              HEAVY COLORED GROS-GRAIN STRIPES,               |   |                       $1.05 per Yard.
+10104-8{_}741{_}|   |                                                              |   |                      A FINE ASSORTMENT                       |   |                              OF                              |   |                      Dark Chene Silks,                       |   |                        SMALL PATTERN,                        |   |                 At $l per Yard, worth $1.50.
+10104-8{_}742{_}|   |                                                              |   |                      AN ELEGANT VARIETY                      |   |                              OF                              |   |                    CANNELE STRIPED SILKS,                    |   |                  In all the New Colorings,                   |   |                     At $1.50 and $1.75.
+10104-8{_}743{_}|   |                                                              |   |                 20 CASES PLAIN DRESS SILKS,                  |   |          The largest assortment to be found in this          |   |                  Market, from $2 per Yard.
+10104-8{_}744{_}|   |                                                              |   |                3 CASES COLORED DRESS SATINS,                 |   |           _Very Rich Quality and High Colorings._            |   |                                                              |   |               BLACK GRAINED POMPADOUR BROCADED               |   |                            SILKS,                            |   |                     From $2.50 per Yard.
+10104-8{_}745{_}|   |                                                              |   |                500 PIECES BLACK DRESS SILKS,                 |   |               In every Variety of Manufacture.
+10104-8{_}746{_}|   |                                                              |   |                            ALSO,                             |   |                                                              |   |                 THE "BONNET," "PONSON," AND                  |   |                    A. T. STEWART "FAMILY"                    |   |                     AND IMPERIAL SILKS,                      |   |                      From $2 per Yard.
+10104-8{_}747{_}|   |                                                              |   |                    A COMPLETE ASSORTMENT                     |   |                              OF                              |   |                        NEW COLORINGS                         |   |                              IN                              |   |                        TRIMMING SILKS                        |   |                             AND                              |   |                           SATINS,                            |   |                       CUT ON THE BIAS,                       |   |                      From $1 per Yard.
+10104-8{_}748{_}|   |                                                              |   |                   A SPECIAL DEPARTMENT FOR                   |   |                           POPLINS                            |   |                     HAS BEEN ORGANIZED.
+10104-8{_}749{_}|   |                 Lyons Poplins, $1 per Yard.
+10104-8{_}750{_}|   |                     REAL IRISH POPLINS,                      |   |                OF THE BEST MAKE.
+10104-8{_}751{_}$2 PER YARD.
+10104-8{_}752{_}|   |                  With several Cases of the                   |   |                      AMERICAN POPLINS,                       |   |                      IN LEADING COLORS,                      |   |             To Close at $1.25 per Yard, formerly             |   |                         $2 per Yard.
+10104-8{_}753{_}|   |                                                              |   |                            ALSO,                             |   |                        THE CELEBRATED                        |   |                   "AMERICAN" BLACK SILKS,                    |   |                        GUARANTEED TO                         |   |                     Wash, and Wear Well,                     |   |                       AT $2 PER YARD.
+10104-8{_}754{_}|   |                                                              |   |                   Broadway, Fourth Avenue,                   |   |                                                              |   |                      9th and 10th Sts.
+10104-8{_}755{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                          PUNCHINELLO.
+10104-8{_}756{_}|   |                                                              |   | The first number of this Illustrated Humorous and Satirical  |   | Weekly Paper was issued under date of April 2, 1870.
+10104-8{_}757{_}The     |   | Press and the Public in every State and Territory of the     |   | Union endorse it as the best paper of the kind ever          |   | published in America.
+10104-8{_}758{_}|   |                                                              |   | CONTENTS ENTIRELY ORIGINAL.
+10104-8{_}759{_}|   |                                                              |   | Subscription for one year, (with $2.00 premium,)      $4.00  |   | "           "  six months, (without premium,)          2.00  |   | "           "  three months, "         "               1.00  |   | Single copies mailed free, for                          .10  |   |                                                              |   | We offer the following elegant premiums of L. PRANG & CO'S   |   | CHROMOS for subscriptions as follows:                        |   |                                                              |   | A copy of paper for one year, and                            |   |                                                              |   | "The Awakening," (a Litter of Puppies.)
+10104-8{_}760{_}Half chromo.
+10104-8{_}761{_}|   | Size 8-3/8 by 11-1/8 ($2.00 picture,)--for            $4.00  |   |                                                              |   | A copy of paper for one year and either of the               |   | following $3.00 chromos:                                     |   |                                                              |   | Wild Roses.
+10104-8{_}762{_}12-1/8 x 9.
+10104-8{_}763{_}|   | Dead Game.
+10104-8{_}764{_}11-1/8 x 8-5/8.
+10104-8{_}765{_}|   | Easter Morning.
+10104-8{_}766{_}6-3/4 x 10-1/4--for                   $5.00  |   |                                                              |   | A copy of paper for one year and either of the               |   | following $5.00 chromos:                                     |   |                                                              |   | Group of Chickens;                                           |   | Group of Ducklings;                                          |   | Group of Quails.
+10104-8{_}767{_}Each 10 x 12-1/8.
+10104-8{_}768{_}|   | The Poultry Yard.
+10104-8{_}769{_}10-1/8 x 14.
+10104-8{_}770{_}|   | The Barefoot Boy; Wild Fruit.
+10104-8{_}771{_}Each 9-3/4 x 13.
+10104-8{_}772{_}|   | Pointer and Quail; Spaniel and Woodcock.
+10104-8{_}773{_}10 x 12--for  $6.50 |   |                                                              |   | A copy of paper for one year and either of the               |   | following $6.00 chromos:                                     |   |                                                              |   | The Baby in Trouble; The Unconscious Sleeper; The Two        |   | Friends.
+10104-8{_}774{_}(Dog and Child.)
+10104-8{_}775{_}Each 13 x 16-3/4.
+10104-8{_}776{_}|   | Spring; Summer: Autumn; 12-7/8 x 16-1/8.
+10104-8{_}777{_}|   | The Kid's Play Ground.
+10104-8{_}778{_}11 x 17-1/2--for                $7.00 |   |                                                              |   | A copy of paper for one year and either of the               |   | following $7.50 chromos                                      |   |                                                              |   | Strawberries and Baskets.
+10104-8{_}779{_}|   | Cherries and Baskets.
+10104-8{_}780{_}|   | Currants.
+10104-8{_}781{_}Each 13 x 18.
+10104-8{_}782{_}|   | Horses in a Storm.
+10104-8{_}783{_}22-1/4 x 15-1/4.
+10104-8{_}784{_}|   | Six Central Park Views.
+10104-8{_}785{_}(A set.)
+10104-8{_}786{_}9-1/8 x 4-1/2--for    $8.00 |   |                                                              |   | A copy of paper for one year and Six American Landscapes.
+10104-8{_}787{_}|   | (A set.)
+10104-8{_}788{_}4-3/8 x 9, price $9.00--for                   $9.00 |   |                                                              |   | A copy of paper for one year and either of the               |   | following $10 chromos:                                       |   |                                                              |   | Sunset in California.
+10104-8{_}789{_}(Bierstadt) 18-1/8 x 12                |   | Easter Morning.
+10104-8{_}790{_}14 x 21.
+10104-8{_}791{_}|   | Corregio's Magdalen.
+10104-8{_}792{_}12-1/2 x 16-3/8.
+10104-8{_}793{_}|   | Summer Fruit, and Autumn Fruit.
+10104-8{_}794{_}(Half chromos,)              |   | 15-1/2 x 10-1/2, (companions, price $10.00 for the two),     |   | for $10.00                                                   |   |                                                              |   | Remittances should be made in P.O.
+10104-8{_}795{_}Orders, Drafts, or Bank   |   | Checks on New York, or Registered letters.
+10104-8{_}796{_}The paper will be |   | sent from the first number, (April 2d, 1870,) when not       |   | otherwise ordered.
+10104-8{_}797{_}|   |                                                              |   | Postage of paper is payable at the office where received,    |   | twenty cents per year, or five cents per quarter, in         |   | advance; the CHROMOS will be mailed free on receipt of       |   | money.
+10104-8{_}798{_}|   |                                                              |   | CANVASSERS WANTED, to whom liberal commissions will be       |   | given.
+10104-8{_}799{_}For special terms address the Company.
+10104-8{_}800{_}|   |                                                              |   | The first ten numbers will be sent to any one desirous of    |   | seeing the paper before subscribing, for SIXTY CENTS.
+10104-8{_}801{_}A      |   | specimen copy sent to any one desirous of canvassing or      |   | getting up a club, on receipt of postage stamp.
+10104-8{_}802{_}|   |                                                              |   | Address,                                                     |   |                                                              |   | PUNCHINELLO PUBLISHING CO.,                                  |   |                                                              |   | P.O.
+10104-8{_}803{_}Box 2783.
+10104-8{_}804{_}|   |                                                              |   | No.
+10104-8{_}805{_}83 Nassau Street, New York.
+10104-8{_}806{_}|   |                                                              |   +--------------------------------------------------------------+  [Illustration: COMMENDABLE ENERGY.
+10104-8{_}807{_}Time: 4 o'clock P.M.  _Mr.
+10104-8{_}808{_}Quickly_.
+10104-8{_}809{_}"HALLO!
+10104-8{_}810{_}SLOWCOME, RARE HAPPINESS TO SEE YOU THIS TIME O' DAY."
+10104-8{_}811{_}_Mr.
+10104-8{_}812{_}Slowcome_.
+10104-8{_}813{_}"YAAS: BEEN ASLEEP SINCE YESTERDAY, BUT MUST EXERCISE A LITTLE FOR THE DINNER PARTY AT DELMONICO'S, YOU KNOW."]
+10104-8{_}814{_}+--------------------------------------------------------------+   |                                                              |   |          "THE PRINTING HOUSE OF THE UNITED STATES"           |   |                                                              |   |                             AND                              |   |                                                              |   |          "THE UNITED STATES ENVELOPE MANUFACTORY."
+10104-8{_}815{_}|   |                                                              |   |                    GEORGE F. NESBITT & CO                    |   |                                                              |   |    163, 165, 167, 169 Pearl St., & 73,75,77,79 Pine St.,     |   |                                                              |   |                          New York.
+10104-8{_}816{_}|   |                                                              |   |                     Execute all kinds of                     |   |                                                              |   |                          PRINTING,                           |   |                                                              |   |                     Furnish all kinds of                     |   |                                                              |   |                         STATIONERY,                          |   |                                                              |   |                      Make all kinds of                       |   |                                                              |   |                         BLANK BOOKS,                         |   |                                                              |   |                 Execute the finest styles of                 |   |                                                              |   |                         LITHOGRAPHY                          |   |                                                              |   |   Make the Best and Cheapest ENVELOPES Ever offered to the   |   |                           Public.
+10104-8{_}817{_}|   |                                                              |   |   They have made all the prepaid Envelopes for the United    |   |   States Post-Office Department for the past 16 years, and   |   | have INVARIABLY BEEN THE LOWEST BIDDERS.
+10104-8{_}818{_}Their Machinery is  |   | the most complete, rapid and economical known in the trade.
+10104-8{_}819{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |  Travelers West and South-West Should bear in mind that the  |   |                                                              |   |   ERIE RAILWAY IS BY FAR THE CHEAPEST, QUICKEST, AND MOST    |   |                      COMFORTABLE ROUTE,                      |   |                                                              |   |  Making Direct and Sure Connection at CINCINNATI, with all   |   |                            Lines                             |   |                                                              |   |                       By Rail or River                       |   |                                                              |   | For NEW ORLEANS, LOUISVILLE, MEMPHIS, ST. LOUIS, VICKSBURG,  |   |    NASHVILLE, MOBILE And All Points South and South-west.
+10104-8{_}820{_}|   |                                                              |   |    It's DRAWINGS-ROOM and SLEEPING COACHES on all Express    |   |  Trains, running through to Cincinnati without chance, are   |   |   the most elegant and spacious used upon any Road in this   |   |  country, being fitted up in the most elaborate manner, and  |   |  having every modern improvement introduced for the comfort  |   |   of its patrons; running upon the BROAD GUAGE; revealing    |   |  scenery along the Line unequalled upon this Continent, and  |   |   rendering a trip over the ERIE, one of the delights and    |   |         pleasures of this life not to be forgotten.
+10104-8{_}821{_}|   |                                                              |   |   By applying at the Offices of the Erie Railway Co., Nos.
+10104-8{_}822{_}|   |  241, 529 and 957 Broadway, 205 Chambers St.; 38 Greenwich   |   |   St.; cor.
+10104-8{_}823{_}125th St. and Third Avenue, Harlem; 338 Fulton   |   |  St., Brooklyn: Depots foot of Chambers Street, and foot of  |   |  23d St., New York; and the Agents at the principal hotels,  |   | travelers can obtain just the Ticket they desire, as well as |   |                all the necessary information.
+10104-8{_}824{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                         PUNCHINELLO,                         |   |                                                              |   |                   VOL.
+10104-8{_}825{_}I, ENDING SEPT. 24,                   |   |                    BOUND IN EXTRA CLOTH,                     |   |                        IS NOW READY.
+10104-8{_}826{_}|   |                         PRICE $2.50.
+10104-8{_}827{_}|   |    Sent free by any Publisher on receipt of price, or by     |   |               PUNCHINELLO PUBLISHING COMPANY,                |   |                 83 Nassau Street, New York.
+10104-8{_}828{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |    PRANG'S LATEST PUBLICATIONS: "Joy of Autumn," "Prairie    |   |            Flowers," "Lake George," "West Point."
+10104-8{_}829{_}|   |                                                              |   | PRANG'S CHROMOS sold in all Art Stores throughout the world.
+10104-8{_}830{_}|   |                                                              |   | PRANG'S ILLUSTRATED CATALOGUE sent free on receipt of stamp.
+10104-8{_}831{_}|   |                                                              |   |                   L. PRANG & CO., Boston.
+10104-8{_}832{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                         PUNCHINELLO.
+10104-8{_}833{_}|   |                                                              |   |   With a large and varied experience in the management and   |   | publication of a paper of the class herewith submitted, and  |   |  with the still more positive advantage of an Ample Capital  |   |               to justify the undertaking, the                |   |                                                              |   |                  PUNCHINELLO PUBLISHING CO.                  |   |                                                              |   |                   OF THE CITY OF NEW YORK,                   |   |                                                              |   |         Presents to the public for approval, the new         |   |                                                              |   |              ILLUSTRATED HUMOROUS AND SATIRICAL              |   |                                                              |   |                        WEEKLY PAPER,                         |   |                                                              |   |                         PUNCHINELLO,                         |   |                                                              |   | The first number of which was issued under date of April 2.
+10104-8{_}834{_}|   |                                                              |   |                      ORIGINAL ARTICLES,                      |   |                                                              |   | Suitable for the paper, and Original Designs, or suggestive  |   | ideas or sketches for illustrations, upon the topics of the  |   |  day, are always acceptable and will be paid for liberally.
+10104-8{_}835{_}|   |                                                              |   |  Rejected communications cannot be returned, unless postage  |   |                     stamps are inclosed.
+10104-8{_}836{_}|   |                                                              |   |                            TERMS:                            |   |                                                              |   |             One copy, per year, in advance $4.00             |   |                                                              |   |                      Single copies, 10                       |   |                                                              |   | A specimen copy will be mailed free upon the receipt of ten  |   |                            cents.
+10104-8{_}837{_}|   |                                                              |   | One copy, with the Riverside Magazine, or any other magazine |   |               or paper, price, $2.50 for 5.50                |   |                                                              |   |  One copy, with any magazine or paper, price, $4, for 7.00   |   |                                                              |   |  All communications, remittances, etc., to be addressed to   |   |                                                              |   |                 PUNCHINELLO PUBLISHING CO.,                  |   |                                                              |   |                    No.
+10104-8{_}838{_}83 Nassau Street,                     |   |                                                              |   |                  P.O.
+10104-8{_}839{_}Box, 2788, NEW YORK.
+10104-8{_}840{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                 THE MYSTERY OF MR. E. DROOD.
+10104-8{_}841{_}|   |                                                              |   |                  The New Burlesque Serial,                   |   |                                                              |   |              Written expressly for PUNCHINELLO,              |   |                                                              |   |                              BY                              |   |                                                              |   |                       ORPHEUS C. KERR,                       |   |                                                              |   | Commenced in No.
+10104-8{_}842{_}11, will be continued weekly throughout the |   |                            year.
+10104-8{_}843{_}|   |                                                              |   | A sketch of the eminent author, written by his bosom friend, |   |                 with superb illustrations of                 |   |                                                              |   |    1ST.
+10104-8{_}844{_}THE AUTHOR'S PALATIAL RESIDENCE AT BEGAD'S HILL,     |   |                 TICKNOR'S FIELDS, NEW JERSEY                 |   |                                                              |   | 2D.
+10104-8{_}845{_}THE AUTHOR AT THE DOOR OF SAID PALATIAL RESIDENCE, taken |   |  as he appears "Every Saturday," will also be found in the   |   |                         same number.
+10104-8{_}846{_}|   |                                                              |   | Single Copies, for Sale by all newsmen, (or mailed from this |   |   office, free,) Ten Cents.
+10104-8{_}847{_}Subscription for One Year, one   |   |              copy, with $2 Chromo Premium, $4.
+10104-8{_}848{_}|   |                                                              |   |  Those desirous of receiving the paper containing this new   |   |    serial, which promises to be the best ever written by     |   | ORPHEUS C. KERR, should subscribe now, to insure its regular |   |                       receipt weekly.
+10104-8{_}849{_}|   |                                                              |   | We will send the first Ten Numbers of PUNCHINELLO to any one |   |    who wishes to see them, in view of subscribing, on the    |   |                   receipt of SIXTY CENTS.
+10104-8{_}850{_}|   |                                                              |   |                           Address,                           |   |                                                              |   |               PUNCHINELLO PUBLISHING COMPANY,                |   |                                                              |   |           P. O.
+10104-8{_}851{_}Box 2783.
+10104-8{_}852{_}83 Nassau St., New York            |   |                                                              |   +--------------------------------------------------------------+  GEO.
+10104-8{_}853{_}W. WHEAT & CO, PRINTERS, No.
+10104-8{_}854{_}8 SPRUCE STREET.
+10104-8{_}855{_}End of the Project Gutenberg EBook of Punchinello, Vol.
+10104-8{_}856{_}2., No.
+10104-8{_}857{_}32,  November 5, 1870, by Various  *** END OF THIS PROJECT GUTENBERG EBOOK PUNCHINELLO 32 ***  ***** This file should be named 10104-8.txt or 10104-8.zip ***** This and all associated files of various formats will be found in:         http://www.gutenberg.net/1/0/1/0/10104/  Produced by Joshua Hutchinson, Steve Schulze and PG Distributed Proofreaders   Updated editions will replace the previous one--the old editions will be renamed.
+10104-8{_}858{_}Creating the works from public domain print editions means that no one owns a United States copyright in these works, so the Foundation (and you!)
+10104-8{_}859{_}can copy and distribute it in the United States without permission and without paying copyright royalties.
+10104-8{_}860{_}Special rules, set forth in the General Terms of Use part of this license, apply to copying and distributing Project Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm concept and trademark.
+10104-8{_}861{_}Project Gutenberg is a registered trademark, and may not be used if you charge for the eBooks, unless you receive specific permission.
+10104-8{_}862{_}If you do not charge anything for copies of this eBook, complying with the rules is very easy.
+10104-8{_}863{_}You may use this eBook for nearly any purpose such as creation of derivative works, reports, performances and research.
+10104-8{_}864{_}They may be modified and printed and given away--you may do practically ANYTHING with public domain eBooks.
+10104-8{_}865{_}Redistribution is subject to the trademark license, especially commercial redistribution.
+10104-8{_}866{_}*** START: FULL LICENSE ***  THE FULL PROJECT GUTENBERG LICENSE PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK  To protect the Project Gutenberg-tm mission of promoting the free distribution of electronic works, by using or distributing this work (or any other work associated in any way with the phrase "Project Gutenberg"), you agree to comply with all the terms of the Full Project Gutenberg-tm License (available with this file or online at http://gutenberg.net/license).
+10104-8{_}867{_}Section 1.
+10104-8{_}868{_}General Terms of Use and Redistributing Project Gutenberg-tm electronic works  1.A.
+10104-8{_}869{_}By reading or using any part of this Project Gutenberg-tm electronic work, you indicate that you have read, understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement.
+10104-8{_}870{_}If you do not agree to abide by all the terms of this agreement, you must cease using and return or destroy all copies of Project Gutenberg-tm electronic works in your possession.
+10104-8{_}871{_}If you paid a fee for obtaining a copy of or access to a Project Gutenberg-tm electronic work and you do not agree to be bound by the terms of this agreement, you may obtain a refund from the person or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+10104-8{_}872{_}1.B.
+10104-8{_}873{_}"Project Gutenberg" is a registered trademark.
+10104-8{_}874{_}It may only be used on or associated in any way with an electronic work by people who agree to be bound by the terms of this agreement.
+10104-8{_}875{_}There are a few things that you can do with most Project Gutenberg-tm electronic works even without complying with the full terms of this agreement.
+10104-8{_}876{_}See paragraph 1.C below.
+10104-8{_}877{_}There are a lot of things you can do with Project Gutenberg-tm electronic works if you follow the terms of this agreement and help preserve free future access to Project Gutenberg-tm electronic works.
+10104-8{_}878{_}See paragraph 1.E below.
+10104-8{_}879{_}1.C.
+10104-8{_}880{_}The Project Gutenberg Literary Archive Foundation ("the Foundation" or PGLAF), owns a compilation copyright in the collection of Project Gutenberg-tm electronic works.
+10104-8{_}881{_}Nearly all the individual works in the collection are in the public domain in the United States.
+10104-8{_}882{_}If an individual work is in the public domain in the United States and you are located in the United States, we do not claim a right to prevent you from copying, distributing, performing, displaying or creating derivative works based on the work as long as all references to Project Gutenberg are removed.
+10104-8{_}883{_}Of course, we hope that you will support the Project Gutenberg-tm mission of promoting free access to electronic works by freely sharing Project Gutenberg-tm works in compliance with the terms of this agreement for keeping the Project Gutenberg-tm name associated with the work.
+10104-8{_}884{_}You can easily comply with the terms of this agreement by keeping this work in the same format with its attached full Project Gutenberg-tm License when you share it without charge with others.
+10104-8{_}885{_}1.D.
+10104-8{_}886{_}The copyright laws of the place where you are located also govern what you can do with this work.
+10104-8{_}887{_}Copyright laws in most countries are in a constant state of change.
+10104-8{_}888{_}If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, performing, distributing or creating derivative works based on this work or any other Project Gutenberg-tm work.
+10104-8{_}889{_}The Foundation makes no representations concerning the copyright status of any work in any country outside the United States.
+10104-8{_}890{_}1.E.
+10104-8{_}891{_}Unless you have removed all references to Project Gutenberg:  1.E.1.
+10104-8{_}892{_}The following sentence, with active links to, or other immediate access to, the full Project Gutenberg-tm License must appear prominently whenever any copy of a Project Gutenberg-tm work (any work on which the phrase "Project Gutenberg" appears, or with which the phrase "Project Gutenberg" is associated) is accessed, displayed, performed, viewed, copied or distributed:  This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever.
+10104-8{_}893{_}You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.net  1.E.2.
+10104-8{_}894{_}If an individual Project Gutenberg-tm electronic work is derived from the public domain (does not contain a notice indicating that it is posted with permission of the copyright holder), the work can be copied and distributed to anyone in the United States without paying any fees or charges.
+10104-8{_}895{_}If you are redistributing or providing access to a work with the phrase "Project Gutenberg" associated with or appearing on the work, you must comply either with the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of the work and the Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+10104-8{_}896{_}1.E.3.
+10104-8{_}897{_}If an individual Project Gutenberg-tm electronic work is posted with the permission of the copyright holder, your use and distribution must comply with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed by the copyright holder.
+10104-8{_}898{_}Additional terms will be linked to the Project Gutenberg-tm License for all works posted with the permission of the copyright holder found at the beginning of this work.
+10104-8{_}899{_}1.E.4.
+10104-8{_}900{_}Do not unlink or detach or remove the full Project Gutenberg-tm License terms from this work, or any files containing a part of this work or any other work associated with Project Gutenberg-tm.
+10104-8{_}901{_}1.E.5.
+10104-8{_}902{_}Do not copy, display, perform, distribute or redistribute this electronic work, or any part of this electronic work, without prominently displaying the sentence set forth in paragraph 1.E.1 with active links or immediate access to the full terms of the Project Gutenberg-tm License.
+10104-8{_}903{_}1.E.6.
+10104-8{_}904{_}You may convert to and distribute this work in any binary, compressed, marked up, nonproprietary or proprietary form, including any word processing or hypertext form.
+10104-8{_}905{_}However, if you provide access to or distribute copies of a Project Gutenberg-tm work in a format other than "Plain Vanilla ASCII" or other format used in the official version posted on the official Project Gutenberg-tm web site (www.gutenberg.net), you must, at no additional cost, fee or expense to the user, provide a copy, a means of exporting a copy, or a means of obtaining a copy upon request, of the work in its original "Plain Vanilla ASCII" or other form.
+10104-8{_}906{_}Any alternate format must include the full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+10104-8{_}907{_}1.E.7.
+10104-8{_}908{_}Do not charge a fee for access to, viewing, displaying, performing, copying or distributing any Project Gutenberg-tm works unless you comply with paragraph 1.E.8 or 1.E.9.
+10104-8{_}909{_}1.E.8.
+10104-8{_}910{_}You may charge a reasonable fee for copies of or providing access to or distributing Project Gutenberg-tm electronic works provided that  - You pay a royalty fee of 20% of the gross profits you derive from      the use of Project Gutenberg-tm works calculated using the method      you already use to calculate your applicable taxes.
+10104-8{_}911{_}The fee is      owed to the owner of the Project Gutenberg-tm trademark, but he      has agreed to donate royalties under this paragraph to the      Project Gutenberg Literary Archive Foundation.
+10104-8{_}912{_}Royalty payments      must be paid within 60 days following each date on which you      prepare (or are legally required to prepare) your periodic tax      returns.
+10104-8{_}913{_}Royalty payments should be clearly marked as such and      sent to the Project Gutenberg Literary Archive Foundation at the      address specified in Section 4, "Information about donations to      the Project Gutenberg Literary Archive Foundation."
+10104-8{_}914{_}- You provide a full refund of any money paid by a user who notifies      you in writing (or by e-mail) within 30 days of receipt that s/he      does not agree to the terms of the full Project Gutenberg-tm      License.
+10104-8{_}915{_}You must require such a user to return or      destroy all copies of the works possessed in a physical medium      and discontinue all use of and all access to other copies of      Project Gutenberg-tm works.
+10104-8{_}916{_}- You provide, in accordance with paragraph 1.F.3, a full refund of any      money paid for a work or a replacement copy, if a defect in the      electronic work is discovered and reported to you within 90 days      of receipt of the work.
+10104-8{_}917{_}- You comply with all other terms of this agreement for free      distribution of Project Gutenberg-tm works.
+10104-8{_}918{_}1.E.9.
+10104-8{_}919{_}If you wish to charge a fee or distribute a Project Gutenberg-tm electronic work or group of works on different terms than are set forth in this agreement, you must obtain permission in writing from both the Project Gutenberg Literary Archive Foundation and Michael Hart, the owner of the Project Gutenberg-tm trademark.
+10104-8{_}920{_}Contact the Foundation as set forth in Section 3 below.
+10104-8{_}921{_}1.F.
+10104-8{_}922{_}1.F.1.
+10104-8{_}923{_}Project Gutenberg volunteers and employees expend considerable effort to identify, do copyright research on, transcribe and proofread public domain works in creating the Project Gutenberg-tm collection.
+10104-8{_}924{_}Despite these efforts, Project Gutenberg-tm electronic works, and the medium on which they may be stored, may contain "Defects," such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes that damage or cannot be read by your equipment.
+10104-8{_}925{_}1.F.2.
+10104-8{_}926{_}LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right of Replacement or Refund" described in paragraph 1.F.3, the Project Gutenberg Literary Archive Foundation, the owner of the Project Gutenberg-tm trademark, and any other party distributing a Project Gutenberg-tm electronic work under this agreement, disclaim all liability to you for damages, costs and expenses, including legal fees.
+10104-8{_}927{_}YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH F3.
+10104-8{_}928{_}YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.
+10104-8{_}929{_}1.F.3.
+10104-8{_}930{_}LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect in this electronic work within 90 days of receiving it, you can receive a refund of the money (if any) you paid for it by sending a written explanation to the person you received the work from.
+10104-8{_}931{_}If you received the work on a physical medium, you must return the medium with your written explanation.
+10104-8{_}932{_}The person or entity that provided you with the defective work may elect to provide a replacement copy in lieu of a refund.
+10104-8{_}933{_}If you received the work electronically, the person or entity providing it to you may choose to give you a second opportunity to receive the work electronically in lieu of a refund.
+10104-8{_}934{_}If the second copy is also defective, you may demand a refund in writing without further opportunities to fix the problem.
+10104-8{_}935{_}1.F.4.
+10104-8{_}936{_}Except for the limited right of replacement or refund set forth in paragraph 1.F.3, this work is provided to you 'AS-IS," WITH NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+10104-8{_}937{_}1.F.5.
+10104-8{_}938{_}Some states do not allow disclaimers of certain implied warranties or the exclusion or limitation of certain types of damages.
+10104-8{_}939{_}If any disclaimer or limitation set forth in this agreement violates the law of the state applicable to this agreement, the agreement shall be interpreted to make the maximum disclaimer or limitation permitted by the applicable state law.
+10104-8{_}940{_}The invalidity or unenforceability of any provision of this agreement shall not void the remaining provisions.
+10104-8{_}941{_}1.F.6.
+10104-8{_}942{_}INDEMNITY - You agree to indemnify and hold the Foundation, the trademark owner, any agent or employee of the Foundation, anyone providing copies of Project Gutenberg-tm electronic works in accordance with this agreement, and any volunteers associated with the production, promotion and distribution of Project Gutenberg-tm electronic works, harmless from all liability, costs and expenses, including legal fees, that arise directly or indirectly from any of the following which you do or cause to occur: (a) distribution of this or any Project Gutenberg-tm work, (b) alteration, modification, or additions or deletions to any Project Gutenberg-tm work, and (c) any Defect you cause.
+10104-8{_}943{_}Section  2.
+10104-8{_}944{_}Information about the Mission of Project Gutenberg-tm  Project Gutenberg-tm is synonymous with the free distribution of electronic works in formats readable by the widest variety of computers including obsolete, old, middle-aged and new computers.
+10104-8{_}945{_}It exists because of the efforts of hundreds of volunteers and donations from people in all walks of life.
+10104-8{_}946{_}Volunteers and financial support to provide volunteers with the assistance they need, is critical to reaching Project Gutenberg-tm's goals and ensuring that the Project Gutenberg-tm collection will remain freely available for generations to come.
+10104-8{_}947{_}In 2001, the Project Gutenberg Literary Archive Foundation was created to provide a secure and permanent future for Project Gutenberg-tm and future generations.
+10104-8{_}948{_}To learn more about the Project Gutenberg Literary Archive Foundation and how your efforts and donations can help, see Sections 3 and 4 and the Foundation web page at http://www.pglaf.org.
+10104-8{_}949{_}Section 3.
+10104-8{_}950{_}Information about the Project Gutenberg Literary Archive Foundation  The Project Gutenberg Literary Archive Foundation is a non profit 501(c)(3) educational corporation organized under the laws of the state of Mississippi and granted tax exempt status by the Internal Revenue Service.
+10104-8{_}951{_}The Foundation's EIN or federal tax identification number is 64-6221541.
+10104-8{_}952{_}Its 501(c)(3) letter is posted at http://pglaf.org/fundraising.
+10104-8{_}953{_}Contributions to the Project Gutenberg Literary Archive Foundation are tax deductible to the full extent permitted by U.S. federal laws and your state's laws.
+10104-8{_}954{_}The Foundation's principal office is located at 4557 Melan Dr. S. Fairbanks, AK, 99712., but its volunteers and employees are scattered throughout numerous locations.
+10104-8{_}955{_}Its business office is located at 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email business@pglaf.org.
+10104-8{_}956{_}Email contact links and up to date contact information can be found at the Foundation's web site and official page at http://pglaf.org  For additional contact information:      Dr. Gregory B. Newby      Chief Executive and Director      gbnewby@pglaf.org  Section 4.
+10104-8{_}957{_}Information about Donations to the Project Gutenberg Literary Archive Foundation  Project Gutenberg-tm depends upon and cannot survive without wide spread public support and donations to carry out its mission of increasing the number of public domain and licensed works that can be freely distributed in machine readable form accessible by the widest array of equipment including outdated equipment.
+10104-8{_}958{_}Many small donations ($1 to $5,000) are particularly important to maintaining tax exempt status with the IRS.
+10104-8{_}959{_}The Foundation is committed to complying with the laws regulating charities and charitable donations in all 50 states of the United States.
+10104-8{_}960{_}Compliance requirements are not uniform and it takes a considerable effort, much paperwork and many fees to meet and keep up with these requirements.
+10104-8{_}961{_}We do not solicit donations in locations where we have not received written confirmation of compliance.
+10104-8{_}962{_}To SEND DONATIONS or determine the status of compliance for any particular state visit http://pglaf.org  While we cannot and do not solicit contributions from states where we have not met the solicitation requirements, we know of no prohibition against accepting unsolicited donations from donors in such states who approach us with offers to donate.
+10104-8{_}963{_}International donations are gratefully accepted, but we cannot make any statements concerning tax treatment of donations received from outside the United States.
+10104-8{_}964{_}U.S. laws alone swamp our small staff.
+10104-8{_}965{_}Please check the Project Gutenberg Web pages for current donation methods and addresses.
+10104-8{_}966{_}Donations are accepted in a number of other ways including including checks, online payments and credit card donations.
+10104-8{_}967{_}To donate, please visit: http://pglaf.org/donate   Section 5.
+10104-8{_}968{_}General Information About Project Gutenberg-tm electronic works.
+10104-8{_}969{_}Professor Michael S. Hart is the originator of the Project Gutenberg-tm concept of a library of electronic works that could be freely shared with anyone.
+10104-8{_}970{_}For thirty years, he produced and distributed Project Gutenberg-tm eBooks with only a loose network of volunteer support.
+10104-8{_}971{_}Project Gutenberg-tm eBooks are often created from several printed editions, all of which are confirmed as Public Domain in the U.S. unless a copyright notice is included.
+10104-8{_}972{_}Thus, we do not necessarily keep eBooks in compliance with any particular paper edition.
+10104-8{_}973{_}Each eBook is in a subdirectory of the same number as the eBook's eBook number, often in several formats including plain vanilla ASCII, compressed (zipped), HTML and others.
+10104-8{_}974{_}Corrected EDITIONS of our eBooks replace the old file and take over the old filename and etext number.
+10104-8{_}975{_}The replaced older file is renamed.
+10104-8{_}976{_}VERSIONS based on separate sources are treated as new eBooks receiving new filenames and etext numbers.
+10104-8{_}977{_}Most people start at our Web site which has the main PG search facility:       http://www.gutenberg.net  This Web site includes information about Project Gutenberg-tm, including how to make donations to the Project Gutenberg Literary Archive Foundation, how to help produce our new eBooks, and how to subscribe to our email newsletter to hear about new eBooks.
+10104-8{_}978{_}EBooks posted prior to November 2003, with eBook numbers BELOW #10000, are filed in directories based on their release date.
+10104-8{_}979{_}If you want to download any of these eBooks directly, rather than using the regular search system you may utilize the following addresses and just download by the etext year.
+10104-8{_}980{_}http://www.ibiblio.org/gutenberg/etext06      (Or /etext 05, 04, 03, 02, 01, 00, 99,      98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)  EBooks posted since November 2003, with etext numbers OVER #10000, are filed in a different way.
+10104-8{_}981{_}The year of a release date is no longer part of the directory path.
+10104-8{_}982{_}The path is based on the etext number (which is identical to the filename).
+10104-8{_}983{_}The path to the file is made up of single digits corresponding to all but the last digit in the filename.
+10104-8{_}984{_}For example an eBook of filename 10234 would be found at:       http://www.gutenberg.net/1/0/2/3/10234  or filename 24689 would be found at:      http://www.gutenberg.net/2/4/6/8/24689  An alternative method of locating eBooks:      http://www.gutenberg.net/GUTINDEX.ALL   

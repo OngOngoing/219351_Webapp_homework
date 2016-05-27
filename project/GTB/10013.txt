@@ -1,0 +1,1018 @@
+10013{_}0{_}Project Gutenberg's Punchinello, Vol.
+10013{_}1{_}1, No.
+10013{_}2{_}9, May 28, 1870, by Various  This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever.
+10013{_}3{_}You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.net   Title: Punchinello, Vol.
+10013{_}4{_}1, No.
+10013{_}5{_}9, May 28, 1870  Author: Various  Release Date: November 7, 2003 [EBook #10013]  Language: English  Character set encoding: ASCII  *** START OF THIS PROJECT GUTENBERG EBOOK PUNCHINELLO, VOL.
+10013{_}6{_}1, NO.
+10013{_}7{_}9 ***     Produced by Joshua Hutchinson, Steve Schulze and PG Distributed Proofreaders         +--------------------------------------------------------------+   |                                                              |   |                           CONANT'S                           |   |                                                              |   |                        PATENT BINDERS                        |   |                                                              |   |                             FOR                              |   |                                                              |   |                        "PUNCHINELLO,"                        |   |                                                              |   | to preserve the paper for binding, will be sent, post-paid,  |   |                 on receipt of One Dollar, by                 |   |                                                              |   |                 PUNCHINELLO PUBLISHING CO.,                  |   |                                                              |   |               83 Nassau Street, New-York City.
+10013{_}8{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                       TO NEWS-DEALERS.
+10013{_}9{_}|   |                                                              |   |                    PUNCHINELLO'S MONTHLY.
+10013{_}10{_}|   |                  THE FIVE NUMBERS FOR APRIL                  |   |                  Bound in a Handsome Cover,                  |   |               IS NOW READY.
+10013{_}11{_}Price Fifty Cents.
+10013{_}12{_}|   |                                                              |   |                          THE TRADE                           |   |                       SUPPLIED BY THE                        |   |                    AMERICAN NEWS COMPANY.
+10013{_}13{_}|   |                                                              |   |           Who are now prepared to receive Orders.
+10013{_}14{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                  HARRISON BRADFORD & CO.'S                   |   |                                                              |   |                         STEEL PENS.
+10013{_}15{_}|   |                                                              |   | These pens are of a finer quality, more durable, and cheaper |   |    than any other Pen In the market.
+10013{_}16{_}Special attention is    |   |  called to the following grades, as being better suited for  |   |       business purposes than any Pen manufactured.
+10013{_}17{_}The       |   |                                                              |   |            "505," "22," and the "Anti-Corrosive,"            |   |                                                              |   |            We recommend for bank and office use.
+10013{_}18{_}|   |                                                              |   |                      D. APPLETON & CO.,                      |   |                                                              |   |               _Sole Agents for United States._               |   |                                                              |   +--------------------------------------------------------------+    Vol.
+10013{_}19{_}1.
+10013{_}20{_}No.
+10013{_}21{_}9.
+10013{_}22{_}PUNCHINELLO   SATURDAY, MAY 28, 1870.
+10013{_}23{_}PUBLISHED BY THE  PUNCHINELLO PUBLISHING COMPANY,  83 NASSAU STREET, NEW-YORK.
+10013{_}24{_}*       *       *       *       *  _Will Shortly appear: Our New Serial, Written expressly for Punchinello, by ORPHEUS C. KERR, Entitled, "The Mystery of Mr. E.
+10013{_}25{_}Drood."
+10013{_}26{_}To be continued weekly during this year._     +--------------------------------------------------------------+   |                                                              |   |               APPLICATIONS FOR ADVERTISING IN                |   |                                                              |   |                        "PUNCHINELLO"                         |   |                                                              |   |                    SHOULD BE ADDRESSED TO                    |   |                                                              |   |                        J. NICKINSON,                         |   |                                                              |   |                         Room No.
+10013{_}27{_}4,                          |   |                                                              |   |                      83 NASSAU STREET.
+10013{_}28{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                      Notice to Ladies.
+10013{_}29{_}|   |                                                              |   |                           DIBBLEE,                           |   |                                                              |   |                       Of 854 Broadway,                       |   |                                                              |   |    Has just received a large assortment of all the latest    |   |            styles of Chignons, Chatelaines, etc.,            |   |                                                              |   |                         FROM PARIS.
+10013{_}30{_}|   |                                                              |   |        Comprising the following beautiful varieties:         |   |                                                              |   |      La Coquette, La Plenitude, La Bouquet, La Sirene,       |   |                     L'Imperatrice etc.,                      |   |                                                              |   |              At prices varying from $2 upward.
+10013{_}31{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                        AGENTS WANTED                         |   |                                                              |   | In every town, county, and State, to canvass for HENRY WARD  |   | BEECHER'S great weekly paper, with which is GIVEN AWAY that  |   |     superb and world-renowned work of art, "_Marshall's      |   | Household Engraving of Washington_."
+10013{_}32{_}The best paper and the  |   | grandest engraving In America.
+10013{_}33{_}Agents report "making $20 in  |   | half a day."
+10013{_}34{_}"Sales easier than books, and profits greater."
+10013{_}35{_}|   |      Ladies or gentlemen desiring immediate or largely       |   |      remunerative employment should apply at once.
+10013{_}36{_}Book      |   |  canvassers, and all soliciting agents will find more money  |   |   in this than in anything else.
+10013{_}37{_}It is something _entirely   |   | new_, being an _unprecedented combination_ and very taking.
+10013{_}38{_}|   |                Send for circular and terms to                |   |                                                              |   |                J.
+10013{_}39{_}B. FORD & CO., Publishers,                 |   |                                                              |   |                    39 Park Row, New-York.
+10013{_}40{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                     PHELAN & COLLENDER,                      |   |                                                              |   |                       MANUFACTURERS OF                       |   |                                                              |   |              Standard American Billiard Tables.
+10013{_}41{_}|   |                                                              |   |                    WAREROOMS AND OFFICE,                     |   |                                                              |   |                   738 BROADWAY, NEW-YORK.
+10013{_}42{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                       GEO.
+10013{_}43{_}B. BOWLEND,                       |   |                                                              |   |                  DRAUGHTSMAN AND DESIGNER,                   |   |                                                              |   |                      160 FULTON STREET,                      |   |                                                              |   |                         Room No.
+10013{_}44{_}11.
+10013{_}45{_}|   |                                                              |   |                          NEW-YORK.
+10013{_}46{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                       WEVILL & HAMMAR,                       |   |                                                              |   |                       Wood Engravers,                        |   |                                                              |   |                      No.
+10013{_}47{_}208 BROADWAY,                       |   |                                                              |   |                          NEW-YORK.
+10013{_}48{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                   Thomas J. Rayner & Co.,                    |   |                                                              |   |                      29 LIBERTY STREET,                      |   |                                                              |   |                          New-York,                           |   |                                                              |   |                     MANUFACTURERS OF THE                     |   |                                                              |   |          _Finest Cigars made in the United States._          |   |                                                              |   |                                                              |   | All sizes and styles.
+10013{_}49{_}Prices very moderate.
+10013{_}50{_}Samples sent to  |   |         any responsible house.
+10013{_}51{_}Also importers of the         |   |                                                              |   |                      _"FUSBOS" BRAND,_                       |   |                                                              |   | Equal in quality to the best of the Havana market, and from  |   |               ten to twenty per cent cheaper.
+10013{_}52{_}|   |                                                              |   | Restaurant, Bar, Hotel, and Saloon trade will save money by  |   |                          calling at                          |   |                                                              |   |                      29 LIBERTY STREET.
+10013{_}53{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                       HERCULES MUTUAL                        |   |                                                              |   |                        LIFE ASSURANCE                        |   |                                                              |   |                           SOCIETY                            |   |                                                              |   |                    OF THE UNITED STATES.
+10013{_}54{_}|   |                                                              |   |                 No.
+10013{_}55{_}240 Broadway, New-York.
+10013{_}56{_}|   |                                                              |   |                  POLICIES NON-FORFEITABLE.
+10013{_}57{_}|   |                                                              |   |                         All Policies                         |   |            Entitled to Participation in Profits.
+10013{_}58{_}|   |                 Dividends Declared Annually.
+10013{_}59{_}|   |                                                              |   |                 JAMES D. REYMERT, President.
+10013{_}60{_}|   |                                                              |   |                  ASHER S. MILLS, Secretary.
+10013{_}61{_}|   |                                                              |   |          THOMAS H. WHITE.
+10013{_}62{_}M.D.,  Medical Examiner.
+10013{_}63{_}|   |                                                              |   |                    ACTIVE AGENTS WANTED.
+10013{_}64{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                         PUNCHINELLO.
+10013{_}65{_}|   |                                                              |   |   With a large and varied experience in the management and   |   | publication of a paper of the class herewith submitted, and  |   |  with the still more positive advantage of an Ample Capital  |   |               to justify the undertaking, the                |   |                                                              |   |                  PUNCHINELLO PUBLISHING CO.                  |   |                                                              |   |                   OF THE CITY OF NEW-YORK,                   |   |                                                              |   |           Presents to the public for approval, the           |   |                                                              |   |            NEW ILLUSTRATED HUMOROUS AND SATIRICAL            |   |                                                              |   |                        WEEKLY PAPER,                         |   |                                                              |   |                         PUNCHINELLO,                         |   |                                                              |   | The first number of which was issued under date of April 2.
+10013{_}66{_}|   |                                                              |   |  PUNCHINELLO will be entirely original; humorous and witty   |   | without vulgarity, and satirical without malice.
+10013{_}67{_}It will be  |   | printed on a superior tinted paper of sixteen pages, size 13 |   |  by 9, and will be for sale by all respectable newsdealers   |   | who have the judgment to know a good thing when they see it, |   |             or by subscription from this office.
+10013{_}68{_}|   |                                                              |   |                      ORIGINAL ARTICLES,                      |   |                                                              |   | Suitable for the paper, and Original Designs, or suggestive  |   | ideas or sketches for illustrations, upon the topics of the  |   | day, are always acceptable, and will be paid for liberally.
+10013{_}69{_}|   |                                                              |   |                            Terms:                            |   |                                                              |   | One copy, per year, in advance ....................... $4.00 |   |                                                              |   |                  Single copies, ten cents.
+10013{_}70{_}|   |                                                              |   | A specimen copy will be mailed free upon the receipt of ten  |   |                            cents.
+10013{_}71{_}|   |                                                              |   | One copy, with the Riverside Magazine, or any other magazine |   |  or paper, price, $2.50, for ......................... 5.50  |   |                                                              |   | One copy, with any magazine or paper, price, $4, for .. 7.00 |   |                                                              |   |  All communications, remittances, etc., to be addressed to   |   |                                                              |   |                 PUNCHINELLO PUBLISHING CO.,                  |   |                                                              |   |                    No.
+10013{_}72{_}83 Nassau Street,                     |   |                                                              |   |                           NEW-YORK                           |   |                                                              |   |                       P.O.
+10013{_}73{_}Box, 2783.
+10013{_}74{_}|   |                                                              |   |            (_For terms to Clubs, see 16th page_.)
+10013{_}75{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                     Mercantile Library,                      |   |                                                              |   |                  Clinton Hall, Astor Place,                  |   |                                                              |   |                          NEW-YORK.
+10013{_}76{_}|   |                                                              |   | This is now the largest circulating Library in America, the  |   |    number of volumes on its shelves being 114,000.
+10013{_}77{_}About     |   | 1000 volumes are added each month; and very large purchases  |   |            are made of all new and popular works.
+10013{_}78{_}|   |                                                              |   |Books are delivered at members' residences for five cents each|   |                          delivery.
+10013{_}79{_}|   |                                                              |   |                                                              |   |                     TERMS OF MEMBERSHIP:                     |   |                                                              |   |                          TO CLERKS,                          |   |                                                              |   |                $1 Initiation, $3 Annual Dues.
+10013{_}80{_}|   |                                                              |   |                    TO OTHERS, $5 a year.
+10013{_}81{_}|   |                                                              |   |                   SUBSCRIPTIONS TAKEN FOR                    |   |                         SIX MONTHS.
+10013{_}82{_}|   |                                                              |   |                        BRANCH OFFICES                        |   |                                                              |   |                              AT                              |   |                                                              |   |                NO.
+10013{_}83{_}76 CEDAR STREET, NEW-YORK,                |   |                                                              |   |                            AND AT                            |   |                                                              |   |          Yonkers, Norwalk, Stamford, and Elizabeth.
+10013{_}84{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                           AMERICAN                           |   |                                                              |   |                   BUTTONHOLE, OVERSEAMING,                   |   |                                                              |   |                             AND                              |   |                                                              |   |                     SEWING-MACHINE CO.,                      |   |                                                              |   |               572 and 574 Broadway, New-York.
+10013{_}85{_}|   |                                                              |   |   This great combination machine is the last and greatest    |   |  Improvement on all former machines, making, in addition to  |   |  all the work done on best Lock-Stitch machines, beautiful   |   |                                                              |   |                   BUTTON AND EYELET HOLES.
+10013{_}86{_}|   |                                                              |   |                       in all fabrics.
+10013{_}87{_}|   |                                                              |   |                Machine, with finely finished                 |   |                                                              |   |                 OILED WALNUT TABLE AND COVER                 |   |                                                              |   |  complete, $75.
+10013{_}88{_}Same machine, without the buttonhole parts,  |   | $60.
+10013{_}89{_}This last is beyond all question the simplest, easiest  |   |    to manage and to keep in order, of any machine in the     |   |  market.
+10013{_}90{_}Machines warranted, and full instruction given to   |   |                         purchasers.
+10013{_}91{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                    HENRY SPEAR, PRINTER,                     |   |                                                              |   |                        LITHOGRAPHER,                         |   |                                                              |   |                          STATIONER.
+10013{_}92{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                         J. NICKINSON                         |   |                                                              |   |              begs to announce to the friends of              |   |                                                              |   |                        "PUNCHINELLO"                         |   |                                                              |   | residing in the country, that, for their convenience, he has |   |    made arrangements by which, on receipt of the price of    |   |                                                              |   |                 ANY STANDARD BOOK PUBLISHED,                 |   |                                                              |   |          the same will be forwarded, postage paid.
+10013{_}93{_}|   |                                                              |   | Parties desiring Catalogues of any of our Publishing Houses  |   |     can have the same forwarded by inclosing two stamps.
+10013{_}94{_}|   |                                                              |   |                          OFFICE OF                           |   |                                                              |   |                  PUNCHINELLO PUBLISHING CO.                  |   |                                                              |   |                      83 Nassau Street.
+10013{_}95{_}|   |                                                              |   |                       [P.O.
+10013{_}96{_}Box 2783.]
+10013{_}97{_}|   |                                                              |   +--------------------------------------------------------------+         *       *       *       *       *  [Illustration: AT THE MERCANTILE LIBRARY.
+10013{_}98{_}_Mr.
+10013{_}99{_}Nottmuch_, (to Clerk in Library.)
+10013{_}100{_}"I SEE BY YOUR CIRCULAR THAT VISITORS OF DISTINCTION HAVE FREE ACCESS TO YOUR READING-ROOM, AND AS I HAVE CONTRIBUTED A STORY TO THE 'WAYERLY MAGAZINE,'" etc.
+10013{_}101{_}_Nottmuch_, (having obtained access to the reading-room.)
+10013{_}102{_}"A VERY PRETTY GIRL, THAT SUPERINTENDENT!
+10013{_}103{_}HAS SHE PERUSED MY STORY, OR DO I DAZZLE HER WITH MY LOOKS?
+10013{_}104{_}HA!
+10013{_}105{_}SHE RISES!----."
+10013{_}106{_}_Lady Superintendent_.
+10013{_}107{_}(blandly but firmly).
+10013{_}108{_}"EXCUSE ME, SIR, BUT IT'S AGAINST THE RULES FOR GENTLEMEN TO PLACE THEIR FEET ON CHAIRS."]
+10013{_}109{_}*       *       *       *       *  HIGH NOTES BY OUR MUSICAL CRITIC.
+10013{_}110{_}PUNCHINELLO'S critic, always the friend of fair-play, resents the insinuation that Mr. CARL ROSA has been a careless director of Opera.
+10013{_}111{_}The truth is that Mr. ROSA has not produced the smallest work without a great deal of Preparation.
+10013{_}112{_}FLOTOW'S _Shadow_ is to be brought out in London.
+10013{_}113{_}It will not stand the ghost of a chance unless well mounted.
+10013{_}114{_}Music light and sketchy; remarkable for a Chorus of Fishermen, well known as the "Shad oh!
+10013{_}115{_}song."
+10013{_}116{_}_Lohengrin_ has had a run of eight nights at Brussels, with average receipts of little less than four thousand francs.
+10013{_}117{_}This sort of tune is the only one in the music of the Future which managers can understand.
+10013{_}118{_}Nevertheless Herr WAGNER is not out of spirits.
+10013{_}119{_}Intent upon laying the foundations of future wealth and fame, he can lay Low and Grin.
+10013{_}120{_}Brussels gold will serve him as well as _Rheingold_.
+10013{_}121{_}The difference between BACH'S music find a music-box is yet an unsettled conundrum.
+10013{_}122{_}Such is likely to be the fate of the question raised with so much temper over the Passion Music of that great man by the English critics.
+10013{_}123{_}Shame on all critics that condemn MOZART as a fogy and BACH as a nuisance.
+10013{_}124{_}Of course it is going back on BACH with a vengeance, but what sympathy can exist between the old fuguemakers and the modern high-flyers?
+10013{_}125{_}*       *       *       *       *  LATEST NEWS ITEMS.
+10013{_}126{_}A SHEFFIELD paper has been prosecuted for asserting that the Prince of Wales was a fast young man.
+10013{_}127{_}The prosecution was withdrawn as soon as the editor confessed that the Prince was loose.
+10013{_}128{_}The Treasury Department is much distressed by the great genius for smuggling displayed by the Chinese immigrants.
+10013{_}129{_}They secrete opium in all sorts of wonderful places, and so worry the custom-house officers dreadfully.
+10013{_}130{_}Several children have been arrested for bringing their "poppies" over with them, and feeling in favor of the offenders ran so high that a number of women were fined for having a share in laud'n'm.
+10013{_}131{_}The bull fights in London have come to a mournful conclusion.
+10013{_}132{_}The bulls refused to take part, and the principal combatant instead of being all Matted O'er with the blood of his taurine victims, has been sent to prison for trying to Pick a Door lock.
+10013{_}133{_}The Last of the Piegans is travelling East, on his way to Philadelphia, to see "SHERIDAN'S Ride."
+10013{_}134{_}He was away from home when PHILIP was there, and is very anxious to know the young man when he sees him again.
+10013{_}135{_}Hence his laudable anxiety to study the picture.
+10013{_}136{_}The Fenian Army.
+10013{_}137{_}If the Fenians send an army to aid the Red river insurgents, it may probably be the only "BIEL" work they will attempt this year.
+10013{_}138{_}*       *       *       *       *  Entered, according to Act of Congress, in the year 1870, by the PUNCHINELLO PUBLISHING COMPANY, in the Clerk's Office of the District Court of the United States, for the Southern District of New York.
+10013{_}139{_}*       *       *       *       *  WHAT I KNOW ABOUT PROTECTION.
+10013{_}140{_}DEAR PUNCHINELLO: Having skilfully illuminated Free Trade, I now proceed to elucidate Protection.
+10013{_}141{_}You see when we reach Protection, the boot is on the other leg; _you_ make the conundrums then, and the other man tries to guess them.
+10013{_}142{_}There are many kinds of protection; there's the kind which a State's prison-keeper gives to one of his birds; the kind which a black-and-tan terrier, or a freshly-imported Chinaman, extends to a good fat rat; the kind which a pious young man offers to a fair and tender damsel, when he places his arm around her dainty waist, and gently absorbs the dew of innocence from her rosy lips, (that idea, is, I think, plagiarized from TENNYSON,) and the kind which a delicate mother-in-law, blessed with nerves, pours out upon her son-in-law.
+10013{_}143{_}But I leave the discussion of such things to weaker birds, and soar myself to a higher kind, _i.e._, that Protection which is diametrically opposed to Free Trade.
+10013{_}144{_}Protection, in this sense, is--well, let me follow my own admirable example, and illustrate: You own a coal mine in Pennsylvania, which contains tolerably poor coal, with which you mix a proper amount of stone, and then sell the mixture for a high price.
+10013{_}145{_}ICHABOD BLUE-NOSE owns a coal mine in Nova Scotia, which furnishes good coal; he puts no slate in it, and yet sells it at a low figure.
+10013{_}146{_}You reflect that with such opposition you will never manage to dispose of all your stone, so you apply to Congress, and have a high tariff put on coal.
+10013{_}147{_}That's Protection.
+10013{_}148{_}Metaphysically defined, Protection is the natural right, inherent in every American citizen, to obtain money in large quantities for goods of small qualities.
+10013{_}149{_}Protection is not a natural production; it was invented about the time taxes were, though it must be admitted that those very annoying articles appeared very early in the history of the human race.
+10013{_}150{_}I've no doubt that ADAM levied taxes, though it's very doubtful if he could put as many things in a tax levy as a New York politician can.
+10013{_}151{_}Certainly there was a very high tariff on apples in his day--so high that humanity has not yet succeeded in paying off the duty on the one ADAM ate.
+10013{_}152{_}ABRAHAM paid taxes, and, as he was his own Senate and House, doubtless he passed a tariff bill to suit himself, and had any quantity of Protection.
+10013{_}153{_}I have always regretted that NOAH didn't pass a bill protecting native industry, because he could have enforced it, and had no wrangling about it.
+10013{_}154{_}There are one or two points about Protection which a wayfaring man, even if people labor under the impression that he is a fool, can understand.
+10013{_}155{_}If you are JOHN SMITH and own a coal mine or an iron mill, you go to Washington, see your Congressman, (by see I mean look at him, of course,) donate large sums of money to certain poor, but honest men, who adorn the lobby of the House, while they are waiting for generous patrons like unto you, then go home and calmly await the result.
+10013{_}156{_}Your representative makes a speech, the exordium of which is Patriotism, the peroration of which is Star-Spangled Banner, and the central plum of which is your coal mine or iron mill.
+10013{_}157{_}Your poor and honest friends wear out several pairs of shoes, the tariff bill is passed, your mine or mill is abundantly protected, and the country is saved.
+10013{_}158{_}If, on the other hand, you are JOHN BROWN, and raise cabbages and turnips on a farm, you are allowed to pay high prices for SMITH'S coal or iron, but you expect no Protection, and you've a sure thing of getting what you expect.
+10013{_}159{_}Of course you don't imagine that I shall explain the details of this profound subject.
+10013{_}160{_}There are only two men in this country who think they can do that, and each one of those says that the other is an idiot.
+10013{_}161{_}As a rule, figures can't lie; but look out for the exceptions when you run across the subject of Protection.
+10013{_}162{_}The very same figures have an ugly way of proving both sides of a question.
+10013{_}163{_}You run down a fact, and think you've got it, but, before you know it, it has slipped, like the "little joker," over to the other side.
+10013{_}164{_}Personally, I am a Protectionist.
+10013{_}165{_}Formerly I indulged in that monstrous absurdity, Free Trade, but then I was an importer; now, being a manufacturer, the scales have fallen from my eyes, and I am of the straitest sect a Protectionist.
+10013{_}166{_}You can't give me too much of it.
+10013{_}167{_}Of course I can't see why pig-iron should be protected, and pigs not.
+10013{_}168{_}I think every native production should be cared for, and that there should be an excessively high tariff on foreign food.
+10013{_}169{_}In that case poor REVERDY JOHNSON would have been compelled to have passed a Lenten season at Halifax, until he had eradicated from his system the rich English dinners, before he could have entered this favored land.
+10013{_}170{_}And MOTLEY--bless me, he has eaten so much that I don't believe he could get it out of his body if he fasted for the remainder of his natural life.
+10013{_}171{_}I am informed, however, that Protection does us one injury.
+10013{_}172{_}All the _World_ says that there is a Parsee in our land, who is loaded with rupees, but who is unable to spend them here because of our protective system, and what all the _World_ says, you know, must be true.
+10013{_}173{_}However, there are 40,000,000 of us, and, if Congress will make all Americans buy my patent door-knobs, the Parsee can go to--Hindostan.
+10013{_}174{_}I don't think any thing more can be said about Protection.
+10013{_}175{_}Any body who doesn't understand it now had better go to Washington, and listen to the debate on scrap-iron.
+10013{_}176{_}That will sharpen his wits.
+10013{_}177{_}Pig-iron, of course, is interesting, but then that's a light and airy subject.
+10013{_}178{_}Hear the debate on scrap-iron, by all means.
+10013{_}179{_}LOT.
+10013{_}180{_}*       *       *       *       *  A LITERARY VAMPIRE.
+10013{_}181{_}No greater mistake was ever made than the supposition that PUNCHINELLO is to be assailed with impunity by rival publications.
+10013{_}182{_}It is well known that he never courted controversies or quarrels, and his best friends understand perfectly his love for a peaceable career.
+10013{_}183{_}But when that flippant sheet, known as _Rees's American Encyclopedia_, comes out with a violent attack upon PUNCHINELLO'S past life and present course, the assault is such as would provoke a retort from any honest man.
+10013{_}184{_}The vile insinuation that PUNCHINELLO is printed and published for the sole purpose of making money out of its subscribers and the reading public in general, is too mendacious for refutation; and when the reckless editor of the periodical in question gravely announces that he can never read PUNCHINELLO without laughing at its contents, it will be readily seen that he goes so far as to make use of the truth to serve his wicked purposes.
+10013{_}185{_}But the descent which this shameless conductor of a journal, confessedly the organ of our ignorant masses, has made into the private life of PUNCHINELLO, is without precedent.
+10013{_}186{_}He states that for the first fourteen years of his life, PUNCHINELLO was, to all intents and purposes, a person of little or no fortune, and that he depended entirely upon his parents for support; that, until he had reached his fifth birthday, he had absolutely no knowledge of English literature, and was entirely ignorant of even the rudiments of the classics; that he never paid one cent of income tax at that period of his life; and that his belief in the fundamental principles of political economy was, at that time, doubted by all who knew him best!
+10013{_}187{_}Are such statements as these to be submitted to by a man of honor?
+10013{_}188{_}Never!
+10013{_}189{_}PUNCHINELLO dares the recreant editor of the dirty sheet to do his worst!
+10013{_}190{_}Of that base man he could tell much which would render him unfit for the association of any person living, but he forbears.
+10013{_}191{_}This much, however, he will say.
+10013{_}192{_}It is well known that the said calumniator did, at many periods of his life, make use of the services of a _calceolarius_.
+10013{_}193{_}Think of that, freemen of America!
+10013{_}194{_}He has often been known to submit to indignities, such as nose-pulling from the hands of a common _tonsor_, and has been frequently in such a condition that he could not appear in public without the assistance of a _sartor_!
+10013{_}195{_}Is it fitting that a high-toned journalist should engage in petty recriminations with such a one?
+10013{_}196{_}"Revenge," says JAMES MURDOCK, "is the sweetest morsel cooked in its own gravy, with _sauce moyennaise_."
+10013{_}197{_}"Yes," said Dean SWIFT, "and let us have some, and a little gin, say five fingers, and a trifle of milk."
+10013{_}198{_}Thus it is that we regard the editor of the _Encyclopedia_.
+10013{_}199{_}CARLYLE remarks, "Many a vessel, (for if not a Vessel, then surely we, or our progenitors, in counting ships, and the assumptive floatative mechanisms of anterior and past ages; or as the Assyrians [under-estimating the force of the correlative elements] declared a bridging, or a going over [not of seas merely, but of those chaotic gaps of the mind] are all wrong enough indeed,) has never got there."
+10013{_}200{_}We also think of that editor in this way, and trust that enough has been said to make it plain that PUNCHINELLO is not to be attacked with impunity by every little journal of the day.
+10013{_}201{_}*       *       *       *       *  Encouraging for Travellers.
+10013{_}202{_}The managers of a leading railroad announce that they take passengers "to all principal points of the West without change."
+10013{_}203{_}Such unusual liberality, at a time when Change is so scarce with many people, ought to insure for that railroad a great success.
+10013{_}204{_}*       *       *       *       *  Alike, but Different.
+10013{_}205{_}Poetry sometimes has a Ring in it.
+10013{_}206{_}So has a pig's nose.
+10013{_}207{_}*       *       *       *       *  THE PLAYS AND SHOWS.
+10013{_}208{_}Military dramas might, as a rule, be called with equal propriety millinery dramas.
+10013{_}209{_}In other words, their success is generally due to their costumes.
+10013{_}210{_}In this respect they afford a marked contrast to ballet spectacles.
+10013{_}211{_}The latter give us inanity without clothes; the former, inanity in particularly gorgeous clothes.
+10013{_}212{_}Which, again, leads to the further remark that the difference between the two styles of inanity is, after all, a clothes thing.
+10013{_}213{_}This is a joke.
+10013{_}214{_}The _Lancers_, now running at WALLACK'S, (a proceeding which implies no want of bravery on the part of that distinguished corps,) is, however, unlike most military dramas, inasmuch as it is a bright and brilliant play.
+10013{_}215{_}Moreover, it is acted by the best members of the Company in their very best manner.
+10013{_}216{_}Miss LOUISA MOORE, whose golden hair and silvery voice become an actress of genuine mettle as well as gentle grace, is ESTELLE, the heroine; Miss EMILY MESTAYER is the Commanding Sister of Col. EPEE who is personated by Mr. FISHER; Mr. WYNDHAM is the Graceless Private, who, having spent his last penny, enlists in the Lancers and spends vast sums in beneficiary beer in company with his comrades; Mr. WILLIAMSON is the Kindly Sergeant; Mr. RINGGOLD is the Genial Artist, whose velvet coat suggests that he has recently managed a Starr _opera bouffe_ enterprise; and Mr. STODDART is happy in the congenial character of a Clumsy Trumpeter.
+10013{_}217{_}If any speculative manager pretends that he has a better hypothetical cast in his eye than the present cast of the _Lancers_, let him be given to the surgical tormentors to be operated upon for malignant _strabismus_.
+10013{_}218{_}The curtain rises upon the Genial Artist searching for his friend, the Graceless Private, in the empty jugs and glasses at the _Golden Sun Inn_.
+10013{_}219{_}To him enters the Clumsy Trumpeter.
+10013{_}220{_}_Genial Artist_.
+10013{_}221{_}"Where can he be?
+10013{_}222{_}It--it must, and yet--"  _Clumsy Trumpeter (without Stoddart's usual oath.
+10013{_}223{_})_ "He's got 'em.
+10013{_}224{_}Hallo!
+10013{_}225{_}friend.
+10013{_}226{_}Do you want any thing?"
+10013{_}227{_}_Genial Artist_.
+10013{_}228{_}"Yes--no--that is--or rather it isn't--" (_Exit, while Trumpeter makes faces at the gallery_.)
+10013{_}229{_}_Enter_ ESTELLE _and her maid, disguised as peasants, and pursued by a troop of lancers_.
+10013{_}230{_}_All the Lancers_.
+10013{_}231{_}"Let _me_ kiss 'em."
+10013{_}232{_}_Both the Girls_.
+10013{_}233{_}"Scr-r-r-r-e-e-e-ch."
+10013{_}234{_}(_Enter Graceless Private_.)
+10013{_}235{_}_Graceless Private_.
+10013{_}236{_}"I will protect you.
+10013{_}237{_}Get out, all you fellows."
+10013{_}238{_}(_They get out_.)
+10013{_}239{_}A flirtation between the Private and ESTELLE is at once begun, from which it appears that she came to catch a glimpse of the Colonel, who wants to marry her.
+10013{_}240{_}She and the Private sit on the table, and fall instantaneously in love.
+10013{_}241{_}As soon as they are well in, the Lancers return, and ESTELLE flies.
+10013{_}242{_}Graceless Private, having no money, pays for the co-inebriation of the entire corps, and while engaged in this praiseworthy occupation is found by the Genial Artist, who makes him promise to attend a ball at a neighboring _chateau_.
+10013{_}243{_}Enter Kindly Sergeant, who arrests the Graceless Private, and puts him in the guard-house.
+10013{_}244{_}Curtain falls amid faces from STODDART (without his usual oath) and applause from the audience.
+10013{_}245{_}_Veteran Play-goer_.
+10013{_}246{_}"Well, I've seen STODDART in every thing he has played this year, and this is the first time he has failed to swear on every ineligible occasion."
+10013{_}247{_}_Young Lady who frequents Wallack's_.
+10013{_}248{_}"Who is that Clumsy Trumpeter?
+10013{_}249{_}I don't know him."
+10013{_}250{_}_Accompanying Young Man_.
+10013{_}251{_}"Why, don't you know STODDART?"
+10013{_}252{_}_Young Lady_.
+10013{_}253{_}"Nonsense; that isn't STODDART.
+10013{_}254{_}Why, he hasn't sworn once."
+10013{_}255{_}_Fast Young Man_.
+10013{_}256{_}"STODDART isn't himself to-night.
+10013{_}257{_}He hasn't the spirit to swear.
+10013{_}258{_}Did you hear the good thing he said Monday night about Miss MOORE?
+10013{_}259{_}It was devilish good.
+10013{_}260{_}Says he--" (_Repeats an indelicate joke_.)
+10013{_}261{_}_Irate Old Gentleman who overhears the story_.
+10013{_}262{_}"If he said that, sir, he ought to have been hissed off the stage, sir; and turned out of the company, sir!
+10013{_}263{_}It was an insult to an estimable lady, and an outrage on the audience, sir!"
+10013{_}264{_}_The second act takes place in the salon of ESTELLE.
+10013{_}265{_}The Colonel and his Commanding Sister lay siege to_ ESTELLE'S _heart.
+10013{_}266{_}Graceless Private, in evening dress, countermines the Colonel's forces and routs them, wading deeper than before in the exhilarating surf of love, hand in hand with_ ESTELLE.
+10013{_}267{_}(_This metaphor has been leased for a term of years to a distinguished hydropathic poet.)
+10013{_}268{_}Clumsy Trumpeter drops books and things all over the room, and recognises the Graceless Private.
+10013{_}269{_}Finally the Colonel and the latter quarrel, and go out in the back yard to fight, where the Private is wounded in the arm.
+10013{_}270{_}The Colonel returns and announces the result to_ ESTELLE, _who swoons, or at all events, makes an admirable feint of so doing.
+10013{_}271{_}Curtain._  _Fast Young Man_.
+10013{_}272{_}"STODDART didn't try his good joke to-night.
+10013{_}273{_}He'll say something yet, though, before the play is over."
+10013{_}274{_}_Every body Else_.
+10013{_}275{_}"Did you ever see better acting than WYNDHAM'S and Miss MOORE'S?
+10013{_}276{_}And how capitally FISHER and Miss MESTAYER are playing?
+10013{_}277{_}STODDART positively hasn't sworn yet.
+10013{_}278{_}What can be the matter with him?"
+10013{_}279{_}_Inquiring Maiden, to her travelled lover_.
+10013{_}280{_}"Are the uniforms just like those of the real French Lancers?"
+10013{_}281{_}_Travelled Lover_.
+10013{_}282{_}"Very nearly.
+10013{_}283{_}There is one button too many on the front of the Colonel's coat.
+10013{_}284{_}I know the regiment well.
+10013{_}285{_}It's the crack artillery regiment in the French service."
+10013{_}286{_}_Act III.
+10013{_}287{_}shows us the Graceless Private brought before the Colonel for examination.
+10013{_}288{_}He feigns drunkenness, but the Colonel suspects him of having been his adversary at the ball_.
+10013{_}289{_}ESTELLE _visits the Colonel in order to save her Private lover.
+10013{_}290{_}He is proved to have broken his arrest, and is sentenced to death_.
+10013{_}291{_}ESTELLE _offers to marry the Colonel if he will pardon the Private.
+10013{_}292{_}The latter's discharge arrives in the nick of time, and as he is thus beyond the reach of the Colonel's vengeance, he graciously pardons him, and joins his hand to that of_ ESTELLE.
+10013{_}293{_}_He remarks--or ought to--"Bless you, my children."
+10013{_}294{_}Every body suddenly finds out that every body else is noble and generous.
+10013{_}295{_}And so the curtain falls upon a happy garrison, including a Trumpeter who has not sworn a single oath_.
+10013{_}296{_}_One Half of the Audience_.
+10013{_}297{_}"How do you like it?
+10013{_}298{_}I like it so much."
+10013{_}299{_}_The Other Half_.
+10013{_}300{_}"I like it immensely."
+10013{_}301{_}_Chorus from Every body_.
+10013{_}302{_}"Why didn't STODDART swear?"
+10013{_}303{_}_Answering Echo from the Tipperary Hills_.
+10013{_}304{_}"Because WALLACK has told him that the public won't stand it any longer."
+10013{_}305{_}And the public is right.
+10013{_}306{_}Mr. STODDART is an exceptionally able actor, but of late he has grown intolerably coarse and vulgar while on the stage.
+10013{_}307{_}His profanity has disgraced himself and the theatre, and his gratuitous insult to an estimable lady, who had the misfortune to appear in the same scene with him on Monday night, should have secured his instant dismissal from the company, and his perpetual banishment to _Tammany_ or _Tony Pastor's_.
+10013{_}308{_}Let him turn over a new leaf at once.
+10013{_}309{_}He does not swear in the present play, and the fact is creditable to him.
+10013{_}310{_}He is a gentleman in private life; let him be a gentleman on the stage.
+10013{_}311{_}By so doing he will soon be recognized as one of the best comedians of the day.
+10013{_}312{_}And PUNCHINELLO will be the first to praise him when he lays aside the unnecessary vulgarity with which he has latterly bid for the applause of the gallery.
+10013{_}313{_}MATADOR.
+10013{_}314{_}*       *       *       *       *  THE RELIGION OF TEMPERANCE.
+10013{_}315{_}Says Poet to Parson--To save men from drinking,     Not many religions are good to my thinking;     To be sure a good Baptist a man of true grace is,     But a Hard Shell, my brother's the hardest of cases.
+10013{_}316{_}Your Shouter's too noisy for temperance talking,     Your Come-outer too harsh for right temperate walking.
+10013{_}317{_}A Quaker's not steady enough on his beam-ends,     And a Shaker is bad for _delirium tremens_.
+10013{_}318{_}But of all the hard drinkers religion has warmed,     To my mind the most hopeful's the _German Reformed_.
+10013{_}319{_}*       *       *       *       *  [Illustration: THE PET DOGS OF NEW-YORK PRESENT THEIR COMPLIMENTS, WITH THE ABOVE CUT, TO MR. BERGH, AND REQUEST THAT HE WILL CUR-TAIL THE SPORTS OF THOUGHTLESS CHILDREN WHO INSIST UPON PLAYING AT "HORSE" WITH THEM.]
+10013{_}320{_}*       *       *       *       *  Logical.
+10013{_}321{_}One PULLMAN, who preaches the "milk of the word," (not without gin, PUNCHINELLO supposes,) declares that the BIBLE is full of lies.
+10013{_}322{_}Well, according to his own view of it, PULLMAN must be full of Scripture.
+10013{_}323{_}*       *       *       *       *  The Real Fact.
+10013{_}324{_}Mr. COLFAX, says the Cincinnati Gazette, intends to call his new-born son CASABLANCA, the Vice-President having once "stood on a burning deck," etc.
+10013{_}325{_}PUNCHINELLO discovers a shrewder reason.
+10013{_}326{_}The plain English for Casablanca is White-House.
+10013{_}327{_}*       *       *       *       *  Concealed Weapons.
+10013{_}328{_}Detroit drunkards, says an exchange, use a stocking with a stone in it to avoid arrest--just as if a hat "with a brick in it" were not enough!
+10013{_}329{_}*       *       *       *       *  Written With a Steal Pen.
+10013{_}330{_}So great is the habit among editors of cribbing from each other, that if one were to write an article about an egg another would immediately Poach it.
+10013{_}331{_}*       *       *       *       *  The Battle of Hastings.
+10013{_}332{_}The fight between the _Commercial Advertiser_ and THEODORE TILTON.
+10013{_}333{_}*       *       *       *       *  Triumphs of the Chisel.
+10013{_}334{_}The Wall street "busts."
+10013{_}335{_}Good judges pronounce them Per Phidias.
+10013{_}336{_}*       *       *       *       *  What an Asthmatic Artist can not Draw.
+10013{_}337{_}A long breath.
+10013{_}338{_}*       *       *       *       *  "The American Working-woman's Union" Most Sought After.
+10013{_}339{_}MARRIAGE.
+10013{_}340{_}*       *       *       *       *  The Latest Edition of "Shoo!
+10013{_}341{_}Fly."
+10013{_}342{_}"MOSQUITO" at Niblo's.
+10013{_}343{_}*       *       *       *       *  THE CONGRESSMAN TO HIS CRITICS.
+10013{_}344{_}Well, talk, if you like; I suppose it's your way;     Each citizen, surely, should say all his say;     _I_ did just so, when I'd nothing to do;     And if _I_ felt like doing so, why shouldn't _you_!
+10013{_}345{_}It's republican, pleasant, and safe, to find fault;     If a man can't do _that_, why he's not worth his salt.
+10013{_}346{_}And never, since critics (and fleas) learned their powers,     Was a country more blest with such vermin than ours.
+10013{_}347{_}You've learned much about your old friend, it is said;     The farther I'm from you, the plainer I'm read!
+10013{_}348{_}When "one of the people" comes here to make laws,     The "people" disown him.
+10013{_}349{_}Now, what is the cause?
+10013{_}350{_}You say I'm not "dignified."
+10013{_}351{_}Well, friends--are you?
+10013{_}352{_}My language, my manners, are rough, it is true;     My tones, and my jokes, (since you say it,) are coarse;     But very few streams rise above their own source.
+10013{_}353{_}If we're all "politicians," and they are such trash     As you have declared them, why were you so rash     As to give us your votes?
+10013{_}354{_}What!
+10013{_}355{_}will nobody "run"     But a "mere politician?"
+10013{_}356{_}Why, then we're undone!
+10013{_}357{_}Come, come--this is nonsense!
+10013{_}358{_}Be fair, my good sirs!
+10013{_}359{_}Let us look at this question.
+10013{_}360{_}Suppose it occurs     That a long, prosy speech is about to be made;     If you say, "Stay and hear it," must you be obeyed?
+10013{_}361{_}But ours is a "serious business."
+10013{_}362{_}True!
+10013{_}363{_}And so are some other things serious, too!
+10013{_}364{_}Such as courtships, and dinners, and headaches, and blues,     And sight-seeing friends, whom 'tis death[1] to refuse!
+10013{_}365{_}Now, many of us (though it should not be said!)
+10013{_}366{_}Are really stupid, and haven't much head.
+10013{_}367{_}We don't take that view of our duty that _you_ do;     We're often so bothered we don't know what _to_ do!
+10013{_}368{_}Our votes look decided--as though we did know;     But that's because BUTLER or SCHENCK voted so.
+10013{_}369{_}Such points may come up, in the course of the day,     As would puzzle the Seraphim some, I should say!
+10013{_}370{_}Besides, gentle friends!
+10013{_}371{_}did you ever think so?
+10013{_}372{_}Perhaps we are paying you all that we owe.
+10013{_}373{_}If you want better service, why send better men,     And be better yourselves.
+10013{_}374{_}It will all be right, then.
+10013{_}375{_}[Footnote 1: Political death, of course.]
+10013{_}376{_}*       *       *       *       *  Come on, Ladies!
+10013{_}377{_}An Anti-mustache movement has begun in Boston.
+10013{_}378{_}PUNCHINELLO to explain that it begins altogether with the ladies, and is, of course, Right Against the mustaches.
+10013{_}379{_}*       *       *       *       *  For Lunatics Only.
+10013{_}380{_}The latest whim of the Lunatics in one of the Indiana Asylums is the notion that they can design and build opera-houses.
+10013{_}381{_}Well, we have lots of crazy architecture, and more than one gentleman has acknowledged himself insane for investing in opera-houses.
+10013{_}382{_}But PUNCHINELLO thinks that the tastes of the insane would be better encouraged if directed to the building of Courts of Justice.
+10013{_}383{_}Every Court-house thus constructed, would be a monument to the Plea of Insanity.
+10013{_}384{_}*       *       *       *       *  GLIMPSES OF FORTUNE.
+10013{_}385{_}You may not think so, my dear PUNCHINELLO, but it is true.
+10013{_}386{_}I have had them.
+10013{_}387{_}I am not one of your bloated aristocrats--just at the present moment--but I know as well as any one what WHITTIER meant when he said "it might have been."
+10013{_}388{_}As an instance of this, I will just state that it has not been a very long time since, in looking over the columns of one of our principal dailies, I saw something among the personals which seemed to touch my interests in, a very decided way.
+10013{_}389{_}I often look over the "Personals," for I know well the connection between fortune and the Press.
+10013{_}390{_}I have not forgotten the success of A.T. STEWART and many other millionaires, and their dependence on the newspapers--but never until that day had I seen any thing in that mystic column which could possibly be construed to apply to inc. As for the rest of the paper, I knew that there was nothing to interest me there.
+10013{_}391{_}You see I was after Fortune.
+10013{_}392{_}The advertisement to which I refer road as follows:  "If the gentleman in a dark hat and gray pantaloons, who, in a Broadway stage, one day last week, passed up the fare for a lady with blue eyes and high-heeled boots, will call at 831 Dash street, second floor, he will hear of something to his advantage.
+10013{_}393{_}A.R.R."
+10013{_}394{_}Now, it so happened, that during the whole of the preceding week I had worn a black hat and gray pantaloons; indeed, I had them on yet, and, to tell the truth, I had no others.
+10013{_}395{_}Therefore, this part of the case was all clear enough.
+10013{_}396{_}There was no reason why the gentleman inquired for should not be me.
+10013{_}397{_}I had certainly ridden in a stage in the last week, and I remember very well that I passed up the fare for lady with blue eyes.
+10013{_}398{_}I performed a similar service for several ladies; but one of them, I am sure, had blue eyes.
+10013{_}399{_}As to the high-heeled boots I suppose she wore them, but how was I to know that?
+10013{_}400{_}At all events it would be a piece of the most culpable indifference to my welfare to neglect this chance.
+10013{_}401{_}Fortune!
+10013{_}402{_}and through a lady, too!
+10013{_}403{_}To think of it!
+10013{_}404{_}The promised advantage might be great or small, but whatever it was, it would be most welcome.
+10013{_}405{_}And the honor, too!
+10013{_}406{_}A piece of positive advantage for an act of manly gallantry!
+10013{_}407{_}I immediately put on that black hat, and with those identical gray trowsers upon my legs, I strode down to 321 Dash street, and mounted instantly to the second floor.
+10013{_}408{_}As there was but one entrance door from the stair-way on this floor, I felt certain that I had found the right place.
+10013{_}409{_}The business of Mr. A.R.R.
+10013{_}410{_}was evidently a very profitable one, for his room was quite full of people.
+10013{_}411{_}I inquired of a boy for the author of the notice I held in my hand, (I had carefully cut it from the paper,) and was informed that this was the right place, and that the gentleman would see me in a few moments.
+10013{_}412{_}I took a seat and regarded the persons who were standing and sitting about the room.
+10013{_}413{_}They were all men, and in a few minutes I discovered, to my great surprise, that they all wore black hats and gray pantaloons!
+10013{_}414{_}I must admit, that when I made this discovery, I experienced a very peculiar sensation, as if some one had suddenly dropped a little ice-water down my back.
+10013{_}415{_}Was it possible that all these men were here in answer to that advertisement, which I considered addressed to me alone?
+10013{_}416{_}There were all sorts of them; old gentlemen with heads grayer than their pants; young fellows who looked like clerks; and middle-aged men, who seemed like very respectable heads of families.
+10013{_}417{_}Was it possible that each one of those individuals had, in the last week, passed up the fare of a blue-eyed lady with high-heeled boots?
+10013{_}418{_}And did each one of them expect to enjoy that advantage for which I came here?
+10013{_}419{_}One thing was certain; they did not announce to each other their business, but looked at their watches and tapped their boots, and knitted their brows as if each one of them had come on very particular business, which had nothing to do with the affairs of the general crowd.
+10013{_}420{_}But all those gray trowsers!
+10013{_}421{_}There was no concealing them.
+10013{_}422{_}A door, leading into an adjoining room, now opened quickly, and Mr. A.R.R.
+10013{_}423{_}made his appearance.
+10013{_}424{_}No one doubted that he was the man, for he bowed politely, and seemed to expect the company.
+10013{_}425{_}He was a tall, thin, and well-dressed man, and held in his hand a small package.
+10013{_}426{_}Instantly upon his appearance every man in the room stuck his thumb and forefinger into his vest pocket, and pulling out a little piece of printed paper, said, "Sir, I called--" A.R.R.
+10013{_}427{_}waved his hand.
+10013{_}428{_}"Gentlemen," said he, "I know why you called, and you will allow me to remark--"  "But look here," said a tall man with a blue cravat.
+10013{_}429{_}"I think that I am the person you want to see, and as I am in a hurry, I would like to see you for a few minutes in private."
+10013{_}430{_}Dozens of angry eyes were now directed upon this presumptuous individual, and dozens of angry voices were about to break forth when the benign A.R.R.
+10013{_}431{_}again waved his hand.
+10013{_}432{_}"Gentlemen," said he, "I wish to see you all.
+10013{_}433{_}No one more than another.
+10013{_}434{_}I have reason to believe that every one of you is the person to whom that advertisement referred.
+10013{_}435{_}I see you are all gentlemen, and you would not have made your appearance here had you not fulfilled the conditions mentioned in the paper."
+10013{_}436{_}Here was a smothered hum, which seemed to precede a general outbreak, but A.R.R., blandly smiling, continued:  "Gentlemen, do not become impatient.
+10013{_}437{_}What I have to say is to the advantage of every one of you.
+10013{_}438{_}You all move in good society--I can see that--and you therefore are well aware of some of the penalties of social pleasures and high living.
+10013{_}439{_}Consequently, gentlemen," and now he spoke very fast, as if fearful of interruption, "you must have, all of you, experienced some of the evils of indigestion, and it is to relieve these that I have prepared my Binocular Barberry Bitters--"  A roar of rage here broke forth from every man of us, and a rush was made towards the smiling impostor, but he quickly slipped through the door behind him, and locked it in our faces.
+10013{_}440{_}And then, before we could rush from the room where we had been so shamefully duped, the head of A.R.R.
+10013{_}441{_}appeared at a little window in the partition-wall, and he called out:  "Gentlemen, this mixture is, as my initials declare, a Radical Relief, and retails at one dollar per bottle, I hope you will take some of my circulars home with you," and he threw among the crowd the package of circulars which he had held in his hand.
+10013{_}442{_}This, O friend PUNCHINELLO, was only one of my Glimpses of Fortune.
+10013{_}443{_}I may yet see the jade more nearly.
+10013{_}444{_}IMPECUNE.
+10013{_}445{_}*       *       *       *       *  Query.
+10013{_}446{_}Under the conditions of the Fifteenth Amendment, should things continue to be put down in Black and White?
+10013{_}447{_}*       *       *       *       *  [Illustration:  "COMPARISONS ARE ODIOUS."
+10013{_}448{_}_Fond Mother._ "YES, HE'S A PRETTY GOOD BOY, BUT HE DON'T TAKE TO HIS LETTERS."
+10013{_}449{_}_Squire._ "WELL, HE OUGHTER, FOR HIS MOUTH IS LIKE THE SLIT OF A POST-OFFICE BOX."]
+10013{_}450{_}*       *       *       *       *  [Illustration: A TABLEAU OF THE DAY.
+10013{_}451{_}GENERAL DANA, WHO HAS BROUGHT THE FIRE OF THE "SUN" TO BEAR UPON EVERY BODY, NOW BEGINS TO REALIZE THE FORCE OF THE PROVERB--"FOLKS WHO LIVE IN GLASS HOUSES SHOULD NOT THROW STONES."]
+10013{_}452{_}*       *       *       *       *  THE INDIAN QUESTION.
+10013{_}453{_}[AS VIEWED IN THE WEST.]
+10013{_}454{_}This is _our_ business, understand!
+10013{_}455{_}You Eastern folks, with tempers bland     All get your views at second-hand.
+10013{_}456{_}We are the ones that take the brunt     Of every lively Indian-hunt,     So don't be angry if we're blunt.
+10013{_}457{_}If any body's scalped it's _us!_     So we've a well-earned right to cuss,     And you've _no_ right to make a fuss.
+10013{_}458{_}Talk as you please about their "rights;"     That don't include their coming nights,     And cutting out our lungs and lights.
+10013{_}459{_}You get your wife and children shot!
+10013{_}460{_}(Here it might happen, like us not,)     You'll make your mind up on the spot.
+10013{_}461{_}"Humanity" 's played out for _you!_     You've got some active work to do;     No doubt you'll see it well put through.
+10013{_}462{_}Until you've settled that small bill,     (As honorable debtors will,)     We fancy you will not keep still.
+10013{_}463{_}You will admit the tender plea     Of "broken faith;" but when you see     Your Red Skin, you won't let him be!
+10013{_}464{_}Just so with us.
+10013{_}465{_}We don't go back     Of _our_ affair!
+10013{_}466{_}We were not slack     In justice to this Devil's pack!
+10013{_}467{_}They settle with the wrong concern;     And as they never, _never'll_ learn,     We shoot 'em, and don't care a _dern!_         *       *       *       *       * [Illustration: EDITORIAL WASHING-DAY IN NEW-YORK.]
+10013{_}468{_}EDITORIAL WASHING-DAY.
+10013{_}469{_}Observe PUNCHINELLO'S Cartoon, in which you shall behold the editorial laundresses of New-York city having a washy time of it all around.
+10013{_}470{_}There is a, shriek of objurgation in the air, and a flutter of soiled linen on the breeze.
+10013{_}471{_}Granny MARBLE, to the extreme left of the picture, clenches her fists over the pungent suds, and looks fight at Granny JONES, of the _Times_.
+10013{_}472{_}The beaming phiz of Granny GREELEY looms up between the two, like the sun in a fog.
+10013{_}473{_}But the real _Sun_ in a fog is to be seen to the extreme right.
+10013{_}474{_}There you behold Granny DANA, shaking her "brawny bunch of fives" in the face of Granny YOUNG, whose manner of wringing out the linen, you will observe, is up to the highest _Standard_ of that branch of art.
+10013{_}475{_}Further away, Granny TILTON flutters her linen with spiteful flourish, nettled by the vituperation of Granny HASTINGS, who hangs up her _Commercial_ clothes on the line.
+10013{_}476{_}The _tableau_ is an instructive one; and it is to be hoped that all the U-Lye soaps used by the washerwomen is used up by this time, and that they will replace it with some having a sweeter perfume.
+10013{_}477{_}*       *       *       *       *  BOOK NOTICES.
+10013{_}478{_}MRS. JERNINGHAM'S JOURNAL.
+10013{_}479{_}New-York: Charles Scribner & Company.
+10013{_}480{_}A very cleverly-written narrative, in smooth verse, detailing the experience of a bride who took to flirting early in her matrimonial career, but was saved from coming to grief by the decisive action of a stern husband.
+10013{_}481{_}The book contains a capital lesson for the Girl of the Period, whose follies are satirized in it with a sharp pen.
+10013{_}482{_}*       *       *       *       *  NOTICE.
+10013{_}483{_}The attention of the Public is requested to PUNCHINELLO No.
+10013{_}484{_}10, which will be issued upon Thursday, May 26th.
+10013{_}485{_}It will be a very brilliant number, illustrated with flights of fancy by ten comic artists.
+10013{_}486{_}In PUNCHINELLO No.
+10013{_}487{_}11 will be commenced a new burlesque serial, "The Mystery of Mister E. Drood," written expressly for this paper by the celebrated humorist, ORPHEUS C. KERR.
+10013{_}488{_}*       *       *       *       *   [Illustration: MAKING A HASH OF IT.
+10013{_}489{_}_Customer_.
+10013{_}490{_}"I THOUGHT YOU HAD A GOOD PLACE WITH MR. ASHE; WHY ARE YOU GOING TO LEAVE?"
+10013{_}491{_}_Cockney Waiter_.
+10013{_}492{_}"FACT IS, SIR, HASHE IS IN THE 'ABIT OF MAKING USE OF HODIOUS LANGUAGE TO HIS WAITERS, SIR, AND NO MAN OF HEDUCATION COULD STAND _THAT_, SIR, YOU KNOW, SIR."]
+10013{_}493{_}*       *       *       *       *  JUMBLES.
+10013{_}494{_}MR. PUNCHINELLO, do you know when a woman is perfection itself?
+10013{_}495{_}"No."
+10013{_}496{_}I do.
+10013{_}497{_}It is when she is from sixteen to nineteen.
+10013{_}498{_}Of course you take her judgment.
+10013{_}499{_}At sixteen she is the coming flower that has come--the first Rose of Summer, and about the best that may be looked for.
+10013{_}500{_}Her ideas may not be solid, but they are expansive.
+10013{_}501{_}Her mind may not make a very great show, but her hair (real and otherwise) is sure to.
+10013{_}502{_}She is very deep in love--with herself.
+10013{_}503{_}The supremest divinity is seen when she looks in the mirror.
+10013{_}504{_}Call her ARABELLA if you like.
+10013{_}505{_}ARABELLA is mistress of that portion of the dictionary which includes the common-place compliments of society.
+10013{_}506{_}In her mouth they have a common place, indeed.
+10013{_}507{_}Some people call such utterances "stuff," "nonsense," "puerilities," but nobody is so prejudiced and unreliable as the above-named some people.
+10013{_}508{_}They complacently think they know a thing or two, but that is all it amounts to.
+10013{_}509{_}ARABELLA hasn't any doubt about her being perfection.
+10013{_}510{_}Unfortunately there is a question about some matters in this world in politics, religion, morality and other kindred things, but on the doctrine of perfection, as applied to her individual self, ARABELLA is clear and settled.
+10013{_}511{_}Did any body, she says _sotto voce_, to herself, ever put vision on such an ensemble countenance?
+10013{_}512{_}Were eyes ever more sparkling?
+10013{_}513{_}Were ever dimples dimpler?
+10013{_}514{_}Had ever peach such artistic hue, and teeth such pearly pearliness, and lips such positive sweetness, and brow such loveliness?
+10013{_}515{_}We suppose not.
+10013{_}516{_}ARABELLA is eighteen, is of elastic notions, sees life as a romance, believes the ground on which she walks ought to be grateful for the honor, and wonders if every body who goes out don't go straightway to talking rapturously about her.
+10013{_}517{_}ARABELLA is a type--the type of a class of perfectionists.
+10013{_}518{_}ARABELLA is neither a worm nor a butterfly, but the bridge between.
+10013{_}519{_}For all this ARABELLA believes herself to be the best of butterflies, with the capacity to fly in the highest manner.
+10013{_}520{_}At twenty-five her wings will be clipped, her colors will modify, her notions renovate, and her eyes open.
+10013{_}521{_}She will perceive that the doctrine of perfection is mythical, and angels upon earth only so in name.
+10013{_}522{_}Going to church is a good thing.
+10013{_}523{_}All good people go, and from good motives, of course.
+10013{_}524{_}Mrs. BROWN, says a wicked gossip, goes to show a bonnet; Mrs. JONES her shawl; Mrs. SMITH her silk; Mrs. JENKINS her gloves and fan.
+10013{_}525{_}No sane person believes that these ladies go for any such purpose.
+10013{_}526{_}The case isn't presumable.
+10013{_}527{_}They are nice, high-toned people, sit in $800 pews, adore Rev.
+10013{_}528{_}Dr. CANTWELL, and give very freely (of their husband's money) to the heathen in the uttermost corners of the earth.
+10013{_}529{_}They prefer, good souls, to give to the heathen under the equator to those under their noses.
+10013{_}530{_}It is _not_ true that ladies go to church for the display of dress.
+10013{_}531{_}It _is_ true Mrs. JONES does not wish to be outdone by Mrs. JENKINS, and isn't if STEWART can help it, but she is a good pious woman of simple tastes, though Mr. J. thinks she tastes rather often.
+10013{_}532{_}Going to church is a good thing for example's sake.
+10013{_}533{_}It is so nice and strengthening to reflect that, as the minister preaches piety, and you practice poetry, (with a pencil in the prayer-book,) you set an example to the rising generation.
+10013{_}534{_}One can never do too much for the rising generation, though it often rises too frequently and too high.
+10013{_}535{_}Besides, it encourages the minister.
+10013{_}536{_}Only think of talking to emptiness instead of fulness--to people instead of plush.
+10013{_}537{_}How can the dear Rev.
+10013{_}538{_}SPLURGE SPLUTTER have the heart or tongue to drop his pearls of eloquence to the swine of empty pews?
+10013{_}539{_}And how dreadful for the gifted soprano, Miss SCREECH, to tune her melodious voice to earless aisles!
+10013{_}540{_}And then it is so easy to "set" examples by sitting in soft pews, doing to church should be a matter of conscience.
+10013{_}541{_}Every body not a dolt admits conscience to be a good thing, though a thing every body cannot boast of possessing.
+10013{_}542{_}I like people of conscience--that is, I should like them if I knew any.
+10013{_}543{_}It is such a nice thing to talk about--and how much nicer to have.
+10013{_}544{_}Mrs. TODD often wishes "to conscience" she could reach mine.
+10013{_}545{_}I am sorry to say that at times Mrs. T. is an irreverent woman.
+10013{_}546{_}She doesn't perceive that some where under that hairless, proud dome of mine there must be a conscience--I may proudly say, an imposing conscience.
+10013{_}547{_}I said to Mrs. T. one day, "I _have_ an imposing conscience," and she really thought so--adding the cruel expression that she didn't know of any thing about me but _was_ imposing, and that she first became aware of the sad fact when she married me.
+10013{_}548{_}TIMOTHY TODD.
+10013{_}549{_}*       *       *       *       *  THE REIGN OF COUPS.
+10013{_}550{_}The situation of France is always striking.
+10013{_}551{_}This is because its people are always being struck with a succession of Napoleonic ideas.
+10013{_}552{_}They labor, for example, under a constant _coup d'etat_.
+10013{_}553{_}Their Press is the victim of a regular _coup de main_; their Strikes are daily evidences of _coups de mains_; their Legislature suffers continually from _coup de theatre_; and their Emperor is perpetually threatened with a _coup de grace_.
+10013{_}554{_}The energies of Frenchmen are not imprisoned; no, they are only _couped_.
+10013{_}555{_}*       *       *       *       *  ELEVATED STATESMANSHIP--INSOBRIETY THE BEST POLICY.
+10013{_}556{_}Sir JOHN MACDONALD, the Premier of Canada, though an eccentric leader, is a happy illustration of the most elevated statecraft.
+10013{_}557{_}"He has been drunk," says the Toronto _Globe_, "for several days, and incapacitated for public affairs."
+10013{_}558{_}Considering what Canadian affairs are (including Sir JOHN,) this does not follow.
+10013{_}559{_}Evidently it is not his policy to keep sober.
+10013{_}560{_}But Sir JOHN is often drunk, says the _Globe_; he was tight before Prince ARTHUR, and he rushes to the bottle whenever the Fenians give alarm.
+10013{_}561{_}Now this strikes us as very good policy.
+10013{_}562{_}It helps us to see how convenient it was for Sir JOHN to magnify a few O'BRIENS and O'SHAUGHNESSYS into an army with green banners, and how opportunely the Dominion became intoxicated with its fears.
+10013{_}563{_}*       *       *       *       *  [Illustration: A POWERFUL PROTECTOR.
+10013{_}564{_}_Mother_.
+10013{_}565{_}"WHY, ROSIE, HOW LATE YOU ARE TO-DAY!"
+10013{_}566{_}_Rosie_.
+10013{_}567{_}"YES, MA, BUT I COULDN'T HELP IT.
+10013{_}568{_}THERE WAS A POOR LITTLE GIRL AT SCHOOL WHO HAD NO ONE TO TAKE CARE OF HER, AND SO I HAD TO SEE HER HOME."]
+10013{_}569{_}*       *       *       *       *  COMIC ZOOLOGY.
+10013{_}570{_}Order-Reptilia.
+10013{_}571{_}THE VIPER.
+10013{_}572{_}The supposition that this snake prefers a file to any other species of nourishment is a vulgar error, and belongs to the same mendacious category as the stories that ostriches are fond of ten-penny nails and soldiers of hard tack.
+10013{_}573{_}It is true that old files are sometimes bitten by vipers in localities where these serpents abound, but in the lizard and hop-toad they usually find metal more attractive.
+10013{_}574{_}The viper, when in a state of repose, is of an olive-brown color; but, if trodden upon, turns rusty.
+10013{_}575{_}He is about twenty-four inches in length, as you may see by applying a two-foot rule to him, but it is a good rule to keep two feet away from him.
+10013{_}576{_}As a bosom friend he is not to be trusted--a fact in natural history that was discovered many years ago by a green countryman, who got into a bad box by placing a viper on his chest.
+10013{_}577{_}It is a peculiarity of this serpent, that when held suspended by his posterior extremity he can not raise his head to a level with his tail.
+10013{_}578{_}In consequence of this provision in the economy of nature, he finds it as impossible to make both ends meet as if he were a human prodigal.
+10013{_}579{_}In this respect he presents a marked contrast to the hoop-snake, which has no more back-bone than a timid politician, and can put its tail in its mouth, and roll in any direction with the utmost facility.
+10013{_}580{_}The viper was at one time supposed to have an envenomed tongue, and although this error has been exploded, it is as well to avoid his jaw if possible, as, when irritated, he is very snappish.
+10013{_}581{_}This snake, according to some naturalists, is oviparous, and according to others viviparous; but all authorities agree that it is viperous in the extreme.
+10013{_}582{_}Serpents are generated in various ways; the horse-runner, for instance, being derived from the fibres of horses' manes and tails, which probably receive the breath of life in a mare's nest.
+10013{_}583{_}That such is the origin of the horse-runner the reader can verify for himself, by putting a few horse hairs in a basin of water and watching them till they begin to squirm.
+10013{_}584{_}Possibly the shorter fibres from the _caput_ of an African might in like manner produce vipers.
+10013{_}585{_}The experiment is worth trying.
+10013{_}586{_}There are several varieties of the species in this country; the most malignant and treacherous being the Political Vipers--snakes in the grass--bred from the spawn of the Original Cockatrices, and a curse to the land we live in.
+10013{_}587{_}*       *       *       *       *  WOMAN IN THE CENSUS.
+10013{_}588{_}A fresh blow has been struck at Woman's Rights!
+10013{_}589{_}Gallant ladies, eager to cope with figures, have been compelled to yield to numbers--inferior numbers at that!
+10013{_}590{_}Man, the minority, remains the popular tyrant of population.
+10013{_}591{_}Women, the majority, don't count, can't count for any thing--even for women--at least in the sense of being Census-takers; for General WALKER has decided that Assistant Marshals LAVINIA PURLEAR and SARAH BURGOYNE (hear it, shades of NEY and BLUCHER!)
+10013{_}592{_}are ineligible to such a warlike title.
+10013{_}593{_}General WALKER is not firm in his mind that Marshals PURLEAR and BURGOYNE [would it be as well to say Marshal WALKER and Generals PURLEAR and BURGOYNE?]
+10013{_}594{_}are feminine.
+10013{_}595{_}"These appear to be the names of women," he says.
+10013{_}596{_}Why might they not be the names of men?
+10013{_}597{_}Is there no right or reason in these days of domestic revolution for men to name themselves LAVINIA and SARAH if they like it, and their wives like it?
+10013{_}598{_}And suppose LAVINIA and SARAH that ought to be, or might have been, choose to call themselves MAHALALEEL and METHUSALEM--who's to prevent?
+10013{_}599{_}Why should not the Rev.
+10013{_}600{_}Mr.---- style himself Miss NANCY if he pleases?
+10013{_}601{_}Why should not the Hon.
+10013{_}602{_}Mr.---- rechristen himself BETTY if he has a mind to?
+10013{_}603{_}H'm!
+10013{_}604{_}A pretty pass we are coming to if these women folks who ask men's rights and take men's names won't lend us theirs!
+10013{_}605{_}And alas, alas, ye lasses!
+10013{_}606{_}What if some-day ye do indeed abstract our census, and marshal us into helpless minority.
+10013{_}607{_}What if we have to disguise ourselves, and shave our beards, and change our names even to get on the police!
+10013{_}608{_}Or will ye--ye bullying Syrens!--grow whiskers and wear pantaloons, and put us in station-houses, and clear us out of the Census altogether?
+10013{_}609{_}*       *       *       *       *  A LETTER FROM A FRIEND.
+10013{_}610{_}Friend PUNCHINELLO: Thee has doubtless sorrowed, in spite of thy motley, with those bereft at Richmond.
+10013{_}611{_}Circumstances made that disaster a calamity which we have all felt in common.
+10013{_}612{_}But thee knows that "Blessings come often in disguise."
+10013{_}613{_}Let us find what small comfort we can in this thought.
+10013{_}614{_}Circumstances, however, alter cases.
+10013{_}615{_}How different the feeling--how thin the disguise would have been--had our Capitol fallen, at Harrisburg!
+10013{_}616{_}Before another Session we trust the proper spirit will move some underpinning there, for the greater good of the Commonwealth.
+10013{_}617{_}It was formerly said that "Law is law;" but not even a Philadelphia lawyer now knows what law is or what law is not--for "any thing" is law here abouts.
+10013{_}618{_}Of one result we may boast, if that be not sinful, we are ahead of thy wicked city.. Thee had thy delinquent Tax Collector, _but thee has him not_.
+10013{_}619{_}We sorrowed, for we had him not, but now we rejoice in one whose name is--not BAILEY--but HILL.
+10013{_}620{_}We did not want him, but got him involuntarily, as thee might get the small-pox.
+10013{_}621{_}Doubtless he will make it more up-Hill work than ever with our taxes, but, if he would only shoulder them and be off, what a blessing?
+10013{_}622{_}For, verily, it cannot be said, as of old, that a man "heapeth up riches, and knoweth not who shall gather them."
+10013{_}623{_}But, perhaps, thee pays taxes also?
+10013{_}624{_}If so, thee can affirm to the gatherer, as well as thy friend,  PHINEAS BRODBRIMME.
+10013{_}625{_}_Philadelphia, 5th month, 9th day, 1870._         *       *       *       *       *  OLD IRON.
+10013{_}626{_}Somebody talks of the Iron Men of Congress.
+10013{_}627{_}Does he mean the Cast-iron members or the Pig-iron members?
+10013{_}628{_}For instance there are the rusty Heavy-weights, and then there are the fellows who are greedy about Tariff.
+10013{_}629{_}Members of the scrap-iron and ten-penny nail order are, of course, not alluded to.
+10013{_}630{_}All these are iron men, but, as every body knows, are not men of Iron.
+10013{_}631{_}In view of its rusty legislation and legislators, we recommend Congress to hang out a sign--"Highest prices paid here for old iron."
+10013{_}632{_}*       *       *       *       *  Bar That!
+10013{_}633{_}The Toronto _Globe_ is at present treating the Premier of the Dominion to a course of lectures, advising him not to get drunk so often as he does.
+10013{_}634{_}Now this is too much to expect, since the gentleman referred to has, by virtue of his official position, the run of the Bar.
+10013{_}635{_}*       *       *       *       *  CONDENSED CONGRESS.
+10013{_}636{_}SENATE.
+10013{_}637{_}MR. MORRILL expressed his views upon what he is pleased, for MORRILL is mirthful in his heavy way, to designate the reduction of taxes.
+10013{_}638{_}He said that we had been for some time in a state of peace, and our expenses were not so large as they had been.
+10013{_}639{_}Therefore he thought we might leave direct taxation alone.
+10013{_}640{_}To be sure he was not prepared to suggest any specific reductions in direct taxation.
+10013{_}641{_}But, doubtless, they would be made some day or other.
+10013{_}642{_}In the meantime let us pile on the tariff.
+10013{_}643{_}This was his notion of reducing taxation.
+10013{_}644{_}Let the importers and the consumers who don't like it--      Learn how sublime a thing it is     To suffer and be strong.
+10013{_}645{_}Then the Senate betook itself to considering an appropriation for educating the colored infant.
+10013{_}646{_}Mr. WILSON strongly approved it, not only on account of the colored infant, for whose education he did not in a general way feel any particular solicitude, inasmuch as the less educated he was, the likelier he would be to give his voice and vote to him, (Mr. WILSON,) and his like; but also because the appropriation would provide for a number of the supernumerary female school-teachers of Massachusetts, who had become a great trial to him, and particularly to his colleague, Mr. SUMNER.
+10013{_}647{_}Mr. SUMNER said "that's school," and explained that he believed he was venerated by the women of Massachusetts, but that their reverence for him was too great to allow them to approach him with importunities.
+10013{_}648{_}Nevertheless, he was in favor of the bill, as tending to break down the accursed spirit of caste, and to disseminate throughout the South the three or more R's which he had so often had the honor of reverberating throughout the Senate.
+10013{_}649{_}Mr. YATES approved of the bill.
+10013{_}650{_}It was his general principle to vote for any thing that looked to the disbursement of money.
+10013{_}651{_}He was particularly in favor of this measure, because he wanted an uniform education for every body.
+10013{_}652{_}He didn't want any body else to know more than himself, and he didn't want to know more than any body else.
+10013{_}653{_}(Voices--You don't.)
+10013{_}654{_}Take spelling.
+10013{_}655{_}There was only one correct method of spelling--the one that he pursued.
+10013{_}656{_}And yet he had never found any other person who agreed with him in it.
+10013{_}657{_}Evidently, this was not right.
+10013{_}658{_}He demanded that the children of the country should be taught to spell on proper principles, so that his works might be intelligible to posterity, as they were not to his contemporaries.
+10013{_}659{_}Of course Mr. SUMNER seized the occasion to quote crowds of authorities on education, which debilitated the Senate to a dissolution.
+10013{_}660{_}HOUSE.
+10013{_}661{_}Mr. LYNCH wanted to revive American commerce in behalf of the ship-builders of Maine.
+10013{_}662{_}If he were a judge, as a celebrated namesake of his once was, he would do it by hanging a majority of members of the House he had the honor of addressing.
+10013{_}663{_}In default of that he wanted them to legislate sensibly upon it.
+10013{_}664{_}Of course nobody paid any attention to the suggestion.
+10013{_}665{_}The House did itself credit by refusing one land-grab, out of a thousand or so submitted.
+10013{_}666{_}Mr. BUTLER actually produced again his bill to annex San Domingo, and refused to be comforted, because every body laughed.
+10013{_}667{_}Then came up the Tariff.
+10013{_}668{_}COVODE said he supposed it would be admitted that he had as little regard for the right and wrong of the thing as any body.
+10013{_}669{_}But this thing had really gone so far that any man with any regard for his re-election must protest.
+10013{_}670{_}Nobody but SCHENCK and KELLEY cared about the tariff.
+10013{_}671{_}Every body cared about the taxes.
+10013{_}672{_}SCHENCK could not regard COVODE with any other sentiment than disgust.
+10013{_}673{_}He wanted a duty upon foreign oysters.
+10013{_}674{_}The oyster of Long Island and the oyster of New-Jersey ought not to be trodden down by the pauper oysters of Europe.
+10013{_}675{_}*       *       *       *       *  OUR PORTFOLIO.
+10013{_}676{_}Personal advertisements having reference to the matrimonial exigencies of divers widows, old maids, and bachelors, are not without their influence upon the sympathies of the age.
+10013{_}677{_}Particular attention has been recently directed toward an announcement made in a Cleveland paper to the effect that "Two widow ladies, strangers in Cleveland, wish to form the acquaintance of a limited number of gentlemen with a view to happy results.
+10013{_}678{_}Please address in confidence,--."
+10013{_}679{_}One involuntarily regrets that a prospect thus bounded by an horizon of "happy results" should have been confined to a "limited number of gentlemen".
+10013{_}680{_}There is nothing so calculated to impair the usefulness of what purports to be a purely benevolent enterprise, as its selfishness.
+10013{_}681{_}If a widow, or any number of widows, really possess the means of realizing "happy results" with a "limited number of gentlemen," they should either remove the limitation themselves, or make known the secret to those who would be less sparing of the joys which it is capable of communicating.
+10013{_}682{_}A quack who peddles a valuable remedy upon which he may have stumbled, and yet refuses to disclose its ingredients for the benefit of the whole medical fraternity, violates the _esprit du corps_ of the profession, and is by general consent deemed a fit person to be kicked out of it.
+10013{_}683{_}Therefore, if any widows or single ladies in Cleveland have knowledge of any "happy results" which they advertise to share with a limited number of gentlemen, we shall deem them unworthy of their sex, unless they explain the process by which these results are attained, for the benefit of those who are fast verging toward the autumnal stage of maidenhood.
+10013{_}684{_}*       *       *       *       *  It may well be doubted whether the thought ever occurred to ADAM that one day or other a hen would be charged with the care and custody of a brood of goslings.
+10013{_}685{_}The pastimes of Eden were perhaps not favorable to vaticinations in the line of Natural History, but in the progress of the world since those most primitive times, men have come to contemplate the spectacle of that familiar barn-yard fowl made wretched by the aquatic propensities of her supposed offspring, without a particle of astonishment.
+10013{_}686{_}The wicked and unfeeling even go so far as to seek amusement in her misery.
+10013{_}687{_}Her "ducklings" and other symptoms of maternal agony at beholding the feathered darlings tempting the dangers of a neighboring duck-pond, do not move their stony breasts.
+10013{_}688{_}On the contrary, they decidedly relish that sort of thing, and greet with positive hilarity the efforts of some sympathizing rooster to cheer her.
+10013{_}689{_}Fie, upon such natures!
+10013{_}690{_}If they must have an outlet for their ribaldry, let them take PUNCHINELLO'S advice and select such instances as that recently furnished in Sacramento, where a hen took charge of a nest of kittens, and resolutely maintained it against the parent cat.
+10013{_}691{_}Here the case was different.
+10013{_}692{_}The hen had become a trespasser.
+10013{_}693{_}She had no business with kittens.
+10013{_}694{_}There was no hypothesis by which she could claim them as her own.
+10013{_}695{_}Kittens are not hereditary in the family of fowls, and she knew it.
+10013{_}696{_}It was an usurpation without any pretext of justification.
+10013{_}697{_}What would become of us if such a precedent could be extended to the genus _Mammalia?_ Hundreds of rapacious old maids would be seizing all sorts and all sizes of babies from agonized mothers, and asserting for themselves the hallowed duties of maternity.
+10013{_}698{_}Our infant days would have been days of ceaseless motion.
+10013{_}699{_}We should have been shuttle-cocked from maiden to mother and from mother to maiden after a fashion calculated to defeat the wise purposes of ipecac and paregoric, and to frighten our natural curls into a state of painful perpendicularity.
+10013{_}700{_}The mere presentment of such a possibility, carries its refutation, and puts the aggressions of this Sacramento hen in the category of outrages which all society is banded to suppress.
+10013{_}701{_}If you must laugh, O generation of scoffers, make your jokes and gibes the instrument of protecting the altars of all such feline households as may be thus assailed.
+10013{_}702{_}*       *       *       *       *  Flag and Rag.
+10013{_}703{_}What is the difference between a railroad danger signal and a lost pocket-handkerchief?
+10013{_}704{_}The one is a red flag, the other is a fled rag.
+10013{_}705{_}*       *       *       *       *  [Illustration: SOCIAL SCIENCE.
+10013{_}706{_}_Lecturer._ "THERE IS A CUMULATIVE APPROXIMATIVENESS, SO TO SPEAK, A PERIOD WHEN THE RECALCITRANT CORPUSCLES BEGIN TO "-------  _Stenographer._ "CON-FOUND THE FELLOW!
+10013{_}707{_}I KNEW HE'D BREAK MY PENCIL WITH HIS INFERNAL JAW-SMASHERS!"]
+10013{_}708{_}*       *       *       *       *  FOREIGN CORRESPONDENCE.
+10013{_}709{_}[BY ATLANTIC CABLE.]
+10013{_}710{_}ROME.
+10013{_}711{_}Being uneasy about our agent's course at the Vatican, I have come over to Rome to see about it.
+10013{_}712{_}He is an Irishman, with a little of Father TOM in him, and has got into a "controversy" with his Holiness about infallibility.
+10013{_}713{_}Our African bishop (otherwise PHELIM BURKE) insists that PUNCHINELLO is infallible!
+10013{_}714{_}The Pope says this is ridiculous!
+10013{_}715{_}Father PHELIM replies that "there are two that can play that same game."
+10013{_}716{_}I found them in the midst of this when ANTONELLI ushered me into the Papal presence.
+10013{_}717{_}PIUS was up on his feet, talking Latin like a crack student of the Propaganda.
+10013{_}718{_}PHELIM had his sleeves rolled up.
+10013{_}719{_}ANTONELLI, with a "_Pax vobiscum_" got the two contending powers quieted down; and, after a proper salutation from me, we began our talk.
+10013{_}720{_}His Holiness is not much on English.
+10013{_}721{_}Says he, "I speak vat-I-can English."
+10013{_}722{_}Had he said _non possumus_ to it, it would have been better.
+10013{_}723{_}However, PHELIM translated him; so we got on.
+10013{_}724{_}"Your Holiness enjoys, I hope, a good constitution?"
+10013{_}725{_}"The _constitutio de fide_ is, indeed, very good.
+10013{_}726{_}Catholics must every where subscribe to it."
+10013{_}727{_}"Dr. DOLLINGER, I trust, don't disturb your appetite?"
+10013{_}728{_}"_Anathema maranatha!_" which means (said PHELIM,) "Oh no, I never mention him."
+10013{_}729{_}Whereupon PHELIM, who had breakfasted on gin-and-milk, began to hum that tune.
+10013{_}730{_}I at once trod upon his toe, and he stopped.
+10013{_}731{_}"On the whole, what does your Holiness think of the prospect?"
+10013{_}732{_}"From this window, it is very fine.
+10013{_}733{_}But I'm getting a little dim-sighted.
+10013{_}734{_}"Don't you see that crowd of people coming up?"
+10013{_}735{_}"No I don't--it's only a herd of cattle from the Campagna."
+10013{_}736{_}"Take my glass.
+10013{_}737{_}There, now; don't you see, I am right?"
+10013{_}738{_}"Yes," and the old man crossed himself, "It is so; I was mistaken."
+10013{_}739{_}"Thrue for you!"
+10013{_}740{_}gobbled out PHELIM; "we've got to make a note of that!
+10013{_}741{_}PUNCHINELLO never made the likes of a mistake!"
+10013{_}742{_}"But, _what's in your glass?_ I see strange men there.
+10013{_}743{_}GARIBALDI, and MAZZINI, and HYACINTHE, STROSSMEYER, DOLLINGER, DUPANLOUP, and CUMMING, all together!
+10013{_}744{_}I see a troop of schoolmasters; a larger one of newspaper-venders; and a whole army of _colporteurs_, each with a bag of Bibles on his back!
+10013{_}745{_}And, what do I see?
+10013{_}746{_}They enter ST. PETER'S; they leave the door wide open.
+10013{_}747{_}Did I hear it?
+10013{_}748{_}They are singing LUTHER'S Hymn!"
+10013{_}749{_}The old man fell now into his seat, and I took the glass from him.
+10013{_}750{_}"Only one of his attacks," said ANTONELLI.
+10013{_}751{_}"He is not quite so strong as he was."
+10013{_}752{_}"Thrue again," said PHELIM.
+10013{_}753{_}With that sense of propriety for which your representative has over been distinguished, I took PHELIM by the arm and retired.
+10013{_}754{_}Poor Pius!
+10013{_}755{_}He means well, and if we only had him for a while out West, where I came from, we might make something sensible out of him yet.
+10013{_}756{_}But, when a man will live so far away from the Rocky Mountains as away over here, what can be expected?
+10013{_}757{_}We can't civilize the whole world at once.
+10013{_}758{_}Father PHELIM, by the way, is to be proposed as the new King of Spain.
+10013{_}759{_}His father's uncle's second cousin by the mother's side partook of a good deal of BOURBON.
+10013{_}760{_}That's reason enough, you know especially as they only want a King LOG.
+10013{_}761{_}FRANCE.
+10013{_}762{_}Those infernal machines, so called, with--which the Emperor was supposed to be about to be blown up, turn out to have been pewter plates.
+10013{_}763{_}Out of one of them the bottom had been cut, and the edges rolled up; and this gave rise to a terrible suspicion.
+10013{_}764{_}Two thousand people have been arrested in consequence.
+10013{_}765{_}That _Press Ass_ has been at his blunders again.
+10013{_}766{_}He telegraphed to me that a conspiracy was afloat to enact a kind of petticoat government.
+10013{_}767{_}He meant to tell me some gossip about Madame PATTI-CAUX.
+10013{_}768{_}Then he wanted me to believe that the "smaller catechism" talked about at Rome was the catechizing of SMALLEY of the Tribune, concerning GUSTAVE FLOURENS.
+10013{_}769{_}That man never will learn.
+10013{_}770{_}PRIME.
+10013{_}771{_}+--------------------------------------------------------------+   |                                                              |   |                  EXTRAORDINARY BARGAINS IN                   |   |                                                              |   | READY-MADE PARIS AND DOMESTIC SILK, POPLIN, BAREGE, MUSLIN,  |   |                         PIQUE, LINEN                         |   |                                                              |   |                             AND                              |   |                                                              |   |                        LAWN DRESSES.
+10013{_}772{_}|   |                                                              |   |    Paris-Made Silk Sacks and Cosacks.
+10013{_}773{_}Ladies' Embroidered    |   |                      Breakfast Jackets.
+10013{_}774{_}|   |                                                              |   |         A CHOICE VARIETY OF LADIES' UNDERWEAR, ETC.
+10013{_}775{_}|   |                                                              |   |   PARIS AND DOMESTIC MADE LADIES' HATS, BONNETS, FEATHERS,   |   | FLOWERS, TRIMMING RIBBONS, _Magnificent Sash Ribbons, Velvet |   |                     Ribbons, etc., etc._                     |   |                                                              |   |                     A. T. Stewart & Co.,                     |   |                                                              |   |                          BROADWAY,                           |   |                                                              |   |              Fourth Ave., Ninth and Tenth Sts.
+10013{_}776{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                     A. T. STEWART & CO.                      |   |                                                              |   |                         ARE OFFERING                         |   |                                                              |   |             100 pieces Plaid and Striped Spring              |   |                                                              |   |                            SILKS.
+10013{_}777{_}|   |                                                              |   |                 100 pieces Grisaille Silks.
+10013{_}778{_}|   |                                                              |   |            ROUBAIX SILKS, HIGH LUSTER, ESPECIALLY            |   |                   ADAPTED TO SUMMER WEAR.
+10013{_}779{_}|   |                                                              |   |                 FRESH GOODS, JUST RECEIVED.
+10013{_}780{_}|   |                  $1.50 and $1.75 per yard.
+10013{_}781{_}|   |                                                              |   |                   A LARGE LOT OF JOB SILKS                   |   |               OF AN EXTRA QUALITY AND LUSTER,                |   |                   From $1 PER YARD UPWARD;                   |   |                                                              |   |                  LESS THAN HALF THEIR COST.
+10013{_}782{_}|   |                                                              |   |              PLAIN BLACK TAFFETAS, GROS GRAINS,              |   |                      FAILLE, etc., etc.
+10013{_}783{_}|   |                                                              |   |                  At Greatly Reduced Prices.
+10013{_}784{_}|   |                                                              |   |         MOIRE ANTIQUE SILKS, WIDE, ONLY $3 PER YARD.
+10013{_}785{_}|   |                                                              |   |        PARIS CHAMBERY GAUZES, 70c.
+10013{_}786{_}PER YARD, UPWARD.
+10013{_}787{_}|   |                                                              |   |          CREPES DE CHINE FOR DRESSES AND TRIMMINGS,          |   |                     ONLY $3.75 PER YARD.
+10013{_}788{_}|   |                                                              |   |                          BROADWAY,                           |   |                                                              |   |                 4th Ave., 9th and 10th Sts.
+10013{_}789{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                     A. T. STEWART & CO.                      |   |                                                              |   |               ARE RECEIVING BY STEAMERS, etc.,               |   |                                                              |   |                 NEWEST AND LATEST DESIGNS IN                 |   |                                                              |   |                    MOQUETTES, AXMINSTERS,                    |   |                        ROYAL WILTONS,                        |   |                        BODY BRUSSELS,                        |   |                     Crossley's Velvets,                      |   |                      Tapestry Brussels,                      |   |                          etc., etc.
+10013{_}790{_}|   |                                                              |   |            AND THEY HAVE OPENED THEIR LAST PARCEL            |   |                                                              |   |                              OF                              |   |                                                              |   |                    ENGLISH BODY BRUSSELS,                    |   |                       AT $2 PER YARD,                        |   |                                                              |   |                        ROYAL WILTONS,                        |   |                    $2.50 AND $3 PER YARD,                    |   |                                                              |   |                         AXMINSTERS,                          |   |                    $2.50 AND $4 PER YARD.
+10013{_}791{_}|   |                                                              |   |  To which they particularly request the attention of their   |   |                  customers and the public.
+10013{_}792{_}|   |                                                              |   |             HOUSEKEEPING GOODS IN EVERY VARIETY,             |   |                   AT VERY POPULAR PRICES.
+10013{_}793{_}|   |                                                              |   |                          BROADWAY,                           |   |                                                              |   |           Fourth Avenue, Ninth and Tenth Streets.
+10013{_}794{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                      A.T. Stewart & Co.                      |   |                                                              |   |              HAVE REPLENISHED ALL THEIR POPULAR              |   |          STOCK OF DRESS GOODS, AT 25c.
+10013{_}795{_}PER YARD AND          |   |                           UPWARD.
+10013{_}796{_}|   |                                                              |   |              THE BEST IN QUALITY AND LOWEST IN               |   |                      PRICE YET OFFERED.
+10013{_}797{_}|   |                                                              |   |                          BROADWAY,                           |   |                                                              |   |           Fourth Avenue, Ninth and Tenth Streets.
+10013{_}798{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                           SPECIAL                            |   |                                                              |   |                    PUNCHINELLO PREMIUMS.
+10013{_}799{_}|   |                                                              |   |                 By special arrangement with                  |   |                                                              |   |                       L. PRANG & CO.,                        |   |                                                              |   | we offer the following Elegant Premiums for new Subscribers  |   |                       to PUNCHINELLO:                        |   |                                                              |   |    "Awakening."
+10013{_}800{_}(A Litter of Puppies.)
+10013{_}801{_}Half Chromo, size,    |   | 8-3/8 by 11-1/8, price $2.00, and a copy of PUNCHINELLO for  |   |                     one year, for $4.00.
+10013{_}802{_}|   |                                                              |   |    "Wild Roses."
+10013{_}803{_}Chromo, 12-1/8 by 9, price $3.00, or any    |   | other $3.00 Chromo, and a copy of the paper for one year for |   |                            $5.00.
+10013{_}804{_}|   |                                                              |   |      "The Baby in Trouble."
+10013{_}805{_}Chromo, 13 by 16-1/4, price      |   |  $6.00 or any other at $6.00, or any two Chromos at $3.00,   |   |       and a copy of the paper for one year, for $6.00.
+10013{_}806{_}|   |                                                              |   |      "Sunset,--California Scenery," after A. Bierstadt,      |   | 18-1/8 by 12, price $10.00, or any other $10.00 Chromo, and  |   |   a copy of the paper for one year for $10.00.
+10013{_}807{_}Or the four   |   |  Chromes, and four copies of the paper for one year in one   |   |            order, for clubs of FOUR, for $23.00.
+10013{_}808{_}|   |                                                              |   |  We will send to any one a printed list of L. PRANG & CO.'S  |   | Chromos, from which a selection can be made, if the above is |   | not satisfactory, and are prepared to make special terms for |   |             clubs to any amount, and to agents.
+10013{_}809{_}|   |                                                              |   |  Postage of paper is payable at the office where received,   |   | twenty cents per year, or five cents per quarter in advance; |   |    the CHROMOS will be _mailed free_ on receipt of money.
+10013{_}810{_}|   |                                                              |   |  Remittances should be made in P.O.
+10013{_}811{_}Orders, Drafts, or Bank  |   | Checks on New-York, or Registered letters.
+10013{_}812{_}The paper will be |   |    sent from the first number, (April 2d, 1870,) when not    |   |                      otherwise ordered.
+10013{_}813{_}|   |                                                              |   |   Now is the time to subscribe, as these Premiums will be    |   |       offered for a limited time only.
+10013{_}814{_}On receipt of a       |   |    postage-stamp we will send a copy of No.
+10013{_}815{_}1 to any one     |   |                  desiring to get up a club.
+10013{_}816{_}|   |                                                              |   |                                                              |   |                           Address                            |   |                                                              |   |                 PUNCHINELLO PUBLISHING CO.,                  |   |                                                              |   |       P.O.
+10013{_}817{_}Box 2783.
+10013{_}818{_}No.
+10013{_}819{_}83 Nassau Street, New-York.
+10013{_}820{_}|   +--------------------------------------------------------------+   [Illustration: "GREAT BARE-BACK PERFORMANCE BY THE STAR EQUESTRIENNE."
+10013{_}821{_}_Rural Old Lady_.
+10013{_}822{_}"BARE-BACK, INDEED!--THAT'S NO WORD FOR IT, MY DEAR!"]
+10013{_}823{_}+--------------------------------------------------------------+   |                                                              |   |          "The Printing House of the United States."
+10013{_}824{_}|   |                                                              |   |                    GEO.
+10013{_}825{_}F. NESBITT & CO.,                    |   |                                                              |   |                    General JOB PRINTERS,                     |   |                                                              |   |                                                              |   |                   BLANK DOOR Manufactuars,                   |   |               STATIONERS Wholesale and Retail,               |   |             LITHOGRAPHIC Engravers and Printers,             |   |                      CARD Manufactuars,                      |   |                    ENVELOPE Manufactuars,                    |   |                 FINE CUT and COLOR Printers.
+10013{_}826{_}|   |                                                              |   |                                                              |   |              163, 165, 167, and 169 PEARL ST.,               |   |            73, 75, 77 and 79 PINE ST., New-York.
+10013{_}827{_}|   |                                                              |   |  ADVANTAGES: All on the same premises, and under immediate   |   |               supervision of the proprietors.
+10013{_}828{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                 Bowling Green Savings-Bank,                  |   |                         33 BROADWAY,                         |   |                                                              |   |                          NEW-YORK.
+10013{_}829{_}|   |                                                              |   |            Open Every Day from 10 A.M. to 3 P.M.             |   |                                                              |   |          Deposits of any sum, from Ten Cents to Ten          |   |             Thousand Dollars, will be received.
+10013{_}830{_}|   |                                                              |   |                    Six Per Cent Interest,                    |   |                   Free of Government Tax.
+10013{_}831{_}|   |                                                              |   |                   INTEREST ON NEW DEPOSITS                   |   |                                                              |   |            Commences on the first of every month.
+10013{_}832{_}|   |                                                              |   |                  HENRY SMITH, _President_.
+10013{_}833{_}|   |                                                              |   |                REEVES E. SELMES, _Secretary_.
+10013{_}834{_}|   |                                                              |   |        WALTER ROCHE, EDWARD HOGAN, _Vice-Presidents_         |   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                  SARATOGA "A" SPRING WATER.
+10013{_}835{_}|   |                                                              |   | A POSITIVE CURE FOR HEADACHES A GREAT REMEDY FOR INDIGESTION |   |    AND DYSPEPSIA.--Keeps the blood cool and regulates the    |   |  stomach.
+10013{_}836{_}Persons subject to headache can insure themselves  |   |   freedom from this malady by drinking it liberally in the   |   |                  morning before breakfast.
+10013{_}837{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |  PRANG'S CHROMOS are celebrated for their close resemblance  |   |   to oil paintings.
+10013{_}838{_}Sold in all Art Stores throughout the    |   |                            world.
+10013{_}839{_}|   |                                                              |   |     PRANG'S LATEST CHROMOS: "Four Seasons" by J.M.
+10013{_}840{_}Hart.
+10013{_}841{_}|   |  Illustrated Catalogues sent free on receipt of stamp by L.  |   |                     PRANG & CO., Boston.
+10013{_}842{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                        PROSPECTUS OF                         |   |                                                              |   |                     POMEROY'S DEMOCRAT.
+10013{_}843{_}|   |                                                              |   |                           FOR 1870                           |   |                                                              |   |           UNPARALLELED INDUCEMENTS FOR SUBSCRIBERS           |   |                                                              |   | POMEROY'S DEMOCRAT for 1870 will be the best newspaper ever  |   |      printed.
+10013{_}844{_}It has now a larger circulation than ever      |   | before--the largest circulation of any political paper ever  |   | printed, and is now so firmly established it can not by any  |   |                     possible means fail.
+10013{_}845{_}|   |                                                              |   |  Mr. Pomeroy, Editor and Proprietor, will devote his entire  |   |  time and attention to editorial and literary labor for THE  |   |   DEMOCRAT alone, each week adding to the power, interest,   |   |  worth, and variety of the reading matter it will contain.
+10013{_}846{_}|   |  With the people to back him--abundant means of his own at   |   |   his disposal, he is devoting his life to this paper, the   |   |    people who support it, the cause it advocates, and the    |   |   principles it defends, without fear, favor, or hope for    |   |                           reward.
+10013{_}847{_}|   |                                                              |   |               Read the terms and inducements!
+10013{_}848{_}|   |                                                              |   |  In addition to its political worth, THE DEMOCRAT will each  |   |                        week contain:                         |   |                                                              |   |         Pomeroy's Saturday Night Chapters.
+10013{_}849{_}Letters of        |   |  Correspondence.
+10013{_}850{_}Editorials on different topics.
+10013{_}851{_}Pomeroy's   |   |  Social Chat with Friends.
+10013{_}852{_}Terrance McGrant's Letters.
+10013{_}853{_}Full  |   |    Market Produce, and Money Reports.
+10013{_}854{_}A Splendid Masonic     |   |    Department.
+10013{_}855{_}Happenings Here and There.
+10013{_}856{_}Brief Items of     |   | Satire, News, Sarcasm, and Burlesque.
+10013{_}857{_}Discriptive Letters of |   |  Travels.
+10013{_}858{_}Occasional "Pomeroy Pictures of New York Life."
+10013{_}859{_}A  |   |             First-Class Agricultural Department.
+10013{_}860{_}|   |                                                              |   |  In short, everything to make it the best and most readable  |   |                 paper in the United States.
+10013{_}861{_}|   |                                                              |   |   Politically it will be Democratic--red-hot and reliable    |   |     earnest and continuous in its war against the bonded     |   |  interest of the country, and determined in its labors for   |   | that earnest Democracy, which believes in the _restoration_  |   |       and not the _reconstruction_ of the Government.
+10013{_}862{_}|   |                                                              |   |   Thankful to those who, in every State of the Union, and    |   | almost every county of the United States, have so generously |   |  sustained THE DEMOCRAT before its removal to New-York, and  |   |  since, we offer the following premiums--as an evidence of   |   |       gratitude to those who forward from time to time       |   |                         subscribers:                         |   |                                                              |   |              SINGLE COPIES, per year ... $2.50               |   |                                                              |   |   TEN COPIES.
+10013{_}863{_}one year to one post-office (we writing the    |   |  names of subscribers on each paper), and one copy for the   |   |       year to the one who sends us the club ... $20.00       |   |                                                              |   |  TWENTY COPIES.
+10013{_}864{_}one year to one post-office (we writing the  |   | names of subscribers on each paper), with an extra copy for  |   |     the year, and a copy of each of Pomeroy's two books,     |   |  "Sense," and "Nonsense," to the getter-up of the club ...   |   |                            $40.00                            |   |                                                              |   |  THIRTY COPIES.
+10013{_}865{_}one year to one post-office (we writing the  |   |  names of subscribers on each paper), with two extra copies  |   |   for the year, and a copy of each of Pomeroy's two books,   |   |     "Sense," and "Nonsense," and "Saturday Night," just      |   |      published to the getter-up of the club ... $60.00       |   |                                                              |   |         WILCOX AND GIBBS SEWING MACHINES AS PREMIUMS         |   |                                                              |   |     For fifty-six subscribers, with $112, a $56 machine.
+10013{_}866{_}|   |                                                              |   |       For sixty subscribers, with $120, a $60 machine.
+10013{_}867{_}|   |                                                              |   |    For sixty-five subscribers, with $130, a $65 machine.
+10013{_}868{_}|   |                                                              |   |   For one-hundred subscribers, with $200, a $100 machine.
+10013{_}869{_}|   |                                                              |   |                                                              |   |                       IMPORTANT NOTICE                       |   |                                                              |   |   If you can not conveniently raise subscribers enough to    |   |  entitle you to a machine, as a premium, send what you can,  |   |    with two dollars for each subscriber so sent, and the     |   |  balance in cash for such priced machine as you so desire,   |   |   when the paper and the machine will be sent as directed.
+10013{_}870{_}|   |                                                              |   |  For example, where thirty subscribers and $60 are sent, it  |   |   will require $26 in cash in addition to the subscription   |   |  money to purchase a $56 machine; or, for forty subscribers  |   |   and $80, sixteen dollars additional will be required to    |   |   purchase the same priced machine, and son in proportion.
+10013{_}871{_}|   |                                                              |   | We offer these unrivalled machines, believing them to be the |   |     simplest, most durable, useful, and desirable sewing     |   | machines in the world, with a view to giving workingmen, or  |   |  deserving woman a chance to obtain a machine for much less  |   |            money than in any other possible way.
+10013{_}872{_}|   |                                                              |   |    There is hardly a township in the United States, but a    |   |    person can, in a day or two, earn for himself a family    |   | machine, actually worth the price asked for it--the same as  |   | sold at, when purchased of Wilcox & Gibbs, the manufactures.
+10013{_}873{_}|   |                                                              |   | In many cases a few gentlemen might, by sending their names  |   |  to us as subscribers, receive for themselves THE DEMOCRAT   |   |    each week, and a machine for some poor widow or other     |   |    deserving woman, thus giving her the power to care for    |   |          herself and family, and live independant.
+10013{_}874{_}|   |                                                              |   | Each machine we send out will be _perfect_, and of the very  |   |                            best.
+10013{_}875{_}|   |                                                              |   | Address all letters on business connected with the office to |   |    C.P.
+10013{_}876{_}Sykes, Publisher, P.O.
+10013{_}877{_}Box 5,217, New-York City.
+10013{_}878{_}|   |                                                              |   |   Letters on political matters should be addressed to M.M.
+10013{_}879{_}|   |  Pomeroy, and if the writer wishes them to be seen only by   |   |  the person to whom they are address, they should be marked  |   | private, when, if Mr. Pomeroy is not in the city, they will  |   | be forwarded to him immediately by mail, express, or special |   |                          messenger.
+10013{_}880{_}|   |                                                              |   |     In ordering papers, be careful to write the names of     |   |   subscribers with the post-office, county, and state very   |   |  plain, that there may be no mistakes in entering names or   |   |                      forwarding papers.
+10013{_}881{_}|   |                                                              |   |    Retail price of the paper when sold by newsdealers or     |   |                     newsboys, SIX CENTS                      |   |                                                              |   |        Additions can be made to clubs at $2 per year.
+10013{_}882{_}|   |                                                              |   |                 _Specimen Copies sent free_                  |   |                                                              |   | In forwarding sums of money for clubs of subscribers, drafts |   |    or money orders should always be used, as, if lost or     |   |  stolen, they can be duplicated, and no financial loss will  |   |           be sustained by the parties interested.
+10013{_}883{_}|   |                                                              |   |                                                              |   |       C.P.
+10013{_}884{_}SYKES, Publisher, Box 5,217, New-York City.
+10013{_}885{_}|   |                                                              |   +--------------------------------------------------------------+  S. W. GREEN, PRINTER, CORNER JACOB AND FRANKFORT STREETS.
+10013{_}886{_}End of the Project Gutenberg EBook of Punchinello, Vol.
+10013{_}887{_}1, No.
+10013{_}888{_}9, May 28, 1870, by Various  *** END OF THIS PROJECT GUTENBERG EBOOK PUNCHINELLO, VOL.
+10013{_}889{_}1, NO.
+10013{_}890{_}9 ***  ***** This file should be named 10013.txt or 10013.zip ***** This and all associated files of various formats will be found in:         http://www.gutenberg.net/1/0/0/1/10013/  Produced by Joshua Hutchinson, Steve Schulze and PG Distributed Proofreaders  Updated editions will replace the previous one--the old editions will be renamed.
+10013{_}891{_}Creating the works from public domain print editions means that no one owns a United States copyright in these works, so the Foundation (and you!)
+10013{_}892{_}can copy and distribute it in the United States without permission and without paying copyright royalties.
+10013{_}893{_}Special rules, set forth in the General Terms of Use part of this license, apply to copying and distributing Project Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm concept and trademark.
+10013{_}894{_}Project Gutenberg is a registered trademark, and may not be used if you charge for the eBooks, unless you receive specific permission.
+10013{_}895{_}If you do not charge anything for copies of this eBook, complying with the rules is very easy.
+10013{_}896{_}You may use this eBook for nearly any purpose such as creation of derivative works, reports, performances and research.
+10013{_}897{_}They may be modified and printed and given away--you may do practically ANYTHING with public domain eBooks.
+10013{_}898{_}Redistribution is subject to the trademark license, especially commercial redistribution.
+10013{_}899{_}*** START: FULL LICENSE ***  THE FULL PROJECT GUTENBERG LICENSE PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK  To protect the Project Gutenberg-tm mission of promoting the free distribution of electronic works, by using or distributing this work (or any other work associated in any way with the phrase "Project Gutenberg"), you agree to comply with all the terms of the Full Project Gutenberg-tm License (available with this file or online at http://gutenberg.net/license).
+10013{_}900{_}Section 1.
+10013{_}901{_}General Terms of Use & Redistributing Project Gutenberg-tm electronic works  1.A.
+10013{_}902{_}By reading or using any part of this Project Gutenberg-tm electronic work, you indicate that you have read, understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement.
+10013{_}903{_}If you do not agree to abide by all the terms of this agreement, you must cease using and return or destroy all copies of Project Gutenberg-tm electronic works in your possession.
+10013{_}904{_}If you paid a fee for obtaining a copy of or access to a Project Gutenberg-tm electronic work and you do not agree to be bound by the terms of this agreement, you may obtain a refund from the person or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+10013{_}905{_}1.B.
+10013{_}906{_}"Project Gutenberg" is a registered trademark.
+10013{_}907{_}It may only be used on or associated in any way with an electronic work by people who agree to be bound by the terms of this agreement.
+10013{_}908{_}There are a few things that you can do with most Project Gutenberg-tm electronic works even without complying with the full terms of this agreement.
+10013{_}909{_}See paragraph 1.C below.
+10013{_}910{_}There are a lot of things you can do with Project Gutenberg-tm electronic works if you follow the terms of this agreement and help preserve free future access to Project Gutenberg-tm electronic works.
+10013{_}911{_}See paragraph 1.E below.
+10013{_}912{_}1.C.
+10013{_}913{_}The Project Gutenberg Literary Archive Foundation ("the Foundation" or PGLAF), owns a compilation copyright in the collection of Project Gutenberg-tm electronic works.
+10013{_}914{_}Nearly all the individual works in the collection are in the public domain in the United States.
+10013{_}915{_}If an individual work is in the public domain in the United States and you are located in the United States, we do not claim a right to prevent you from copying, distributing, performing, displaying or creating derivative works based on the work as long as all references to Project Gutenberg are removed.
+10013{_}916{_}Of course, we hope that you will support the Project Gutenberg-tm mission of promoting free access to electronic works by freely sharing Project Gutenberg-tm works in compliance with the terms of this agreement for keeping the Project Gutenberg-tm name associated with the work.
+10013{_}917{_}You can easily comply with the terms of this agreement by keeping this work in the same format with its attached full Project Gutenberg-tm License when you share it without charge with others.
+10013{_}918{_}1.D.
+10013{_}919{_}The copyright laws of the place where you are located also govern what you can do with this work.
+10013{_}920{_}Copyright laws in most countries are in a constant state of change.
+10013{_}921{_}If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, performing, distributing or creating derivative works based on this work or any other Project Gutenberg-tm work.
+10013{_}922{_}The Foundation makes no representations concerning the copyright status of any work in any country outside the United States.
+10013{_}923{_}1.E.
+10013{_}924{_}Unless you have removed all references to Project Gutenberg:  1.E.1.
+10013{_}925{_}The following sentence, with active links to, or other immediate access to, the full Project Gutenberg-tm License must appear prominently whenever any copy of a Project Gutenberg-tm work (any work on which the phrase "Project Gutenberg" appears, or with which the phrase "Project Gutenberg" is associated) is accessed, displayed, performed, viewed, copied or distributed:  This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever.
+10013{_}926{_}You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.net  1.E.2.
+10013{_}927{_}If an individual Project Gutenberg-tm electronic work is derived from the public domain (does not contain a notice indicating that it is posted with permission of the copyright holder), the work can be copied and distributed to anyone in the United States without paying any fees or charges.
+10013{_}928{_}If you are redistributing or providing access to a work with the phrase "Project Gutenberg" associated with or appearing on the work, you must comply either with the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of the work and the Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+10013{_}929{_}1.E.3.
+10013{_}930{_}If an individual Project Gutenberg-tm electronic work is posted with the permission of the copyright holder, your use and distribution must comply with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed by the copyright holder.
+10013{_}931{_}Additional terms will be linked to the Project Gutenberg-tm License for all works posted with the permission of the copyright holder found at the beginning of this work.
+10013{_}932{_}1.E.4.
+10013{_}933{_}Do not unlink or detach or remove the full Project Gutenberg-tm License terms from this work, or any files containing a part of this work or any other work associated with Project Gutenberg-tm.
+10013{_}934{_}1.E.5.
+10013{_}935{_}Do not copy, display, perform, distribute or redistribute this electronic work, or any part of this electronic work, without prominently displaying the sentence set forth in paragraph 1.E.1 with active links or immediate access to the full terms of the Project Gutenberg-tm License.
+10013{_}936{_}1.E.6.
+10013{_}937{_}You may convert to and distribute this work in any binary, compressed, marked up, nonproprietary or proprietary form, including any word processing or hypertext form.
+10013{_}938{_}However, if you provide access to or distribute copies of a Project Gutenberg-tm work in a format other than "Plain Vanilla ASCII" or other format used in the official version posted on the official Project Gutenberg-tm web site (www.gutenberg.net), you must, at no additional cost, fee or expense to the user, provide a copy, a means of exporting a copy, or a means of obtaining a copy upon request, of the work in its original "Plain Vanilla ASCII" or other form.
+10013{_}939{_}Any alternate format must include the full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+10013{_}940{_}1.E.7.
+10013{_}941{_}Do not charge a fee for access to, viewing, displaying, performing, copying or distributing any Project Gutenberg-tm works unless you comply with paragraph 1.E.8 or 1.E.9.
+10013{_}942{_}1.E.8.
+10013{_}943{_}You may charge a reasonable fee for copies of or providing access to or distributing Project Gutenberg-tm electronic works provided that  - You pay a royalty fee of 20% of the gross profits you derive from      the use of Project Gutenberg-tm works calculated using the method      you already use to calculate your applicable taxes.
+10013{_}944{_}The fee is      owed to the owner of the Project Gutenberg-tm trademark, but he      has agreed to donate royalties under this paragraph to the      Project Gutenberg Literary Archive Foundation.
+10013{_}945{_}Royalty payments      must be paid within 60 days following each date on which you      prepare (or are legally required to prepare) your periodic tax      returns.
+10013{_}946{_}Royalty payments should be clearly marked as such and      sent to the Project Gutenberg Literary Archive Foundation at the      address specified in Section 4, "Information about donations to      the Project Gutenberg Literary Archive Foundation."
+10013{_}947{_}- You provide a full refund of any money paid by a user who notifies      you in writing (or by e-mail) within 30 days of receipt that s/he      does not agree to the terms of the full Project Gutenberg-tm      License.
+10013{_}948{_}You must require such a user to return or      destroy all copies of the works possessed in a physical medium      and discontinue all use of and all access to other copies of      Project Gutenberg-tm works.
+10013{_}949{_}- You provide, in accordance with paragraph 1.F.3, a full refund of any      money paid for a work or a replacement copy, if a defect in the      electronic work is discovered and reported to you within 90 days      of receipt of the work.
+10013{_}950{_}- You comply with all other terms of this agreement for free      distribution of Project Gutenberg-tm works.
+10013{_}951{_}1.E.9.
+10013{_}952{_}If you wish to charge a fee or distribute a Project Gutenberg-tm electronic work or group of works on different terms than are set forth in this agreement, you must obtain permission in writing from both the Project Gutenberg Literary Archive Foundation and Michael Hart, the owner of the Project Gutenberg-tm trademark.
+10013{_}953{_}Contact the Foundation as set forth in Section 3 below.
+10013{_}954{_}1.F.
+10013{_}955{_}1.F.1.
+10013{_}956{_}Project Gutenberg volunteers and employees expend considerable effort to identify, do copyright research on, transcribe and proofread public domain works in creating the Project Gutenberg-tm collection.
+10013{_}957{_}Despite these efforts, Project Gutenberg-tm electronic works, and the medium on which they may be stored, may contain "Defects," such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes that damage or cannot be read by your equipment.
+10013{_}958{_}1.F.2.
+10013{_}959{_}LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right of Replacement or Refund" described in paragraph 1.F.3, the Project Gutenberg Literary Archive Foundation, the owner of the Project Gutenberg-tm trademark, and any other party distributing a Project Gutenberg-tm electronic work under this agreement, disclaim all liability to you for damages, costs and expenses, including legal fees.
+10013{_}960{_}YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH F3.
+10013{_}961{_}YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.
+10013{_}962{_}1.F.3.
+10013{_}963{_}LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect in this electronic work within 90 days of receiving it, you can receive a refund of the money (if any) you paid for it by sending a written explanation to the person you received the work from.
+10013{_}964{_}If you received the work on a physical medium, you must return the medium with your written explanation.
+10013{_}965{_}The person or entity that provided you with the defective work may elect to provide a replacement copy in lieu of a refund.
+10013{_}966{_}If you received the work electronically, the person or entity providing it to you may choose to give you a second opportunity to receive the work electronically in lieu of a refund.
+10013{_}967{_}If the second copy is also defective, you may demand a refund in writing without further opportunities to fix the problem.
+10013{_}968{_}1.F.4.
+10013{_}969{_}Except for the limited right of replacement or refund set forth in paragraph 1.F.3, this work is provided to you 'AS-IS," WITH NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+10013{_}970{_}1.F.5.
+10013{_}971{_}Some states do not allow disclaimers of certain implied warranties or the exclusion or limitation of certain types of damages.
+10013{_}972{_}If any disclaimer or limitation set forth in this agreement violates the law of the state applicable to this agreement, the agreement shall be interpreted to make the maximum disclaimer or limitation permitted by the applicable state law.
+10013{_}973{_}The invalidity or unenforceability of any provision of this agreement shall not void the remaining provisions.
+10013{_}974{_}1.F.6.
+10013{_}975{_}INDEMNITY - You agree to indemnify and hold the Foundation, the trademark owner, any agent or employee of the Foundation, anyone providing copies of Project Gutenberg-tm electronic works in accordance with this agreement, and any volunteers associated with the production, promotion and distribution of Project Gutenberg-tm electronic works, harmless from all liability, costs and expenses, including legal fees, that arise directly or indirectly from any of the following which you do or cause to occur: (a) distribution of this or any Project Gutenberg-tm work, (b) alteration, modification, or additions or deletions to any Project Gutenberg-tm work, and (c) any Defect you cause.
+10013{_}976{_}Section  2.
+10013{_}977{_}Information about the Mission of Project Gutenberg-tm  Project Gutenberg-tm is synonymous with the free distribution of electronic works in formats readable by the widest variety of computers including obsolete, old, middle-aged and new computers.
+10013{_}978{_}It exists because of the efforts of hundreds of volunteers and donations from people in all walks of life.
+10013{_}979{_}Volunteers and financial support to provide volunteers with the assistance they need, is critical to reaching Project Gutenberg-tm's goals and ensuring that the Project Gutenberg-tm collection will remain freely available for generations to come.
+10013{_}980{_}In 2001, the Project Gutenberg Literary Archive Foundation was created to provide a secure and permanent future for Project Gutenberg-tm and future generations.
+10013{_}981{_}To learn more about the Project Gutenberg Literary Archive Foundation and how your efforts and donations can help, see Sections 3 and 4 and the Foundation web page at http://www.pglaf.org.
+10013{_}982{_}Section 3.
+10013{_}983{_}Information about the Project Gutenberg Literary Archive Foundation  The Project Gutenberg Literary Archive Foundation is a non profit 501(c)(3) educational corporation organized under the laws of the state of Mississippi and granted tax exempt status by the Internal Revenue Service.
+10013{_}984{_}The Foundation's EIN or federal tax identification number is 64-6221541.
+10013{_}985{_}Its 501(c)(3) letter is posted at http://pglaf.org/fundraising.
+10013{_}986{_}Contributions to the Project Gutenberg Literary Archive Foundation are tax deductible to the full extent permitted by U.S. federal laws and your state's laws.
+10013{_}987{_}The Foundation's principal office is located at 4557 Melan Dr. S. Fairbanks, AK, 99712., but its volunteers and employees are scattered throughout numerous locations.
+10013{_}988{_}Its business office is located at 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email business@pglaf.org.
+10013{_}989{_}Email contact links and up to date contact information can be found at the Foundation's web site and official page at http://pglaf.org  For additional contact information:      Dr. Gregory B. Newby      Chief Executive and Director      gbnewby@pglaf.org  Section 4.
+10013{_}990{_}Information about Donations to the Project Gutenberg Literary Archive Foundation  Project Gutenberg-tm depends upon and cannot survive without wide spread public support and donations to carry out its mission of increasing the number of public domain and licensed works that can be freely distributed in machine readable form accessible by the widest array of equipment including outdated equipment.
+10013{_}991{_}Many small donations ($1 to $5,000) are particularly important to maintaining tax exempt status with the IRS.
+10013{_}992{_}The Foundation is committed to complying with the laws regulating charities and charitable donations in all 50 states of the United States.
+10013{_}993{_}Compliance requirements are not uniform and it takes a considerable effort, much paperwork and many fees to meet and keep up with these requirements.
+10013{_}994{_}We do not solicit donations in locations where we have not received written confirmation of compliance.
+10013{_}995{_}To SEND DONATIONS or determine the status of compliance for any particular state visit http://pglaf.org  While we cannot and do not solicit contributions from states where we have not met the solicitation requirements, we know of no prohibition against accepting unsolicited donations from donors in such states who approach us with offers to donate.
+10013{_}996{_}International donations are gratefully accepted, but we cannot make any statements concerning tax treatment of donations received from outside the United States.
+10013{_}997{_}U.S. laws alone swamp our small staff.
+10013{_}998{_}Please check the Project Gutenberg Web pages for current donation methods and addresses.
+10013{_}999{_}Donations are accepted in a number of other ways including including checks, online payments and credit card donations.
+10013{_}1000{_}To donate, please visit: http://pglaf.org/donate   Section 5.
+10013{_}1001{_}General Information About Project Gutenberg-tm electronic works.
+10013{_}1002{_}Professor Michael S. Hart is the originator of the Project Gutenberg-tm concept of a library of electronic works that could be freely shared with anyone.
+10013{_}1003{_}For thirty years, he produced and distributed Project Gutenberg-tm eBooks with only a loose network of volunteer support.
+10013{_}1004{_}Project Gutenberg-tm eBooks are often created from several printed editions, all of which are confirmed as Public Domain in the U.S. unless a copyright notice is included.
+10013{_}1005{_}Thus, we do not necessarily keep eBooks in compliance with any particular paper edition.
+10013{_}1006{_}Each eBook is in a subdirectory of the same number as the eBook's eBook number, often in several formats including plain vanilla ASCII, compressed (zipped), HTML and others.
+10013{_}1007{_}Corrected EDITIONS of our eBooks replace the old file and take over the old filename and etext number.
+10013{_}1008{_}The replaced older file is renamed.
+10013{_}1009{_}VERSIONS based on separate sources are treated as new eBooks receiving new filenames and etext numbers.
+10013{_}1010{_}Most people start at our Web site which has the main PG search facility:       http://www.gutenberg.net  This Web site includes information about Project Gutenberg-tm, including how to make donations to the Project Gutenberg Literary Archive Foundation, how to help produce our new eBooks, and how to subscribe to our email newsletter to hear about new eBooks.
+10013{_}1011{_}EBooks posted prior to November 2003, with eBook numbers BELOW #10000, are filed in directories based on their release date.
+10013{_}1012{_}If you want to download any of these eBooks directly, rather than using the regular search system you may utilize the following addresses and just download by the etext year.
+10013{_}1013{_}http://www.ibiblio.org/gutenberg/etext06      (Or /etext 05, 04, 03, 02, 01, 00, 99,      98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)  EBooks posted since November 2003, with etext numbers OVER #10000, are filed in a different way.
+10013{_}1014{_}The year of a release date is no longer part of the directory path.
+10013{_}1015{_}The path is based on the etext number (which is identical to the filename).
+10013{_}1016{_}The path to the file is made up of single digits corresponding to all but the last digit in the filename.
+10013{_}1017{_}For example an eBook of filename 10234 would be found at:       http://www.gutenberg.net/1/0/2/3/10234  or filename 24689 would be found at:      http://www.gutenberg.net/2/4/6/8/24689  An alternative method of locating eBooks:      http://www.gutenberg.net/GUTINDEX.ALL   

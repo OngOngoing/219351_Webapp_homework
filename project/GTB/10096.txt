@@ -1,0 +1,1513 @@
+10096{_}0{_}The Project Gutenberg EBook of The Trojan women of Euripides, by Euripides  This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever.
+10096{_}1{_}You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.net   Title: The Trojan women of Euripides  Author: Euripides  Release Date: November 16, 2003 [EBook #10096]  Language: English  Character set encoding: ASCII  *** START OF THIS PROJECT GUTENBERG EBOOK THE TROJAN WOMEN OF EURIPIDES ***     Produced by Juliet Sutherland, Ted Garvin, L Barber and the Online Distributed Proofreading Team      THE TROJAN WOMEN OF EURIPIDES    TRANSLATED INTO ENGLISH RHYMING VERSE WITH EXPLANATORY NOTES BY  GILBERT MURRAY, LL.D., D.LITT.
+10096{_}2{_}REGIUS PROFESSOR OF GREEK IN THE UNIVERSITY OF OXFORD    1915    THE TROJAN WOMEN   In his clear preface, Gilbert Murray says with truth that _The Trojan Women_, valued by the usage of the stage, is not a perfect play.
+10096{_}3{_}"It is only the crying of one of the great wrongs of the world wrought into music."
+10096{_}4{_}Yet it is one of the greater dramas of the elder world.
+10096{_}5{_}In one situation, with little movement, with few figures, it flashes out a great dramatic lesson, the infinite pathos of a successful wrong.
+10096{_}6{_}It has in it the very soul of the tragic.
+10096{_}7{_}It even goes beyond the limited tragic, and hints that beyond the defeat may come a greater glory than will be the fortune of the victors.
+10096{_}8{_}And thus through its pity and terror it purifies our souls to thoughts of peace.
+10096{_}9{_}Great art has no limits of locality or time.
+10096{_}10{_}Its tidings are timeless, and its messages are universal.
+10096{_}11{_}_The Trojan Women_ was first performed in 415 B.C., from a story of the siege of Troy which even then was ancient history.
+10096{_}12{_}But the pathos of it is as modern to us as it was to the Athenians.
+10096{_}13{_}The terrors of war have not changed in three thousand years.
+10096{_}14{_}Euripides had that to say of war which we have to say of it to-day, and had learned that which we are even now learning, that when most triumphant it brings as much wretchedness to the victors as to the vanquished.
+10096{_}15{_}In this play the great conquest "seems to be a great joy and is in truth a great misery."
+10096{_}16{_}The tragedy of war has in no essential altered.
+10096{_}17{_}The god Poseidon mourns over Troy as he might over the cities of to-day, when he cries:   "How are ye blind, Ye treaders down of cities, ye that cast Temples to desolation, and lay waste Tombs, the untrodden sanctuaries where lie The ancient dead; yourselves so soon to die!"
+10096{_}18{_}To the cities of this present day might the prophetess Cassandra speak her message:   "Would ye be wise, ye Cities, fly from war!
+10096{_}19{_}Yet if war come, there is a crown in death For her that striveth well and perisheth Unstained: to die in evil were the stain!"
+10096{_}20{_}A throb of human sympathy as if with one of our sisters of to-day comes to us at the end, when the city is destroyed and its queen would throw herself, living, into its flames.
+10096{_}21{_}To be of the action of this play the imagination needs not to travel back over three thousand years of history.
+10096{_}22{_}It can simply leap a thousand leagues of ocean.
+10096{_}23{_}If ever wars are to be ended, the imagination of man must end them.
+10096{_}24{_}To the common mind, in spite of all its horrors, there is still something glorious in war.
+10096{_}25{_}Preachers have preached against it in vain; economists have argued against its wastefulness in vain.
+10096{_}26{_}The imagination of a great poet alone can finally show to the imagination of the world that even the glories of war are an empty delusion.
+10096{_}27{_}Euripides shows us, as the centre of his drama, women battered and broken by inconceivable torture--the widowed Hecuba, Andromache with her child dashed to death, Cassandra ravished and made mad--yet does he show that theirs are the unconquered and unconquerable spirits.
+10096{_}28{_}The victorious men, flushed with pride, have remorse and mockery dealt out to them by those they fought for, and go forth to unpitied death.
+10096{_}29{_}Never surely can a great tragedy seem more real to us, or purge our souls more truly of the unreality of our thoughts and feelings concerning vital issues, than can The Trojan Women at this moment of the history of the world.
+10096{_}30{_}FRANCIS HOVEY STODDARD.
+10096{_}31{_}_May the first, 1915_.
+10096{_}32{_}INTRODUCTORY NOTE   Judged by common standards, the Troaedes is far from a perfect play; it is scarcely even a good play.
+10096{_}33{_}It is an intense study of one great situation, with little plot, little construction, little or no relief or variety.
+10096{_}34{_}The only movement of the drama is a gradual extinguishing of all the familiar lights of human life, with, perhaps, at the end, a suggestion that in the utterness of night, when all fears of a possible worse thing are passed, there is in some sense peace and even glory.
+10096{_}35{_}But the situation itself has at least this dramatic value, that it is different from what it seems.
+10096{_}36{_}The consummation of a great conquest, a thing celebrated in paeans and thanksgivings, the very height of the day-dreams of unregenerate man--it seems to be a great joy, and it is in truth a great misery.
+10096{_}37{_}It is conquest seen when the thrill of battle is over, and nothing remains but to wait and think.
+10096{_}38{_}We feel in the background the presence of the conquerors, sinister and disappointed phantoms; of the conquered men, after long torment, now resting in death.
+10096{_}39{_}But the living drama for Euripides lay in the conquered women.
+10096{_}40{_}It is from them that he has named his play and built up his scheme of parts: four figures clearly lit and heroic, the others in varying grades of characterisation, nameless and barely articulate, mere half-heard voices of an eternal sorrow.
+10096{_}41{_}Indeed, the most usual condemnation of the play is not that it is dull, but that it is too harrowing; that scene after scene passes beyond the due limits of tragic art.
+10096{_}42{_}There are points to be pleaded against this criticism.
+10096{_}43{_}The very beauty of the most fearful scenes, in spite of their fearfulness, is one; the quick comfort of the lyrics is another, falling like a spell of peace when the strain is too hard to bear (cf.
+10096{_}44{_}p. 89).
+10096{_}45{_}But the main defence is that, like many of the greatest works of art, the _Troaedes_ is something more than art.
+10096{_}46{_}It is also a prophecy, a bearing of witness.
+10096{_}47{_}And the prophet, bound to deliver his message, walks outside the regular ways of the artist.
+10096{_}48{_}For some time before the _Troaedes_ was produced, Athens, now entirely in the hands of the War Party, had been engaged in an enterprise which, though on military grounds defensible, was bitterly resented by the more humane minority, and has been selected by Thucydides as the great crucial crime of the war.
+10096{_}49{_}She had succeeded in compelling the neutral Dorian island of Melos to take up arms against her, and after a long siege had conquered the quiet and immemorially ancient town, massacred the men and sold the women and children into slavery.
+10096{_}50{_}Melos fell in the autumn of 416 B.C.
+10096{_}51{_}The _Troaedes_ was produced in the following spring.
+10096{_}52{_}And while the gods of the prologue were prophesying destruction at sea for the sackers of Troy, the fleet of the sackers of Melos, flushed with conquest and marked by a slight but unforgettable taint of sacrilege, was actually preparing to set sail for its fatal enterprise against Sicily.
+10096{_}53{_}Not, of course, that we have in the _Troaedes_ a case of political allusion.
+10096{_}54{_}Far from it.
+10096{_}55{_}Euripides does not mean Melos when he says Troy, nor mean Alcibiades' fleet when he speaks of Agamemnon's.
+10096{_}56{_}But he writes under the influence of a year which to him, as to Thucydides, had been filled full of indignant pity and of dire foreboding.
+10096{_}57{_}This tragedy is perhaps, in European literature, the first great expression of the spirit of pity for mankind exalted into a moving principle; a principle which has made the most precious, and possibly the most destructive, elements of innumerable rebellions, revolutions, and martyrdoms, and of at least two great religions.
+10096{_}58{_}Pity is a rebel passion.
+10096{_}59{_}Its hand is against the strong, against the organised force of society, against conventional sanctions and accepted Gods.
+10096{_}60{_}It is the Kingdom of Heaven within us fighting against the brute powers of the world; and it is apt to have those qualities of unreason, of contempt for the counting of costs and the balancing of sacrifices, of recklessness, and even, in the last resort, of ruthlessness, which so often mark the paths of heavenly things and the doings of the children of light.
+10096{_}61{_}It brings not peace, but a sword.
+10096{_}62{_}So it was with Euripides.
+10096{_}63{_}The _Troaedes_ itself has indeed almost no fierceness and singularly little thought of revenge.
+10096{_}64{_}It is only the crying of one of the great wrongs of the world wrought into music, as it were, and made beautiful by "the most tragic of the poets."
+10096{_}65{_}But its author lived ever after in a deepening atmosphere of strife and even of hatred, down to the day when, "because almost all in Athens rejoiced at his suffering," he took his way to the remote valleys of Macedon to write the _Bacchae_ and to die.
+10096{_}66{_}G. M.     THE TROJAN WOMEN   CHARACTERS IN THE PLAY   THE GOD POSEIDON.
+10096{_}67{_}THE GODDESS PALLAS ATHENA.
+10096{_}68{_}HECUBA, _Queen of Troy, wife of Priam, mother of Hector and Paris_.
+10096{_}69{_}CASSANDRA, _daughter of Hecuba, a prophetess_.
+10096{_}70{_}ANDROMACHE, _wife of Hector, Prince of Troy_.
+10096{_}71{_}HELEN, _wife of Menelaus, King of Sparta; carried off by Paris, Prince of Troy_.
+10096{_}72{_}TALTHYBIUS, _Herald of the Greeks_.
+10096{_}73{_}MENELAUS, _King of Sparta, and, together with his brother Agamemnon, General of the Greeks_.
+10096{_}74{_}SOLDIERS ATTENDANT ON TALTHYBIUS AND MENELAUS.
+10096{_}75{_}CHORUS OF CAPTIVE TROJAN WOMEN, YOUNG AND OLD, MAIDEN AND MARRIED.
+10096{_}76{_}_The Troaedes was first acted in the year_ 415 B.C.
+10096{_}77{_}"_The first prize was won by Xenocles, whoever he may have been, with the four plays Oedipus, Lycaon, Bacchae and Athamas, a Satyr-play.
+10096{_}78{_}The second by Euripides with the Alexander, Palamedes, Troaedes and Sisyphus, a Satyr-play_."
+10096{_}79{_}--AELIAN, _Varia Historia_, ii.
+10096{_}80{_}8.
+10096{_}81{_}THE TROJAN WOMEN   _The scene represents a battlefield, a few days after the battle.
+10096{_}82{_}At the back are the walls of Troy, partially ruined.
+10096{_}83{_}In front of them, to right and left, are some huts, containing those of the Captive Women who have been specially set apart for the chief Greek leaders.
+10096{_}84{_}At one side some dead bodies of armed men are visible.
+10096{_}85{_}In front a tall woman with white hair is lying on the ground asleep._  _It is the dusk of early dawn, before sunrise.
+10096{_}86{_}The figure of the god _ POSEIDON _ is dimly seen before the walls._  POSEIDON.
+10096{_}87{_}[1]  Up from Aegean caverns, pool by pool Of blue salt sea, where feet most beautiful Of Nereid maidens weave beneath the foam Their long sea-dances, I, their lord, am come, Poseidon of the Sea.
+10096{_}88{_}'Twas I whose power, With great Apollo, builded tower by tower These walls of Troy; and still my care doth stand True to the ancient People of my hand; Which now as smoke is perished, in the shock Of Argive spears.
+10096{_}89{_}Down from Parnassus' rock The Greek Epeios came, of Phocian seed, And wrought by Pallas' mysteries a Steed Marvellous[2], big with arms; and through my wall It passed, a death-fraught image magical.
+10096{_}90{_}The groves are empty and the sanctuaries Run red with blood.
+10096{_}91{_}Unburied Priam lies By his own hearth, on God's high altar-stair, And Phrygian gold goes forth and raiment rare To the Argive ships; and weary soldiers roam Waiting the wind that blows at last for home, For wives and children, left long years away, Beyond the seed's tenth fullness and decay, To work this land's undoing.
+10096{_}92{_}And for me, Since Argive Hera conquereth, and she Who wrought with Hera to the Phrygians' woe, Pallas, behold, I bow mine head and go Forth from great Ilion[3] and mine altars old.
+10096{_}93{_}When a still city lieth in the hold Of Desolation, all God's spirit there Is sick and turns from worship.--Hearken where The ancient River waileth with a voice Of many women, portioned by the choice Of war amid new lords, as the lots leap For Thessaly, or Argos, or the steep Of Theseus' Rock.
+10096{_}94{_}And others yet there are, High women, chosen from the waste of war For the great kings, behind these portals hid; And with them that Laconian Tyndarid[4], Helen, like them a prisoner and a prize.
+10096{_}95{_}And this unhappy one--would any eyes Gaze now on Hecuba?
+10096{_}96{_}Here at the Gates She lies 'mid many tears for many fates Of wrong.
+10096{_}97{_}One child beside Achilles' grave In secret slain[5], Polyxena the brave, Lies bleeding.
+10096{_}98{_}Priam and his sons are gone; And, lo, Cassandra[6], she the Chosen One, Whom Lord Apollo spared to walk her way A swift and virgin spirit, on this day Lust hath her, and she goeth garlanded A bride of wrath to Agamemnon's bed.
+10096{_}99{_}[_He turns to go; and another divine Presence becomes visible in the dusk.
+10096{_}100{_}It is the goddess_ PALLAS ATHENA.
+10096{_}101{_}O happy long ago, farewell, farewell, Ye shining towers and mine old citadel; Broken by Pallas[7], Child of God, or still Thy roots had held thee true.
+10096{_}102{_}PALLAS.
+10096{_}103{_}Is it the will Of God's high Brother, to whose hand is given Great power of old, and worship of all Heaven, To suffer speech from one whose enmities This day are cast aside?
+10096{_}104{_}POSEIDON.
+10096{_}105{_}His will it is: Kindred and long companionship withal, Most high Athena, are things magical.
+10096{_}106{_}PALLAS.
+10096{_}107{_}Blest be thy gentle mood!--Methinks I see A road of comfort here, for thee and me.
+10096{_}108{_}POSEIDON.
+10096{_}109{_}Thou hast some counsel of the Gods, or word Spoken of Zeus?
+10096{_}110{_}Or is it tidings heard From some far Spirit?
+10096{_}111{_}PALLAS.
+10096{_}112{_}For this Ilion's sake, Whereon we tread, I seek thee, and would make My hand as thine.
+10096{_}113{_}POSEIDON.
+10096{_}114{_}Hath that old hate and deep Failed, where she lieth in her ashen sleep?
+10096{_}115{_}Thou pitiest her?
+10096{_}116{_}PALLAS.
+10096{_}117{_}Speak first; wilt thou be one In heart with me and hand till all be done?
+10096{_}118{_}POSEIDON.
+10096{_}119{_}Yea; but lay bare thy heart.
+10096{_}120{_}For this land's sake Thou comest, not for Hellas?
+10096{_}121{_}PALLAS.
+10096{_}122{_}I would make Mine ancient enemies laugh for joy, and bring On these Greek ships a bitter homecoming.
+10096{_}123{_}POSEIDON.
+10096{_}124{_}Swift is thy spirit's path, and strange withal, And hot thy love and hate, where'er they fall.
+10096{_}125{_}PALLAS.
+10096{_}126{_}A deadly wrong they did me, yea within Mine holy place: thou knowest?
+10096{_}127{_}POSEIDON.
+10096{_}128{_}I know the sin Of Ajax[8], when he cast Cassandra down....  PALLAS.
+10096{_}129{_}And no man rose and smote him; not a frown Nor word from all the Greeks!
+10096{_}130{_}POSEIDON.
+10096{_}131{_}And 'twas thine hand That gave them Troy!
+10096{_}132{_}PALLAS.
+10096{_}133{_}Therefore with thee I stand To smite them.
+10096{_}134{_}POSEIDON.
+10096{_}135{_}All thou cravest, even now Is ready in mine heart.
+10096{_}136{_}What seekest thou?
+10096{_}137{_}PALLAS.
+10096{_}138{_}An homecoming that striveth ever more And cometh to no home.
+10096{_}139{_}POSEIDON.
+10096{_}140{_}Here on the shore Wouldst hold them or amid mine own salt foam?
+10096{_}141{_}PALLAS.
+10096{_}142{_}When the last ship hath bared her sail for home!
+10096{_}143{_}Zeus shall send rain, long rain and flaw of driven Hail, and a whirling darkness blown from heaven; To me his levin-light he promiseth O'er ships and men, for scourging and hot death: Do thou make wild the roads of the sea, and steep With war of waves and yawning of the deep, Till dead men choke Euboea's curling bay.
+10096{_}144{_}So Greece shall dread even in an after day My house, nor scorn the Watchers of strange lands!
+10096{_}145{_}POSEIDON.
+10096{_}146{_}I give thy boon unbartered.
+10096{_}147{_}These mine hands Shall stir the waste Aegean; reefs that cross The Delian pathways, jag-torn Myconos, Scyros and Lemnos, yea, and storm-driven Caphereus with the bones of drowned men Shall glut him.--Go thy ways, and bid the Sire Yield to thine hand the arrows of his fire.
+10096{_}148{_}Then wait thine hour, when the last ship shall wind Her cable coil for home!
+10096{_}149{_}[_Exit_ PALLAS.
+10096{_}150{_}How are ye blind, Ye treaders down of cities, ye that cast Temples to desolation, and lay waste Tombs, the untrodden sanctuaries where lie The ancient dead; yourselves so soon to die!
+10096{_}151{_}[_Exit_ POSEIDON.
+10096{_}152{_}*       *       *       *       *  _The day slowly dawns_: HECUBA _wakes_.
+10096{_}153{_}HECUBA.
+10096{_}154{_}Up from the earth, O weary head!
+10096{_}155{_}This is not Troy, about, above--    Not Troy, nor we the lords thereof.
+10096{_}156{_}Thou breaking neck, be strengthened!
+10096{_}157{_}Endure and chafe not.
+10096{_}158{_}The winds rave   And falter.
+10096{_}159{_}Down the world's wide road,   Float, float where streams the breath of God; Nor turn thy prow to breast the wave.
+10096{_}160{_}Ah woe!...
+10096{_}161{_}For what woe lacketh here?
+10096{_}162{_}My children lost, my land, my lord.
+10096{_}163{_}O thou great wealth of glory, stored Of old in Ilion, year by year  We watched ... and wert thou nothingness?
+10096{_}164{_}What is there that I fear to say?
+10096{_}165{_}And yet, what help?...
+10096{_}166{_}Ah, well-a-day, This ache of lying, comfortless  And haunted!
+10096{_}167{_}Ah, my side, my brow   And temples!
+10096{_}168{_}All with changeful pain   My body rocketh, and would fain Move to the tune of tears that flow: For tears are music too, and keep A song unheard in hearts that weep.
+10096{_}169{_}[_She rises and gazes towards the Greek ships far off on the shore._  O ships, O crowding faces   Of ships[9], O hurrying beat   Of oars as of crawling feet, How found ye our holy places?
+10096{_}170{_}Threading the narrows through,   Out from the gulfs of the Greek, Out to the clear dark blue,   With hate ye came and with joy, And the noise of your music flew,   Clarion and pipe did shriek, As the coiled cords ye threw,   Held in the heart of Troy!
+10096{_}171{_}What sought ye then that ye came?
+10096{_}172{_}A woman, a thing abhorred:   A King's wife that her lord Hateth: and Castor's[10] shame   Is hot for her sake, and the reeds Of old Eurotas stir With the noise of the name of her.
+10096{_}173{_}She slew mine ancient King, The Sower of fifty Seeds[11],   And cast forth mine and me,   As shipwrecked men, that cling     To a reef in an empty sea.
+10096{_}174{_}Who am I that I sit   Here at a Greek king's door, Yea, in the dust of it?
+10096{_}175{_}A slave that men drive before, A woman that hath no home,   Weeping alone for her dead;   A low and bruised head, And the glory struck therefrom.
+10096{_}176{_}[_She starts up from her solitary brooding, and calls to the other Trojan Women in the huts._  O Mothers of the Brazen Spear,   And maidens, maidens, brides of shame,   Troy is a smoke, a dying flame; Together we will weep for her: I call ye as a wide-wing'd bird   Calleth the children of her fold,  To cry, ah, not the cry men heard    In Ilion, not the songs of old, That echoed when my hand was true      On Priam's sceptre, and my feet      Touched on the stone one signal beat,    And out the Dardan music rolled; And Troy's great Gods gave ear thereto.
+10096{_}177{_}[_The door of one of the huts on the right opens, and the Women steal out severally, startled and afraid_.
+10096{_}178{_}FIRST WOMAN.
+10096{_}179{_}[_Strophe_ I.
+10096{_}180{_}How say'st thou?
+10096{_}181{_}Whither moves thy cry,    Thy bitter cry?
+10096{_}182{_}Behind our door    We heard thy heavy heart outpour Its sorrow: and there shivered by       Fear and a quick sob shaken From prisoned hearts that shall be free no more!
+10096{_}183{_}HECUBA.
+10096{_}184{_}Child, 'tis the ships that stir upon the shore....  SECOND WOMAN.
+10096{_}185{_}The ships, the ships awaken!
+10096{_}186{_}THIRD WOMAN.
+10096{_}187{_}Dear God, what would they?
+10096{_}188{_}Overseas Bear me afar to strange cities?
+10096{_}189{_}HECUBA.
+10096{_}190{_}Nay, child, I know not.
+10096{_}191{_}Dreams are these,      Fears of the hope-forsaken.
+10096{_}192{_}FIRST WOMAN.
+10096{_}193{_}Awake, O daughters of affliction, wake And learn your lots!
+10096{_}194{_}Even now the Argives break      Their camp for sailing!
+10096{_}195{_}HECUBA.
+10096{_}196{_}Ah, not Cassandra!
+10096{_}197{_}Wake not her    Whom God hath maddened, lest the foe Mock at her dreaming.
+10096{_}198{_}Leave me clear    From that one edge of woe.
+10096{_}199{_}O Troy, my Troy, thou diest here    Most lonely; and most lonely we    The living wander forth from thee,      And the dead leave thee wailing!
+10096{_}200{_}[_One of the huts on the left is now open, and the rest of the_ CHORUS _come out severally.
+10096{_}201{_}Their number eventually amounts to fifteen_.
+10096{_}202{_}FOURTH WOMAN.
+10096{_}203{_}[_Antistrophe_ I.
+10096{_}204{_}Out of the tent of the Greek king    I steal, my Queen, with trembling breath:    What means thy call?
+10096{_}205{_}Not death; not death!
+10096{_}206{_}They would not slay so low a thing!
+10096{_}207{_}FIFTH WOMAN.
+10096{_}208{_}O, 'tis the ship-folk crying To deck the galleys: and we part, we part!
+10096{_}209{_}HECUBA.
+10096{_}210{_}Nay, daughter: take the morning to thine heart.
+10096{_}211{_}FIFTH WOMAN.
+10096{_}212{_}My heart with dread is dying!
+10096{_}213{_}SIXTH WOMAN.
+10096{_}214{_}An herald from the Greek hath come!
+10096{_}215{_}FIFTH WOMAN.
+10096{_}216{_}How have they cast me, and to whom A bondmaid?
+10096{_}217{_}HECUBA.
+10096{_}218{_}Peace, child: wait thy doom.
+10096{_}219{_}Our lots are near the trying.
+10096{_}220{_}FOURTH WOMAN.
+10096{_}221{_}Argos, belike, or Phthia shall it be, Or some lone island of the tossing sea,       Far, far from Troy?
+10096{_}222{_}HECUBA.
+10096{_}223{_}And I the aged, where go I,   A winter-frozen bee, a slave Death-shapen, as the stones that lie   Hewn on a dead man's grave: The children of mine enemy To foster, or keep watch before The threshold of a master's door,   I that was Queen in Troy!
+10096{_}224{_}A WOMAN TO ANOTHER.
+10096{_}225{_}[_Strophe 2_.
+10096{_}226{_}And thou, what tears can tell thy doom?
+10096{_}227{_}THE OTHER.
+10096{_}228{_}The shuttle still shall flit and change Beneath my fingers, but the loom,       Sister, be strange.
+10096{_}229{_}ANOTHER (_wildly_).
+10096{_}230{_}Look, my dead child!
+10096{_}231{_}My child, my love, The last look....  ANOTHER.
+10096{_}232{_}Oh, there cometh worse.
+10096{_}233{_}A Greek's bed in the dark....  ANOTHER.
+10096{_}234{_}God curse That night and all the powers thereof!
+10096{_}235{_}ANOTHER.
+10096{_}236{_}Or pitchers to and fro to bear    To some Pirene[12] on the hill,   Where the proud water craveth still Its broken-hearted minister.
+10096{_}237{_}ANOTHER.
+10096{_}238{_}God guide me yet to Theseus' land[13],   The gentle land, the famed afar....  ANOTHER.
+10096{_}239{_}But not the hungry foam--Ah, never!-- Of fierce Eurotas, Helen's river, To bow to Menelaus' hand,   That wasted Troy with war!
+10096{_}240{_}A WOMAN.
+10096{_}241{_}[_Antistrophe 2_.
+10096{_}242{_}They told us of a land high-born,   Where glimmers round Olympus' roots A lordly river, red with corn   And burdened fruits.
+10096{_}243{_}ANOTHER.
+10096{_}244{_}Aye, that were next in my desire   To Athens, where good spirits dwell....  ANOTHER.
+10096{_}245{_}Or Aetna's breast, the deeps of fire   That front the Tyrian's Citadel: First mother, she, of Sicily   And mighty mountains: fame hath told   Their crowns of goodness manifold....  ANOTHER.
+10096{_}246{_}And, close beyond the narrowing sea, A sister land, where float enchanted   Ionian summits, wave on wave, And Crathis of the burning tresses Makes red the happy vale, and blesses With gold of fountains spirit-haunted   Homes of true men and brave!
+10096{_}247{_}LEADER.
+10096{_}248{_}But lo, who cometh: and his lips   Grave with the weight of dooms unknown: A Herald from the Grecian ships.
+10096{_}249{_}Swift comes he, hot-foot to be done And finished.
+10096{_}250{_}Ah, what bringeth he Of news or judgment?
+10096{_}251{_}Slaves are we,   Spoils that the Greek hath won!
+10096{_}252{_}[TALTHYBIUS[14], _followed by some Soldiers, enters from the left_.
+10096{_}253{_}TALTHYBIUS.
+10096{_}254{_}Thou know'st me, Hecuba.
+10096{_}255{_}Often have I crossed Thy plain with tidings from the Hellene host.
+10096{_}256{_}'Tis I, Talthybius.... Nay, of ancient use Thou know'st me.
+10096{_}257{_}And I come to bear thee news.
+10096{_}258{_}HECUBA.
+10096{_}259{_}Ah me, 'tis here, 'tis here, Women of Troy, our long embosomed fear!
+10096{_}260{_}TALTHYBIUS.
+10096{_}261{_}The lots are cast, if that it was ye feared.
+10096{_}262{_}HECUBA.
+10096{_}263{_}What lord, what land.... Ah me, Phthia or Thebes, or sea-worn Thessaly?
+10096{_}264{_}TALTHYBIUS.
+10096{_}265{_}Each hath her own.
+10096{_}266{_}Ye go not in one herd.
+10096{_}267{_}HECUBA.
+10096{_}268{_}Say then what lot hath any?
+10096{_}269{_}What of joy Falls, or can fall on any child of Troy?
+10096{_}270{_}TALTHYBIUS.
+10096{_}271{_}I know: but make thy questions severally.
+10096{_}272{_}HECUBA.
+10096{_}273{_}My stricken one must be Still first.
+10096{_}274{_}Say how Cassandra's portion lies.
+10096{_}275{_}TALTHYBIUS.
+10096{_}276{_}Chosen from all for Agamemnon's prize!
+10096{_}277{_}HECUBA.
+10096{_}278{_}How, for his Spartan bride A tirewoman?
+10096{_}279{_}For Helen's sister's pride?
+10096{_}280{_}TALTHYBIUS.
+10096{_}281{_}Nay, nay: a bride herself, for the King's bed.
+10096{_}282{_}HECUBA.
+10096{_}283{_}The sainted of Apollo?
+10096{_}284{_}And her own      Prize that God promised Out of the golden clouds, her virgin crown?...
+10096{_}285{_}TALTHYBIUS.
+10096{_}286{_}He loved her for that same strange holiness.
+10096{_}287{_}HECUBA.
+10096{_}288{_}Daughter, away, away,       Cast all away, The haunted Keys[15], the lonely stole's array That kept thy body like a sacred place!
+10096{_}289{_}TALTHYBIUS.
+10096{_}290{_}Is't not rare fortune that the King hath smiled On such a maid?
+10096{_}291{_}HECUBA.
+10096{_}292{_}What of that other child Ye reft from me but now?
+10096{_}293{_}TALTHYBIUS (_speaking with some constraint_).
+10096{_}294{_}Polyxena?
+10096{_}295{_}Or what child meanest thou?
+10096{_}296{_}HECUBA.
+10096{_}297{_}The same.
+10096{_}298{_}What man now hath her, or what doom?
+10096{_}299{_}TALTHYBIUS.
+10096{_}300{_}She rests apart, to watch Achilles' tomb.
+10096{_}301{_}HECUBA.
+10096{_}302{_}To watch a tomb?
+10096{_}303{_}My daughter?
+10096{_}304{_}What is this?...
+10096{_}305{_}Speak, Friend?
+10096{_}306{_}What fashion of the laws of Greece?
+10096{_}307{_}TALTHYBIUS.
+10096{_}308{_}Count thy maid happy!
+10096{_}309{_}She hath naught of ill To fear....  HECUBA.
+10096{_}310{_}What meanest thou?
+10096{_}311{_}She liveth still?
+10096{_}312{_}TALTHYBIUS.
+10096{_}313{_}I mean, she hath one toil[16] that holds her free From all toil else.
+10096{_}314{_}HECUBA.
+10096{_}315{_}What of Andromache, Wife of mine iron-hearted Hector, where   Journeyeth she?
+10096{_}316{_}TALTHYBIUS.
+10096{_}317{_}Pyrrhus, Achilles' son, hath taken her.
+10096{_}318{_}HECUBA.
+10096{_}319{_}And I, whose slave am I, The shaken head, the arm that creepeth by,      Staff-crutched, like to fall?
+10096{_}320{_}TALTHYBIUS.
+10096{_}321{_}Odysseus[17], Ithaca's king, hath thee for thrall.
+10096{_}322{_}HECUBA.
+10096{_}323{_}Beat, beat the crownless head: Rend the cheek till the tears run red!
+10096{_}324{_}A lying man and a pitiless Shall be lord of me, a heart full-flown   With scorn of righteousness: O heart of a beast where law is none, Where all things change so that lust be fed, The oath and the deed, the right and the wrong, Even the hate of the forked tongue: Even the hate turns and is cold, False as the love that was false of old!
+10096{_}325{_}O Women of Troy, weep for me!
+10096{_}326{_}Yea, I am gone: I am gone my ways.
+10096{_}327{_}Mine is the crown of misery, The bitterest day of all our days.
+10096{_}328{_}LEADER.
+10096{_}329{_}Thy fate thou knowest, Queen: but I know not What lord of South or North has won my lot.
+10096{_}330{_}TALTHYBIUS.
+10096{_}331{_}Go, seek Cassandra, men!
+10096{_}332{_}Make your best speed, That I may leave her with the King, and lead These others to their divers lords.... Ha, there!
+10096{_}333{_}What means that sudden light?
+10096{_}334{_}Is it the flare Of torches?
+10096{_}335{_}[_Light is seen shining through the crevices of the second hut on the right.
+10096{_}336{_}He moves towards it._       Would they fire their prison rooms, Or how, these dames of Troy?--'Fore God, the dooms Are known, and now they burn themselves and die[18] Rather than sail with us!
+10096{_}337{_}How savagely In days like these a free neck chafes beneath Its burden!...
+10096{_}338{_}Open!
+10096{_}339{_}Open quick!
+10096{_}340{_}Such death Were bliss to them, it may be: but 'twill bring Much wrath, and leave me shamed before the King!
+10096{_}341{_}HECUBA.
+10096{_}342{_}There is no fire, no peril: 'tis my child, Cassandra, by the breath of God made wild.
+10096{_}343{_}[_The door opens from within and_ CASSANDRA _enters, white-robed and wreathed like a Priestess, a great torch in her hand.
+10096{_}344{_}She is singing softly to herself and does not see the Herald or the scene before her._  CASSANDRA.
+10096{_}345{_}Lift, lift it high: [_Strophe_.
+10096{_}346{_}Give it to mine hand!
+10096{_}347{_}Lo, I bear a flame     Unto God!
+10096{_}348{_}I praise his name.
+10096{_}349{_}I light with a burning brand This sanctuary.
+10096{_}350{_}Blessed is he that shall wed,   And blessed, blessed am I   In Argos: a bride to lie With a king in a king's bed.
+10096{_}351{_}Hail, O Hymen[19] red,   O Torch that makest one!
+10096{_}352{_}Weepest thou, Mother mine own?
+10096{_}353{_}Surely thy cheek is pale With tears, tears that wail   For a land and a father dead.
+10096{_}354{_}But I go garlanded: I am the Bride of Desire:   Therefore my torch is borne--   Lo, the lifting of morn, Lo, the leaping of fire!--  For thee, O Hymen bright,   For thee, O Moon of the Deep, So Law hath charged, for the light   Of a maid's last sleep.
+10096{_}355{_}Awake, O my feet, awake:  [_Antistrophe_.
+10096{_}356{_}Our father's hope is won!
+10096{_}357{_}Dance as the dancing skies     Over him, where he lies   Happy beneath the sun!...
+10096{_}358{_}Lo, the Ring that I make....  [_She makes a circle round her with a torch, and visions appear to her_.
+10096{_}359{_}Apollo!...
+10096{_}360{_}Ah, is it thou?
+10096{_}361{_}O shrine in the laurels cold,   I bear thee still, as of old, Mine incense!
+10096{_}362{_}Be near to me now.
+10096{_}363{_}[_She waves the torch as though bearing incense_.
+10096{_}364{_}O Hymen, Hymen fleet:   Quick torch that makest one!...
+10096{_}365{_}How?
+10096{_}366{_}Am I still alone?
+10096{_}367{_}Laugh as I laugh, and twine In the dance, O Mother mine:   Dear feet, be near my feet!
+10096{_}368{_}Come, greet ye Hymen, greet   Hymen with songs of pride: Sing to him loud and long, Cry, cry, when the song   Faileth, for joy of the bride!
+10096{_}369{_}O Damsels girt in the gold   Of Ilion, cry, cry ye, For him that is doomed of old   To be lord of me!
+10096{_}370{_}LEADER.
+10096{_}371{_}O hold the damsel, lest her tranced feet Lift her afar, Queen, toward the Hellene fleet!
+10096{_}372{_}HECUBA.
+10096{_}373{_}O Fire, Fire, where men make marriages Surely thou hast thy lot; but what are these Thou bringest flashing?
+10096{_}374{_}Torches savage-wild And far from mine old dreams.--Alas, my child, How little dreamed I then of wars or red Spears of the Greek to lay thy bridal bed!
+10096{_}375{_}Give me thy brand; it hath no holy blaze Thus in thy frenzy flung.
+10096{_}376{_}Nor all thy days Nor all thy griefs have changed them yet, nor learned Wisdom.--Ye women, bear the pine half burned To the chamber back; and let your drowned eyes Answer the music of these bridal cries!
+10096{_}377{_}[_She takes the torch and gives it to one of the women_.
+10096{_}378{_}CASSANDRA.
+10096{_}379{_}O Mother, fill mine hair with happy flowers, And speed me forth.
+10096{_}380{_}Yea, if my spirit cowers, Drive me with wrath!
+10096{_}381{_}So liveth Loxias[20], A bloodier bride than ever Helen was Go I to Agamemnon, Lord most high Of Hellas!...
+10096{_}382{_}I shall kill him, mother; I Shall kill him, and lay waste his house with fire As he laid ours.
+10096{_}383{_}My brethren and my sire Shall win again....[21]        (_Checking herself_) But part I must let be, And speak not.
+10096{_}384{_}Not the axe that craveth me, And more than me; not the dark wanderings Of mother-murder that my bridal brings, And all the House of Atreus down, down, down....    Nay, I will show thee.
+10096{_}385{_}Even now this town Is happier than the Greeks.
+10096{_}386{_}I know the power Of God is on me: but this little hour, Wilt thou but listen, I will hold him back!
+10096{_}387{_}One love, one woman's beauty, o'er the track Of hunted Helen, made their myriads fall.
+10096{_}388{_}And this their King so wise[22], who ruleth all, What wrought he?
+10096{_}389{_}Cast out Love that Hate might feed: Gave to his brother his own child, his seed Of gladness, that a woman fled, and fain To fly for ever, should be turned again!
+10096{_}390{_}So the days waned, and armies on the shore Of Simois stood and strove and died.
+10096{_}391{_}Wherefore?
+10096{_}392{_}No man had moved their landmarks; none had shook Their walled towns.--And they whom Ares took, Had never seen their children: no wife came With gentle arms to shroud the limbs of them For burial, in a strange and angry earth Laid dead.
+10096{_}393{_}And there at home, the same long dearth: Women that lonely died, and aged men Waiting for sons that ne'er should turn again, Nor know their graves, nor pour drink-offerings, To still the unslaked dust.
+10096{_}394{_}These be the things The conquering Greek hath won!
+10096{_}395{_}But we--what pride, What praise of men were sweeter?--fighting died To save our people.
+10096{_}396{_}And when war was red Around us, friends upbore the gentle dead Home, and dear women's heads about them wound White shrouds, and here they sleep in the old ground Beloved.
+10096{_}397{_}And the rest long days fought on, Dwelling with wives and children, not alone And joyless, like these Greeks.
+10096{_}398{_}And Hector's woe, What is it?
+10096{_}399{_}He is gone, and all men know His glory, and how true a heart he bore.
+10096{_}400{_}It is the gift the Greek hath brought!
+10096{_}401{_}Of yore Men saw him not, nor knew him.
+10096{_}402{_}Yea, and even Paris[23] hath loved withal a child of heaven: Else had his love but been as others are.
+10096{_}403{_}Would ye be wise, ye Cities, fly from war!
+10096{_}404{_}Yet if war come, there is a crown in death For her that striveth well and perisheth Unstained: to die in evil were the stain!
+10096{_}405{_}Therefore, O Mother, pity not thy slain, Nor Troy, nor me, the bride.
+10096{_}406{_}Thy direst foe And mine by this my wooing is brought low.
+10096{_}407{_}TALTHYBIUS (_at last breaking through the spell that has held him_).
+10096{_}408{_}I swear, had not Apollo made thee mad, Not lightly hadst thou flung this shower of bad Bodings, to speed my General o'er the seas!
+10096{_}409{_}'Fore God, the wisdoms and the greatnesses Of seeming, are they hollow all, as things Of naught?
+10096{_}410{_}This son of Atreus, of all kings Most mighty, hath so bowed him to the love Of this mad maid, and chooseth her above All women!
+10096{_}411{_}By the Gods, rude though I be, I would not touch her hand!
+10096{_}412{_}Look thou; I see Thy lips are blind, and whatso words they speak, Praises of Troy or shamings of the Greek, I cast to the four winds!
+10096{_}413{_}Walk at my side In peace!...
+10096{_}414{_}And heaven content him of his bride!
+10096{_}415{_}[_He moves as though to go, but turns to_ HECUBA, _and speaks more gently_.
+10096{_}416{_}And thou shalt follow to Odysseus' host When the word comes.
+10096{_}417{_}'Tis a wise queen[24] thou   go'st To serve, and gentle: so the Ithacans say.
+10096{_}418{_}CASSANDRA (_seeing for the first time the Herald and all the scene_).
+10096{_}419{_}How fierce a slave!...
+10096{_}420{_}O Heralds, Heralds!
+10096{_}421{_}Yea, Voices of Death[25]; and mists are over them Of dead men's anguish, like a diadem, These weak abhorred things that serve the hate Of kings and peoples!...
+10096{_}422{_}To Odysseus' gate My mother goeth, say'st thou?
+10096{_}423{_}Is God's word As naught, to me in silence ministered, That in this place she dies?[26]...
+10096{_}424{_}(_To herself_) No   more; no more!
+10096{_}425{_}Why should I speak the shame of them, before They come?...
+10096{_}426{_}Little he knows, that hard-beset Spirit, what deeps of woe await him yet; Till all these tears of ours and harrowings Of Troy, by his, shall be as golden things.
+10096{_}427{_}Ten years behind ten years athwart his way Waiting: and home, lost and unfriended....       Nay: Why should Odysseus' labours vex my breath?
+10096{_}428{_}On; hasten; guide me to the house of Death, To lie beside my bridegroom!...
+10096{_}429{_}Thou Greek King, Who deem'st thy fortune now so high a thing, Thou dust of the earth, a lowlier bed I see, In darkness, not in light, awaiting thee: And with thee, with thee ... there, where yawneth   plain A rift of the hills, raging with winter rain, Dead ... and out-cast ... and naked....
+10096{_}430{_}It is I Beside my bridegroom: and the wild beasts cry, And ravin on God's chosen!
+10096{_}431{_}[_She clasps her hands to her brow and feels the wreaths._       O, ye wreaths!
+10096{_}432{_}Ye garlands of my God, whose love yet breathes About me, shapes of joyance mystical, Begone!
+10096{_}433{_}I have forgot the festival, Forgot the joy.
+10096{_}434{_}Begone!
+10096{_}435{_}I tear ye, so, From off me!...
+10096{_}436{_}Out on the swift winds they go.
+10096{_}437{_}With flesh still clean I give them back to thee, Still white, O God, O light that leadest me!
+10096{_}438{_}[_Turning upon the Herald.
+10096{_}439{_}Where lies the galley?
+10096{_}440{_}Whither shall I tread?
+10096{_}441{_}See that your watch be set, your sail be spread The wind comes quick[27]!
+10096{_}442{_}Three Powers--mark me,   thou!-- There be in Hell, and one walks with thee now!
+10096{_}443{_}Mother, farewell, and weep not!
+10096{_}444{_}O my sweet City, my earth-clad brethren, and thou great Sire that begat us, but a space, ye Dead, And I am with you, yea, with crowned head I come, and shining from the fires that feed On these that slay us now, and all their seed!
+10096{_}445{_}[_She goes out, followed by Talthybius and the Soldiers_ Hecuba, _after waiting for an instant motionless, falls to the ground._  LEADER OF CHORUS.
+10096{_}446{_}The Queen, ye Watchers!
+10096{_}447{_}See, she falls, she falls, Rigid without a word!
+10096{_}448{_}O sorry thralls, Too late!
+10096{_}449{_}And will ye leave her downstricken, A woman, and so old?
+10096{_}450{_}Raise her again!
+10096{_}451{_}[_Some women go to HECUBA, but she refuses their aid and speaks without rising._  HECUBA.
+10096{_}452{_}Let lie ... the love we seek not is no love....
+10096{_}453{_}This ruined body!
+10096{_}454{_}Is the fall thereof Too deep for all that now is over me Of anguish, and hath been, and yet shall be?
+10096{_}455{_}Ye Gods.... Alas!
+10096{_}456{_}Why call on things so weak For aid?
+10096{_}457{_}Yet there is something that doth seek, Crying, for God, when one of us hath woe.
+10096{_}458{_}O, I will think of things gone long ago And weave them to a song, like one more tear In the heart of misery.... All kings we were; And I must wed a king.
+10096{_}459{_}And sons I brought My lord King, many sons ... nay, that were naught; But high strong princes, of all Troy the best.
+10096{_}460{_}Hellas nor Troaes nor the garnered East Held such a mother!
+10096{_}461{_}And all these things beneath The Argive spear I saw cast down in death, And shore these tresses at the dead men's feet.
+10096{_}462{_}Yea, and the gardener of my garden great, It was not any noise of him nor tale I wept for; these eyes saw him, when the pale Was broke, and there at the altar Priam fell Murdered, and round him all his citadel Sacked.
+10096{_}463{_}And my daughters, virgins of the fold, Meet to be brides of mighty kings, behold, 'Twas for the Greek I bred them!
+10096{_}464{_}All are gone; And no hope left, that I shall look upon Their faces any more, nor they on mine.
+10096{_}465{_}And now my feet tread on the utmost line: An old, old slave-woman, I pass below Mine enemies' gates; and whatso task they know For this age basest, shall be mine; the door, Bowing, to shut and open....
+10096{_}466{_}I that bore Hector!...
+10096{_}467{_}and meal to grind, and this racked head Bend to the stones after a royal bed; Tom rags about me, aye, and under them Tom flesh; 'twill make a woman sick for shame!
+10096{_}468{_}Woe's me; and all that one man's arms might hold One woman, what long seas have o'er me rolled And roll for ever!...
+10096{_}469{_}O my child, whose white Soul laughed amid the laughter of God's light, Cassandra, what hands and how strange a day Have loosed thy zone!
+10096{_}470{_}And thou, Polyxena, Where art thou?
+10096{_}471{_}And my sons?
+10096{_}472{_}Not any seed Of man nor woman now shall help my need.
+10096{_}473{_}Why raise me any more?
+10096{_}474{_}What hope have I To hold me?
+10096{_}475{_}Take this slave that once trod high In Ilion; cast her on her bed of clay Rock-pillowed, to lie down, and pass away Wasted with tears.
+10096{_}476{_}And whatso man they call Happy, believe not ere the last day fall!
+10096{_}477{_}*       *       *       *       *  CHORUS[28].
+10096{_}478{_}[_Strophe._    O Muse, be near me now, and make   A strange song for Ilion's sake, Till a tone of tears be about mine ears   And out of my lips a music break   For Troy, Troy, and the end of the years:     When the wheels of the Greek above me pressed,     And the mighty horse-hoofs beat my breast;   And all around were the Argive spears A towering Steed of golden rein--   O gold without, dark steel within!-- Ramped in our gates; and all the plain   Lay silent where the Greeks had been.
+10096{_}479{_}And a cry broke from all the folk Gathered above on Ilion's rock: "Up, up, O fear is over now!
+10096{_}480{_}To Pallas, who hath saved us living, To Pallas bear this victory-vow!"
+10096{_}481{_}Then rose the old man from his room, The merry damsel left her loom, And each bound death about his brow   With minstrelsy and high thanksgiving!
+10096{_}482{_}[_Antistrophe._    O, swift were all in Troy that day,   And girt them to the portal-way, Marvelling at that mountain Thing   Smooth-carven, where the Argives lay,   And wrath, and Ilion's vanquishing:     Meet gift for her that spareth not[29],     Heaven's yokeless Rider.
+10096{_}483{_}Up they brought   Through the steep gates her offering:   Like some dark ship that climbs the shore     On straining cables, up, where stood   Her marble throne, her hallowed floor,     Who lusted for her people's blood.
+10096{_}484{_}A very weariness of joy Fell with the evening over Troy: And lutes of Afric mingled there   With Phrygian songs: and many a maiden, With white feet glancing light as air, Made happy music through the gloom: And fires on many an inward room All night broad-flashing, flung their glare   On laughing eyes and slumber-laden.
+10096{_}485{_}A MAIDEN.
+10096{_}486{_}I was among the dancers there   To Artemis[30], and glorying sang Her of the Hills, the Maid most fair,   Daughter of Zeus: and, lo, there rang A shout out of the dark, and fell   Deathlike from street to street, and made A silence in the citadel:   And a child cried, as if afraid, And hid him in his mother's veil.
+10096{_}487{_}Then stalked the Slayer from his den, The hand of Pallas served her well!
+10096{_}488{_}O blood, blood of Troy was deep   About the streets and altars then: And in the wedded rooms of sleep,   Lo, the desolate dark alone,   And headless things, men stumbled on.
+10096{_}489{_}And forth, lo, the women go, The crown of War, the crown of Woe, To bear the children of the foe   And weep, weep, for Ilion!
+10096{_}490{_}*     *     *     *     *  [_As the song ceases a chariot is seen approaching from the town, laden with spoils.
+10096{_}491{_}On it sits a mourning Woman with a child in her arms._  LEADER.
+10096{_}492{_}Lo, yonder on the heaped crest    Of a Greek wain, Andromache[31],   As one that o'er an unknown sea Tosseth; and on her wave-borne breast Her loved one clingeth, Hector's child,   Astyanax.... O most forlorn   Of women, whither go'st thou, borne 'Mid Hector's bronzen arms, and piled Spoils of the dead, and pageantry   Of them that hunted Ilion down?
+10096{_}493{_}Aye, richly thy new lord shall crown The mountain shrines of Thessaly!
+10096{_}494{_}ANDROMACHE                          [_Strophe I._  Forth to the Greek I go,   Driven as a beast is driven.
+10096{_}495{_}HEC.
+10096{_}496{_}Woe, woe!
+10096{_}497{_}AND.
+10096{_}498{_}Nay, mine is woe:            Woe to none other given,          And the song and the crown therefor!
+10096{_}499{_}HEC.
+10096{_}500{_}O Zeus!
+10096{_}501{_}AND.
+10096{_}502{_}He hates thee sore!
+10096{_}503{_}HEC.
+10096{_}504{_}Children!
+10096{_}505{_}AND.
+10096{_}506{_}No more, no more            To aid thee: their strife is striven!
+10096{_}507{_}HECUBA.
+10096{_}508{_}[_Antistrophe I._           Troy, Troy is gone!
+10096{_}509{_}AND.
+10096{_}510{_}Yea, and her treasure parted.
+10096{_}511{_}HEC.
+10096{_}512{_}Gone, gone, mine own            Children, the noble-hearted!
+10096{_}513{_}AND.
+10096{_}514{_}Sing sorrow....  HEC.
+10096{_}515{_}For me, for me!
+10096{_}516{_}AND.
+10096{_}517{_}Sing for the Great City,      That falleth, falleth to be      A shadow, a fire departed.
+10096{_}518{_}ANDROMACHE.
+10096{_}519{_}[_Strophe 2._  Come to me, O my lover!
+10096{_}520{_}HEC.
+10096{_}521{_}The dark shroudeth him over,      My flesh, woman, not thine, not thine!
+10096{_}522{_}AND.
+10096{_}523{_}Make of thine arms my cover!
+10096{_}524{_}HECUBA.
+10096{_}525{_}[_Antistrophe 2._  O thou whose wound was deepest, Thou that my children keepest, Priam, Priam, O age-worn King, Gather me where thou sleepest.
+10096{_}526{_}ANDROMACHE (_her hands upon her heart_).
+10096{_}527{_}[_Strophe 3._  O here is the deep of desire,  HEC.
+10096{_}528{_}(How?
+10096{_}529{_}And is this not woe?)
+10096{_}530{_}AND.
+10096{_}531{_}For a city burned with fire;  HEC.
+10096{_}532{_}(It beateth, blow on blow.)
+10096{_}533{_}AND.
+10096{_}534{_}God's wrath for Paris, thy son, that he died not long ago:      Who sold for his evil love     Troy and the towers thereof:     Therefore the dead men lie     Naked, beneath the eye     Of Pallas, and vultures croak       And flap for joy:     So Love hath laid his yoke       On the neck of Troy!
+10096{_}535{_}HECUBA.
+10096{_}536{_}[_Antistrophe 3._  O mine own land, my home,  AND.
+10096{_}537{_}(I weep for thee, left forlorn,)  HEC.
+10096{_}538{_}See'st thou what end is come?
+10096{_}539{_}AND.
+10096{_}540{_}(And the house where my babes were born.)
+10096{_}541{_}HEC.
+10096{_}542{_}A desolate Mother we leave, O children, a City of scorn:       Even as the sound of a song[32]      Left by the way, but long      Remembered, a tune of tears      Falling where no man hears,      In the old house, as rain,        For things loved of yore:      But the dead hath lost his pain        And weeps no more.
+10096{_}543{_}LEADER.
+10096{_}544{_}How sweet are tears to them in bitter stress, And sorrow, and all the songs of heaviness.
+10096{_}545{_}ANDROMACHE[33].
+10096{_}546{_}Mother of him of old, whose mighty spear Smote Greeks like chaff, see'st thou what things are   here?
+10096{_}547{_}HECUBA.
+10096{_}548{_}I see God's hand, that buildeth a great crown For littleness, and hath cast the mighty down.
+10096{_}549{_}ANDROMACHE.
+10096{_}550{_}I and my babe are driven among the droves Of plundered cattle.
+10096{_}551{_}O, when fortune moves So swift, the high heart like a slave beats low.
+10096{_}552{_}HECUBA.
+10096{_}553{_}'Tis fearful to be helpless.
+10096{_}554{_}Men but now Have taken Cassandra, and I strove in vain.
+10096{_}555{_}ANDROMACHE.
+10096{_}556{_}Ah, woe is me; hath Ajax come again?
+10096{_}557{_}But other evil yet is at thy gate.
+10096{_}558{_}HECUBA.
+10096{_}559{_}Nay, Daughter, beyond number, beyond weight My evils are!
+10096{_}560{_}Doom raceth against doom.
+10096{_}561{_}ANDROMACHE.
+10096{_}562{_}Polyxena across Achilles' tomb Lies slain, a gift flung to the dreamless dead.
+10096{_}563{_}HECUBA.
+10096{_}564{_}My sorrow!...
+10096{_}565{_}'Tis but what Talthybius said: So plain a riddle, and I read it not.
+10096{_}566{_}ANDROMACHE.
+10096{_}567{_}I saw her lie, and stayed this chariot; And raiment wrapt on her dead limbs, and beat My breast for her.
+10096{_}568{_}HECUBA (_to herself_).
+10096{_}569{_}O the foul sin of it!
+10096{_}570{_}The wickedness!
+10096{_}571{_}My child.
+10096{_}572{_}My child!
+10096{_}573{_}Again I cry to thee.
+10096{_}574{_}How cruelly art thou slain!
+10096{_}575{_}ANDROMACHE.
+10096{_}576{_}She hath died her death, and howso dark it be, Her death is sweeter than my misery.
+10096{_}577{_}HECUBA.
+10096{_}578{_}Death cannot be what Life is, Child; the cup Of Death is empty, and Life hath always hope.
+10096{_}579{_}ANDROMACHE.
+10096{_}580{_}O Mother, having ears, hear thou this word Fear-conquering, till thy heart as mine be stirred With joy.
+10096{_}581{_}To die is only not to be; And better to be dead than grievously Living.
+10096{_}582{_}They have no pain, they ponder not Their own wrong.
+10096{_}583{_}But the living that is brought From joy to heaviness, his soul doth roam, As in a desert, lost, from its old home.
+10096{_}584{_}Thy daughter lieth now as one unborn, Dead, and naught knowing of the lust and scorn That slew her.
+10096{_}585{_}And I ... long since I drew my   bow Straight at the heart of good fame; and I know My shaft hit; and for that am I the more Fallen from peace.
+10096{_}586{_}All that men praise us for, I loved for Hector's sake, and sought to win.
+10096{_}587{_}I knew that alway, be there hurt therein Or utter innocence, to roam abroad Hath ill report for women; so I trod Down the desire thereof, and walked my way In mine own garden.
+10096{_}588{_}And light words and gay Parley of women never passed my door.
+10096{_}589{_}The thoughts of mine own heart ...
+10096{_}590{_}I craved no more....
+10096{_}591{_}Spoke with me, and I was happy.
+10096{_}592{_}Constantly I brought fair silence and a tranquil eye For Hector's greeting, and watched well the way Of living, where to guide and where obey.
+10096{_}593{_}And, lo!
+10096{_}594{_}some rumour of this peace, being gone Forth to the Greek, hath cursed me.
+10096{_}595{_}Achilles' son, So soon as I was taken, for his thrall Chose me.
+10096{_}596{_}I shall do service in the hall Of them that slew.... How?
+10096{_}597{_}Shall I thrust aside Hector's beloved face, and open wide My heart to this new lord?
+10096{_}598{_}Oh, I should stand A traitor to the dead!
+10096{_}599{_}And if my hand And flesh shrink from him ... lo, wrath and despite O'er all the house, and I a slave!
+10096{_}600{_}One night, One night ... aye, men have said it ... maketh tame A woman in a man's arms.... O shame, shame!
+10096{_}601{_}What woman's lips can so forswear her dead, And give strange kisses in another's bed?
+10096{_}602{_}Why, not a dumb beast, not a colt will run In the yoke untroubled, when her mate is gone-- A thing not in God's image, dull, unmoved Of reason.
+10096{_}603{_}O my Hector!
+10096{_}604{_}best beloved, That, being mine, wast all in all to me, My prince, my wise one, O my majesty Of valiance!
+10096{_}605{_}No man's touch had ever come Near me, when thou from out my father's home Didst lead me and make me thine.... And thou art   dead, And I war-flung to slavery and the bread Of shame in Hellas, over bitter seas!
+10096{_}606{_}What knoweth she of evils like to these, That dead Polyxena, thou weepest for?
+10096{_}607{_}There liveth not in my life any more The hope that others have.
+10096{_}608{_}Nor will I tell The lie to mine own heart, that aught is well Or shall be well....
+10096{_}609{_}Yet, O, to dream were sweet!
+10096{_}610{_}LEADER.
+10096{_}611{_}Thy feet have trod the pathway of my feet, And thy clear sorrow teacheth me mine own.
+10096{_}612{_}HECUBA.
+10096{_}613{_}Lo, yonder ships: I ne'er set foot on one, But tales and pictures tell, when over them Breaketh a storm not all too strong to stem, Each man strives hard, the tiller gripped, the mast Manned, the hull baled, to face it: till at last Too strong breaks the o'erwhelming sea: lo, then They cease, and yield them up as broken men To fate and the wild waters.
+10096{_}614{_}Even so I in my many sorrows bear me low, Nor curse, nor strive that other things may be.
+10096{_}615{_}The great wave rolled from God hath conquered me.
+10096{_}616{_}But, O, let Hector and the fates that fell On Hector, sleep.
+10096{_}617{_}Weep for him ne'er so well, Thy weeping shall not wake him.
+10096{_}618{_}Honour thou The new lord that is set above thee now, And make of thine own gentle piety A prize to lure his heart.
+10096{_}619{_}So shalt thou be A strength to them that love us, and--God knows, It may be--rear this babe among his foes, My Hector's child, to manhood and great aid For Ilion.
+10096{_}620{_}So her stones may yet be laid One on another, if God will, and wrought Again to a city!
+10096{_}621{_}Ah, how thought to thought Still beckons!...
+10096{_}622{_}But what minion of the Greek Is this that cometh, with new words to speak?
+10096{_}623{_}[_Enter_ TALTHYBIUS _with a band of Soldiers.
+10096{_}624{_}He comes forward slowly and with evident disquiet._  TALTHYBIUS.
+10096{_}625{_}Spouse of the noblest heart that beat in Troy, Andromache, hate me not!
+10096{_}626{_}'Tis not in joy I tell thee.
+10096{_}627{_}But the people and the Kings Have with one voice....  ANDROMACHE.
+10096{_}628{_}What is it?
+10096{_}629{_}Evil things Are on thy lips!
+10096{_}630{_}TALTHYBIUS.
+10096{_}631{_}Tis ordered, this child.... Oh, How can I tell her of it?
+10096{_}632{_}ANDROMACHE.
+10096{_}633{_}Doth he not go With me, to the same master?
+10096{_}634{_}TALTHYBIUS.
+10096{_}635{_}There is none In Greece, shall e'er be master of thy son.
+10096{_}636{_}ANDROMACHE.
+10096{_}637{_}How?
+10096{_}638{_}Will they leave him here to build again The wreck?...
+10096{_}639{_}TALTHYBIUS.
+10096{_}640{_}I know not how to tell thee plain!
+10096{_}641{_}ANDROMACHE.
+10096{_}642{_}Thou hast a gentle heart ... if it be ill, And not good, news thou hidest!
+10096{_}643{_}TALTHYBIUS.
+10096{_}644{_}'Tis their will Thy son shall die....
+10096{_}645{_}The whole vile thing is said Now!
+10096{_}646{_}ANDROMACHE.
+10096{_}647{_}Oh, I could have borne mine enemy's bed!
+10096{_}648{_}TALTHYBIUS.
+10096{_}649{_}And speaking in the council of the host Odysseus hath prevailed--  ANDROMACHE.
+10096{_}650{_}O lost!
+10096{_}651{_}lost!
+10096{_}652{_}lost!...
+10096{_}653{_}Forgive me!
+10096{_}654{_}It is not easy....  TALTHYBIUS.
+10096{_}655{_}... That the son Of one so perilous be not fostered on To manhood--  ANDROMACHE.
+10096{_}656{_}God; may his own counsel fall On his own sons!
+10096{_}657{_}TALTHYBIUS.
+10096{_}658{_}...
+10096{_}659{_}But from this crested wall Of Troy be dashed, and die.... Nay, let the thing Be done.
+10096{_}660{_}Thou shalt be wiser so.
+10096{_}661{_}Nor cling So fiercely to him.
+10096{_}662{_}Suffer as a brave Woman in bitter pain; nor think to have Strength which thou hast not.
+10096{_}663{_}Look about thee here!
+10096{_}664{_}Canst thou see help, or refuge anywhere?
+10096{_}665{_}Thy land is fallen and thy lord, and thou A prisoner and alone, one woman; how Canst battle against us?
+10096{_}666{_}For thine own good I would not have thee strive, nor make ill blood And shame about thee.... Ah, nor move thy lips In silence there, to cast upon the ships Thy curse!
+10096{_}667{_}One word of evil to the host, This babe shall have no burial, but be tossed Naked.... Ah, peace!
+10096{_}668{_}And bear as best thou may, War's fortune.
+10096{_}669{_}So thou shalt not go thy way Leaving this child unburied; nor the Greek Be stern against thee, if thy heart be meek!
+10096{_}670{_}ANDROMACHE (_to the child_).
+10096{_}671{_}Go, die, my best-beloved, my cherished one, In fierce men's hands, leaving me here alone.
+10096{_}672{_}Thy father was too valiant; that is why They slay thee!
+10096{_}673{_}Other children, like to die, Might have been spared for that.
+10096{_}674{_}But on thy head His good is turned to evil.
+10096{_}675{_}O thou bed And bridal; O the joining of the hand, That led me long ago to Hector's land To bear, O not a lamb for Grecian swords To slaughter, but a Prince o'er all the hordes Enthroned of wide-flung Asia.... Weepest thou?
+10096{_}676{_}Nay, why, my little one?
+10096{_}677{_}Thou canst not know.
+10096{_}678{_}And Father will not come; he will not come; Not once, the great spear flashing, and the tomb Riven to set thee free!
+10096{_}679{_}Not one of all His brethren, nor the might of Ilion's wall.
+10096{_}680{_}How shall it be?
+10096{_}681{_}One horrible spring ... deep,     deep Down.
+10096{_}682{_}And thy neck.... Ah God, so cometh     sleep!...
+10096{_}683{_}And none to pity thee!...
+10096{_}684{_}Thou little thing That curlest in my arms, what sweet scents cling All round thy neck!
+10096{_}685{_}Beloved; can it be All nothing, that this bosom cradled thee And fostered; all the weary nights, wherethrough I watched upon thy sickness, till I grew Wasted with watching?
+10096{_}686{_}Kiss me.
+10096{_}687{_}This one time; Not ever again.
+10096{_}688{_}Put up thine arms, and climb About my neck: now, kiss me, lips to lips....   O, ye have found an anguish that outstrips All tortures of the East, ye gentle Greeks!
+10096{_}689{_}Why will ye slay this innocent, that seeks No wrong?...
+10096{_}690{_}O Helen, Helen, thou ill tree That Tyndareus planted, who shall deem of thee As child of Zeus?
+10096{_}691{_}O, thou hast drawn thy breath From many fathers, Madness, Hate, red Death, And every rotting poison of the sky!
+10096{_}692{_}Zeus knows thee not, thou vampire, draining dry.
+10096{_}693{_}Greece and the world!
+10096{_}694{_}God hate thee and destroy, That with those beautiful eyes hast blasted Troy, And made the far-famed plains a waste withal.
+10096{_}695{_}Quick!
+10096{_}696{_}take him: drag him: cast him from the wall, If cast ye will!
+10096{_}697{_}Tear him, ye beasts, be swift!
+10096{_}698{_}God hath undone me, and I cannot lift One hand, one hand, to save my child from death.... O, hide my head for shame: fling me beneath Your galleys' benches!...
+10096{_}699{_}[_She swoons: then half-rising._       Quick: I must begone To the bridal....
+10096{_}700{_}I have lost my child, my own!
+10096{_}701{_}[_The Soldiers close round her._  LEADER.
+10096{_}702{_}O Troy ill-starred; for one strange woman, one Abhorred kiss, how are thine hosts undone!
+10096{_}703{_}TALTHYBIUS (_bending over_ ANDROMACHE _and gradually taking the Child from her_).
+10096{_}704{_}Come, Child: let be that clasp of love   Outwearied!
+10096{_}705{_}Walk thy ways with me, Up to the crested tower, above   Thy father's wall.... Where they decree Thy soul shall perish.--Hold him: hold!--   Would God some other man might ply These charges, one of duller mould,   And nearer to the iron than I!
+10096{_}706{_}HECUBA.
+10096{_}707{_}O Child, they rob us of our own,   Child of my Mighty One outworn: Ours, ours thou art!--Can aught be done   Of deeds, can aught of pain be borne, To aid thee?--Lo, this beaten head, This bleeding bosom!
+10096{_}708{_}These I spread As gifts to thee.
+10096{_}709{_}I can thus much.
+10096{_}710{_}Woe, woe for Troy, and woe for thee!
+10096{_}711{_}What fall yet lacketh, ere we touch   The last dead deep of misery?
+10096{_}712{_}[_The Child, who has started back from_ TALTHYBIUS, _is taken up by one of the Soldiers and borne back towards the city, while_ ANDROMACHE _is set again on the Chariot and driven off towards the ships._ TALTHYBIUS _goes with the Child._         *       *       *       *       *  CHORUS.
+10096{_}713{_}[_Strophe I._  In Salamis, filled with the foaming[34]   Of billows and murmur of bees, Old Telamon stayed from his roaming,   Long ago, on a throne of the seas; Looking out on the hills olive-laden,   Enchanted, where first from the earth The grey-gleaming fruit of the Maiden     Athena had birth; A soft grey crown for a city   Beloved a City of Light: Yet he rested not there, nor had pity,     But went forth in his might, Where Heracles wandered, the lonely   Bow-bearer, and lent him his hands For the wrecking of one land only, Of Ilion, Ilion only,     Most hated of lands!
+10096{_}714{_}[_Antistrophe_ I.
+10096{_}715{_}Of the bravest of Hellas he made him   A ship-folk, in wrath for the Steeds, And sailed the wide waters, and stayed him   At last amid Simois' reeds; And the oars beat slow in the river,   And the long ropes held in the strand, And he felt for his bow and his quiver,     The wrath of his hand.
+10096{_}716{_}And the old king died; and the towers   That Phoebus had builded did fall, And his wrath, as a flame that devours,     Ran red over all; And the fields and the woodlands lay blasted,   Long ago.
+10096{_}717{_}Yea, twice hath the Sire Uplifted his hand and downcast it On the wall of the Dardan, downcast it   As a sword and as fire.
+10096{_}718{_}[Strophe 2.
+10096{_}719{_}In vain, all in vain,   O thou 'mid the wine-jars golden     That movest in delicate joy,     Ganymedes, child of Troy, The lips of the Highest drain   The cup in thine hand upholden: And thy mother, thy mother that bore thee,   Is wasted with fire and torn;     And the voice of her shores is heard,     Wild, as the voice of a bird, For lovers and children before thee   Crying, and mothers outworn.
+10096{_}720{_}And the pools of thy bathing[35] are perished,   And the wind-strewn ways of thy feet: Yet thy face as aforetime is cherished Of Zeus, and the breath of it sweet; Yea, the beauty of Calm is upon it In houses at rest and afar.
+10096{_}721{_}But thy land, He hath wrecked and o'erthrown it In the wailing of war.
+10096{_}722{_}[_Antistrophe_ 2.
+10096{_}723{_}O Love, ancient Love, Of old to the Dardan given; Love of the Lords of the Sky; How didst thou lift us high In Ilion, yea, and above All cities, as wed with heaven!
+10096{_}724{_}For Zeus--O leave it unspoken: But alas for the love of the Morn; Morn of the milk-white wing, The gentle, the earth-loving, That shineth on battlements broken In Troy, and a people forlorn!
+10096{_}725{_}And, lo, in her bowers Tithonus, Our brother, yet sleeps as of old: O, she too hath loved us and known us, And the Steeds of her star, flashing gold, Stooped hither and bore him above us; Then blessed we the Gods in our joy.
+10096{_}726{_}But all that made them to love us Hath perished from Troy.
+10096{_}727{_}*       *       *       *       *  [_As the song ceases, the King_ MENELAUS _enters, richly armed and followed by a bodyguard of Soldiers.
+10096{_}728{_}He is a prey to violent and conflicting emotions._  MENELAUS[36].
+10096{_}729{_}How bright the face of heaven, and how sweet The air this day, that layeth at my feet The woman that I.... Nay: 'twas not for her I came.
+10096{_}730{_}'Twas for the man, the cozener And thief, that ate with me and stole away My bride.
+10096{_}731{_}But Paris lieth, this long day, By God's grace, under the horse-hoofs of the Greek, And round him all his land.
+10096{_}732{_}And now I seek.... Curse her!
+10096{_}733{_}I scarce can speak the name she bears, That was my wife.
+10096{_}734{_}Here with the prisoners They keep her, in these huts, among the hordes Of numbered slaves.--The host whose labouring swords Won her, have given her up to me, to fill My pleasure; perchance kill her, or not kill, But lead her home.--Methinks I have foregone The slaying of Helen here in Ilion.... Over the long seas I will bear her back, And there, there, cast her out to whatso wrack Of angry death they may devise, who know Their dearest dead for her in Ilion.--Ho!
+10096{_}735{_}Ye soldiers!
+10096{_}736{_}Up into the chambers where She croucheth!
+10096{_}737{_}Grip the long blood-reeking hair, And drag her to mine eyes ... [_Controlling himself_.
+10096{_}738{_}And when there come Fair breezes, my long ships shall bear her home.
+10096{_}739{_}[_The Soldiers go to force open the door of the second hut on the left_.
+10096{_}740{_}HECUBA.
+10096{_}741{_}Thou deep Base of the World[37], and thou high Throne Above the World, whoe'er thou art, unknown And hard of surmise, Chain of Things that be, Or Reason of our Reason; God, to thee I lift my praise, seeing the silent road That bringeth justice ere the end be trod To all that breathes and dies.
+10096{_}742{_}MENELAUS (_turning_).
+10096{_}743{_}Ha!
+10096{_}744{_}who is there That prayeth heaven, and in so strange a prayer?
+10096{_}745{_}HECUBA.
+10096{_}746{_}I bless thee, Menelaus, I bless thee, If thou wilt slay her!
+10096{_}747{_}Only fear to see Her visage, lest she snare thee and thou fall!
+10096{_}748{_}She snareth strong men's eyes; she snareth tall Cities; and fire from out her eateth up Houses.
+10096{_}749{_}Such magic hath she, as a cup Of death!...
+10096{_}750{_}Do I not know her?
+10096{_}751{_}Yea, and thou, And these that lie around, do they not know?
+10096{_}752{_}[_The Soldiers return from the hut and stand aside to let_ HELEN _pass between them.
+10096{_}753{_}She comes through them, gentle and unafraid; there is no disorder in her raiment_.
+10096{_}754{_}HELEN.
+10096{_}755{_}King Menelaus, thy first deed might make A woman fear.
+10096{_}756{_}Into my chamber brake  Thine armed men, and lead me wrathfully.
+10096{_}757{_}Methinks, almost, I know thou hatest me.
+10096{_}758{_}Yet I would ask thee, what decree is gone Forth for my life or death?
+10096{_}759{_}MENELAUS (_struggling with his emotion_).
+10096{_}760{_}There was not one That scrupled for thee.
+10096{_}761{_}All, all with one will Gave thee to me, whom thou hast wronged, to kill!
+10096{_}762{_}HELEN.
+10096{_}763{_}And is it granted that I speak, or no, In answer to them ere I die, to show I die most wronged and innocent?
+10096{_}764{_}MENELAUS.
+10096{_}765{_}I seek To kill thee, woman; not to hear thee speak!
+10096{_}766{_}HECUBA.
+10096{_}767{_}O hear her!
+10096{_}768{_}She must never die unheard, King Menelaus!
+10096{_}769{_}And give me the word To speak in answer!
+10096{_}770{_}All the wrong she wrought Away from thee, in Troy, thou knowest not.
+10096{_}771{_}The whole tale set together is a death Too sure; she shall not 'scape thee!
+10096{_}772{_}MENELAUS.
+10096{_}773{_}'Tis but breath And time.
+10096{_}774{_}For thy sake, Hecuba, if she need To speak, I grant the prayer.
+10096{_}775{_}I have no heed Nor mercy--let her know it well--for her!
+10096{_}776{_}HELEN.
+10096{_}777{_}It may be that, how false or true soe'er Thou deem me, I shall win no word from thee.
+10096{_}778{_}So sore thou holdest me thine enemy.
+10096{_}779{_}Yet I will take what words I think thy heart Holdeth of anger: and in even part Set my wrong and thy wrong, and all that fell.
+10096{_}780{_}[_Pointing to_ HECUBA.
+10096{_}781{_}She cometh first, who bare the seed and well Of springing sorrow, when to life she brought Paris: and that old King, who quenched not Quick in the spark, ere yet he woke to slay, The fire-brand's image[38].--But enough: a day Came, and this Paris judged beneath the trees Three Crowns of Life[39], three diverse Goddesses.
+10096{_}782{_}The gift of Pallas was of War, to lead His East in conquering battles, and make bleed The hearths of Hellas.
+10096{_}783{_}Hera held a Throne-- If majesties he craved--to reign alone From Phrygia to the last realm of the West.
+10096{_}784{_}And Cypris, if he deemed her loveliest, Beyond all heaven, made dreams about my face And for her grace gave me.
+10096{_}785{_}And, lo!
+10096{_}786{_}her grace Was judged the fairest, and she stood above Those twain.--Thus was I loved, and thus my   love Hath holpen Hellas.
+10096{_}787{_}No fierce Eastern crown Is o'er your lands, no spear hath cast them down.
+10096{_}788{_}O, it was well for Hellas!
+10096{_}789{_}But for me Most ill; caught up and sold across the sea  For this my beauty; yea, dishonoured For that which else had been about my head A crown of honour.... Ah, I see thy thought; The first plain deed, 'tis that I answer not, How in the dark out of thy house I fled....
+10096{_}790{_}There came the Seed of Fire, this woman's seed; Came--O, a Goddess great walked with him then-- This Alexander, Breaker-down-of-Men, This Paris[40], Strength-is-with-him; whom thou,   whom-- O false and light of heart--thou in thy room Didst leave, and spreadest sail for Cretan seas, Far, far from me!...
+10096{_}791{_}And yet, how strange it is!
+10096{_}792{_}I ask not thee; I ask my own sad thought, What was there in my heart, that I forgot My home and land and all I loved, to fly With a strange man?
+10096{_}793{_}Surely it was not I, But Cypris, there!
+10096{_}794{_}Lay thou thy rod on her, And be more high than Zeus and bitterer, Who o'er all other spirits hath his throne, But knows her chain must bind him.
+10096{_}795{_}My wrong done Hath its own pardon....       One word yet thou hast, Methinks, of righteous seeming.
+10096{_}796{_}When at last The earth for Paris oped and all was o'er, And her strange magic bound my feet no more, Why kept I still his house, why fled not I To the Argive ships?...
+10096{_}797{_}Ah, how I strove to fly!
+10096{_}798{_}The old Gate-Warden[41] could have told thee all, My husband, and the watchers from the wall; It was not once they took me, with the rope Tied, and this body swung in the air, to grope Its way toward thee, from that dim battlement.
+10096{_}799{_}Ah, husband still, how shall thy hand be bent To slay me?
+10096{_}800{_}Nay, if Right be come at last, What shalt thou bring but comfort for pains past, And harbour for a woman storm-driven: A woman borne away by violent men: And this one birthright of my beauty, this That might have been my glory, lo, it is A stamp that God hath burned, of slavery!
+10096{_}801{_}Alas!
+10096{_}802{_}and if thou cravest still to be As one set above gods, inviolate, 'Tis but a fruitless longing holds thee yet.
+10096{_}803{_}LEADER.
+10096{_}804{_}O Queen, think of thy children and thy land, And break her spell!
+10096{_}805{_}The sweet soft speech, the   hand And heart so fell: it maketh me afraid.
+10096{_}806{_}HECUBA.
+10096{_}807{_}Meseems her goddesses first cry mine aid Against these lying lips!...
+10096{_}808{_}Not Hera, nay, Nor virgin Pallas deem I such low clay, To barter their own folk, Argos and brave Athens, to be trod down, the Phrygian's slave, All for vain glory and a shepherd's prize On Ida!
+10096{_}809{_}Wherefore should great Hera's eyes So hunger to be fair?
+10096{_}810{_}She doth not use To seek for other loves, being wed with Zeus.
+10096{_}811{_}And maiden Pallas ... did some strange god's face Beguile her, that she craved for loveliness, Who chose from God one virgin gift above All gifts, and fleeth from the lips of love?
+10096{_}812{_}Ah, deck not out thine own heart's evil springs By making spirits of heaven as brutish things And cruel.
+10096{_}813{_}The wise may hear thee, and guess all!
+10096{_}814{_}And Cypris must take ship-fantastical!
+10096{_}815{_}Sail with my son and enter at the gate To seek thee!
+10096{_}816{_}Had she willed it, she had sate At peace in heaven, and wafted thee, and all Amyclae with thee, under Ilion's wall.
+10096{_}817{_}My son was passing beautiful, beyond His peers; and thine own heart, that saw and conned His face, became a spirit enchanting thee.
+10096{_}818{_}For all wild things that in mortality  Have being, are Aphrodite; and the name She bears in heaven is born and writ of them.
+10096{_}819{_}Thou sawest him in gold and orient vest Shining, and lo, a fire about thy breast Leapt!
+10096{_}820{_}Thou hadst fed upon such little things, Pacing thy ways in Argos.
+10096{_}821{_}But now wings Were come!
+10096{_}822{_}Once free from Sparta, and there rolled The Ilian glory, like broad streams of gold, To steep thine arms and splash the towers!
+10096{_}823{_}How   small, How cold that day was Menelaus' hall!
+10096{_}824{_}Enough of that.
+10096{_}825{_}It was by force my son Took thee, thou sayst, and striving....
+10096{_}826{_}Yet not one In Sparta knew!
+10096{_}827{_}No cry, no sudden prayer Rang from thy rooms that night.... Castor was there To hear thee, and his brother: both true men, Not yet among the stars!
+10096{_}828{_}And after, when Thou camest here to Troy, and in thy track Argos and all its anguish and the rack Of war--Ah God!--perchance men told thee 'Now The Greek prevails in battle': then wouldst thou Praise Menelaus, that my son might smart, Striving with that old image in a heart Uncertain still.
+10096{_}829{_}Then Troy had victories: And this Greek was as naught!
+10096{_}830{_}Alway thine eyes Watched Fortune's eyes, to follow hot where she Led first.
+10096{_}831{_}Thou wouldst not follow Honesty.
+10096{_}832{_}Thy secret ropes, thy body swung to fall Far, like a desperate prisoner, from the wall!
+10096{_}833{_}Who found thee so?
+10096{_}834{_}When wast thou taken?
+10096{_}835{_}Nay, Hadst thou no surer rope, no sudden way Of the sword, that any woman honest-souled Had sought long since, loving her lord of old?
+10096{_}836{_}Often and often did I charge thee; 'Go, My daughter; go thy ways.
+10096{_}837{_}My sons will know New loves.
+10096{_}838{_}I will give aid, and steal thee past The Argive watch.
+10096{_}839{_}O give us peace at last, Us and our foes!'
+10096{_}840{_}But out thy spirit cried As at a bitter word.
+10096{_}841{_}Thou hadst thy pride In Alexander's house, and O, 'twas sweet To hold proud Easterns bowing at thy feet.
+10096{_}842{_}They were great things to thee!...
+10096{_}843{_}And comest thou   now Forth, and hast decked thy bosom and thy brow, And breathest with thy lord the same blue air, Thou evil heart?
+10096{_}844{_}Low, low, with ravaged hair, Rent raiment, and flesh shuddering, and within-- O shame at last, not glory for thy sin; So face him if thou canst!...
+10096{_}845{_}Lo, I have done.
+10096{_}846{_}Be true, O King; let Hellas bear her crown Of Justice.
+10096{_}847{_}Slay this woman, and upraise The law for evermore: she that betrays Her husband's bed, let her be judged and die.
+10096{_}848{_}LEADER.
+10096{_}849{_}Be strong, O King; give judgment worthily For thee and thy great house.
+10096{_}850{_}Shake off thy long Reproach; not weak, but iron against the wrong!
+10096{_}851{_}MENELAUS.
+10096{_}852{_}Thy thought doth walk with mine in one intent.
+10096{_}853{_}'Tis sure; her heart was willing, when she went Forth to a stranger's bed.
+10096{_}854{_}And all her fair Tale of enchantment, 'tis a thing of air!...
+10096{_}855{_}[_Turning furiously upon_ HELEN.
+10096{_}856{_}Out, woman!
+10096{_}857{_}There be those that seek thee yet With stones!
+10096{_}858{_}Go, meet them.
+10096{_}859{_}So shall thy long debt Be paid at last.
+10096{_}860{_}And ere this night is o'er Thy dead face shall dishonour me no more!
+10096{_}861{_}HELEN (_kneeling before him and embracing him_).
+10096{_}862{_}Behold, mine arms are wreathed about thy knees; Lay not upon my head the phantasies Of Heaven.
+10096{_}863{_}Remember all, and slay me not!
+10096{_}864{_}HECUBA.
+10096{_}865{_}Remember them she murdered, them that fought Beside thee, and their children!
+10096{_}866{_}Hear that prayer!
+10096{_}867{_}MENELAUS.
+10096{_}868{_}Peace, aged woman, peace!
+10096{_}869{_}'Tis not for her; She is as naught to me.
+10096{_}870{_}(_To the Soldiers_) ... March on before, Ye ministers, and tend her to the shore ... And have some chambered galley set for her, Where she may sail the seas.
+10096{_}871{_}HECUBA.
+10096{_}872{_}If thou be there, I charge thee, let not her set foot therein!
+10096{_}873{_}MENELAUS.
+10096{_}874{_}How?
+10096{_}875{_}Shall the ship go heavier for her sin?
+10096{_}876{_}HECUBA.
+10096{_}877{_}A lover once, will alway love again.
+10096{_}878{_}MENELAUS.
+10096{_}879{_}If that he loved be evil, he will fain Hate it!...
+10096{_}880{_}Howbeit, thy pleasure shall be done.
+10096{_}881{_}Some other ship shall bear her, not mine own.... Thou counsellest very well.... And when we come To Argos, then ... O then some pitiless doom Well-earned, black as her heart!
+10096{_}882{_}One that shall bind Once for all time the law on womankind Of faithfulness!...
+10096{_}883{_}'Twill be no easy thing, God knoweth.
+10096{_}884{_}But the thought thereof shall fling A chill on the dreams of women, though they be Wilder of wing and loathed more than she!
+10096{_}885{_}[_Exit, following_ HELEN, _who is escorted by the Soldiers_.
+10096{_}886{_}*       *       *       *       *  CHORUS[42].
+10096{_}887{_}_Some Women_.
+10096{_}888{_}[_Strophe_ I.
+10096{_}889{_}And hast thou turned from the Altar of frankincense,     And given to the Greek thy temple of Ilion?
+10096{_}890{_}The flame of the cakes of corn, is it gone from hence,      The myrrh on the air and the wreathed towers gone?
+10096{_}891{_}And Ida, dark Ida, where the wild ivy grows, The glens that run as rivers from the summer-broken snows, And the Rock, is it forgotten, where the first sunbeam glows,     The lit house most holy of the Dawn?
+10096{_}892{_}EURIPIDES  _Others._        [_Antistrophe I._    The sacrifice is gone and the sound of joy,     The dancing under the stars and the night-long prayer:   The Golden Images and the Moons of Troy,     The twelve Moons and the mighty names they bear: My heart, my heart crieth, O Lord Zeus on high,  Were they all to thee as nothing, thou throned in the sky,  Throned in the fire-cloud, where a City, near to die,   Passeth in the wind and the flare?
+10096{_}893{_}_A Woman._         [_Strophe 2._  Dear one, O husband mine,   Thou in the dim dominions Driftest with waterless lips, Unburied; and me the ships Shall bear o'er the bitter brine,   Storm-birds upon angry pinions, Where the towers of the Giants[43] shine O'er Argos cloudily, And the riders ride by the sea.
+10096{_}894{_}_Others._  And children still in the Gate   Crowd and cry, A multitude desolate, Voices that float and wait   As the tears run dry: 'Mother, alone on the shore   They drive me, far from thee: Lo, the dip of the oar,   The black hull on the sea!
+10096{_}895{_}Is it the Isle Immortal,   Salamis, waits for me?
+10096{_}896{_}Is it the Rock that broods Over the sundered floods Of Corinth, the ancient portal   Of Pelops' sovranty?'
+10096{_}897{_}_A Woman._             [_Antistrophe_ 2.
+10096{_}898{_}Out in the waste of foam,     Where rideth dark Menelaus, Come to us there, O white And jagged, with wild sea-light And crashing of oar-blades, come,     O thunder of God, and slay us: While our tears are wet for home, While out in the storm go we, Slaves of our enemy!
+10096{_}899{_}_Others._  And, God, may Helen be there[44],     With mirror of gold, Decking her face so fair, Girl-like; and hear, and stare,     And turn death-cold: Never, ah, never more   The hearth of her home to see, Nor sand of the Spartan shore,   Nor tombs where her fathers be, Nor Athena's bronzen Dwelling,    Nor the towers of Pitane For her face was a dark desire Upon Greece, and shame like fire, And her dead are welling, welling,   From red Simois to the sea!
+10096{_}900{_}*       *       *       *       *  [TALTHYBIUS, _followed by one or two Soldiers and bearing the child_ ASTYANAX _dead, is seen approaching._  LEADER.
+10096{_}901{_}Ah, change on change!
+10096{_}902{_}Yet each one racks     This land with evil manifold;     Unhappy wives of Troy, behold, They bear the dead Astyanax, Our prince, whom bitter Greeks this hour Have hurled to death from Ilion's tower.
+10096{_}903{_}TALTHYBIUS.
+10096{_}904{_}One galley, Hecuba, there lingereth yet, Lapping the wave, to gather the last freight Of Pyrrhus' spoils for Thessaly.
+10096{_}905{_}The chief Himself long since hath parted, much in grief  For Peleus' sake, his grandsire, whom, men say, Acastus, Pelias' son, in war array Hath driven to exile.
+10096{_}906{_}Loath enough before Was he to linger, and now goes the more In haste, bearing Andromache, his prize.
+10096{_}907{_}'Tis she hath charmed these tears into mine eyes, Weeping her fatherland, as o'er the wave She gazed, and speaking words to Hector's grave.
+10096{_}908{_}Howbeit, she prayed us that due rites be done For burial of this babe, thine Hector's son, That now from Ilion's tower is fallen and dead.
+10096{_}909{_}And, lo!
+10096{_}910{_}this great bronze-fronted shield, the dread Of many a Greek, that Hector held in fray, O never in God's name--so did she pray--  Be this borne forth to hang in Peleus' hall Or that dark bridal chamber, that the wall May hurt her eyes; but here, in Troy o'erthrown, Instead of cedar wood and vaulted stone, Be this her child's last house.... And in thine hands She bade me lay him, to be swathed in bands Of death and garments, such as rest to thee In these thy fallen fortunes; seeing that she Hath gone her ways, and, for her master's haste, May no more fold the babe unto his rest.
+10096{_}911{_}Howbeit, so soon as he is garlanded And robed, we will heap earth above his head And lift our sails.... See all be swiftly done, As thou art bidden.
+10096{_}912{_}I have saved thee one Labour.
+10096{_}913{_}For as I passed Scamander's stream Hard by, I let the waters run on him, And cleansed his wounds.--See, I will go forth now And break the hard earth for his grave: so thou And I will haste together, to set free Our oars at last to beat the homeward sea!
+10096{_}914{_}[_He goes out with his Soldiers, leaving the body of the Child in_ HECUBA'S _arms._  HECUBA.
+10096{_}915{_}Set the great orb of Hector's shield to lie Here on the ground.
+10096{_}916{_}'Tis bitter that mine eye Should see it.... O ye Argives, was your spear Keen, and your hearts so low and cold, to fear This babe?
+10096{_}917{_}'Twas a strange murder for brave   men!
+10096{_}918{_}For fear this babe some day might raise again His fallen land!
+10096{_}919{_}Had ye so little pride?
+10096{_}920{_}While Hector fought, and thousands at his side, Ye smote us, and we perished; and now, now, When all are dead and Ilion lieth low, Ye dread this innocent!
+10096{_}921{_}I deem it not Wisdom, that rage of fear that hath no thought....   Ah, what a death hath found thee, little one!
+10096{_}922{_}Hadst thou but fallen fighting, hadst thou known Strong youth and love and all the majesty Of godlike kings, then had we spoken of thee As of one blessed ... could in any wise These days know blessedness.
+10096{_}923{_}But now thine eyes Have seen, thy lips have tasted, but thy soul No knowledge had nor usage of the whole Rich life that lapt thee round.... Poor little child!
+10096{_}924{_}Was it our ancient wall, the circuit piled By loving Gods, so savagely hath rent Thy curls, these little flowers innocent That were thy mother's garden, where she laid Her kisses; here, just where the bone-edge frayed Grins white above--Ah heaven, I will not see!
+10096{_}925{_}Ye tender arms, the same dear mould have ye As his; how from the shoulder loose ye drop And weak!
+10096{_}926{_}And dear proud lips, so full of hope And closed for ever!
+10096{_}927{_}What false words ye said At daybreak, when he crept into my bed, Called me kind names, and promised: 'Grandmother, When thou art dead, I will cut close my hair And lead out all the captains to ride by Thy tomb.'
+10096{_}928{_}Why didst thou cheat me so?
+10096{_}929{_}'Tis I, Old, homeless, childless, that for thee must shed Cold tears, so young, so miserably dead.
+10096{_}930{_}Dear God, the pattering welcomes of thy feet, The nursing in my lap; and O, the sweet Falling asleep together!
+10096{_}931{_}All is gone.
+10096{_}932{_}How should a poet carve the funeral stone To tell thy story true?
+10096{_}933{_}'There lieth here A babe whom the Greeks feared, and in their fear Slew him.'
+10096{_}934{_}Aye, Greece will bless the tale it     tells!
+10096{_}935{_}Child, they have left thee beggared of all else In Hector's house; but one thing shalt thou keep, This war-shield bronzen-barred, wherein to sleep.
+10096{_}936{_}Alas, thou guardian true of Hector's fair Left arm, how art thou masterless!
+10096{_}937{_}And there I see his handgrip printed on thy hold; And deep stains of the precious sweat, that rolled In battle from the brows and beard of him, Drop after drop, are writ about thy rim.
+10096{_}938{_}Go, bring them--such poor garments hazardous As these days leave.
+10096{_}939{_}God hath not granted us Wherewith to make much pride.
+10096{_}940{_}But all I can, I give thee, Child of Troy.--O vain is man, Who glorieth in his joy and hath no fears: While to and fro the chances of the years Dance like an idiot in the wind!
+10096{_}941{_}And none By any strength hath his own fortune won.
+10096{_}942{_}[_During these lines several Women are seen approaching with garlands and raiment in their hands_.
+10096{_}943{_}LEADER.
+10096{_}944{_}Lo these, who bear thee raiment harvested From Ilion's slain, to fold upon the dead.
+10096{_}945{_}[_During the following scene_ HECUBA _gradually takes the garments and wraps them about the Child_.
+10096{_}946{_}HECUBA.
+10096{_}947{_}O not in pride for speeding of the car Beyond thy peers, not for the shaft of war True aimed, as Phrygians use; not any prize Of joy for thee, nor splendour in men's eyes, Thy father's mother lays these offerings About thee, from the many fragrant things That were all thine of old.
+10096{_}948{_}But now no more.
+10096{_}949{_}One woman, loathed of God, hath broke the door And robbed thy treasure-house, and thy warm breath Made cold, and trod thy people down to death!
+10096{_}950{_}CHORUS.
+10096{_}951{_}_Some Women_.
+10096{_}952{_}Deep in the heart of me      I feel thine hand, Mother: and is it he Dead here, our prince to be,      And lord of the land?
+10096{_}953{_}HECUBA.
+10096{_}954{_}Glory of Phrygian raiment, which my thought Kept for thy bridal day with some far-sought Queen of the East, folds thee for evermore.
+10096{_}955{_}And thou, grey Mother, Mother-Shield that bore  THE TROJAN WOMEN  A thousand days of glory, thy last crown Is here.... Dear Hector's shield!
+10096{_}956{_}Thou shalt lie   down Undying with the dead, and lordlier there Than all the gold Odysseus' breast can bear, The evil and the strong!
+10096{_}957{_}CHORUS.
+10096{_}958{_}_Some Women._  Child of the Shield-bearer,    Alas, Hector's child!
+10096{_}959{_}Great Earth, the All-mother, Taketh thee unto her    With wailing wild!
+10096{_}960{_}_Others._    Mother of misery,    Give Death his song!
+10096{_}961{_}(HEC.
+10096{_}962{_}Woe!)
+10096{_}963{_}Aye and bitterly  (HEC.
+10096{_}964{_}Woe!)
+10096{_}965{_}We too weep for thee,    And the infinite wrong!
+10096{_}966{_}[_During these lines_ HECUBA, _kneeling by the body, has been performing a funeral rite, symbolically staunching the dead Child's wounds._  HECUBA.
+10096{_}967{_}I make thee whole[45]; I bind thy wounds, O little vanished soul.
+10096{_}968{_}This wound and this I heal with linen white: O emptiness of aid!...
+10096{_}969{_}Yet let the rite Be spoken.
+10096{_}970{_}This and.... Nay, not I, but he, Thy father far away shall comfort thee!
+10096{_}971{_}[_She bows her head to the ground and remains motionless and unseeing._  CHORUS.
+10096{_}972{_}Beat, beat thine head:   Beat with the wailing chime   Of hands lifted in time: Beat and bleed for the dead.
+10096{_}973{_}Woe is me for the dead!
+10096{_}974{_}HECUBA.
+10096{_}975{_}O Women!
+10096{_}976{_}Ye, mine own....  [_She rises bewildered, as though she had seen a vision_.
+10096{_}977{_}LEADER.
+10096{_}978{_}Hecuba, speak!
+10096{_}979{_}Oh, ere thy bosom break....  HECUBA.
+10096{_}980{_}Lo, I have seen the open hand of God[46]; And in it nothing, nothing, save the rod Of mine affliction, and the eternal hate, Beyond all lands, chosen and lifted great For Troy!
+10096{_}981{_}Vain, vain were prayer and incense-swell And bulls' blood on the altars!...
+10096{_}982{_}All is well.
+10096{_}983{_}Had He not turned us in His hand, and thrust Our high things low and shook our hills as dust, We had not been this splendour, and our wrong An everlasting music for the song Of earth and heaven!
+10096{_}984{_}Go, women: lay our dead In his low sepulchre.
+10096{_}985{_}He hath his meed Of robing.
+10096{_}986{_}And, methinks, but little care Toucheth the tomb, if they that moulder there Have rich encerement.
+10096{_}987{_}'Tis we, 'tis we, That dream, we living and our vanity!
+10096{_}988{_}[_The Women bear out the dead Child upon the shield, singing, when presently flames of fire and dim forms are seen among the ruins of the City_.
+10096{_}989{_}CHORUS.
+10096{_}990{_}_Some Women_.
+10096{_}991{_}Woe for the mother that bare thee, child,   Thread so frail of a hope so high, That Time hath broken: and all men smiled   About thy cradle, and, passing by,   Spoke of thy father's majesty.
+10096{_}992{_}Low, low, thou liest!
+10096{_}993{_}_Others_.
+10096{_}994{_}Ha!
+10096{_}995{_}Who be these on the crested rock?
+10096{_}996{_}Fiery hands in the dusk, and a shock Of torches flung!
+10096{_}997{_}What lingereth still, O wounded City, of unknown ill,     Ere yet thou diest?
+10096{_}998{_}TALTHYBIUS (_coming out through the ruined Wall_).
+10096{_}999{_}Ye Captains that have charge to wreck this keep Of Priam's City, let your torches sleep No more!
+10096{_}1000{_}Up, fling the fire into her heart!
+10096{_}1001{_}Then have we done with Ilion, and may part In joy to Hellas from this evil land.
+10096{_}1002{_}And ye--so hath one word two faces--stand, Daughters of Troy, till on your ruined wall The echo of my master's trumpet call In signal breaks: then, forward to the sea, Where the long ships lie waiting.
+10096{_}1003{_}And for thee, O ancient woman most unfortunate, Follow: Odysseus' men be here, and wait To guide thee.... 'Tis to him thou go'st for thrall.
+10096{_}1004{_}HECUBA.
+10096{_}1005{_}Ah, me!
+10096{_}1006{_}and is it come, the end of all, The very crest and summit of my days?
+10096{_}1007{_}I go forth from my land, and all its ways Are filled with fire!
+10096{_}1008{_}Bear me, O aged feet, A little nearer: I must gaze, and greet My poor town ere she fall.
+10096{_}1009{_}Farewell, farewell!
+10096{_}1010{_}O thou whose breath was mighty on the swell Of orient winds, my Troy!
+10096{_}1011{_}Even thy name Shall soon be taken from thee.
+10096{_}1012{_}Lo, the flame Hath thee, and we, thy children, pass away To slavery.... God!
+10096{_}1013{_}O God of mercy!...
+10096{_}1014{_}Nay: Why call I on the Gods?
+10096{_}1015{_}They know, they know, My prayers, and would not hear them long ago.
+10096{_}1016{_}Quick, to the flames!
+10096{_}1017{_}O, in thine agony, My Troy, mine own, take me to die with thee!
+10096{_}1018{_}[_She springs toward the flames, but is seized and held by the Soldiers._  TALTHYBIUS.
+10096{_}1019{_}Back!
+10096{_}1020{_}Thou art drunken with thy miseries, Poor woman!--Hold her fast, men, till it please Odysseus that she come.
+10096{_}1021{_}She was his lot Chosen from all and portioned.
+10096{_}1022{_}Lose her not!
+10096{_}1023{_}[_He goes to watch over the burning of the City.
+10096{_}1024{_}The dusk deepens_.
+10096{_}1025{_}CHORUS.
+10096{_}1026{_}_Divers Women_.
+10096{_}1027{_}Woe, woe, woe!
+10096{_}1028{_}Thou of the Ages[47], O wherefore fleest thou,   Lord of the Phrygian, Father that made us?
+10096{_}1029{_}'Tis we, thy children; shall no man aid us?
+10096{_}1030{_}'Tis we, thy children!
+10096{_}1031{_}Seest thou, seest thou?
+10096{_}1032{_}_Others_.
+10096{_}1033{_}He seeth, only his heart is pitiless;      And the land dies: yea, she, She of the Mighty Cities perisheth citiless!
+10096{_}1034{_}Troy shall no more be!
+10096{_}1035{_}_Others_.
+10096{_}1036{_}Woe, woe, woe!
+10096{_}1037{_}Ilion shineth afar!
+10096{_}1038{_}Fire in the deeps thereof, Fire in the heights above,   And crested walls of War!
+10096{_}1039{_}_Others_.
+10096{_}1040{_}As smoke on the wing of heaven      Climbeth and scattereth,    Torn of the spear and driven,      The land crieth for death: O stormy battlements that red fire hath riven,      And the sword's angry breath!
+10096{_}1041{_}[_A new thought comes to_ HECUBA; _she kneels and beats the earth with her hands_.
+10096{_}1042{_}HECUBA.
+10096{_}1043{_}[_Strophe_.
+10096{_}1044{_}O Earth, Earth of my children; hearken!
+10096{_}1045{_}and O   mine own, Ye have hearts and forget not, ye in the darkness   lying!
+10096{_}1046{_}LEADER.
+10096{_}1047{_}Now hast thou found thy prayer[48], crying to them that   are gone.
+10096{_}1048{_}HECUBA.
+10096{_}1049{_}Surely my knees are weary, but I kneel above your   head; Hearken, O ye so silent!
+10096{_}1050{_}My hands beat your bed!
+10096{_}1051{_}LEADER.
+10096{_}1052{_}I, I am near thee;     I kneel to thy dead to hear thee, Kneel to mine own in the darkness; O husband, hear   my crying!
+10096{_}1053{_}HECUBA.
+10096{_}1054{_}Even as the beasts they drive, even as the loads they   bear,  LEADER.
+10096{_}1055{_}(Pain; O pain!)
+10096{_}1056{_}HECUBA.
+10096{_}1057{_}We go to the house of bondage.
+10096{_}1058{_}Hear, ye dead, O   hear!
+10096{_}1059{_}LEADER.
+10096{_}1060{_}(Go, and come not again!)
+10096{_}1061{_}HECUBA.
+10096{_}1062{_}Priam, mine own Priam,   Lying so lowly, Thou in thy nothingness, Shelterless, comfortless, See'st thou the thing I am?
+10096{_}1063{_}Know'st thou my bitter stress?
+10096{_}1064{_}LEADER.
+10096{_}1065{_}Nay, thou art naught to him!
+10096{_}1066{_}Out of the strife there came, Out of the noise and shame, Making his eyelids dim,   Death, the Most Holy!
+10096{_}1067{_}[_The fire and smoke rise constantly higher_.
+10096{_}1068{_}HECUBA.
+10096{_}1069{_}[_Antistrophe_.
+10096{_}1070{_}O high houses of Gods, beloved streets of my birth,   Ye have found the way of the sword, the fiery and      blood-red river!
+10096{_}1071{_}LEADER.
+10096{_}1072{_}Fall, and men shall forget you!
+10096{_}1073{_}Ye shall lie in the   gentle earth.
+10096{_}1074{_}HECUBA.
+10096{_}1075{_}The dust as smoke riseth; it spreadeth wide its wing; It maketh me as a shadow, and my City a vanished   thing!
+10096{_}1076{_}LEADER.
+10096{_}1077{_}Out on the smoke she goeth,   And her name no man knoweth; And the cloud is northward, southward; Troy is gone   for ever!
+10096{_}1078{_}[_A great crash is heard, and the Wall is lost in smoke and darkness_.
+10096{_}1079{_}HECUBA.
+10096{_}1080{_}Ha!
+10096{_}1081{_}Marked ye?
+10096{_}1082{_}Heard ye?
+10096{_}1083{_}The crash of the      towers that fall!
+10096{_}1084{_}LEADER.
+10096{_}1085{_}All is gone!
+10096{_}1086{_}HECUBA.
+10096{_}1087{_}Wrath in the earth and quaking and a flood that      sweepeth all,  LEADER.
+10096{_}1088{_}And passeth on!
+10096{_}1089{_}[_The Greek trumpet sounds_.
+10096{_}1090{_}HECUBA.
+10096{_}1091{_}Farewell!--O spirit grey,   Whatso is coming, Fail not from under me.
+10096{_}1092{_}Weak limbs, why tremble ye?
+10096{_}1093{_}Forth where the new long day Dawneth to slavery!
+10096{_}1094{_}CHORUS.
+10096{_}1095{_}Farewell from parting lips, Farewell!--Come, I and thou, Whatso may wait us now, Forth to the long Greek ships[49]    And the sea's foaming.
+10096{_}1096{_}[_The trumpet sounds again, and the Women go out in the darkness._     NOTES ON THE TROJAN WOMEN   [1] Poseidon.]
+10096{_}1097{_}--In the _Iliad_ Poseidon is the enemy of Troy, here the friend.
+10096{_}1098{_}This sort of confusion comes from the fact that the Trojans and their Greek enemies were largely of the same blood, with the same tribal gods.
+10096{_}1099{_}To the Trojans, Athena the War-Goddess was, of course, _their_ War-Goddess, the protectress of their citadel.
+10096{_}1100{_}Poseidon, god of the sea and its merchandise, and Apollo (possibly a local shepherd god?
+10096{_}1101{_}), were their natural friends and had actually built their city wall for love of the good old king, Laomedon.
+10096{_}1102{_}Zeus, the great father, had Mount Ida for his holy hill and Troy for his peculiar city.
+10096{_}1103{_}(Cf.
+10096{_}1104{_}on p.
+10096{_}1105{_}63.)
+10096{_}1106{_}To suit the Greek point of view all this had to be changed or explained away.
+10096{_}1107{_}In the _Iliad_ generally Athena is the proper War-Goddess of the Greeks.
+10096{_}1108{_}Poseidon had indeed built the wall for Laomedon, but Laomedon had cheated him of his reward--as afterwards he cheated Heracles, and the Argonauts and everybody else!
+10096{_}1109{_}So Poseidon hated Troy.
+10096{_}1110{_}Troy is chiefly defended by the barbarian Ares, the oriental Aphrodite, by its own rivers Scamander and Simois and suchlike inferior or unprincipled gods.
+10096{_}1111{_}Yet traces of the other tradition remain.
+10096{_}1112{_}Homer knows that Athena is specially worshipped in Troy.
+10096{_}1113{_}He knows that Apollo, who had built the wall with Poseidon, and had the same experience of Laomedon, still loves the Trojans.
+10096{_}1114{_}Zeus himself, though eventually in obedience to destiny he permits the fall of the city, nevertheless has a great tenderness towards it.
+10096{_}1115{_}[2] A steed marvellous.]
+10096{_}1116{_}--See below, on p. 36.
+10096{_}1117{_}[3] go forth from great Ilion, &c.]--The correct ancient doctrine.
+10096{_}1118{_}When your gods forsook you, there was no more hope.
+10096{_}1119{_}Conversely, when your state became desperate, evidently your gods were forsaking you.
+10096{_}1120{_}From another point of view, also, when the city was desolate and unable to worship its gods, the gods of that city were no more.
+10096{_}1121{_}[4] Laotian Tyndarid.]
+10096{_}1122{_}--Helen was the child of Zeus and Leda, and sister of Castor and Polydeuces; but her human father was Tyndareus, an old Spartan king.
+10096{_}1123{_}She is treated as "a prisoner and a prize," _i.e_., as a captured enemy, not as a Greek princess delivered from the Trojans.
+10096{_}1124{_}[5] In secret slain.]
+10096{_}1125{_}--Because the Greeks were ashamed of the bloody deed.
+10096{_}1126{_}See below, p. 42, and the scene on this subject in the _Hecuba_.
+10096{_}1127{_}[6] Cassandra.]
+10096{_}1128{_}--In the _Agamemnon_ the story is more clearly told, that Cassandra was loved by Apollo and endowed by him with the power of prophecy; then in some way she rejected or betrayed him, and he set upon her the curse that though seeing the truth she should never be believed.
+10096{_}1129{_}The figure of Cassandra in this play is not inconsistent with that version, but it makes a different impression.
+10096{_}1130{_}She is here a dedicated virgin, and her mystic love for Apollo does not seem to have suffered any breach.
+10096{_}1131{_}[7] Pallas.]
+10096{_}1132{_}--(See above.)
+10096{_}1133{_}The historical explanation of the Trojan Pallas and the Greek Pallas is simple enough; but as soon as the two are mythologically personified and made one, there emerges just such a bitter and ruthless goddess as Euripides, in his revolt against the current mythology, loved to depict.
+10096{_}1134{_}But it is not only the mythology that he is attacking.
+10096{_}1135{_}He seems really to feel that if there are conscious gods ruling the world, they are cruel or "inhuman" beings.
+10096{_}1136{_}[8]--Ajax the Less, son of Oileus, either ravished or attempted to ravish Cassandra (the story occurs in both forms) while she was clinging to the Palladium or image of Pallas.
+10096{_}1137{_}It is one of the great typical sins of the Sack of Troy, often depicted on vases.
+10096{_}1138{_}[9] Faces of ships.]
+10096{_}1139{_}--Homeric ships had prows shaped and painted to look like birds' or beasts' heads.
+10096{_}1140{_}A ship was always a wonderfully live and vivid thing to the Greek poets.
+10096{_}1141{_}(Cf.
+10096{_}1142{_}p.
+10096{_}1143{_}64.)
+10096{_}1144{_}[10] Castor.]
+10096{_}1145{_}--Helen's brother: the Eurotas, the river of her home, Sparta.
+10096{_}1146{_}[11] Fifty seeds.]
+10096{_}1147{_}--Priam had fifty children, nineteen of them children of Hecuba (_Il_.
+10096{_}1148{_}vi.
+10096{_}1149{_}451, &c.).
+10096{_}1150{_}[12] Pirene.]
+10096{_}1151{_}--The celebrated spring on the hill of Corinth.
+10096{_}1152{_}Drawing water was a typical employment of slaves.
+10096{_}1153{_}[13] ff., Theseus' land, &c.]--Theseus' land is Attica.
+10096{_}1154{_}The poet, in the midst of his bitterness over the present conduct of his city, clings the more to its old fame for humanity.
+10096{_}1155{_}The "land high-born" where the Peneues flows round the base of Mount Olympus in northern Thessaly is one of the haunts of Euripides' dreams in many plays.
+10096{_}1156{_}Cf.
+10096{_}1157{_}_Bacchae_, 410 (p. 97 in my translation).
+10096{_}1158{_}Mount Aetna fronts the "Tyrians' citadel," _i.e._., Carthage, built by the Phoenicians.
+10096{_}1159{_}The "sister land" is the district of Sybaris in South Italy, where the river Crathis has, or had, a red-gold colour, which makes golden the hair of men and the fleeces of sheep; and the water never lost its freshness.
+10096{_}1160{_}[14] Talthybius is a loyal soldier with every wish to be kind.
+10096{_}1161{_}But he is naturally in good spirits over the satisfactory end of the war, and his tact is not sufficient to enable him to understand the Trojan Women's feelings.
+10096{_}1162{_}Yet in the end, since he has to see and do the cruelties which his Chiefs only order from a distance, the real nature of his work forces itself upon him, and he feels and speaks at times almost like a Trojan.
+10096{_}1163{_}It is worth noticing how the Trojan Women generally avoid addressing him.
+10096{_}1164{_}(Cf.
+10096{_}1165{_}pp.
+10096{_}1166{_}48, 67, 74.)
+10096{_}1167{_}[15] The haunted keys (literally, "with God through them, penetrating them").]
+10096{_}1168{_}--Cassandra was his Key-bearer, holding the door of his Holy Place.
+10096{_}1169{_}(Cf.
+10096{_}1170{_}_ Hip_.
+10096{_}1171{_}540, p.
+10096{_}1172{_}30.)
+10096{_}1173{_}[16] She hath a toil, &c.]--There is something true and pathetic about this curious blindness which prevents Hecuba from understanding "so plain a riddle."
+10096{_}1174{_}(Cf.
+10096{_}1175{_}below, p.
+10096{_}1176{_}42.)
+10096{_}1177{_}She takes the watching of a Tomb to be some strange Greek custom, and does not seek to have it explained further.
+10096{_}1178{_}[17] Odysseus.]
+10096{_}1179{_}--In Euripides generally Odysseus is the type of the successful unscrupulous man, as soldier and politician--the incarnation of what the poet most hated.
+10096{_}1180{_}In Homer of course he is totally different.
+10096{_}1181{_}[18] Burn themselves and die.]
+10096{_}1182{_}--Women under these circumstances did commit suicide in Euripides' day, as they have ever since.
+10096{_}1183{_}It is rather curious that none of the characters of the play, not even Andromache, kills herself.
+10096{_}1184{_}The explanation must be that no such suicide was recorded in the tradition (though cf.
+10096{_}1185{_}below, on p. 33); a significant fact, suggesting that in the Homeric age, when this kind of treatment of women captives was regular, the victims did not suffer quite so terribly under it.
+10096{_}1186{_}[19] Hymen.]
+10096{_}1187{_}--She addresses the Torch.
+10096{_}1188{_}The shadowy Marriage-god "Hymen" was a torch and a cry as much as anything more personal.
+10096{_}1189{_}As a torch he is the sign both of marriage and of death, of sunrise and of the consuming fire.
+10096{_}1190{_}The full Moon was specially connected with marriage ceremonies.
+10096{_}1191{_}[20] Loxias.]
+10096{_}1192{_}--The name of Apollo as an Oracular God.
+10096{_}1193{_}[21] Cassandra's visions.]
+10096{_}1194{_}--The allusions are to the various sufferings of Odysseus, as narrated in the _Odyssey_, and to the tragedies of the house of Atreus, as told for instance in Aeschylus' _Oresteia_.
+10096{_}1195{_}Agamemnon together with Cassandra, and in part because he brought Cassandra, was murdered--felled with an axe--on his return home by his wife Clytaemnestra and her lover Aegisthus.
+10096{_}1196{_}Their bodies were cast into a pit among the rocks.
+10096{_}1197{_}In vengeance for this, Orestes, Agamemnon's son, committed "mother-murder," and in consequence was driven by the Erinyes (Furies) of his mother into madness and exile.
+10096{_}1198{_}[22] This their king so wise.]
+10096{_}1199{_}--Agamemnon made the war for the sake of his brother Menelaus, and slew his daughter, Iphigenia, as a sacrifice at Aulis, to enable the ships to sail for Troy.
+10096{_}1200{_}[23] Hector and Paris.]
+10096{_}1201{_}--The point about Hector is clear, but as to Paris, the feeling that, after all, it was a glory that he and the half-divine Helen loved each other, is scarcely to be found anywhere else in Greek literature.
+10096{_}1202{_}(Cf., however, Isocrates' "Praise of Helen.")
+10096{_}1203{_}Paris and Helen were never idealised like Launcelot and Guinevere, or Tristram and Iseult.
+10096{_}1204{_}[24] A wise queen.]
+10096{_}1205{_}--Penelope, the faithful wife of Odysseus.
+10096{_}1206{_}[25] O Heralds, yea, Voices of Death.]
+10096{_}1207{_}--There is a play on the word for "heralds" in the Greek here, which I have evaded by a paraphrase.
+10096{_}1208{_}([Greek: Kaer-ukes] as though from [Greek: Kaer] the death-spirit, "the one thing abhorred of all mortal men.")
+10096{_}1209{_}[26] That in this place she dies.]
+10096{_}1210{_}--The death of Hecuba is connected with a certain heap of stones on the shore of the Hellespont, called _Kunossema_, or "Dog's Tomb."
+10096{_}1211{_}According to one tradition (Eur.
+10096{_}1212{_}_Hec_.
+10096{_}1213{_}1259 ff.)
+10096{_}1214{_}she threw herself off the ship into the sea; according to another she was stoned by the Greeks for her curses upon the fleet; but in both she is changed after death into a sort of Hell-hound.
+10096{_}1215{_}M. Victor Berard suggests that the dog first comes into the story owing to the accidental resemblance of the (hypothetical) Semitic word _S'qoulah_, "Stone" or "Stoning," and the Greek _Skulax_, dog.
+10096{_}1216{_}The Homeric Scylla (_Skulla_) was also both a Stone and a Dog (_Pheneciens et Odyssee_, i.
+10096{_}1217{_}213).
+10096{_}1218{_}Of course in the present passage there is no direct reference to these wild sailor-stories.
+10096{_}1219{_}[27] The wind comes quick.]--_i.e._.
+10096{_}1220{_}The storm of the Prologue.
+10096{_}1221{_}Three Powers: the three Erinyes.
+10096{_}1222{_}[28] ff., Chorus.]
+10096{_}1223{_}--The Wooden Horse is always difficult to understand, and seems to have an obscuring effect on the language of poets who treat of it.
+10096{_}1224{_}I cannot help suspecting that the story arises from a real historical incident misunderstood.
+10096{_}1225{_}Troy, we are told, was still holding out after ten years and could not be taken, until at last by the divine suggestions of Athena, a certain Epeios devised a "Wooden Horse."
+10096{_}1226{_}What was the "device"?
+10096{_}1227{_}According to the _Odyssey_ and most Greek poets, it was a gigantic wooden figure of a horse.
+10096{_}1228{_}A party of heroes, led by Odysseus, got inside it and waited.
+10096{_}1229{_}The Greeks made a show of giving up the siege and sailed away, but only as far as Tenedos.
+10096{_}1230{_}The Trojans came out and found the horse, and after wondering greatly what it was meant for and what to do with it, made a breach in their walls and dragged it into the Citadel as a thank-offering to Pallas.
+10096{_}1231{_}In the night the Greeks returned; the heroes in the horse came out and opened the gates, and Troy was captured.
+10096{_}1232{_}It seems possible that the "device" really was the building of a wooden siege-tower, as high as the walls, with a projecting and revolving neck.
+10096{_}1233{_}Such engines were (1) capable of being used at the time in Asia, as a rare and extraordinary device, because they exist on early Assyrian monuments; (2) certain to be misunderstood in Greek legendary tradition, because they were not used in Greek warfare till many centuries later.
+10096{_}1234{_}(First, perhaps, at the sieges of Perinthus and Byzantium by Philip of Macedon, 340 B.C.)
+10096{_}1235{_}It is noteworthy that in the great picture by Polygnotus in the Lesche at Delphi "above the wall of Troy appears the head alone of the Wooden Horse" (_Paus_.
+10096{_}1236{_}x.
+10096{_}1237{_}26).
+10096{_}1238{_}Aeschylus also (_Ag_.
+10096{_}1239{_}816) has some obscure phrases pointing in the same direction: "A horse's brood, a shield-bearing people, launched with a leap about the Pleiads' setting, sprang clear above the wall," &c. Euripides here treats the horse metaphorically as a sort of war-horse trampling Troy.
+10096{_}1240{_}[29] Her that spareth not, Heaven's yokeless rider.]
+10096{_}1241{_}--Athena like a northern Valkyrie, as often in the _Iliad_.
+10096{_}1242{_}If one tries to imagine what Athena, the War-Goddess worshipped by the Athenian mob, was like--what a mixture of bad national passions, of superstition and statecraft, of slip-shod unimaginative idealisation--one may partly understand why Euripides made her so evil.
+10096{_}1243{_}Allegorists and high-minded philosophers might make Athena entirely noble by concentrating their minds on the beautiful elements in the tradition, and forgetting or explaining away all that was savage; he was determined to pin her down to the worst facts recorded of her, and let people worship such a being if they liked!
+10096{_}1244{_}[30] To Artemis.]
+10096{_}1245{_}--Maidens at the shrine of Artemis are a fixed datum in the tradition.
+10096{_}1246{_}(Cf.
+10096{_}1247{_}_Hec_.
+10096{_}1248{_}935 ff.)
+10096{_}1249{_}[31] Andromache and Hecuba.]
+10096{_}1250{_}--This very beautiful scene is perhaps marred to most modern readers by an element which is merely a part of the convention of ancient mourning.
+10096{_}1251{_}Each of the mourners cries: "There is no affliction like mine!"
+10096{_}1252{_}and then proceeds to argue, as it were, against the other's counter claim.
+10096{_}1253{_}One can only say that it was, after all, what they expected of each other; and I believe the same convention exists in most places where keening or wailing is an actual practice.
+10096{_}1254{_}[32] Even as the sound of a song.]
+10096{_}1255{_}--I have filled in some words which seem to be missing in the Greek here.
+10096{_}1256{_}[33]Andromache.]
+10096{_}1257{_}--This character is wonderfully studied.
+10096{_}1258{_}She seems to me to be a woman who has not yet shown much character or perhaps had very intense experience, but is only waiting for sufficiently great trials to become a heroine and a saint.
+10096{_}1259{_}There is still a marked element of conventionality in her description of her life with Hector; but one feels, as she speaks, that she is already past it.
+10096{_}1260{_}Her character is built up of "_Sophrosyne_," of self-restraint and the love of goodness--qualities which often seem second-rate or even tiresome until they have a sufficiently great field in which to act.
+10096{_}1261{_}Very characteristic is her resolution to make the best, and not the worst, of her life in Pyrrhus' house, with all its horror of suffering and apparent degradation.
+10096{_}1262{_}So is the self-conquest by which she deliberately refrains from cursing her child's murderers, for the sake of the last poor remnant of good she can still do to him, in getting him buried.
+10096{_}1263{_}The nobility of such a character depends largely, of course, on the intensity of the feelings conquered.
+10096{_}1264{_}It is worth noting, in this connection, that Euripides is contradicting a wide-spread tradition (Robert, _Bild und Lied_, pp.
+10096{_}1265{_}63 ff.).
+10096{_}1266{_}Andromache, in the pictures of the Sack of Troy, is represented with a great pestle or some such instrument fighting with the Soldiers to rescue Astyanax ([Greek:'Andro-machae]= "Man-fighting").
+10096{_}1267{_}Observe, too, what a climax of drama is reached by means of the very fact that Andromache, to the utmost of her power, tries to do nothing "dramatic," but only what will be best.
+10096{_}1268{_}Her character in Euripides' play, _Andromache_, is, on the whole, similar to this, but less developed.
+10096{_}1269{_}[34] In Salamis, filled with the foaming, &c.]--A striking instance of the artistic value of the Greek chorus in relieving an intolerable strain.
+10096{_}1270{_}The relief provided is something much higher than what we ordinarily call "relief"; it is a stream of pure poetry and music in key with the sadness of the surrounding scene, yet, in a way, happy just because it is beautiful.
+10096{_}1271{_}(Cf.
+10096{_}1272{_}note on _Hippolytus_, 1.
+10096{_}1273{_}732.)
+10096{_}1274{_}The argument of the rather difficult lyric is: "This is not the first time Troy has been taken.
+10096{_}1275{_}Long ago Heracles made war against the old king Laomedon, because he had not given him the immortal steeds that he promised.
+10096{_}1276{_}And Telamon joined him; Telamon who might have been happy in his island of Salamis, among the bees and the pleasant waters, looking over the strait to the olive-laden hills of Athens, the beloved City!
+10096{_}1277{_}And they took ship and slew Laomedon.
+10096{_}1278{_}Yea, twice Zeus has destroyed Ilion!
+10096{_}1279{_}(Second part.)
+10096{_}1280{_}Is it all in vain that our Trojan princes have been loved by the Gods?
+10096{_}1281{_}Ganymedes pours the nectar of Zeus in his banquets, his face never troubled, though his motherland is burned with fire!
+10096{_}1282{_}And, to say nothing of Zeus, how can the Goddess of Morning rise and shine upon us uncaring?
+10096{_}1283{_}She loved Tithonus, son of Laomedon, and bore him up from us in a chariot to be her husband in the skies.
+10096{_}1284{_}But all that once made them love us is gone!"
+10096{_}1285{_}[35] Pools of thy bathing.]
+10096{_}1286{_}--It is probable that Ganymedes was himself originally a pool or a spring on Ida, now a pourer of nectar in heaven.
+10096{_}1287{_}[36] Menelaus and Helen.]
+10096{_}1288{_}--The meeting of Menelaus and Helen after the taking of Troy was naturally one of the great moments in the heroic legend.
+10096{_}1289{_}The versions, roughly speaking, divide themselves into two.
+10096{_}1290{_}In one (_Little Iliad_, Ar.
+10096{_}1291{_}_Lysistr_.
+10096{_}1292{_}155, Eur.
+10096{_}1293{_}_Andromache_ 628) Menelaus is about to kill her, but as she bares her bosom to the sword, the sword falls from his hand.
+10096{_}1294{_}In the other (Stesichorus, _Sack of Ilion_ (?))
+10096{_}1295{_}Menelaus or some one else takes her to the ships to be stoned, and the men cannot stone her.
+10096{_}1296{_}As Quintus of Smyrna says, "They looked on her as they would on a God!"
+10096{_}1297{_}Both versions have affected Euripides here.
+10096{_}1298{_}And his Helen has just the magic of the Helen of legend.
+10096{_}1299{_}That touch of the supernatural which belongs of right to the Child of Heaven--a mystery, a gentleness, a strange absence of fear or wrath--is felt through all her words.
+10096{_}1300{_}One forgets to think of her guilt or innocence; she is too wonderful a being to judge, too precious to destroy.
+10096{_}1301{_}This supernatural element, being the thing which, if true, separates Helen from other women, and in a way redeems her, is for that reason exactly what Hecuba denies.
+10096{_}1302{_}The controversy has a certain eternal quality about it: the hypothesis of heavenly enchantment and the hypothesis of mere bad behaviour, neither of them entirely convincing!
+10096{_}1303{_}But the very curses of those that hate her make a kind of superhuman atmosphere about Helen in this play; she fills the background like a great well-spring of pain.
+10096{_}1304{_}This Menelaus, however, is rather different from the traditional Menelaus.
+10096{_}1305{_}Besides being the husband of Helen, he is the typical Conqueror, for whose sake the Greeks fought and to whom the central prize of the war belongs.
+10096{_}1306{_}And we take him at the height of his triumph, the very moment for which he made the war!
+10096{_}1307{_}Hence the peculiar bitterness with which he is treated, his conquest turning to ashes in his mouth, and his love a confused turmoil of hunger and hatred, contemptible and yet terrible.
+10096{_}1308{_}The exit of the scene would leave a modern audience quite in doubt as to what happened, unless the action were much clearer than the words.
+10096{_}1309{_}But all Athenians knew from the _Odyssey_ that the pair were swiftly reconciled, and lived happily together as King and Queen of Sparta.
+10096{_}1310{_}[37] Thou deep base of the world.]
+10096{_}1311{_}--These lines, as a piece of religious speculation, were very famous in antiquity.
+10096{_}1312{_}And dramatically they are most important.
+10096{_}1313{_}All through the play Hecuba is a woman of remarkable intellectual power and of fearless thought.
+10096{_}1314{_}She does not definitely deny the existence of the Olympian gods, like some characters in Euripides, but she treats them as beings that have betrayed her, and whose name she scarcely deigns to speak.
+10096{_}1315{_}It is the very godlessness of Hecuba's fortitude that makes it so terrible and, properly regarded, so noble.
+10096{_}1316{_}(Cf.
+10096{_}1317{_}p. 35 "Why call on things so weak?"
+10096{_}1318{_}and p. 74 "They know, they know....") Such Gods were as a matter of fact the moral inferiors of good men, and Euripides will never blind his eyes to their inferiority.
+10096{_}1319{_}And as soon as people see that their god is bad, they tend to cease believing in his existence at all.
+10096{_}1320{_}(Hecuba's answer to Helen is not inconsistent with this, it is only less characteristic.)
+10096{_}1321{_}Behind this Olympian system, however, there is a possibility of some real Providence or impersonal Governance of the world, to which here, for a moment, Hecuba makes a passionate approach.
+10096{_}1322{_}If there is _any_ explanation, _any_ justice, even in the form of mere punishment of the wicked, she will be content and give worship!
+10096{_}1323{_}But it seems that there is not.
+10096{_}1324{_}Then at last there remains--what most but not all modern freethinkers would probably have begun to doubt at the very beginning--the world of the departed, the spirits of the dead, who are true, and in their dim way love her still (p. 71 "Thy father far away shall comfort thee," and the last scene of the play).
+10096{_}1325{_}This last religion, faint and shattered by doubt as it is, represents a return to the most primitive "Pelasgian" beliefs, a worship of the Dead which existed long before the Olympian system, and has long outlived it.
+10096{_}1326{_}[38] The fire-brand's image.]
+10096{_}1327{_}--Hecuba, just before Paris' birth, dreamed that she gave birth to a fire-brand.
+10096{_}1328{_}The prophets therefore advised that the babe should be killed; but Priam disobeyed them.
+10096{_}1329{_}[39] Three Crowns of Life.]
+10096{_}1330{_}--On the Judgment of Paris see Miss Harrison, _Prolegomena_.
+10096{_}1331{_}pp.
+10096{_}1332{_}292 ff.
+10096{_}1333{_}Late writers degrade the story into a beauty contest between three thoroughly personal goddesses--and a contest complicated by bribery.
+10096{_}1334{_}But originally the Judgment is rather a Choice between three possible lives, like the Choice of Heracles between Work and Idleness.
+10096{_}1335{_}The elements of the choice vary in different versions: but in general Hera is royalty; Athena is prowess in war or personal merit; Aphrodite, of course, is love.
+10096{_}1336{_}And the goddesses are not really to be distinguished from the gifts they bring.
+10096{_}1337{_}They are what they give, and nothing more.
+10096{_}1338{_}Cf.
+10096{_}1339{_}the wonderful lyric _Androm_.
+10096{_}1340{_}274 ff., where they come to "a young man walking to and fro alone, in an empty hut in the firelight."
+10096{_}1341{_}There is an extraordinary effect in Helen herself _being_ one of the Crowns of Life--a fair equivalent for the throne of the world.
+10096{_}1342{_}[40] Alexander ...
+10096{_}1343{_}Paris.]
+10096{_}1344{_}--Two plays on words in the Greek.
+10096{_}1345{_}[41] The old Gate-Warden.]
+10096{_}1346{_}--He and the Watchers are, of course, safely dead.
+10096{_}1347{_}But on the general lines of the tradition it may well be that Helen is speaking the truth.
+10096{_}1348{_}She loved both Menelaus and Paris; and, according to some versions, hated Deiphobus, the Trojan prince who seized her after Paris' death.
+10096{_}1349{_}There is a reference to Deiphobus in the MSS.
+10096{_}1350{_}of the play here, but I follow Wilamowitz in thinking it spurious.
+10096{_}1351{_}[42] Chorus.]
+10096{_}1352{_}--On the Trojan Zeus see above, on p. 11.
+10096{_}1353{_}Mount Ida caught the rays of the rising sun in some special manner and distributed them to the rest of the world; and in this gleam of heavenly fire the God had his dwelling, which is now the brighter for the flames of his City going up like incense!
+10096{_}1354{_}Nothing definite is known of the Golden Images and the Moon-Feasts.
+10096{_}1355{_}[43] Towers of the Giants.]
+10096{_}1356{_}--The pre-historic castles of Tiryns and Mycenae.
+10096{_}1357{_}[44] May Helen be there.]--(Cf.
+10096{_}1358{_}above.)
+10096{_}1359{_}Pitane was one of the five divisions of Sparta.
+10096{_}1360{_}Athena had a "Bronzen House" on the acropolis of Sparta.
+10096{_}1361{_}Simois, of course, the river of Troy.
+10096{_}1362{_}[45] I make thee whole.]
+10096{_}1363{_}--Here as elsewhere Hecuba fluctuates between fidelity to the oldest and most instinctive religion, and a rejection of all Gods.
+10096{_}1364{_}[46] Lo, I have seen the open hand of God.]
+10096{_}1365{_}--The text is, perhaps, imperfect here; but Professor Wilamowitz agrees with me that Hecuba has seen something like a vision.
+10096{_}1366{_}The meaning of this speech is of the utmost importance.
+10096{_}1367{_}It expresses the inmost theme of the whole play, a search for an answer to the injustice of suffering in the very splendour and beauty of suffering.
+10096{_}1368{_}Of course it must be suffering of a particular kind, or, what comes to the same thing, suffering borne in a particular way; but in that case the answer seems to me to hold.
+10096{_}1369{_}One does not really think the world evil because there are martyrs or heroes in it.
+10096{_}1370{_}For them the elements of beauty which exist in any great trial of the spirit become so great as to overpower the evil that created them--to turn it from shame and misery into tragedy.
+10096{_}1371{_}Of course to most sufferers, to children and animals and weak people, or those without inspiration, the doctrine brings no help.
+10096{_}1372{_}It is a thing invented by a poet for himself.
+10096{_}1373{_}[47] Thou of the Ages.]
+10096{_}1374{_}--The Phrygian All-Father, identified with Zeus, son of Kronos.
+10096{_}1375{_}(Cf.
+10096{_}1376{_}on p.
+10096{_}1377{_}11.)
+10096{_}1378{_}[48] Now hast thou found thy prayer.]
+10096{_}1379{_}--The Gods have deserted her, but she has still the dead.
+10096{_}1380{_}(Cf.
+10096{_}1381{_}above, on p.
+10096{_}1382{_}71.)
+10096{_}1383{_}[49] Forth to the dark Greek ships.]
+10096{_}1384{_}--Curiously like another magnificent ending of a great poem, that of the _Chanson de Roland_, where Charlemagne is called forth on a fresh quest:   "Deus," dist li Reis, "si penuse est ma vie!"
+10096{_}1385{_}Pluret des oilz, sa barbe blanche tiret....          End of Project Gutenberg's The Trojan women of Euripides, by Euripides  *** END OF THIS PROJECT GUTENBERG EBOOK THE TROJAN WOMEN OF EURIPIDES ***  ***** This file should be named 10096.txt or 10096.zip ***** This and all associated files of various formats will be found in:         http://www.gutenberg.net/1/0/0/9/10096/  Produced by Juliet Sutherland, Ted Garvin, L Barber and the Online Distributed Proofreading Team   Updated editions will replace the previous one--the old editions will be renamed.
+10096{_}1386{_}Creating the works from public domain print editions means that no one owns a United States copyright in these works, so the Foundation (and you!)
+10096{_}1387{_}can copy and distribute it in the United States without permission and without paying copyright royalties.
+10096{_}1388{_}Special rules, set forth in the General Terms of Use part of this license, apply to copying and distributing Project Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm concept and trademark.
+10096{_}1389{_}Project Gutenberg is a registered trademark, and may not be used if you charge for the eBooks, unless you receive specific permission.
+10096{_}1390{_}If you do not charge anything for copies of this eBook, complying with the rules is very easy.
+10096{_}1391{_}You may use this eBook for nearly any purpose such as creation of derivative works, reports, performances and research.
+10096{_}1392{_}They may be modified and printed and given away--you may do practically ANYTHING with public domain eBooks.
+10096{_}1393{_}Redistribution is subject to the trademark license, especially commercial redistribution.
+10096{_}1394{_}*** START: FULL LICENSE ***  THE FULL PROJECT GUTENBERG LICENSE PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK  To protect the Project Gutenberg-tm mission of promoting the free distribution of electronic works, by using or distributing this work (or any other work associated in any way with the phrase "Project Gutenberg"), you agree to comply with all the terms of the Full Project Gutenberg-tm License (available with this file or online at http://gutenberg.net/license).
+10096{_}1395{_}Section 1.
+10096{_}1396{_}General Terms of Use and Redistributing Project Gutenberg-tm electronic works  1.A.
+10096{_}1397{_}By reading or using any part of this Project Gutenberg-tm electronic work, you indicate that you have read, understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement.
+10096{_}1398{_}If you do not agree to abide by all the terms of this agreement, you must cease using and return or destroy all copies of Project Gutenberg-tm electronic works in your possession.
+10096{_}1399{_}If you paid a fee for obtaining a copy of or access to a Project Gutenberg-tm electronic work and you do not agree to be bound by the terms of this agreement, you may obtain a refund from the person or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+10096{_}1400{_}1.B.
+10096{_}1401{_}"Project Gutenberg" is a registered trademark.
+10096{_}1402{_}It may only be used on or associated in any way with an electronic work by people who agree to be bound by the terms of this agreement.
+10096{_}1403{_}There are a few things that you can do with most Project Gutenberg-tm electronic works even without complying with the full terms of this agreement.
+10096{_}1404{_}See paragraph 1.C below.
+10096{_}1405{_}There are a lot of things you can do with Project Gutenberg-tm electronic works if you follow the terms of this agreement and help preserve free future access to Project Gutenberg-tm electronic works.
+10096{_}1406{_}See paragraph 1.E below.
+10096{_}1407{_}1.C.
+10096{_}1408{_}The Project Gutenberg Literary Archive Foundation ("the Foundation" or PGLAF), owns a compilation copyright in the collection of Project Gutenberg-tm electronic works.
+10096{_}1409{_}Nearly all the individual works in the collection are in the public domain in the United States.
+10096{_}1410{_}If an individual work is in the public domain in the United States and you are located in the United States, we do not claim a right to prevent you from copying, distributing, performing, displaying or creating derivative works based on the work as long as all references to Project Gutenberg are removed.
+10096{_}1411{_}Of course, we hope that you will support the Project Gutenberg-tm mission of promoting free access to electronic works by freely sharing Project Gutenberg-tm works in compliance with the terms of this agreement for keeping the Project Gutenberg-tm name associated with the work.
+10096{_}1412{_}You can easily comply with the terms of this agreement by keeping this work in the same format with its attached full Project Gutenberg-tm License when you share it without charge with others.
+10096{_}1413{_}1.D.
+10096{_}1414{_}The copyright laws of the place where you are located also govern what you can do with this work.
+10096{_}1415{_}Copyright laws in most countries are in a constant state of change.
+10096{_}1416{_}If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, performing, distributing or creating derivative works based on this work or any other Project Gutenberg-tm work.
+10096{_}1417{_}The Foundation makes no representations concerning the copyright status of any work in any country outside the United States.
+10096{_}1418{_}1.E.
+10096{_}1419{_}Unless you have removed all references to Project Gutenberg:  1.E.1.
+10096{_}1420{_}The following sentence, with active links to, or other immediate access to, the full Project Gutenberg-tm License must appear prominently whenever any copy of a Project Gutenberg-tm work (any work on which the phrase "Project Gutenberg" appears, or with which the phrase "Project Gutenberg" is associated) is accessed, displayed, performed, viewed, copied or distributed:  This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever.
+10096{_}1421{_}You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.net  1.E.2.
+10096{_}1422{_}If an individual Project Gutenberg-tm electronic work is derived from the public domain (does not contain a notice indicating that it is posted with permission of the copyright holder), the work can be copied and distributed to anyone in the United States without paying any fees or charges.
+10096{_}1423{_}If you are redistributing or providing access to a work with the phrase "Project Gutenberg" associated with or appearing on the work, you must comply either with the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of the work and the Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+10096{_}1424{_}1.E.3.
+10096{_}1425{_}If an individual Project Gutenberg-tm electronic work is posted with the permission of the copyright holder, your use and distribution must comply with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed by the copyright holder.
+10096{_}1426{_}Additional terms will be linked to the Project Gutenberg-tm License for all works posted with the permission of the copyright holder found at the beginning of this work.
+10096{_}1427{_}1.E.4.
+10096{_}1428{_}Do not unlink or detach or remove the full Project Gutenberg-tm License terms from this work, or any files containing a part of this work or any other work associated with Project Gutenberg-tm.
+10096{_}1429{_}1.E.5.
+10096{_}1430{_}Do not copy, display, perform, distribute or redistribute this electronic work, or any part of this electronic work, without prominently displaying the sentence set forth in paragraph 1.E.1 with active links or immediate access to the full terms of the Project Gutenberg-tm License.
+10096{_}1431{_}1.E.6.
+10096{_}1432{_}You may convert to and distribute this work in any binary, compressed, marked up, nonproprietary or proprietary form, including any word processing or hypertext form.
+10096{_}1433{_}However, if you provide access to or distribute copies of a Project Gutenberg-tm work in a format other than "Plain Vanilla ASCII" or other format used in the official version posted on the official Project Gutenberg-tm web site (www.gutenberg.net), you must, at no additional cost, fee or expense to the user, provide a copy, a means of exporting a copy, or a means of obtaining a copy upon request, of the work in its original "Plain Vanilla ASCII" or other form.
+10096{_}1434{_}Any alternate format must include the full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+10096{_}1435{_}1.E.7.
+10096{_}1436{_}Do not charge a fee for access to, viewing, displaying, performing, copying or distributing any Project Gutenberg-tm works unless you comply with paragraph 1.E.8 or 1.E.9.
+10096{_}1437{_}1.E.8.
+10096{_}1438{_}You may charge a reasonable fee for copies of or providing access to or distributing Project Gutenberg-tm electronic works provided that  - You pay a royalty fee of 20% of the gross profits you derive from      the use of Project Gutenberg-tm works calculated using the method      you already use to calculate your applicable taxes.
+10096{_}1439{_}The fee is      owed to the owner of the Project Gutenberg-tm trademark, but he      has agreed to donate royalties under this paragraph to the      Project Gutenberg Literary Archive Foundation.
+10096{_}1440{_}Royalty payments      must be paid within 60 days following each date on which you      prepare (or are legally required to prepare) your periodic tax      returns.
+10096{_}1441{_}Royalty payments should be clearly marked as such and      sent to the Project Gutenberg Literary Archive Foundation at the      address specified in Section 4, "Information about donations to      the Project Gutenberg Literary Archive Foundation."
+10096{_}1442{_}- You provide a full refund of any money paid by a user who notifies      you in writing (or by e-mail) within 30 days of receipt that s/he      does not agree to the terms of the full Project Gutenberg-tm      License.
+10096{_}1443{_}You must require such a user to return or      destroy all copies of the works possessed in a physical medium      and discontinue all use of and all access to other copies of      Project Gutenberg-tm works.
+10096{_}1444{_}- You provide, in accordance with paragraph 1.F.3, a full refund of any      money paid for a work or a replacement copy, if a defect in the      electronic work is discovered and reported to you within 90 days      of receipt of the work.
+10096{_}1445{_}- You comply with all other terms of this agreement for free      distribution of Project Gutenberg-tm works.
+10096{_}1446{_}1.E.9.
+10096{_}1447{_}If you wish to charge a fee or distribute a Project Gutenberg-tm electronic work or group of works on different terms than are set forth in this agreement, you must obtain permission in writing from both the Project Gutenberg Literary Archive Foundation and Michael Hart, the owner of the Project Gutenberg-tm trademark.
+10096{_}1448{_}Contact the Foundation as set forth in Section 3 below.
+10096{_}1449{_}1.F.
+10096{_}1450{_}1.F.1.
+10096{_}1451{_}Project Gutenberg volunteers and employees expend considerable effort to identify, do copyright research on, transcribe and proofread public domain works in creating the Project Gutenberg-tm collection.
+10096{_}1452{_}Despite these efforts, Project Gutenberg-tm electronic works, and the medium on which they may be stored, may contain "Defects," such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes that damage or cannot be read by your equipment.
+10096{_}1453{_}1.F.2.
+10096{_}1454{_}LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right of Replacement or Refund" described in paragraph 1.F.3, the Project Gutenberg Literary Archive Foundation, the owner of the Project Gutenberg-tm trademark, and any other party distributing a Project Gutenberg-tm electronic work under this agreement, disclaim all liability to you for damages, costs and expenses, including legal fees.
+10096{_}1455{_}YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH F3.
+10096{_}1456{_}YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.
+10096{_}1457{_}1.F.3.
+10096{_}1458{_}LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect in this electronic work within 90 days of receiving it, you can receive a refund of the money (if any) you paid for it by sending a written explanation to the person you received the work from.
+10096{_}1459{_}If you received the work on a physical medium, you must return the medium with your written explanation.
+10096{_}1460{_}The person or entity that provided you with the defective work may elect to provide a replacement copy in lieu of a refund.
+10096{_}1461{_}If you received the work electronically, the person or entity providing it to you may choose to give you a second opportunity to receive the work electronically in lieu of a refund.
+10096{_}1462{_}If the second copy is also defective, you may demand a refund in writing without further opportunities to fix the problem.
+10096{_}1463{_}1.F.4.
+10096{_}1464{_}Except for the limited right of replacement or refund set forth in paragraph 1.F.3, this work is provided to you 'AS-IS," WITH NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+10096{_}1465{_}1.F.5.
+10096{_}1466{_}Some states do not allow disclaimers of certain implied warranties or the exclusion or limitation of certain types of damages.
+10096{_}1467{_}If any disclaimer or limitation set forth in this agreement violates the law of the state applicable to this agreement, the agreement shall be interpreted to make the maximum disclaimer or limitation permitted by the applicable state law.
+10096{_}1468{_}The invalidity or unenforceability of any provision of this agreement shall not void the remaining provisions.
+10096{_}1469{_}1.F.6.
+10096{_}1470{_}INDEMNITY - You agree to indemnify and hold the Foundation, the trademark owner, any agent or employee of the Foundation, anyone providing copies of Project Gutenberg-tm electronic works in accordance with this agreement, and any volunteers associated with the production, promotion and distribution of Project Gutenberg-tm electronic works, harmless from all liability, costs and expenses, including legal fees, that arise directly or indirectly from any of the following which you do or cause to occur: (a) distribution of this or any Project Gutenberg-tm work, (b) alteration, modification, or additions or deletions to any Project Gutenberg-tm work, and (c) any Defect you cause.
+10096{_}1471{_}Section  2.
+10096{_}1472{_}Information about the Mission of Project Gutenberg-tm  Project Gutenberg-tm is synonymous with the free distribution of electronic works in formats readable by the widest variety of computers including obsolete, old, middle-aged and new computers.
+10096{_}1473{_}It exists because of the efforts of hundreds of volunteers and donations from people in all walks of life.
+10096{_}1474{_}Volunteers and financial support to provide volunteers with the assistance they need, is critical to reaching Project Gutenberg-tm's goals and ensuring that the Project Gutenberg-tm collection will remain freely available for generations to come.
+10096{_}1475{_}In 2001, the Project Gutenberg Literary Archive Foundation was created to provide a secure and permanent future for Project Gutenberg-tm and future generations.
+10096{_}1476{_}To learn more about the Project Gutenberg Literary Archive Foundation and how your efforts and donations can help, see Sections 3 and 4 and the Foundation web page at http://www.pglaf.org.
+10096{_}1477{_}Section 3.
+10096{_}1478{_}Information about the Project Gutenberg Literary Archive Foundation  The Project Gutenberg Literary Archive Foundation is a non profit 501(c)(3) educational corporation organized under the laws of the state of Mississippi and granted tax exempt status by the Internal Revenue Service.
+10096{_}1479{_}The Foundation's EIN or federal tax identification number is 64-6221541.
+10096{_}1480{_}Its 501(c)(3) letter is posted at http://pglaf.org/fundraising.
+10096{_}1481{_}Contributions to the Project Gutenberg Literary Archive Foundation are tax deductible to the full extent permitted by U.S. federal laws and your state's laws.
+10096{_}1482{_}The Foundation's principal office is located at 4557 Melan Dr. S. Fairbanks, AK, 99712., but its volunteers and employees are scattered throughout numerous locations.
+10096{_}1483{_}Its business office is located at 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email business@pglaf.org.
+10096{_}1484{_}Email contact links and up to date contact information can be found at the Foundation's web site and official page at http://pglaf.org  For additional contact information:      Dr. Gregory B. Newby      Chief Executive and Director      gbnewby@pglaf.org  Section 4.
+10096{_}1485{_}Information about Donations to the Project Gutenberg Literary Archive Foundation  Project Gutenberg-tm depends upon and cannot survive without wide spread public support and donations to carry out its mission of increasing the number of public domain and licensed works that can be freely distributed in machine readable form accessible by the widest array of equipment including outdated equipment.
+10096{_}1486{_}Many small donations ($1 to $5,000) are particularly important to maintaining tax exempt status with the IRS.
+10096{_}1487{_}The Foundation is committed to complying with the laws regulating charities and charitable donations in all 50 states of the United States.
+10096{_}1488{_}Compliance requirements are not uniform and it takes a considerable effort, much paperwork and many fees to meet and keep up with these requirements.
+10096{_}1489{_}We do not solicit donations in locations where we have not received written confirmation of compliance.
+10096{_}1490{_}To SEND DONATIONS or determine the status of compliance for any particular state visit http://pglaf.org  While we cannot and do not solicit contributions from states where we have not met the solicitation requirements, we know of no prohibition against accepting unsolicited donations from donors in such states who approach us with offers to donate.
+10096{_}1491{_}International donations are gratefully accepted, but we cannot make any statements concerning tax treatment of donations received from outside the United States.
+10096{_}1492{_}U.S. laws alone swamp our small staff.
+10096{_}1493{_}Please check the Project Gutenberg Web pages for current donation methods and addresses.
+10096{_}1494{_}Donations are accepted in a number of other ways including including checks, online payments and credit card donations.
+10096{_}1495{_}To donate, please visit: http://pglaf.org/donate   Section 5.
+10096{_}1496{_}General Information About Project Gutenberg-tm electronic works.
+10096{_}1497{_}Professor Michael S. Hart is the originator of the Project Gutenberg-tm concept of a library of electronic works that could be freely shared with anyone.
+10096{_}1498{_}For thirty years, he produced and distributed Project Gutenberg-tm eBooks with only a loose network of volunteer support.
+10096{_}1499{_}Project Gutenberg-tm eBooks are often created from several printed editions, all of which are confirmed as Public Domain in the U.S. unless a copyright notice is included.
+10096{_}1500{_}Thus, we do not necessarily keep eBooks in compliance with any particular paper edition.
+10096{_}1501{_}Each eBook is in a subdirectory of the same number as the eBook's eBook number, often in several formats including plain vanilla ASCII, compressed (zipped), HTML and others.
+10096{_}1502{_}Corrected EDITIONS of our eBooks replace the old file and take over the old filename and etext number.
+10096{_}1503{_}The replaced older file is renamed.
+10096{_}1504{_}VERSIONS based on separate sources are treated as new eBooks receiving new filenames and etext numbers.
+10096{_}1505{_}Most people start at our Web site which has the main PG search facility:       http://www.gutenberg.net  This Web site includes information about Project Gutenberg-tm, including how to make donations to the Project Gutenberg Literary Archive Foundation, how to help produce our new eBooks, and how to subscribe to our email newsletter to hear about new eBooks.
+10096{_}1506{_}EBooks posted prior to November 2003, with eBook numbers BELOW #10000, are filed in directories based on their release date.
+10096{_}1507{_}If you want to download any of these eBooks directly, rather than using the regular search system you may utilize the following addresses and just download by the etext year.
+10096{_}1508{_}http://www.ibiblio.org/gutenberg/etext06      (Or /etext 05, 04, 03, 02, 01, 00, 99,      98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)  EBooks posted since November 2003, with etext numbers OVER #10000, are filed in a different way.
+10096{_}1509{_}The year of a release date is no longer part of the directory path.
+10096{_}1510{_}The path is based on the etext number (which is identical to the filename).
+10096{_}1511{_}The path to the file is made up of single digits corresponding to all but the last digit in the filename.
+10096{_}1512{_}For example an eBook of filename 10234 would be found at:       http://www.gutenberg.net/1/0/2/3/10234  or filename 24689 would be found at:      http://www.gutenberg.net/2/4/6/8/24689  An alternative method of locating eBooks:      http://www.gutenberg.net/GUTINDEX.ALL   

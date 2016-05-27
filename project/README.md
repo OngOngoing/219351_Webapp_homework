@@ -48,3 +48,13 @@ bookname sentence_id sentence
 brnte10	2	This header should be the first thing seen when viewing this Project Gutenberg file.
 morem10	1	Be sure to check the copyright laws for your country before downloading or redistributing this or any other Project Gutenberg eBook.
 ```
+
+##Searching Pool
+* Uses sentence breaker library from `nltk.corpus.Gutenberg` and generate modified version book files
+* Folder name(Searching pool) : `GTB`(See in script)
+* modified version of book files have the following structure
+```sh
+bookname{_}sentence_id{_}sentence
+bookname{_}sentence_id{_}sentence
+...
+```

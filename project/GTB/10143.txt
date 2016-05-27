@@ -1,0 +1,842 @@
+10143{_}0{_}The Project Gutenberg EBook of Punch, Volume 153, July 11, 1917, by Various  This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever.
+10143{_}1{_}You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.net   Title: Punch, Volume 153, July 11, 1917        Or the London Charivari.
+10143{_}2{_}Author: Various  Release Date: November 20, 2003 [EBook #10143]  Language: English  Character set encoding: ASCII  *** START OF THIS PROJECT GUTENBERG EBOOK PUNCH, VOLUME 153 ***     Produced by Jonathan Ingram and PG Distributed Proofreaders     PUNCH, OR THE LONDON CHARIVARI.
+10143{_}3{_}VOL.
+10143{_}4{_}153.
+10143{_}5{_}JULY 11, 1917.
+10143{_}6{_}CHARIVARIA.
+10143{_}7{_}"It is more dangerous to be a baby in London than a soldier in France," said Mrs. H. B. IRVING at the National Baby Week Exhibition.
+10143{_}8{_}The same disability--namely, middle-age--has prevented us from taking up either of these perilous _roles_.
+10143{_}9{_}***  L.C.C.
+10143{_}10{_}tram-tickets, says a news item, are now thinner.
+10143{_}11{_}Other means of increasing the space available for passengers are also under consideration.
+10143{_}12{_}***  Over one thousand penny dreadfuls were found in the possession of a boy of sixteen who was sentenced to three months' imprisonment for theft.
+10143{_}13{_}The commonplace nature of the sentence has disgusted the lad.
+10143{_}14{_}***  The report that Mr. CHARLES CHAPLIN had signed a contract to serve in the British Army at 1s.
+10143{_}15{_}1d.
+10143{_}16{_}a day is denied.
+10143{_}17{_}***  As an outcome of Baby Week the Anti-Comforter League has been formed.
+10143{_}18{_}The suggestion that Mr. HOGGE, M.P., would make an admirable first President has not been followed up.
+10143{_}19{_}***  Humanitarians who have been urging the Government not to stain its hands with the more painful forms of reprisal, have received a nasty shock.
+10143{_}20{_}A German spy has been arrested in London!
+10143{_}21{_}***  The rubber cushions of billiard tables are now being taken by the German military authorities.
+10143{_}22{_}Meanwhile the enemy Press continues to take its cue from HINDENBURG.
+10143{_}23{_}***  A notorious Petrograd anarchist is reported to be ill, and has been ordered to take a complete rest by his doctor.
+10143{_}24{_}He has therefore decided not to throw any bombs for awhile at least.
+10143{_}25{_}***  Further evidence of the Eastern talent for adopting Western ideas and improving on them comes from China, where the EX-EMPEROR HSUAN TUNG has celebrated Baby Week by issuing a decree announcing his return to the Throne.
+10143{_}26{_}***  "The only plumber, electrician, hot-water-fitter, gas-fitter, bell-hanger, zinc-worker, blacksmith and locksmith we have left"--such was an employer's description of a C1 workman.
+10143{_}27{_}We understand that the War Office will mobilise him as a special corps as soon as they can think of a sufficiently comprehensive title for him.
+10143{_}28{_}***  Several milkmen have reduced their prices from sixpence to fivepence.
+10143{_}29{_}Other good results from the timely rains are expected.
+10143{_}30{_}***  A miner, fined one pound for wasting bread, was said to have thrown his dinner--a mutton chop, onion sauce, and two slices of bread--on the fire because he could not have potatoes.
+10143{_}31{_}There is a strong feeling that the Censor should prohibit publication of these glaring cases of hardship on the ground that they are likely to encourage the Germans to prolong the War.
+10143{_}32{_}***  Large quantities of food have been carried off by a burglar from several houses in the Heathfield district.
+10143{_}33{_}Knowing our War bread, we are confident that it did not give in without a struggle.
+10143{_}34{_}***  We are sorry to find _The Globe_ making playful reference to the many postponements of certain music-hall revues.
+10143{_}35{_}Mr. Justice DARLING will agree that these things cannot be postponed too often.
+10143{_}36{_}***  "How can I distinguish poisonous from edible fungi?"
+10143{_}37{_}asks a correspondent of _The Daily Mail_.
+10143{_}38{_}The most satisfactory test is to look for them.
+10143{_}39{_}If you find them they are likely to be poisonous.
+10143{_}40{_}If they have been already gathered they were probably edible.
+10143{_}41{_}***  It is now admitted that the conscientious objectors undergoing sentence at Dartmoor are allowed to have week-ends occasionally.
+10143{_}42{_}This concession, it appears, had to be granted as several of them threatened to leave the place.
+10143{_}43{_}***  The pessimists who maintain that this will be a long war are feeling pretty cheap just now.
+10143{_}44{_}An American scientific journal declares that the world can only last another fifteen million years.
+10143{_}45{_}***  Roughly speaking, says a weekly paper, there is a policeman for every sixteen square miles.
+10143{_}46{_}This gives them plenty of room to turn round in.
+10143{_}47{_}***  It is reported that ex-KING CONSTANTINO is to receive L20,000 a year unemployment benefit.
+10143{_}48{_}***  We have heard so little of the Hidden Hand this past week or so that we are tempted to ask whether it is suffering from writer's cramp.
+10143{_}49{_}***  It is reported that three large jam factories have been commandeered by the Military.
+10143{_}50{_}A soldier writes to ask whether it is proposed to include jam in the list of field punishments.
+10143{_}51{_}***  "Justices cannot guarantee results to litigants in advance," said the Willesden magistrate recently.
+10143{_}52{_}Not without trespassing on the privileges of the Bar.
+10143{_}53{_}***  As a demonstration of allegiance to their country's cause the Apaches of Northern America are to hold a great "Devil Dance" in Arizona.
+10143{_}54{_}It only needed this to convince us that all was well with America.
+10143{_}55{_}***  A flask of wine of the year A.D. 17, found in a Roman tomb in Bavaria, is said to be the oldest extant vintage.
+10143{_}56{_}It antedates Sir FREDERICK BANBURY'S brand of Toryism by several years.
+10143{_}57{_}*       *       *       *       *  [Illustration: THE FOP.
+10143{_}58{_}_Looker-on_.
+10143{_}59{_}"WHAT ARE YOU GOING TO HAVE NEXT, CLARENCE,--ELECTRIC SHAMPOO OR FACE MANICURED?"]
+10143{_}60{_}*       *       *       *       *      "Mrs. ----, who has just entered her 192nd year, reads without     glasses, writes to her grandchildren fighting abroad, and knits     articles for King George's Military Hospital."
+10143{_}61{_}--_Daily Express     (Dublin)_.
+10143{_}62{_}Those grandchildren must be getting a little old for active service.
+10143{_}63{_}*       *       *       *       *  TINO IN EXILE.
+10143{_}64{_}[As indicated on another page, TINO'S actual opinion of his     Imperial brother-in-law is probably not too amiable; but it has     to be disguised in his letters, which are liable to be censored     by his wife.]
+10143{_}65{_}Thank you, dear William, I am fairly well.
+10143{_}66{_}The climate suits me and the simple life--   No diplomats to spoil the scenery's spell,     And only faintest echoes of the strife;   The Alps are mirrored in a lake of blue;     Over my straw-crowned poll the blue skies laugh;   A waterfall (no charge) completes a view     Equal to any German oleograph.
+10143{_}67{_}There are no bugle blares to make me jump,     But just the jodler calling to his kine;   A few good Teuton toadies, loud and plump,     More than suffice me in the _levee_ line;   And, when poor ALEXANDER, there in Greece,     Writes of your "agents" rounded up and sacked,   I am content with privacy and peace,     Having, at worst, retained my head intact.
+10143{_}68{_}SOPHIE and I have thought of you a lot     (We have so very few distractions here;   We chat about the weather, which is hot,     And then we turn to talk of your career);   For rumour says this bloody war will last     Until the Hohenzollerns get the boot;   And through my brain the bright idea has passed     That you had better do an early scoot.
+10143{_}69{_}Were it not wise, dear WILLIAM, ere the day     When Revolution goes for crowns and things,   To cut your loss betimes and come this way     And start a coterie of Exiled Kings?
+10143{_}70{_}You might (the choice of safe retreats is poor)     Do worse than join me in this happy land,   And spend your last phase, careless, if obscure,     With your devoted TINO hand-in-hand.
+10143{_}71{_}O. S.         *       *       *       *       *  MONSIEUR JOSEPH.
+10143{_}72{_}On the day that I left hospital, with a month's sick leave in hand, I went to dine at my favourite Soho restaurant, the Mazarin, which I always liked because it provided an excellent meal for an extremely modest sum.
+10143{_}73{_}But this evening my steps turned towards the old place because I wanted a word with Monsieur Joseph, the head-waiter.
+10143{_}74{_}I found him the same genial soul as ever, though a shade stouter perhaps and greyer at the temples, and I flatter myself that it was with a smile of genuine pleasure that he led me to my old table in a corner of the room.
+10143{_}75{_}When the crowd of diners had thinned he came to me for a chat.
+10143{_}76{_}"It is indeed a pleasure to see M'sieur after so long a time," said he, "for, alas, there are so many others of our old clients who will not ever return."
+10143{_}77{_}I told him that I too was glad to be sitting in the comparative quiet of the Mazarin, and asked him how he fared.
+10143{_}78{_}Joseph smiled.
+10143{_}79{_}"I 'ave a surprise for M'sieur," he said--"yes, a great surprise.
+10143{_}80{_}There are ten, fifteen years that I work in thees place, and in four more weeks _le patron_ will retire and I become the proprietor.
+10143{_}81{_}Oh, it is bee-utiful," he continued, clasping his hands rapturously, "to think that in so leetle time I, who came to London a poor waiter, shall be _patron_ of one of its finest restaurants."
+10143{_}82{_}I offered him my warmest congratulations.
+10143{_}83{_}If ever a man deserved success it was he, and it was good to see the look of pleasure on his face as I told him so.
+10143{_}84{_}"And now," said I presently, "I also have a surprise for you, Joseph."
+10143{_}85{_}He laughed.
+10143{_}86{_}"Eh bien, M'sieur, it is your turn to take my breath away."
+10143{_}87{_}"My last billet in France, before being wounded," I told him, "was in a Picardy village called Flechinelle."
+10143{_}88{_}He raised his hands.
+10143{_}89{_}"Mon Dieu," he cried, "it is my own village!"
+10143{_}90{_}"More than that," I continued, "for nearly six weeks I lodged just behind the church, in a whitewashed cottage with a stock of oranges, pipes and boot-laces for sale in the window."
+10143{_}91{_}"It is my mother's shop!"
+10143{_}92{_}he exclaimed breathlessly.
+10143{_}93{_}I nodded my head, and then proceeded to give him the hundred-and-one messages that I had received from the little old lady as soon as she discovered that I knew her son.
+10143{_}94{_}"It is so long since I 'ave seen 'er," said Monsieur Joseph, blowing his nose violently.
+10143{_}95{_}"So 'ard I work in London these ten, fifteen years that only once have I gone 'ome since my father died."
+10143{_}96{_}Then I told him how bent and old his mother was, and how lonesome she had seemed all by herself in the cottage, and as I spoke of the shop which she still kept going in her front-room the tears fairly rained down his face.
+10143{_}97{_}"But, M'sieur," said he, "that which you tell me is indeed strange; for those letters which she writes to me week by week are always gay, and it 'as seemed to me that my mother was well content."
+10143{_}98{_}Then he struck his fist on the table.
+10143{_}99{_}"I 'ave it," he said.
+10143{_}100{_}"She shall come to live 'ere with me in Londres.
+10143{_}101{_}All that she desires shall be 'ers, for am I not a rich man?"
+10143{_}102{_}I shook my head.
+10143{_}103{_}"She would never leave her village now," I told him.
+10143{_}104{_}"And I know well that she desires nothing in the world except to see you again."
+10143{_}105{_}Then as I rose to go, "Good night, M'sieur," said Joseph a little sadly.
+10143{_}106{_}"Be very sure that there is always a welcome for you 'ere."
+10143{_}107{_}The next time that I dined at the Mazarin was some four weeks later, on the eve of my return to the Front.
+10143{_}108{_}A strange waiter showed me to my place, and Joseph was nowhere to be seen.
+10143{_}109{_}Indeed a wholly different air seemed to pervade the place since my last visit.
+10143{_}110{_}Presently I beckoned to a waiter whom I recognised as having served under the old _regime_.
+10143{_}111{_}"Where is Monsieur Joseph?"
+10143{_}112{_}I asked him.
+10143{_}113{_}"Where indeed, Sir!"
+10143{_}114{_}the man replied.
+10143{_}115{_}"It is all so strange.
+10143{_}116{_}One day it is arranged that he shall take over the restaurant and its staff, and on the next he come to say 'Good-bye' to us all, and then leave for France.
+10143{_}117{_}Oh, it is _drole_.
+10143{_}118{_}So good a business man to lose the chance that comes once only in a life!
+10143{_}119{_}He is too old to fight.
+10143{_}120{_}Yet who knows?
+10143{_}121{_}Maybe he heard of something better out there...."  As the man spoke the gold-and-white walls of the restaurant faded, the clatter of plates and dishes died away, and I was back again in a tiny village shop in Picardy.
+10143{_}122{_}Across the counter, packed with its curious stock, I saw Monsieur Joseph, with shirt-sleeves rolled up, gravely handing a stick of chocolate to a child, and taking its sou in return.
+10143{_}123{_}In the diminutive kitchen behind sat a little white-haired old lady with such a look of content on her face as I have rarely seen.
+10143{_}124{_}Then suddenly I found myself back again in the London restaurant.
+10143{_}125{_}"Yes," I said to the waiter, "it is possible, as you say, that Monsieur Joseph heard of something better in France."
+10143{_}126{_}And raising my glass I drank a silent toast.
+10143{_}127{_}*       *       *       *       *  [Illustration: THE TUBER'S REPARTEE.
+10143{_}128{_}GERMAN PIRATE.
+10143{_}129{_}"GOTT STRAFE ENGLAND!"
+10143{_}130{_}BRITISH POTATO.
+10143{_}131{_}"TUBER UeBER ALLES!"]
+10143{_}132{_}*       *       *       *       *  [Illustration: _Crowd_.
+10143{_}133{_}"WOULD YER LIKE TO GO TO HORSPITAL?"
+10143{_}134{_}--"SHALL I GET YER A DROP OF BRANDY?"
+10143{_}135{_}--"DID YER SLIP ON THE BANANA-PEEL?"
+10143{_}136{_}"DID YER FALL?"
+10143{_}137{_}--"ARE YER HURT, SIR?"
+10143{_}138{_}--"SHALL I FETCH A DOCTOR?"
+10143{_}139{_}--"IS THAT YOUR HAT, SIR?"
+10143{_}140{_}_Ex-Cabinet Minister_.
+10143{_}141{_}"THE ANSWERS TO ONE, TWO, FIVE AND SIX ARE IN THE NEGATIVE; TO THREE, FOUR AND SEVEN IN THE AFFIRMATIVE."]
+10143{_}142{_}*       *       *       *       *  THE MUD LARKS.
+10143{_}143{_}You have all seen it in the latest V.C.
+10143{_}144{_}list--"The Reverend Paul Grayne, Chaplain to the Forces, for conspicuous bravery and gallant example in the face of desperate circumstances."
+10143{_}145{_}You have all pictured him, the beau-ideal of muscular Christian, the Fighting Parson, eighteen hands high, terrific in wind and limb, with a golden mane and a Greek profile; a Pekinese in the drawing-room, a bull-dog in the arena; a soupcon of Saint FRANCIS with a dash of JOHN L. SULLIVAN--and all that.
+10143{_}146{_}But we who have met heroes know that they are very seldom of the type which achieves the immortality of the picture post-card.
+10143{_}147{_}The stalwart with pearly teeth, lilac eyes and curly lashes is C3 at Lloyd's (Sir FRANCIS), and may be heard twice daily at the Frivolity singing, "My Goo-goo Girl from Honolulu" to entranced flappers; while the lad who has Fritzie D. Hun backed on the ropes, clinching for time, is usually gifted with bow legs, freckles, a dented proboscis and a coiffure after the manner of a wire-haired terrier.
+10143{_}148{_}The Reverend Paul Grayne, V.C., sometime curate of Thorpington Parva, in the county of Hampshire, was no exception to this rule.
+10143{_}149{_}AEsthetically he was a blot on the landscape; among all the heroes I have met I never saw anything less heroically moulded.
+10143{_}150{_}He stood about five feet nought and tipped the beam at seven stone nothing.
+10143{_}151{_}He had a mild chinless face and his long beaky nose, round large spectacles, and trick of cocking his head sideways when conversing, gave him the appearance of an intelligent little dicky-bird.
+10143{_}152{_}I remember very well the occasion of our first meeting.
+10143{_}153{_}I was in my troop lines one afternoon, blackguarding a farrier, when a loud nicker sounded on the road and a black cob, bearing a feebly protesting padre upon his fat back, trotted through the gate, up to the lines and began to swop How d'y'do's with my hairies.
+10143{_}154{_}The little Padre cocked his head on one side and oozed apologies from every pore.
+10143{_}155{_}He hadn't meant to intrude, he twittered; Peter had brought him; it was Peter's fault; Peter was very eccentric.
+10143{_}156{_}Peter, I gathered, was the fat cob, who by this time had butted into the lines and was tearing at a hay net as if he hadn't had a meal for years.
+10143{_}157{_}His alleged master looked at me hopeless, helpless.
+10143{_}158{_}What was he to do?
+10143{_}159{_}"Well, since Peter is evidently stopping to tea with my horses," said I, "the only thing you can do is to come to tea with us."
+10143{_}160{_}So I lifted him down and bore him off to the cow-shed inhabited by our mess at the time and regaled him on chlorinated Mazawattee, marmalade and dog biscuit.
+10143{_}161{_}An hour later, Peter willing, he left us.
+10143{_}162{_}We saw a lot of the Padre after that.
+10143{_}163{_}Peter, it appeared, had taken quite a fancy to us and frequently brought him round to meals.
+10143{_}164{_}The Padre had no word of say in the matter.
+10143{_}165{_}He confessed that, when he embarked upon Peter in the morning, he had not the vaguest idea where mid-day would find him.
+10143{_}166{_}Nothing but the black cob's fortunate rule of going home to supper saved the Padre from being posted as a deserter.
+10143{_}167{_}He had an uneasy feeling that Peter would one day suddenly sicken of the war and that he would find himself in Paris or on the Riviera.
+10143{_}168{_}We had an uneasy feeling that Peter would one day develop a curiosity as to the Bosch horse rations, and stroll across the line, and we should lose the Padre, a thing we could ill afford to do, for by this time he had taken us under his wing spiritually and bodily.
+10143{_}169{_}On Sundays he would appear in our midst dragging a folding harmonium and hold Church Parade, leading the hymns in his twittering bird-like voice.
+10143{_}170{_}Then the spinster ladies of his old parish of Thorpington Parva gave him a Ford car, and with this he scoured back areas for provisions and threaded his tin buggy in and out of columns of dusty infantry and clattering ammunition limbers, spectacles gleaming, cap slightly awry, while his batman (a wag) perched precariously a-top of a rocking pile of biscuit tins, cigarette cases and boxes of tinned fruit, and shouted after the fashion of railway porters, "By your leave!
+10143{_}171{_}Fags for the firin' line.
+10143{_}172{_}Way for the Woodbine Express."
+10143{_}173{_}But if we saw a lot of the Padre it was the Antrims who looked upon him as their special property.
+10143{_}174{_}They were line infantry, of the type which gets most of the work and none of the Press notices, a hard-bitten, unregenerate crowd, who cared not a whit whether Belgium bled or not, but loved fighting for its own sake and put their faith in bayonet and butt.
+10143{_}175{_}And wherever these Antrims went thither went the Padre also, his harmonium and his Woodbines.
+10143{_}176{_}I have a story that, when they were in a certain part of the line where the trenches were only thirty yards apart (so close indeed that the opposing forces greeted each other by their first names and borrowed one another's wiring tools), the Padre dragged the harmonium into the front line and held service there, and the Germans over the way joined lustily in the hymns.
+10143{_}177{_}He kept the men of the Antrims going on canteen delicacies and their officers in a constant bubble of joy.
+10143{_}178{_}He swallowed their tall stories without a gulp; they pulled one leg and he offered the other; he fell headlong into every silly trap they set for him.
+10143{_}179{_}Also they achieved merit in other messes by peddling yarns of his wonderful innocence and his incredible absent-mindedness.
+10143{_}180{_}"Came to me yesterday, the Dicky Bird did," one of them would relate; "wanted advice about that fat fraud of his, Peter.
+10143{_}181{_}'He's got an abrasion on the knob of his right-hand front paw,' says he.
+10143{_}182{_}'Dicky Bird,' says I, 'that is no way to describe the anatomy of a horse after all the teaching I've given you.'
+10143{_}183{_}'I am so forgetful and horsey terms are so confusing,' he moans.
+10143{_}184{_}'Oh, I recollect now--his starboard ankle!'
+10143{_}185{_}The dear babe!"
+10143{_}186{_}In the course of time the Antrims went into the Push, but on this occasion they refused to take the Padre with them, explaining that Pushes were noisy affairs with messy accidents happening in even the best regulated battalions.
+10143{_}187{_}The Padre was up at midnight to see them go, his spectacles misty.
+10143{_}188{_}They went over the bags at dawn, reached their objective in twenty minutes and scratched themselves in.
+10143{_}189{_}The Padre rejoined them ten minutes later, very badly winded, but bringing a case of Woodbines along with him.
+10143{_}190{_}My friend Patrick grabbed him by the leg and dragged him into a shell-hole.
+10143{_}191{_}Nothing but an inherent respect for his cloth restrained Patrick from giving the Dicky Bird the spanking of his life.
+10143{_}192{_}At 8 A.M. the Hun countered heavily and hove the Antrims out.
+10143{_}193{_}Patrick retreated in good order, leading the Padre by an ear.
+10143{_}194{_}The Antrims sat down, licked their cuts, puffed some of the Woodbines, then went back and pitchforked the Bosch in his tender spots.
+10143{_}195{_}The Bosch collected fresh help and bobbed up again.
+10143{_}196{_}Business continued brisk all day, and when night fell the Antrims were left masters of the position.
+10143{_}197{_}At 1 A.M. they were relieved by the Rutland Rifles, and a dog weary battered remnant of the battalion crawled back to camp in a sunken road a mile in the rear.
+10143{_}198{_}One or two found bivouacs left by the Rutlands, but the majority dropped where they halted.
+10143{_}199{_}My friend Patrick found a bivouac, wormed into it and went to sleep.
+10143{_}200{_}The next thing he remembers was the roof of his abode caving in with the weight of two men struggling violently.
+10143{_}201{_}Patrick extricated himself somehow and rolled out into the grey dawn to find the sunken road filled with grey figures, in among the bivouacs and shell holes, stabbing at the sleeping Antrims.
+10143{_}202{_}Here and there men were locked together, struggling tooth and claw; the air was vibrant with a ghastly pandemonium of grunts and shrieks; the sunken road ran like a slaughter-house gutter.
+10143{_}203{_}There was only one thing to do, and that was to get out, so Patrick did so, driving before him what men he could collect.
+10143{_}204{_}A man staggered past him, blowing like a walrus.
+10143{_}205{_}It was the Padre's batman, and he had his master tucked under one arm, in his underclothes, kicking feebly.
+10143{_}206{_}Patrick halted his men beyond the hill crest, and there the Colonel joined him, trotting on his stockinged feet.
+10143{_}207{_}Other officers arrived, herding men.
+10143{_}208{_}"They must have rushed the Ruts., Sir," Patrick panted; "must be after those guns just behind us."
+10143{_}209{_}"They'll get 'em too," said the Colonel grimly.
+10143{_}210{_}"We can't stop 'em," said the Senior Captain.
+10143{_}211{_}"If we counter at once we might give the Loamshires time to come up--they're in support, Sir--but--but, if they attack us, they'll get those guns--run right over us."
+10143{_}212{_}The Colonel nodded.
+10143{_}213{_}"Man, I know, I know; but look at 'em"--he pointed to the pathetic remnant of his battalion lying out behind the crest--"they're dropping asleep where they lie--they're beat to a finish--not another kick left in 'em."
+10143{_}214{_}He sat down and buried his face in his hands.
+10143{_}215{_}The redoubtable Antrims had come to the end.
+10143{_}216{_}Suddenly came a shout from the Senior Captain, "Good Lord, what's that fellow after?
+10143{_}217{_}Who the devil is it?"
+10143{_}218{_}They all turned and saw a tiny figure, clad only in underclothes, marching deliberately over the ridge towards the Germans.
+10143{_}219{_}"Who is it?"
+10143{_}220{_}the Colonel repeated.
+10143{_}221{_}"Beggin' your pardon, the Reverend, Sir," said the Padre's batman as he strode past the group of officers.
+10143{_}222{_}"'E give me the slip, Sir.
+10143{_}223{_}Gawd knows wot 'e's up to now."
+10143{_}224{_}He lifted up his voice and wailed after his master, "'Ere, you come back this minute, Sir.
+10143{_}225{_}You'll get yourself in trouble again.
+10143{_}226{_}Do you 'ear me, Sir?"
+10143{_}227{_}But the Padre apparently did not hear him, for he plodded steadily on his way.
+10143{_}228{_}The batman gave a sob of despair and broke into a double.
+10143{_}229{_}The Colonel sprang to his feet, "Hey, stop him, somebody!
+10143{_}230{_}Those swine'll shoot him in a second--child murder!"
+10143{_}231{_}Two subalterns ran forward, followed by a trio of N.C.O.'s.
+10143{_}232{_}All along the line men lifted their weary heads from the ground and saw the tiny figure on the ridge silhouetted against the red east.
+10143{_}233{_}"Oo's that blinkin' fool?"
+10143{_}234{_}"The Padre."
+10143{_}235{_}"Wot's 'e doin' of?"
+10143{_}236{_}"Gawd knows."
+10143{_}237{_}A man rose to his knees, from his knees to his feet, and stumbled forward, mumbling, "'E give me a packet of fags when I was broke."
+10143{_}238{_}"Me too," growled another, and followed his chum.
+10143{_}239{_}"They'll shoot 'im in a minute," a voice shouted, suddenly frightened.
+10143{_}240{_}"'Ere, this ain't war, this is blasted baby-killin'."
+10143{_}241{_}In another five seconds the whole line was up and jogging forward at a lurching double.
+10143{_}242{_}"And a little child shall lead them," murmured the Colonel happily, as he put his best foot forwards; a miracle had happened, and his dear ruffians would go down in glory.
+10143{_}243{_}But as they topped the hill crest came the shrill of a whistle from the opposite ridge, and there was half a battalion of the Rutlands back-casting for the enemy that had broken through their posts.
+10143{_}244{_}With wild yells both parties charged downwards into the sunken road.
+10143{_}245{_}When the tumult and shouting had died Patrick went in quest of the little Padre.
+10143{_}246{_}He discovered him sitting on the wreck of his bivouac of the night; he was clasping some small article to his bosom, and the look in his face was that of a man who had found his heart's desire.
+10143{_}247{_}Patrick sat himself down on a box of bombs, and looked humbly at the Reverend Paul.
+10143{_}248{_}It is an awful thing for a man suddenly to find he has been entertaining a hero unawares.
+10143{_}249{_}"Oh, Dicky Bird, Dicky Bird, why did you do it?"
+10143{_}250{_}he inquired softly.
+10143{_}251{_}The Padre cocked his head on one side and commenced to ooze apologies from every pore.
+10143{_}252{_}"Oh dear--you know how absurdly absent-minded I am; well, I suddenly remembered I had left my teeth behind."
+10143{_}253{_}PATLANDER.
+10143{_}254{_}*       *       *       *       *  [Illustration: _Old Lady._ "And what regiment are you in?"
+10143{_}255{_}_The Sub._ "7th Blankshires.
+10143{_}256{_}But I'm attached to the 9th Wessex."
+10143{_}257{_}_Old Lady._ "Really!
+10143{_}258{_}Now _do_ tell me why the officers get so fond of regiments with aren't their own."]
+10143{_}259{_}*       *       *       *       *      "At Nottingham on Saturday the damages ranging from L7 10s.
+10143{_}260{_}to     L3 were ordered to be paid by a number of miners for     absenteeism.
+10143{_}261{_}It was stated that, although absolved from     military obligations by reason of their occupation, there had     been glaring neglect of responsibility, some men having lost     three ships a week."
+10143{_}262{_}--_Western Morning News_.
+10143{_}263{_}These mines are very tricky things.
+10143{_}264{_}*       *       *       *       *  THE AS.
+10143{_}265{_}The French, always so quick to give things names--and so liberal about it that, to the embarrassment and undoing of the unhappy foreigner, they sometimes invent fifty names for one thing--have added so many words to the vocabulary since August, 1914, that a glossary, and perhaps more than one, has been published to enshrine them.
+10143{_}266{_}Without the assistance of this glossary it is almost impossible to read some of the numerous novels of poilu life.
+10143{_}267{_}So far as I am aware the latest creation is the infinitesimal word "as," or rather, it is a case of adaptation.
+10143{_}268{_}Yesterday "as des carreaux" (to give the full form) stood simply for ace of diamonds.
+10143{_}269{_}To-day all France, with that swift assimilation which has ever been one of its many mysteries, knows its new meaning and applies it.
+10143{_}270{_}And what is this new "as"?
+10143{_}271{_}I gather, without having had the advantage of cross-examining a French soldier, that an "as" is an obscure hero, one of the men, and they are by no means rare, who do wonderful things but do not get into the papers or receive medals or any mention in despatches.
+10143{_}272{_}We all know that many of the finest deeds performed in war escape recognition.
+10143{_}273{_}One does not want to suggest that V.C.
+10143{_}274{_}'s and D.S.O.
+10143{_}275{_}'s and Military Crosses and all the other desirable tokens of valour are conferred wrongly.
+10143{_}276{_}Nothing of the kind.
+10143{_}277{_}They are nobly deserved.
+10143{_}278{_}But probably there never was a recipient of the V.C.
+10143{_}279{_}or the D.S.O.
+10143{_}280{_}or the Military Cross who could not--and did not wish to--tell his Sovereign, when the coveted honour was being pinned to His breast, of some other soldier not less worthy than himself of being decorated, whose deed of gallantry was performed under less noticeable conditions.
+10143{_}281{_}The performer of such a deed is an "as" and it is his luck to be a not public hero.
+10143{_}282{_}But why ace of diamonds?
+10143{_}283{_}That I cannot explain.
+10143{_}284{_}The "as" can be found in every branch of the Army, and he is recognised as one by his comrades, even although the world at large is ignorant.
+10143{_}285{_}Perhaps we shall find a word for his British correlative, who must be numerically very strong too.
+10143{_}286{_}The letter A alone might do it, signifying anonymous.
+10143{_}287{_}"Voila, un as!"
+10143{_}288{_}says the French soldier, indicating one of these brave modest fellows who chances to be passing.
+10143{_}289{_}"You see that chap," one of our soldiers would say; "he's an A."
+10143{_}290{_}All that I know of the "as" I have gathered from the French satirical paper, a child of the War, _La Baionette_.
+10143{_}291{_}This paper comes out every week and devotes itself, as its forerunner, _L'Assiette au Beurre_, used to do, to one theme at a time, one phase or facet of the struggle, usually in the army, but also in civil life, where changes due to the War steadily occur.
+10143{_}292{_}In the number dedicated to the glory of the "as" I find recorded an incident of the French Army so moving that I want to tell it here, very freely, in English.
+10143{_}293{_}It was, says the writer, before the attack at Carency, and he vouches for the accuracy of his report, for he was himself present.
+10143{_}294{_}In the little village of Camblain-l'Abbe a regiment was assembled, and to them spoke their Captain.
+10143{_}295{_}The scene was the yard of a farm.
+10143{_}296{_}I know so well what it was like.
+10143{_}297{_}The great manure heap in the middle; the carts under cover, with perhaps one or two American reapers and binders among them; fowls pecking here and there; a thin predatory dog nosing about; a cart-horse peering from his stable and now and then scraping his hoofs; a very wide woman at the dwelling-house door; the old farmer in blue linen looking on; and there, drawn up, listening to their Captain, row on row of blue-coated men, all hard-bitten, weary, all rather cynical, all weather-stained and frayed, and all ready to go on for ever.
+10143{_}298{_}This is what the Captain said--a tall thin man of about thirty, speaking calmly and naturally as though he was reading a book.
+10143{_}299{_}"I have just seen the Colonel," he said; "he has been in conference with the Commandant, and this is what has been settled.
+10143{_}300{_}In a day or two it is up to us to attack.
+10143{_}301{_}You know the place and what it all means.
+10143{_}302{_}At such and such an hour we shall begin.
+10143{_}303{_}Very well.
+10143{_}304{_}Now this is what will happen.
+10143{_}305{_}I shall be the first to leave the trench and go over the top, and I shall be killed at once.
+10143{_}306{_}So far so good.
+10143{_}307{_}I have arranged with the two lieutenants for the elder of them to take my place.
+10143{_}308{_}He also will almost certainly be killed.
+10143{_}309{_}Then the younger will lead, and after him the sergeants in turn, according to their age, beginning with the oldest who was with me at Saida before the War.
+10143{_}310{_}What will be left by the time you have reached the point I cannot say, but you must be prepared for trouble, as there is a lot of ground to cover, under fire.
+10143{_}311{_}But you will take the point and hold it.
+10143{_}312{_}Fall out."
+10143{_}313{_}That captain was an "as."
+10143{_}314{_}*       *       *       *       *  [Illustration: "OW D'YER LIKE BEING PUT ON TRANSPORT WORK, MATE?"
+10143{_}315{_}"BLIMEY!
+10143{_}316{_}WHAT THE DOOCE MADE ME TELL 'EM I'D ONCE DRUV A DONKEY!"]
+10143{_}317{_}*       *       *       *       *  Domestic Intelligence.
+10143{_}318{_}"Owing to doctor's orders Mrs. ---- has been obliged to cancel     all her engagements during Baby Week."
+10143{_}319{_}--_Morning Paper_.
+10143{_}320{_}*       *       *       *       *  I STOOD AGAINST THE WINDOW.
+10143{_}321{_}I stood against the window     And looked between the bars,   And there were strings of fairies     Hanging from the stars;   Everywhere and everywhere     In shining swinging chains,   Like rainbows spun from moonlight     And twisted into skeins.
+10143{_}322{_}They kept on swinging, swinging,     They flung themselves so high   They caught upon the pointed moon     And hung across the sky;   And when I woke next morning     There still were crowds and crowds   In beautiful bright bunches     All sleeping on the clouds.
+10143{_}323{_}*       *       *       *       *  From a constable's evidence:--      "In his attempt to arrest her she threw herself on the ground     and tried to smack his face."
+10143{_}324{_}--_Weekly Dispatch_.
+10143{_}325{_}The long arm of the law resents such presumptuous rivalry.
+10143{_}326{_}*       *       *       *       *      "ALL KINDS OF DEVILS MADE TO ORDER.
+10143{_}327{_}---- & ----,     SHEFFIELD."
+10143{_}328{_}--_The Ironmonger._  This looks uncommonly like an offer to trade with the enemy.
+10143{_}329{_}*       *       *       *       *  [Illustration: _Wife (to warrior, whose politeness to the waitress has been duly noted)_.
+10143{_}330{_}"HUM!
+10143{_}331{_}YOU SEEM TO 'AVE COME BACK 'ALF FRENCH."]
+10143{_}332{_}*       *       *       *       *  THE GIPSY SOLDIER    The gipsy wife came to my door with pegs and brooms to sell   They make by many a roadside fire and many a greenwood dell,   With bee-skeps and with baskets wove of osier, rush and sedge,   And withies from the river-beds and brambles from the hedge.
+10143{_}333{_}With her stately grace, like PHARAOH'S queen (for all her broken           shoon),   You'd marvel one so tall and proud should ever ask a boon,   But "living's dear for us poor folk" and "money can't be had,"   And "her man's in Mespotania" and "times is cruel bad!"
+10143{_}334{_}Yes, times is cruel bad, we know, and passing strange also,   And it's strange as anything I've heard that gipsy men should go   To lands through which their forbears trod from some unknown abode   The way that ended long ago upon the Portsmouth Road.
+10143{_}335{_}I wonder if the Eastern skies and Eastern odours seem   Familiar to that gipsy man, as memories of a dream;   Does Tigris' flow stir ancient dreams from immemorial rest   Ere ever gipsy poached the trout of Itchen and of Test?
+10143{_}336{_}Does something in him seem to know those red and arid lands   Where dust of ancient cities sleeps beneath the drifted sands?
+10143{_}337{_}Do Kurdish girls with lustrous eyes beneath their drooping lids   And Eastern babes look strangely like the Missis and the kids?
+10143{_}338{_}I wonder if the waving palms, when desert winds do blow,   In their dry rustling seem to sing a song he used to know;   Or does he only curse the heat and wish that he were laid   Beneath the spread of RUFUS' oaks or Harewood's beechen shade?
+10143{_}339{_}Well, luck be with the gipsy man and lead him safely home   To the old familiar caravan and ways he used to roam,   And bring him as it brought his sires from their far first abode   To where the gipsy camp-fires burn along the Portsmouth Road.
+10143{_}340{_}C. F. S.         *       *       *       *       *      "The Premier's principal speech was made in St. Andrew's Hall,     where he was presented with the Freedam of the     City."
+10143{_}341{_}--_Liverpool Post and Mercury._  Which he promptly passed on to the enemy.
+10143{_}342{_}*       *       *       *       *      "Skilled non-workers all over the Union have for some time been     in great demand, and enough of them are not available at the     present time."
+10143{_}343{_}--_Rand Daily Mail_.
+10143{_}344{_}There are still a few that the old country could spare.
+10143{_}345{_}*       *       *       *       *      "Rhode Island Red, 200 year old pullets, laying, 5s.
+10143{_}346{_}each."
+10143{_}347{_}--_Nottingham Guardian_.
+10143{_}348{_}We fancy it must have been one of these veterans that we met at dinner the other night.
+10143{_}349{_}*       *       *       *       *  [Illustration: THE BRUSILOFF HUG.
+10143{_}350{_}THE KAISER.
+10143{_}351{_}"I'M ALL FOR FRATERNISATION, BUT I CALL THIS OVERDOING IT."]
+10143{_}352{_}*       *       *       *       *  ESSENCE OF PARLIAMENT.
+10143{_}353{_}_Monday, July 2nd._--On the Finance Bill Mr. BONAR LAW exhibited a conciliatory disposition; and, indignantly disclaiming the character of a kill-joy, made several welcome concessions to the taxpayer.
+10143{_}354{_}The late increase in the tobacco duty is to be halved, so that the modest smoker may hope to fill his pipe for a penny less per ounce.
+10143{_}355{_}This hope, of course, is dependent upon the decision of the all-powerful Trust.
+10143{_}356{_}[Illustration: NO KILL-JOY.
+10143{_}357{_}MR. BONAR LAW.]
+10143{_}358{_}The Entertainments Tax also is to be modified, chiefly in its higher regions.
+10143{_}359{_}Intimately connected with this question is the case of the "deadhead," argued with the zeal that is according to knowledge by that eminent playwright, Mr. HEMMERDE, who knows all about the free-list and its services in "enabling the management to keep the house properly dressed"--this refers, of course, to the front of the house--during the doubtful first weeks of a new play.
+10143{_}360{_}Mr. HOGGE was in his place again.
+10143{_}361{_}It had been reported that, consequent upon a hasty pledge to remain in Liverpool until his candidate was returned, he was now doomed for ever to wander an unquiet sprite upon the banks of Mersey.
+10143{_}362{_}But he has wisely determined that Parliament must not suffer to please his private whim.
+10143{_}363{_}_Tuesday, July 3rd._--The House of Lords was crowded to hear Lord HARDINGE'S comments upon the Mesopotamia Report.
+10143{_}364{_}Even those critics in the Commons who had declared that a civil servant should not take advantage of his position as a peer to make a personal explanation would, I think, have had no reason to complain of its character.
+10143{_}365{_}His object was not to defend himself, but to call attention to the splendid services that India had rendered to the Empire during the War in other fields than Mesopotamia.
+10143{_}366{_}In his own phrase, "India was bled absolutely white during the first few weeks of the War."
+10143{_}367{_}When the report comes up for formal discussion Lord CURZON will doubtless have something to say, and will say it in vigorous fashion.
+10143{_}368{_}To-day, with the air and mien of a highly respectable undertaker, he contented himself with acknowledging Lord HARDINGE'S contribution and deprecated further debate.
+10143{_}369{_}Lord ROBERT CECIL, safely back from his travels, does not appear to have kept himself up to date in the interval, for he was ignorant of the refusal of the Allies to allow Greece to set up a republic, although Mr. KING, with his superior sources of information, knows all about it.
+10143{_}370{_}[Illustration: PARENTAL PRIDE.
+10143{_}371{_}LORD DERBY.]
+10143{_}372{_}At the close of Questions a stalwart young man in khaki advanced to the Table, and, amid the cheers of the Members and to the obvious delight of Lord DERBY, who sat beaming with parental pride in the Peers' Gallery, added the signature "STANLEY" to a roll which has rarely been without that name since "the Rupert of debate" signed it there close on a hundred years ago.
+10143{_}373{_}Excess profits provided the theme for some lively speeches to-day.
+10143{_}374{_}Major HAMILTON did not see why farmers should escape the tax, and instanced the case of a potato-grower who had made ten thousand pounds out of a couple of hundred acres.
+10143{_}375{_}Several Members connected with the shipping interest protested against the tax.
+10143{_}376{_}Mr. LEIF-JONES implied that it was more disastrous than the U-boats, and Mr. HOUSTON loudly protested at being represented as a harpy.
+10143{_}377{_}By these complaints Mr. BONAR LAW was absolutely unmoved, and for very good reason.
+10143{_}378{_}He had himself a few thousands invested in shipping, and, as he was getting about fifty per cent., instead of the modest five per cent.
+10143{_}379{_}which he had anticipated, he had come to the conclusion that even under present conditions the trade was doing pretty well.
+10143{_}380{_}After this confession of an involuntary profiteer the tax was agreed to.
+10143{_}381{_}But the farmers, with next year's Budget in view, are praying that the conscientious CHANCELLOR will not invest his surplus profits in land.
+10143{_}382{_}_Wednesday, July 4th_.--We all know the ex-poacher-turned-game-keeper.
+10143{_}383{_}The converse process has taken place in the case of Lord PORTSMOUTH, who, when he ceased to be a Minister of the Crown, became a bitter critic of successive Administrations.
+10143{_}384{_}His complaints of our blockade policy were frigidly acknowledged by Lord MILNER and hotly resented by Lord LANSDOWNE, upon whom Lord PORTSMOUTH'S ruddy beard always has a provocative effect.
+10143{_}385{_}It is all very well to talk of being ruthless to neutrals, but if we had adopted the noble lord's policy early in the War would the Union Jack and the Stars and Stripes be to-day floating side by side all over London?
+10143{_}386{_}Mr. LYNCH'S latest suggestion for the furtherance of his Republican propaganda is that the COMMISSIONER OF WORKS should remove from the streets all statues of deceased monarchs, and replace them by those of great leaders of thought.
+10143{_}387{_}Sir ALFRED MOND absolutely refused.
+10143{_}388{_}The worst kings sometimes make the best statues, and he is not prepared to sacrifice JAMES II.
+10143{_}389{_}from the Admiralty even to put Mr. LYNCH himself on the vacant pedestal.
+10143{_}390{_}"P. R." came up smiling for another round, and, having secured the services on this occasion of Mr. ASQUITH as judicious bottle-holder, was expected to make a good fight of it.
+10143{_}391{_}The EX-PREMIER scouted the notion that the new plan of voting would fill the House with freaks and faddists, a class from which, he hinted, it is not, even under present conditions, entirely immune.
+10143{_}392{_}But the majority evidently felt that there could not be much amiss with a system which had returned such wise and patriotic persons as themselves to Parliament, and they outed P. R. by 201 to 169.
+10143{_}393{_}_Thursday, July 5th_.--It is hardly surprising that the Government has decided not to proceed at present with its great scheme of nationalizing the liquor-traffic.
+10143{_}394{_}The announcement that, in order to meet the requirements of the harvest-season, the brewers should be allowed to increase the output of beer by one-third, brought a swarm of hornets about the CHANCELLOR'S head.
+10143{_}395{_}Mr. LEIF-JONES (irreverently known as "Tea-leaf JONES") was horrified at the thought that more grain and sugar should be diverted to this pernicious liquid; Mr. DEVLIN and other champions of the trade were almost equally annoyed because the harvest-beer was to be of a lower specific gravity.
+10143{_}396{_}The storm of "supplementaries" showed no sign of abating, until the SPEAKER, who rarely fails to find the appropriate phrase, remarked upon "This thirst for information," and so dissolved the House in laughter.
+10143{_}397{_}*       *       *       *       *  [Illustration: _Gunner (home on leave)_.
+10143{_}398{_}"WAITER, MY NEIGHBOUR'S EFFORTS WITH HIS SOUP (BY THE WAY, I'M SURE HE OUGHT TO BE INTERNED) ARE MORE THAN I CAN BEAR.
+10143{_}399{_}WOULD YOU OBLIGE ME BY ASKING THE BAND TO PUT UP A BARRAGE?"]
+10143{_}400{_}*       *       *       *       *  THE WEARY WATCHER.
+10143{_}401{_}["Almost exactly a month ago--on May 30th--I advised my readers     to 'Watch Karolyi,' and now I emphasize the advice."
+10143{_}402{_}--_"The     Clubman" in The Evening Standard, July 2nd_.]
+10143{_}403{_}Since very early in the War     My Mentors in the Press   Have never failed in warning me,     By way of S.O.S.,   To keep my eye on So-and-So     In times of storm and stress.
+10143{_}404{_}I think that WINSTON was the first     Commended to my gaze,   But very soon I found my eyes--     Tired by the limelight's blaze--   Incapable of following     His strange and devious ways.
+10143{_}405{_}I watched the PRESIDENT and thought     (Unjustly) he was canting;   I watched our late PRIME MINISTER     When furious scribes were ranting,   And vigilantly bent my looks     On HARDEN and on BRANTING.
+10143{_}406{_}I watched JONESCU, also JONES     (Great KENNEDY) and HUGHES;   I sought illumination from     BILLING'S momentous views;   I watched Freemasons, Socialists,     And Salonica Jews.
+10143{_}407{_}And lately with emotions which     Transcend the power of rhymes   I've scanned with reverential eye     Those highly-favoured climes   Ennobled by the presence of     The ruler of the T***s.    I've glued my eye on seer and sage,     On Mecca's brave Sherif;   I've fastened it on what's-his-name,     The famed Albanian chief,   Till, wearying of the watcher's task,     At length I crave relief.
+10143{_}408{_}So when I'm bidden at this stage     To start the game anew   And keep KAROLYI constantly     And carefully in view,   I think I'm wholly justified     In answering, "Nah Poo!"
+10143{_}409{_}*       *       *       *       *  AN EQUIVOCAL COMPLIMENT.
+10143{_}410{_}"Dundee," said one of its leading citizens at the luncheon,     "will stand by Mr. Churchill to the last letter."
+10143{_}411{_}--_Daily     Chronicle_.
+10143{_}412{_}Evidently "l" itself would not sever Mr. CHURCHILL'S connection with his old friends.
+10143{_}413{_}*       *       *       *       *      "$20 buys a horse, good in his wind, if sold at     once."
+10143{_}414{_}--_Canadian Paper_.
+10143{_}415{_}Better not wait for his second wind.
+10143{_}416{_}*       *       *       *       *      "Coow wanted, first week in August, for Lads Brigade Camp, 120     Lads; must be used to Field kitchens."
+10143{_}417{_}It looks like being "bad for the coow."
+10143{_}418{_}*       *       *       *       *  GEMS FROM THE JUNIORS.
+10143{_}419{_}WAR WORK.
+10143{_}420{_}War work is what wimmen do when their arnt enuff men.
+10143{_}421{_}Or men do it too sometimes if they are rather old and weak and cant be soldiers, but it is mostly wimmen.
+10143{_}422{_}Some war work you get paid for but some you don't.
+10143{_}423{_}It just depens whether you are rich and do V A D or poor and do munisions and things.
+10143{_}424{_}V A D means something but I forget what.
+10143{_}425{_}My brother says it means Very Active Damsles but you cant beleive him, and anyway no one talks of damsles nowydays besept in potry.
+10143{_}426{_}If you are a V A D you have to do as your told just like a soldier but Daddy says they don't do it always, and Mummy says its because they all know a better way than the other persons.
+10143{_}427{_}But then they don't cost anything so the hospitle people don't mind much.
+10143{_}428{_}If you do munisions or are a bus conductor you do get paid so you maynt talk so much or you would get sent away.
+10143{_}429{_}If I dident have to go to scool I would love to be a bus conducter and go rides for nothing.
+10143{_}430{_}PHYLLIS BLAKE (age 10).
+10143{_}431{_}*       *       *       *       *  MY FAVRIT HERO.
+10143{_}432{_}A Hero is a man you agmire teribly much or he can be in a book.
+10143{_}433{_}It is rather dificult to say who is my favrit Hero.
+10143{_}434{_}There are such a lot of them.
+10143{_}435{_}Some are lord French genrel Maud King Albert and the VCs.
+10143{_}436{_}When I was litle I use to think the man who fed the Lions at the zoo was the most bravest man in the wurld but that was ever so long ago before the War.
+10143{_}437{_}I don't no very much about King Albert and the Others so I wont rite about them.
+10143{_}438{_}I will rite about lord French.
+10143{_}439{_}I agmire him most awfuly.
+10143{_}440{_}I saw him once.
+10143{_}441{_}He was coming from the camp were my Brother was and he smiled at me quite on perpose.
+10143{_}442{_}But he doesent no me realy and praps that wont show he is a Hero.
+10143{_}443{_}But he is one all the same becos he had only a weeny litle Army at the Begining of the war and he helped them to hold tite until more Men came.
+10143{_}444{_}Or the Germans would have wun.
+10143{_}445{_}He was only sir then now he is a lord.
+10143{_}446{_}MOLLY PRITCHARD (age 7-1/2).
+10143{_}447{_}*       *       *       *       *  "Berlin declares that the Russians have begun an offensive which extends from the Upper Stokhod to Stanislau, a distance of over 125 metres."
+10143{_}448{_}--_Daily Telegraph_.
+10143{_}449{_}Never believe what Berlin says.
+10143{_}450{_}*       *       *       *       *  AT THE PLAY.
+10143{_}451{_}"MRS. POMEROY'S REPUTATION."
+10143{_}452{_}Candour (subacid virtue) compels me to set down that there was nothing very notable or novel about the manipulation, by Messrs. HORACE ANNESLEY VACHELL and THOMAS COBB, of the comedy of needless complications entitled _Mrs.
+10143{_}453{_}Pomeroy's Reputation_.
+10143{_}454{_}The occasion was chiefly notable for the return of Miss VIOLET VANBRUGH to active service and the welcome she was given by her splendidly loyal following.
+10143{_}455{_}_Sir Granville Pomeroy_, childless head of an odious family, has designs on, and for, the son of his brother's pretty widow, he suspecting her to be no fit and proper person to bring up a young _Pomeroy_.
+10143{_}456{_}And indeed three short months after her husband's death she played bridge, bought a kimono and an expensive carpet, and, it is said, even flirted.
+10143{_}457{_}Why such recklessness?
+10143{_}458{_}Well, she discovered a stray daughter of her sainted husband.
+10143{_}459{_}The irregular mother died, and of course solid _Mrs.
+10143{_}460{_}Pomeroy_ with the bubble reputation did the handsome thing, and shut her mouth until the fatal moment in the Third Act, when it all came out.
+10143{_}461{_}Whereby and wherein she discovered that the philandering _Vincent Dampier_ could trust where the solemn _Maurice Randall_ could not.
+10143{_}462{_}As a side issue the blameless baronet had a little goose to wife, who went to _Dampier's_ Maidenhead bungalow and fell into the river.
+10143{_}463{_}Elaborate lies to explain quite simple situation to fool anxious to believe the worst.
+10143{_}464{_}Moral: Never lie to save a little goose.
+10143{_}465{_}[Illustration: LETTICE AND IMPROMPTU DRESSING.
+10143{_}466{_}_Lettice_ MISS LETTICE FAIRFAX.
+10143{_}467{_}_Georgina_ MISS VIOLET VANBRUGH.
+10143{_}468{_}_Vincent Dampier_ MR. FRANK ESMOND.]
+10143{_}469{_}Miss VIOLET VANBRUGH was patently nervous with her part, a little jerky and restless.
+10143{_}470{_}She needn't have been.
+10143{_}471{_}Loyalty would have carried her through a duller play, to say nothing of her charming looks and her queenly way of wearing a beautiful gown.
+10143{_}472{_}Mr. LOWNE, as the baronet, made effective play with a quite impossible part in a quite futile situation, and held the reflector up to the best Mayfair Cockney with "_Georginar_ explains."
+10143{_}473{_}He needn't apologise; we know it's true to life!
+10143{_}474{_}The piece of acting that most cheered me was Mr. GRAHAME HERINGTON as the philanderer's manservant--a very tactful and observant performance.
+10143{_}475{_}Mr. FRANK ESMOND, the philanderer, seemed ill at ease (partly art but partly nature, I judged, perhaps unjustly).
+10143{_}476{_}Miss LETTICE FAIRFAX as the little goose was what I believe is known as adequate.
+10143{_}477{_}T.         *       *       *       *       *  The Food Shortage.
+10143{_}478{_}Letter received by a schoolteacher:--      "Dear Miss,--Will you please let Sam out about 20 minutes to 12     o'clock.
+10143{_}479{_}His Granma is undergoing an operation this morning and     I want Sam for dinner.
+10143{_}480{_}Yours truly, Mrs.
+10143{_}481{_}----."
+10143{_}482{_}*       *       *       *       *  From a report of the British Music Convention:--      "'How the British piano can raise the trade to Imperil dignity'     was the subject of an address."--_Scotsman_.
+10143{_}483{_}We hope the British piano will resist the temptation.
+10143{_}484{_}*       *       *       *       *      "Portobello's dressing boxes for lady bathers are practically     ready.
+10143{_}485{_}There are fifteen boxes at the Band Stand enclosure,     very much resembling ballot boxes in size, shape, and     material."
+10143{_}486{_}--_Edinburgh Evening Dispatch_.
+10143{_}487{_}A happy thought to prepare the new voters for taking the plunge.
+10143{_}488{_}*       *       *       *       *      "The members of the Cabinet occupied specially reserved seats     in the choir and lectern, where also the Lord Mayor was     seated."--_Scotsman_.
+10143{_}489{_}A little hard on the eagle.
+10143{_}490{_}*       *       *       *       *  From a cinema advertisement:--      "Actual Scenes of our Local Charming Cheddar Valley and the     Beautiful West of England Coast Scenery, also predicting those     Glorious Sunset Scenes that made Sir Alfred Turner     'famous.'"
+10143{_}491{_}--_West Country Paper_.
+10143{_}492{_}The General _will_ be pleased.
+10143{_}493{_}*       *       *       *       *      "To-day the weather has cleared, but the record according to a     correspondent who, signing himself the 'oldest inhabitant,' has     recently written to the press, stating that in 1178 there was     snow on Simla on 14th April, has now been easily     beaten."
+10143{_}494{_}--_Rangoon Times_.
+10143{_}495{_}The oldest inhabitant, however, is still undefeated.
+10143{_}496{_}*       *       *       *       *  MY CUTHBERT.
+10143{_}497{_}For months I had been chasing Cuthbert.
+10143{_}498{_}I had a store of withering phrases burning to be poured over his unmentionable head.
+10143{_}499{_}Last Tuesday my opportunity arrived.
+10143{_}500{_}A stranger was sitting comfortably in a deck-chair watching the vacant courts at the tennis club.
+10143{_}501{_}His keen bronzed face and his obviously athletic body, clothed in white flannel, brought back to me the far days when the sharp clean crack in the adjoining field told of a loose one which had been got away square.
+10143{_}502{_}I looked at him again and thought how glad he must be to get into mufti for a few days.
+10143{_}503{_}I tell you this to show how unprejudiced I was.
+10143{_}504{_}The only other signs of life were the two super-aborigines who inhabit the croquet patch and detest all other mankind.
+10143{_}505{_}I approached one of them warily and asked a question.
+10143{_}506{_}He regarded me with a bilious and suspicious eye.
+10143{_}507{_}"Nothing whatever to do with the Army," he snapped, and a Prussian-blue opponent was smacked off into an arid and hoopless waste.
+10143{_}508{_}"Ah!"
+10143{_}509{_}I exclaimed, "then he's only a rabbit after all."
+10143{_}510{_}The old thing gave me an unfriendly glance and then missed his hoop badly.
+10143{_}511{_}I strolled across and sat down beside the newcomer.
+10143{_}512{_}He smiled at me in a frank and disarming manner.
+10143{_}513{_}"What do you think of our courts?"
+10143{_}514{_}I said by way of a start.
+10143{_}515{_}"Top-hole," he replied; "I'm looking forward to some jolly games on 'em."
+10143{_}516{_}His obvious disregard of perspective annoyed me.
+10143{_}517{_}In our village, tennis is now played for hygienic reasons only.
+10143{_}518{_}"I'm afraid we can't offer you much of a game," I said.
+10143{_}519{_}"You see there's a war on, and--but perhaps I can fix up a single for you after tea with old Patterby.
+10143{_}520{_}I believe he was very hot stuff in the seventies."
+10143{_}521{_}"That's very good of you.
+10143{_}522{_}I expect he'll knock my head off; I'm no use at the game yet."
+10143{_}523{_}He spoke as though an endless and blissful period of practice was in front of him.
+10143{_}524{_}"I suppose you'll be going back soon?"
+10143{_}525{_}"Back where?"
+10143{_}526{_}"I mean your leave will be up."
+10143{_}527{_}"Oh, I'm out of a job just now."
+10143{_}528{_}So it was genuine blatant indifference.
+10143{_}529{_}I looked round for something with which to slay him.
+10143{_}530{_}"I wonder," he said thoughtfully, "if I shall ever find my tennis legs again."
+10143{_}531{_}"Have you lost them?"
+10143{_}532{_}I asked sarcastically.
+10143{_}533{_}"I'm afraid so--er--that is, of course, only one of them really."
+10143{_}534{_}"Only one of them?"
+10143{_}535{_}I repeated vaguely.
+10143{_}536{_}"Yes, Fritzie got it at Jutland; but these new mark gadgets are top-hole.
+10143{_}537{_}I can nearly dance the fox-trot with mine already."
+10143{_}538{_}He stretched out the gadget in question and patted it affectionately.
+10143{_}539{_}The ensuing moment I count as the worst one I have ever known.
+10143{_}540{_}I had forgotten the Navy.
+10143{_}541{_}My only excuse is that nowadays, owing to its urgent and unadvertised affairs, we seldom have an opportunity in our village of meeting the Senior Service.
+10143{_}542{_}But I feel convinced that the irascible Methuselah on the croquet ground was purposely and maliciously guilty of _suppressio veri_.
+10143{_}543{_}*       *       *       *       *  [Illustration: "OLE BILL SEZ 'E 'ARDLY NEVER SEES 'IS MISSUS NAH."
+10143{_}544{_}"OH!
+10143{_}545{_}'OW'S THAT, THEN?"
+10143{_}546{_}"COS SHE'S ALL MORNIN' AN' ARTERNOON IN A SUGAR CUE, AND 'E'S ALL EVENIN' IN A BEER CUE."]
+10143{_}547{_}*       *       *       *       *      "Wanted, good Man, to cut, make, and trim     specials."
+10143{_}548{_}--_Yorkshire Paper._  In Yorkshire the new policeman's lot doesn't seem to be a very happy one.
+10143{_}549{_}*       *       *       *       *  HEART-TO-HEART TALKS.
+10143{_}550{_}(_The German CROWN PRINCE and Ex-King CONSTANTINE._)  _Crown Prince_.
+10143{_}551{_}My poor old TINO, you are certainly not looking yourself.
+10143{_}552{_}Have a drink?
+10143{_}553{_}_Tino._ No, thank you.
+10143{_}554{_}I really don't feel up to it.
+10143{_}555{_}_C.
+10143{_}556{_}P._ But that's the moment of all others when you ought to take one.
+10143{_}557{_}It's good stuff too--bubbly wine out of the cellar of one of my French chateaux.
+10143{_}558{_}Come, I'll pour you out a glass.
+10143{_}559{_}_Tino._ Well, if I must I must (_drinks_).
+10143{_}560{_}Yes, there's no fault to be found with it.
+10143{_}561{_}_C.
+10143{_}562{_}P._ You're looking better already.
+10143{_}563{_}Now you can tell me all about it.
+10143{_}564{_}_Tino_ (_bitterly_).
+10143{_}565{_}Oh, there's not much to tell, except that I was lured on by the promise of help, and when the crisis came there was no help, and so I had to go.
+10143{_}566{_}_C.
+10143{_}567{_}P._ (_humming an air_).
+10143{_}568{_}And so, and so   He had, he had to go.
+10143{_}569{_}_Tino_.
+10143{_}570{_}I beg your pardon.
+10143{_}571{_}_C.
+10143{_}572{_}P._ Sorry, old man, but the words fitted into the tune so nicely I really couldn't resist trying it.
+10143{_}573{_}Fire ahead.
+10143{_}574{_}_Tino_.
+10143{_}575{_}I said, I think, that I was promised help.
+10143{_}576{_}_C.
+10143{_}577{_}P._ Yes, you said that all right.
+10143{_}578{_}_Tino_.
+10143{_}579{_}And I added that there was no help when the trouble came.
+10143{_}580{_}_C.
+10143{_}581{_}P._ You said "crisis," not "trouble," but we won't insist on a trifle like that.
+10143{_}582{_}Who was the rascal who broke his promise and refused to help you?
+10143{_}583{_}_Tino_.
+10143{_}584{_}You know well enough that it was your most gracious father.
+10143{_}585{_}_C.P._ What!
+10143{_}586{_}The ALL-HIGHEST!
+10143{_}587{_}The INMOSTLY BELOVED!
+10143{_}588{_}The BEYOND-ALL-POWERFUL!
+10143{_}589{_}Was it really he?
+10143{_}590{_}And you believed him, did you?
+10143{_}591{_}What a cunning old fox it is, to be sure.
+10143{_}592{_}_Tino_.
+10143{_}593{_}You permit yourself to speak very lightly of the AUGUST ONE, who also happens to be your father.
+10143{_}594{_}_C.
+10143{_}595{_}P._ To tell you the truth, I don't take him as seriously as he takes himself.
+10143{_}596{_}Nobody could.
+10143{_}597{_}_Tino_.
+10143{_}598{_}After what has happened I certainly shall not again.
+10143{_}599{_}It's entirely owing to him that I've lost my kingdom and that the hateful VENIZELOS is back in Athens and that ALEXANDER is seated on my throne.
+10143{_}600{_}If your beloved father had only left me alone I should have worried through all right.
+10143{_}601{_}_C.
+10143{_}602{_}P._ I always tell him he tries to do too much, but he's so infatuated with being an Emperor that there's no holding him.
+10143{_}603{_}You know he's absolutely convinced that he and the Almighty are on special terms of partnership.
+10143{_}604{_}_Tino_.
+10143{_}605{_}I've done a bit myself in that line and I know it doesn't pay.
+10143{_}606{_}_C.
+10143{_}607{_}P._ I daresay I shall do it when my time comes.
+10143{_}608{_}_Tino_.
+10143{_}609{_}If it ever comes.
+10143{_}610{_}_C.
+10143{_}611{_}P._ If it depended on me alone things would go all right.
+10143{_}612{_}I'm told the people like me, and even the Socialists swear by me.
+10143{_}613{_}_Tino_.
+10143{_}614{_}How can you believe such nonsense?
+10143{_}615{_}I tried to act on that principle and here I am.
+10143{_}616{_}And poor Russian NICKIE has had an even worse fall--all through believing he had the people on his side.
+10143{_}617{_}_C.
+10143{_}618{_}P._ Well, but I _know_ they're all fond of me; but my All-Highest One may get knocked out before I get my chance, and may carry me down with him.
+10143{_}619{_}_Tino_.
+10143{_}620{_}Well, we must try to bear up, even if he should go the way NICKIE has gone.
+10143{_}621{_}In the meantime the War doesn't look particularly promising, does it?
+10143{_}622{_}_C.
+10143{_}623{_}P._ It certainly doesn't; and the Americans will be at our throats directly.
+10143{_}624{_}Do you know, I never thought very much of HINDENBURG.
+10143{_}625{_}_Tino_.
+10143{_}626{_}I suppose you know someone who is younger and could do it much better.
+10143{_}627{_}*       *       *       *       *  [Illustration: SOMEWHERE UP NORTH.
+10143{_}628{_}_Naval Officer (to native)_.
+10143{_}629{_}"CAN YOU TELL ME WHERE THE GOLF COURSE IS?"
+10143{_}630{_}_Native_.
+10143{_}631{_}"YOU'RE ON THE FIRST GREEN THE NOO.
+10143{_}632{_}YON'S THE FLAG OWER THE BACK O' THAT STANE."]
+10143{_}633{_}*       *       *       *       *      "The difference between the classical Arabic and the colloquial     is far greater than that between the Greek of Cicero and the     Greek of, let us say, M.
+10143{_}634{_}Gounaris."
+10143{_}635{_}--_The Near East_.
+10143{_}636{_}Of course there is also the difference of accent.
+10143{_}637{_}CICERO spoke Greek with a slight Roman accent and M. GOUNARIS speaks it with a strong German one.
+10143{_}638{_}*       *       *       *       *      "Two van-loads of shrapnel bullets were stopped by detectives     in Prospect Street, Rotherhithe."
+10143{_}639{_}--_Morning Paper_.
+10143{_}640{_}Tough fellows, these detectives.
+10143{_}641{_}Stopping a single bullet would put most men out of action.
+10143{_}642{_}*       *       *       *       *      "Wanted, Cottage or two Double-bedded Rooms, in country river,     20-30 miles from Birmingham, first fortnight of     August."
+10143{_}643{_}--_Daily Post (Birmingham)_.
+10143{_}644{_}So convenient for friends to drop in.
+10143{_}645{_}*       *       *       *       *      "If the latest air raid does not make the British bull-dog show     his talons in a way that we have up till now wished he might     never do, well nothing will."
+10143{_}646{_}--_Berwick Journal_.
+10143{_}647{_}With his new pedal equipment the British bull-dog should give the German eagle pause.
+10143{_}648{_}*       *       *       *       *  We are asked to state that a recently published work on _Beds and Hunts_ (METHUEN) is not a companion-volume to _Minor Horrors of War_.
+10143{_}649{_}*       *       *       *       *  TO THE MEN WHO HAVE DIED FOR ENGLAND.
+10143{_}650{_}All ye who fought since England was a name,     Because Her soil was holy in your eyes;   Who heard Her summons and confessed Her claim,     Who flung against a world's time-hallow'd lies   The truth of English freedom--fain to give     Those last lone moments, careless of your pain,   Knowing that only so must England live     And win, by sacrifice, the right to reign--   Be glad, that still the spur of your bequest     Urges your heirs their threefold way along--   The way of Toil that craveth not for rest,     Clear Honour, and stark Will to punish wrong!
+10143{_}651{_}The seed ye sow'd God quicken'd with His Breath;   The crop hath ripen'd--lo, there is no death!
+10143{_}652{_}*       *       *       *       *  [Illustration: THE LINKS BEING DEVOTED TO ALLOTMENTS, MR. AND MRS. BUNKER-BROWNE PRACTISE APPROACH SHOTS, WITH THE IDEA OF FILLING THEIR BASKET WITH POTATOES AT THE SAME TIME.]
+10143{_}653{_}*       *       *       *       *  OUR BOOKING-OFFICE.
+10143{_}654{_}(_By Mr. Punch's Staff of Learned Clerks._)  _Marmaduke_ (HEINEMANN) has this peculiarity, that the title role is by no means its most important or interesting character.
+10143{_}655{_}Indeed it might with more propriety have been called _Marrion_, since hers is not only the central figure in the plot, but emphatically the one over which Mrs. F. A.
+10143{_}656{_}Steel has expended most care and affection.
+10143{_}657{_}Moreover the untimely death of _Marmaduke_ leaves _Marrion_ to carry on the story for several chapters practically single-handed.
+10143{_}658{_}I am bound to say, however, that at no stage did she get much help from her colleagues, all of whom--the gouty old father and his intriguing wife, the faithful servant, even debonair _Marmaduke_ himself--bear a certain air of familiarity.
+10143{_}659{_}But if frequent usage has something lessened their vitality, _Marrion_ is a living and credible human being, whether as daughter of a supposed valet, adoring from afar the gay young ensign, or as the unacknowledged wife of _Marmaduke_ and mother of his child, or later as an army nurse amid the horrors of Crimean mismanagement.
+10143{_}660{_}Later still, when the long arm of coincidence (making a greater stretch than I should have expected under Mrs. Steel's direction) brought _Marrion_ to the bedside of her parent in a hospital tent, and converted her into a Polish princess, I lost a little of my whole-hearted belief in her actuality.
+10143{_}661{_}There are really two parts to the tale--the Scotch courtship, with its intrigues, frustrated elopements, _et hoc genus omne_; and the scenes, very graphically written, of active service at Varna and Inkerman.
+10143{_}662{_}I will not pretend that the two parts are specially coherent; but at least Mrs. Steel has given us some exceedingly interesting pictures of a period that our novelists have, on the whole, unaccountably neglected.
+10143{_}663{_}*       *       *       *       *  _The Experiments of Ganymede Bunn_ (HUTCHINSON) is like to command a wide audience.
+10143{_}664{_}Its appeal will equally be to the lovers of Irish scenes, to those who affect stories about horses and hunting, and to the countless myriads who are fond of imagining what they would do with an unexpected legacy.
+10143{_}665{_}It was this last that happened to _Ganymede_, who was left seventeen thousand pounds by an aunt called _Juno_ (the names of this family are not the least demand that Miss Dorothea Conyers makes upon your credulity).
+10143{_}666{_}My mention of horses and Ireland shows you what he does with his money, and where.
+10143{_}667{_}It does not, however, indicate the result, which is a happy variant upon what is usual in such cases.
+10143{_}668{_}You know already, I imagine, the special qualities to be looked for in a tale by Miss Conyers--chief among them a rather baffling inability to lie a straight course.
+10143{_}669{_}If I may borrow a metaphor from her own favourite theme, she is for ever dashing off on some alluring cross-scent.
+10143{_}670{_}More important, fortunately, than this is the enjoyment which she clearly has in writing her stories and passes briskly on to the reader.
+10143{_}671{_}There's a fine tang of the open-air about them, and a smell of saddle-leather, that many persons will consider well worth all the intricacies of your problem-novelists.
+10143{_}672{_}I had the idea that her honest vulgar little legatee and his speculations as a horse-breeder might make a good subject for a character-comedian; but I suppose the late LORD GEORGE SANGER is the only man who could have produced the right equine cast.
+10143{_}673{_}*       *       *       *       *  The component elements of _The White Rook_ (CHAPMAN AND HALL) may be summarised in the picturesque argot of Army Ordnance somewhat as follows: Chinamen, inscrutable, complete with mysterious drugs, one; wives, misunderstood, Mark I, one; husbands, unsympathetic (for purposes of assassination only), one; _ingenues_, Mark II, one; heroes, one; squires, brutal, one; murders of sorts, three; ditto, attempted, several.
+10143{_}674{_}The inscrutable one is responsible for all the murders.
+10143{_}675{_}Only the merest accident, it seems, prevents him from disposing of the few fortunate characters who survive to the concluding chapters of the story.
+10143{_}676{_}He narrowly misses the misunderstood wife (now a widow, thanks to his kind offices), and his failure to bag the hero and _ingenue_ (together with a handful of subsidiary characters) is only a matter of minutes.
+10143{_}677{_}There is almost a false note about the last chapter, in which the Oriental commits suicide before he has completed his grisly task; but it was obviously impossible for anyone in the book to live happily ever after so long as he remained alive.
+10143{_}678{_}Just how Mr. HARRIS BURLAND and the villainous figment of his lively imagination perform these deeds of dastard-do is not for me to reveal.
+10143{_}679{_}The publishers modestly claim that in the school of WILKIE COLLINS this author has few rivals.
+10143{_}680{_}As regards complexity of plot the claim is scarcely substantiated by the volume before me; but if bloodshed be the food of fiction Mr. BURLAND may slay on, secure in his pre-eminence.
+10143{_}681{_}*       *       *       *       *  The _Rev.
+10143{_}682{_}Frank Farmer_, hero of Mr. RICHARD MARSH'S _The Deacon's Daughter_ (LONG), was the youthful, good-looking and eloquent Congregationalist minister of the very local town of Brasted, and the ladies of his flock adored him.
+10143{_}683{_}So earnestly indeed did they adore him that, after he had preached a stirring series of sermons on the evils of gambling, they decided to subscribe and send him for a holiday to Monte Carlo.
+10143{_}684{_}On his return he was to preach another course of sermons, which "would rouse the national conscience and, with God's blessing, the conscience of all Europe."
+10143{_}685{_}Possibly you can guess what happened to him; I did, and I am not a good guesser.
+10143{_}686{_}The _Rev.
+10143{_}687{_}Frank_ had never been out of England, and he found Monte Carlo inhabited by ladies who made him blush.
+10143{_}688{_}He could not understand their bold ways, so different from the manner of the Brasted maidens.
+10143{_}689{_}One of them laid especial siege to him and assured him that he had "_la veine_."
+10143{_}690{_}At first I am inclined to believe that he thought she was talking of something varicose, but when he understood what she meant he was at her mercy.
+10143{_}691{_}In short he tried his luck, to the dismay of his conscience but with prodigious benefit to his pocket.
+10143{_}692{_}His return to Brasted is described with excellent irony.
+10143{_}693{_}*       *       *       *       *  Mr. WILL IRWIN'S war-book naturally divides itself into two parts, since he was lucky enough to get near the Front both about Verdun during the great attack, and with the Alpini fighting on "the roof of Armageddon."
+10143{_}694{_}To these brave and picturesque friends of ours he dedicates his study, _The Latin at War_ (CONSTABLE).
+10143{_}695{_}You must not expect much of that inside information which the author, as an American journalist, must have been sorely tempted to produce.
+10143{_}696{_}Indeed he has little to offer us that has not been common property of the Correspondents for long enough, and several of his descriptions (his picture of a glacier, for one), given with a rather irritatingly childlike air of new discovery, cannot escape the charge of commonplace.
+10143{_}697{_}But his reflections, for once in a way the better half of experience, more than make good this defect.
+10143{_}698{_}His essay on Paris, for instance--"the city of unshed tears"--is something more than interesting, and his analysis of the cause of the successes of the French army, in the face of initial defects of material, even better.
+10143{_}699{_}The author of _Westward Ho!_, considering the Spanish and English navies of ELIZABETH'S time, found precisely the same contrasted elements of autocracy and brotherliness producing just those results that we find respectively in the German and French forces of to-day--on the one hand a mechanical perfection of command, on the other an informed equality which, somehow, does not make against efficiency whilst fostering individuality.
+10143{_}700{_}Mr. IRWIN hardly refers to our own Army; but one is thankful to remember that discipline by consent, one of the virtues of true democracy, is not the exclusive tradition of our French allies.
+10143{_}701{_}*       *       *       *       *  _A London Posy_ (MILLS AND BOON) is a story with at least an original setting.
+10143{_}702{_}So far as I know, Miss SOPHIE COLE is the first novelist to group her characters about an actual London house preserved as a memorial to former inhabitants.
+10143{_}703{_}The house in question is that in Gough Square, where Dr. JOHNSON lived, and two of the chief characters are _George Constant_, the curator, and his sister, to whom the shrine is the most precious object in life ("housemaid to a ghost," one of the other personages rather prettily calls her).
+10143{_}704{_}It therefore may well be that to ardent devotees of the great lexicographer this story of what might have happened in his house to-day will make a stronger appeal than was the case with me, who (to speak frankly) found it a trifle dull.
+10143{_}705{_}It might be said, though perhaps unkindly, that Miss COLE looks at life through such feminine eyes that all her characters, male and female, are types of perfect womanhood.
+10143{_}706{_}In _Denis Laurie_, the gentle essayist and recluse, one might expect to find some feminine attributes; but even the bolder and badder lots, whose task it is to supply the melodramatic relief, struck me as oddly unvirile.
+10143{_}707{_}But this is only a personal view.
+10143{_}708{_}Others, as I say, may find this very gentle story of mild loves and two deserted wives a refreshing contrast to the truths, so much stranger and more lurid than any fiction, by which we are surrounded.
+10143{_}709{_}*       *       *       *       *  [Illustration: [Owing to a scarcity of literary matter at the Front, our soldiers are sometimes reduced to telling each other tales.]
+10143{_}710{_}Private Jones.
+10143{_}711{_}"AND SHE _SAYS_, 'OH!
+10143{_}712{_}WOT BLINKIN' GREAT EYES YOU 'AVE, GRANDMOTHER!'
+10143{_}713{_}AND THE WOLF, 'E SAYS, 'ALL THE BETTER TER SEE YER WIV, MY DEAR.'"]
+10143{_}714{_}End of Project Gutenberg's Punch, Volume 153, July 11, 1917, by Various  *** END OF THIS PROJECT GUTENBERG EBOOK PUNCH, VOLUME 153 ***  ***** This file should be named 10143.txt or 10143.zip ***** This and all associated files of various formats will be found in:         http://www.gutenberg.net/1/0/1/4/10143/  Produced by Jonathan Ingram and PG Distributed Proofreaders  Updated editions will replace the previous one--the old editions will be renamed.
+10143{_}715{_}Creating the works from public domain print editions means that no one owns a United States copyright in these works, so the Foundation (and you!)
+10143{_}716{_}can copy and distribute it in the United States without permission and without paying copyright royalties.
+10143{_}717{_}Special rules, set forth in the General Terms of Use part of this license, apply to copying and distributing Project Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm concept and trademark.
+10143{_}718{_}Project Gutenberg is a registered trademark, and may not be used if you charge for the eBooks, unless you receive specific permission.
+10143{_}719{_}If you do not charge anything for copies of this eBook, complying with the rules is very easy.
+10143{_}720{_}You may use this eBook for nearly any purpose such as creation of derivative works, reports, performances and research.
+10143{_}721{_}They may be modified and printed and given away--you may do practically ANYTHING with public domain eBooks.
+10143{_}722{_}Redistribution is subject to the trademark license, especially commercial redistribution.
+10143{_}723{_}*** START: FULL LICENSE ***  THE FULL PROJECT GUTENBERG LICENSE PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK  To protect the Project Gutenberg-tm mission of promoting the free distribution of electronic works, by using or distributing this work (or any other work associated in any way with the phrase "Project Gutenberg"), you agree to comply with all the terms of the Full Project Gutenberg-tm License (available with this file or online at http://gutenberg.net/license).
+10143{_}724{_}Section 1.
+10143{_}725{_}General Terms of Use and Redistributing Project Gutenberg-tm electronic works  1.A.
+10143{_}726{_}By reading or using any part of this Project Gutenberg-tm electronic work, you indicate that you have read, understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement.
+10143{_}727{_}If you do not agree to abide by all the terms of this agreement, you must cease using and return or destroy all copies of Project Gutenberg-tm electronic works in your possession.
+10143{_}728{_}If you paid a fee for obtaining a copy of or access to a Project Gutenberg-tm electronic work and you do not agree to be bound by the terms of this agreement, you may obtain a refund from the person or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+10143{_}729{_}1.B.
+10143{_}730{_}"Project Gutenberg" is a registered trademark.
+10143{_}731{_}It may only be used on or associated in any way with an electronic work by people who agree to be bound by the terms of this agreement.
+10143{_}732{_}There are a few things that you can do with most Project Gutenberg-tm electronic works even without complying with the full terms of this agreement.
+10143{_}733{_}See paragraph 1.C below.
+10143{_}734{_}There are a lot of things you can do with Project Gutenberg-tm electronic works if you follow the terms of this agreement and help preserve free future access to Project Gutenberg-tm electronic works.
+10143{_}735{_}See paragraph 1.E below.
+10143{_}736{_}1.C.
+10143{_}737{_}The Project Gutenberg Literary Archive Foundation ("the Foundation" or PGLAF), owns a compilation copyright in the collection of Project Gutenberg-tm electronic works.
+10143{_}738{_}Nearly all the individual works in the collection are in the public domain in the United States.
+10143{_}739{_}If an individual work is in the public domain in the United States and you are located in the United States, we do not claim a right to prevent you from copying, distributing, performing, displaying or creating derivative works based on the work as long as all references to Project Gutenberg are removed.
+10143{_}740{_}Of course, we hope that you will support the Project Gutenberg-tm mission of promoting free access to electronic works by freely sharing Project Gutenberg-tm works in compliance with the terms of this agreement for keeping the Project Gutenberg-tm name associated with the work.
+10143{_}741{_}You can easily comply with the terms of this agreement by keeping this work in the same format with its attached full Project Gutenberg-tm License when you share it without charge with others.
+10143{_}742{_}1.D.
+10143{_}743{_}The copyright laws of the place where you are located also govern what you can do with this work.
+10143{_}744{_}Copyright laws in most countries are in a constant state of change.
+10143{_}745{_}If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, performing, distributing or creating derivative works based on this work or any other Project Gutenberg-tm work.
+10143{_}746{_}The Foundation makes no representations concerning the copyright status of any work in any country outside the United States.
+10143{_}747{_}1.E.
+10143{_}748{_}Unless you have removed all references to Project Gutenberg:  1.E.1.
+10143{_}749{_}The following sentence, with active links to, or other immediate access to, the full Project Gutenberg-tm License must appear prominently whenever any copy of a Project Gutenberg-tm work (any work on which the phrase "Project Gutenberg" appears, or with which the phrase "Project Gutenberg" is associated) is accessed, displayed, performed, viewed, copied or distributed:  This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever.
+10143{_}750{_}You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.net  1.E.2.
+10143{_}751{_}If an individual Project Gutenberg-tm electronic work is derived from the public domain (does not contain a notice indicating that it is posted with permission of the copyright holder), the work can be copied and distributed to anyone in the United States without paying any fees or charges.
+10143{_}752{_}If you are redistributing or providing access to a work with the phrase "Project Gutenberg" associated with or appearing on the work, you must comply either with the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of the work and the Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+10143{_}753{_}1.E.3.
+10143{_}754{_}If an individual Project Gutenberg-tm electronic work is posted with the permission of the copyright holder, your use and distribution must comply with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed by the copyright holder.
+10143{_}755{_}Additional terms will be linked to the Project Gutenberg-tm License for all works posted with the permission of the copyright holder found at the beginning of this work.
+10143{_}756{_}1.E.4.
+10143{_}757{_}Do not unlink or detach or remove the full Project Gutenberg-tm License terms from this work, or any files containing a part of this work or any other work associated with Project Gutenberg-tm.
+10143{_}758{_}1.E.5.
+10143{_}759{_}Do not copy, display, perform, distribute or redistribute this electronic work, or any part of this electronic work, without prominently displaying the sentence set forth in paragraph 1.E.1 with active links or immediate access to the full terms of the Project Gutenberg-tm License.
+10143{_}760{_}1.E.6.
+10143{_}761{_}You may convert to and distribute this work in any binary, compressed, marked up, nonproprietary or proprietary form, including any word processing or hypertext form.
+10143{_}762{_}However, if you provide access to or distribute copies of a Project Gutenberg-tm work in a format other than "Plain Vanilla ASCII" or other format used in the official version posted on the official Project Gutenberg-tm web site (www.gutenberg.net), you must, at no additional cost, fee or expense to the user, provide a copy, a means of exporting a copy, or a means of obtaining a copy upon request, of the work in its original "Plain Vanilla ASCII" or other form.
+10143{_}763{_}Any alternate format must include the full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+10143{_}764{_}1.E.7.
+10143{_}765{_}Do not charge a fee for access to, viewing, displaying, performing, copying or distributing any Project Gutenberg-tm works unless you comply with paragraph 1.E.8 or 1.E.9.
+10143{_}766{_}1.E.8.
+10143{_}767{_}You may charge a reasonable fee for copies of or providing access to or distributing Project Gutenberg-tm electronic works provided that  - You pay a royalty fee of 20% of the gross profits you derive from      the use of Project Gutenberg-tm works calculated using the method      you already use to calculate your applicable taxes.
+10143{_}768{_}The fee is      owed to the owner of the Project Gutenberg-tm trademark, but he      has agreed to donate royalties under this paragraph to the      Project Gutenberg Literary Archive Foundation.
+10143{_}769{_}Royalty payments      must be paid within 60 days following each date on which you      prepare (or are legally required to prepare) your periodic tax      returns.
+10143{_}770{_}Royalty payments should be clearly marked as such and      sent to the Project Gutenberg Literary Archive Foundation at the      address specified in Section 4, "Information about donations to      the Project Gutenberg Literary Archive Foundation."
+10143{_}771{_}- You provide a full refund of any money paid by a user who notifies      you in writing (or by e-mail) within 30 days of receipt that s/he      does not agree to the terms of the full Project Gutenberg-tm      License.
+10143{_}772{_}You must require such a user to return or      destroy all copies of the works possessed in a physical medium      and discontinue all use of and all access to other copies of      Project Gutenberg-tm works.
+10143{_}773{_}- You provide, in accordance with paragraph 1.F.3, a full refund of any      money paid for a work or a replacement copy, if a defect in the      electronic work is discovered and reported to you within 90 days      of receipt of the work.
+10143{_}774{_}- You comply with all other terms of this agreement for free      distribution of Project Gutenberg-tm works.
+10143{_}775{_}1.E.9.
+10143{_}776{_}If you wish to charge a fee or distribute a Project Gutenberg-tm electronic work or group of works on different terms than are set forth in this agreement, you must obtain permission in writing from both the Project Gutenberg Literary Archive Foundation and Michael Hart, the owner of the Project Gutenberg-tm trademark.
+10143{_}777{_}Contact the Foundation as set forth in Section 3 below.
+10143{_}778{_}1.F.
+10143{_}779{_}1.F.1.
+10143{_}780{_}Project Gutenberg volunteers and employees expend considerable effort to identify, do copyright research on, transcribe and proofread public domain works in creating the Project Gutenberg-tm collection.
+10143{_}781{_}Despite these efforts, Project Gutenberg-tm electronic works, and the medium on which they may be stored, may contain "Defects," such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes that damage or cannot be read by your equipment.
+10143{_}782{_}1.F.2.
+10143{_}783{_}LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right of Replacement or Refund" described in paragraph 1.F.3, the Project Gutenberg Literary Archive Foundation, the owner of the Project Gutenberg-tm trademark, and any other party distributing a Project Gutenberg-tm electronic work under this agreement, disclaim all liability to you for damages, costs and expenses, including legal fees.
+10143{_}784{_}YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH F3.
+10143{_}785{_}YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.
+10143{_}786{_}1.F.3.
+10143{_}787{_}LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect in this electronic work within 90 days of receiving it, you can receive a refund of the money (if any) you paid for it by sending a written explanation to the person you received the work from.
+10143{_}788{_}If you received the work on a physical medium, you must return the medium with your written explanation.
+10143{_}789{_}The person or entity that provided you with the defective work may elect to provide a replacement copy in lieu of a refund.
+10143{_}790{_}If you received the work electronically, the person or entity providing it to you may choose to give you a second opportunity to receive the work electronically in lieu of a refund.
+10143{_}791{_}If the second copy is also defective, you may demand a refund in writing without further opportunities to fix the problem.
+10143{_}792{_}1.F.4.
+10143{_}793{_}Except for the limited right of replacement or refund set forth in paragraph 1.F.3, this work is provided to you 'AS-IS," WITH NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+10143{_}794{_}1.F.5.
+10143{_}795{_}Some states do not allow disclaimers of certain implied warranties or the exclusion or limitation of certain types of damages.
+10143{_}796{_}If any disclaimer or limitation set forth in this agreement violates the law of the state applicable to this agreement, the agreement shall be interpreted to make the maximum disclaimer or limitation permitted by the applicable state law.
+10143{_}797{_}The invalidity or unenforceability of any provision of this agreement shall not void the remaining provisions.
+10143{_}798{_}1.F.6.
+10143{_}799{_}INDEMNITY - You agree to indemnify and hold the Foundation, the trademark owner, any agent or employee of the Foundation, anyone providing copies of Project Gutenberg-tm electronic works in accordance with this agreement, and any volunteers associated with the production, promotion and distribution of Project Gutenberg-tm electronic works, harmless from all liability, costs and expenses, including legal fees, that arise directly or indirectly from any of the following which you do or cause to occur: (a) distribution of this or any Project Gutenberg-tm work, (b) alteration, modification, or additions or deletions to any Project Gutenberg-tm work, and (c) any Defect you cause.
+10143{_}800{_}Section  2.
+10143{_}801{_}Information about the Mission of Project Gutenberg-tm  Project Gutenberg-tm is synonymous with the free distribution of electronic works in formats readable by the widest variety of computers including obsolete, old, middle-aged and new computers.
+10143{_}802{_}It exists because of the efforts of hundreds of volunteers and donations from people in all walks of life.
+10143{_}803{_}Volunteers and financial support to provide volunteers with the assistance they need, is critical to reaching Project Gutenberg-tm's goals and ensuring that the Project Gutenberg-tm collection will remain freely available for generations to come.
+10143{_}804{_}In 2001, the Project Gutenberg Literary Archive Foundation was created to provide a secure and permanent future for Project Gutenberg-tm and future generations.
+10143{_}805{_}To learn more about the Project Gutenberg Literary Archive Foundation and how your efforts and donations can help, see Sections 3 and 4 and the Foundation web page at http://www.pglaf.org.
+10143{_}806{_}Section 3.
+10143{_}807{_}Information about the Project Gutenberg Literary Archive Foundation  The Project Gutenberg Literary Archive Foundation is a non profit 501(c)(3) educational corporation organized under the laws of the state of Mississippi and granted tax exempt status by the Internal Revenue Service.
+10143{_}808{_}The Foundation's EIN or federal tax identification number is 64-6221541.
+10143{_}809{_}Its 501(c)(3) letter is posted at http://pglaf.org/fundraising.
+10143{_}810{_}Contributions to the Project Gutenberg Literary Archive Foundation are tax deductible to the full extent permitted by U.S. federal laws and your state's laws.
+10143{_}811{_}The Foundation's principal office is located at 4557 Melan Dr. S. Fairbanks, AK, 99712., but its volunteers and employees are scattered throughout numerous locations.
+10143{_}812{_}Its business office is located at 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email business@pglaf.org.
+10143{_}813{_}Email contact links and up to date contact information can be found at the Foundation's web site and official page at http://pglaf.org  For additional contact information:      Dr. Gregory B. Newby      Chief Executive and Director      gbnewby@pglaf.org  Section 4.
+10143{_}814{_}Information about Donations to the Project Gutenberg Literary Archive Foundation  Project Gutenberg-tm depends upon and cannot survive without wide spread public support and donations to carry out its mission of increasing the number of public domain and licensed works that can be freely distributed in machine readable form accessible by the widest array of equipment including outdated equipment.
+10143{_}815{_}Many small donations ($1 to $5,000) are particularly important to maintaining tax exempt status with the IRS.
+10143{_}816{_}The Foundation is committed to complying with the laws regulating charities and charitable donations in all 50 states of the United States.
+10143{_}817{_}Compliance requirements are not uniform and it takes a considerable effort, much paperwork and many fees to meet and keep up with these requirements.
+10143{_}818{_}We do not solicit donations in locations where we have not received written confirmation of compliance.
+10143{_}819{_}To SEND DONATIONS or determine the status of compliance for any particular state visit http://pglaf.org  While we cannot and do not solicit contributions from states where we have not met the solicitation requirements, we know of no prohibition against accepting unsolicited donations from donors in such states who approach us with offers to donate.
+10143{_}820{_}International donations are gratefully accepted, but we cannot make any statements concerning tax treatment of donations received from outside the United States.
+10143{_}821{_}U.S. laws alone swamp our small staff.
+10143{_}822{_}Please check the Project Gutenberg Web pages for current donation methods and addresses.
+10143{_}823{_}Donations are accepted in a number of other ways including including checks, online payments and credit card donations.
+10143{_}824{_}To donate, please visit: http://pglaf.org/donate   Section 5.
+10143{_}825{_}General Information About Project Gutenberg-tm electronic works.
+10143{_}826{_}Professor Michael S. Hart is the originator of the Project Gutenberg-tm concept of a library of electronic works that could be freely shared with anyone.
+10143{_}827{_}For thirty years, he produced and distributed Project Gutenberg-tm eBooks with only a loose network of volunteer support.
+10143{_}828{_}Project Gutenberg-tm eBooks are often created from several printed editions, all of which are confirmed as Public Domain in the U.S. unless a copyright notice is included.
+10143{_}829{_}Thus, we do not necessarily keep eBooks in compliance with any particular paper edition.
+10143{_}830{_}Each eBook is in a subdirectory of the same number as the eBook's eBook number, often in several formats including plain vanilla ASCII, compressed (zipped), HTML and others.
+10143{_}831{_}Corrected EDITIONS of our eBooks replace the old file and take over the old filename and etext number.
+10143{_}832{_}The replaced older file is renamed.
+10143{_}833{_}VERSIONS based on separate sources are treated as new eBooks receiving new filenames and etext numbers.
+10143{_}834{_}Most people start at our Web site which has the main PG search facility:       http://www.gutenberg.net  This Web site includes information about Project Gutenberg-tm, including how to make donations to the Project Gutenberg Literary Archive Foundation, how to help produce our new eBooks, and how to subscribe to our email newsletter to hear about new eBooks.
+10143{_}835{_}EBooks posted prior to November 2003, with eBook numbers BELOW #10000, are filed in directories based on their release date.
+10143{_}836{_}If you want to download any of these eBooks directly, rather than using the regular search system you may utilize the following addresses and just download by the etext year.
+10143{_}837{_}http://www.ibiblio.org/gutenberg/etext06      (Or /etext 05, 04, 03, 02, 01, 00, 99,      98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)  EBooks posted since November 2003, with etext numbers OVER #10000, are filed in a different way.
+10143{_}838{_}The year of a release date is no longer part of the directory path.
+10143{_}839{_}The path is based on the etext number (which is identical to the filename).
+10143{_}840{_}The path to the file is made up of single digits corresponding to all but the last digit in the filename.
+10143{_}841{_}For example an eBook of filename 10234 would be found at:       http://www.gutenberg.net/1/0/2/3/10234  or filename 24689 would be found at:      http://www.gutenberg.net/2/4/6/8/24689  An alternative method of locating eBooks:      http://www.gutenberg.net/GUTINDEX.ALL   

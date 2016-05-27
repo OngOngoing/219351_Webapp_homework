@@ -1,0 +1,939 @@
+svyrd10{_}0{_}Project Gutenberg's Etext of Songs of a Savoyard by W. S. Gilbert #5 in our series by W. S. Gilbert   Copyright laws are changing all over the world, be sure to check the copyright laws for your country before posting these files!!
+svyrd10{_}1{_}Please take a look at the important information in this header.
+svyrd10{_}2{_}We encourage you to keep this file on your own disk, keeping an electronic path open for the next readers.
+svyrd10{_}3{_}Do not remove this.
+svyrd10{_}4{_}**Welcome To The World of Free Plain Vanilla Electronic Texts**  **Etexts Readable By Both Humans and By Computers, Since 1971**  *These Etexts Prepared By Hundreds of Volunteers and Donations*  Information on contacting Project Gutenberg to get Etexts, and further information is included below.
+svyrd10{_}5{_}We need your donations.
+svyrd10{_}6{_}Songs of a Savoyard  by W. S. Gilbert  June, 1997  [Etext #934]   Project Gutenberg's Etext of Songs of a Savoyard by W. S. Gilbert *****This file should be named svyrd10.txt or svyrd10.zip******  Corrected EDITIONS of our etexts get a new NUMBER, svyrd11.txt.
+svyrd10{_}7{_}VERSIONS based on separate sources get new LETTER,svyrdb10a.txt.
+svyrd10{_}8{_}Scanned and proofed by David Price, ccx074@coventry.ac.uk   We are now trying to release all our books one month in advance of the official release dates, for time for better editing.
+svyrd10{_}9{_}Please note:  neither this list nor its contents are final till midnight of the last day of the month of any such announcement.
+svyrd10{_}10{_}The official release date of all Project Gutenberg Etexts is at Midnight, Central Time, of the last day of the stated month.
+svyrd10{_}11{_}A preliminary version may often be posted for suggestion, comment and editing by those who wish to do so.
+svyrd10{_}12{_}To be sure you have an up to date first edition [xxxxx10x.xxx] please check file sizes in the first week of the next month.
+svyrd10{_}13{_}Since our ftp program has a bug in it that scrambles the date [tried to fix and failed] a look at the file size will have to do, but we will try to see a new copy has at least one byte more or less.
+svyrd10{_}14{_}Information about Project Gutenberg (one page)  We produce about two million dollars for each hour we work.
+svyrd10{_}15{_}The fifty hours is one conservative estimate for how long it we take to get any etext selected, entered, proofread, edited, copyright searched and analyzed, the copyright letters written, etc.
+svyrd10{_}16{_}This projected audience is one hundred million readers.
+svyrd10{_}17{_}If our value per text is nominally estimated at one dollar then we produce $2 million dollars per hour this year as we release thirty-two text files per month:  or 400 more Etexts in 1996 for a total of 800.
+svyrd10{_}18{_}If these reach just 10% of the computerized population, then the total should reach 80 billion Etexts.
+svyrd10{_}19{_}The Goal of Project Gutenberg is to Give Away One Trillion Etext Files by the December 31, 2001.
+svyrd10{_}20{_}[10,000 x 100,000,000=Trillion] This is ten thousand titles each to one hundred million readers, which is only 10% of the present number of computer users.
+svyrd10{_}21{_}2001 should have at least twice as many computer users as that, so it will require us reaching less than 5% of the users in 2001.
+svyrd10{_}22{_}We need your donations more than ever!
+svyrd10{_}23{_}All donations should be made to "Project Gutenberg/CMU": and are tax deductible to the extent allowable by law.
+svyrd10{_}24{_}(CMU = Carnegie- Mellon University).
+svyrd10{_}25{_}For these and other matters, please mail to:  Project Gutenberg P. O.
+svyrd10{_}26{_}Box  2782 Champaign, IL 61825  When all other email fails try our Executive Director: Michael S. Hart <hart@pobox.com>  We would prefer to send you this information by email (Internet, Bitnet, Compuserve, ATTMAIL or MCImail).
+svyrd10{_}27{_}****** If you have an FTP program (or emulator), please FTP directly to the Project Gutenberg archives: [Mac users, do NOT point and click.
+svyrd10{_}28{_}.
+svyrd10{_}29{_}.type]  ftp uiarchive.cso.uiuc.edu login:  anonymous password:  your@login cd etext/etext90 through /etext96 or cd etext/articles [get suggest gut for more information] dir [to see files] get or mget [to get files.
+svyrd10{_}30{_}.
+svyrd10{_}31{_}.set bin for zip files] GET INDEX?00.GUT for a list of books and GET NEW GUT for general information and MGET GUT* for newsletters.
+svyrd10{_}32{_}**Information prepared by the Project Gutenberg legal advisor** (Three Pages)   ***START**THE SMALL PRINT!
+svyrd10{_}33{_}**FOR PUBLIC DOMAIN ETEXTS**START*** Why is this "Small Print!"
+svyrd10{_}34{_}statement here?
+svyrd10{_}35{_}You know: lawyers.
+svyrd10{_}36{_}They tell us you might sue us if there is something wrong with your copy of this etext, even if you got it for free from someone other than us, and even if what's wrong is not our fault.
+svyrd10{_}37{_}So, among other things, this "Small Print!"
+svyrd10{_}38{_}statement disclaims most of our liability to you.
+svyrd10{_}39{_}It also tells you how you can distribute copies of this etext if you want to.
+svyrd10{_}40{_}*BEFORE!
+svyrd10{_}41{_}* YOU USE OR READ THIS ETEXT By using or reading any part of this PROJECT GUTENBERG-tm etext, you indicate that you understand, agree to and accept this "Small Print!"
+svyrd10{_}42{_}statement.
+svyrd10{_}43{_}If you do not, you can receive a refund of the money (if any) you paid for this etext by sending a request within 30 days of receiving it to the person you got it from.
+svyrd10{_}44{_}If you received this etext on a physical medium (such as a disk), you must return it with your request.
+svyrd10{_}45{_}ABOUT PROJECT GUTENBERG-TM ETEXTS This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG- tm etexts, is a "public domain" work distributed by Professor Michael S. Hart through the Project Gutenberg Association at Carnegie-Mellon University (the "Project").
+svyrd10{_}46{_}Among other things, this means that no one owns a United States copyright on or for this work, so the Project (and you!)
+svyrd10{_}47{_}can copy and distribute it in the United States without permission and without paying copyright royalties.
+svyrd10{_}48{_}Special rules, set forth below, apply if you wish to copy and distribute this etext under the Project's "PROJECT GUTENBERG" trademark.
+svyrd10{_}49{_}To create these etexts, the Project expends considerable efforts to identify, transcribe and proofread public domain works.
+svyrd10{_}50{_}Despite these efforts, the Project's etexts and any medium they may be on may contain "Defects".
+svyrd10{_}51{_}Among other things, Defects may take the form of incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other etext medium, a computer virus, or computer codes that damage or cannot be read by your equipment.
+svyrd10{_}52{_}LIMITED WARRANTY; DISCLAIMER OF DAMAGES But for the "Right of Replacement or Refund" described below, [1] the Project (and any other party you may receive this etext from as a PROJECT GUTENBERG-tm etext) disclaims all liability to you for damages, costs and expenses, including legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT, INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGES.
+svyrd10{_}53{_}If you discover a Defect in this etext within 90 days of receiving it, you can receive a refund of the money (if any) you paid for it by sending an explanatory note within that time to the person you received it from.
+svyrd10{_}54{_}If you received it on a physical medium, you must return it with your note, and such person may choose to alternatively give you a replacement copy.
+svyrd10{_}55{_}If you received it electronically, such person may choose to alternatively give you a second opportunity to receive it electronically.
+svyrd10{_}56{_}THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".
+svyrd10{_}57{_}NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+svyrd10{_}58{_}Some states do not allow disclaimers of implied warranties or the exclusion or limitation of consequential damages, so the above disclaimers and exclusions may not apply to you, and you may have other legal rights.
+svyrd10{_}59{_}INDEMNITY You will indemnify and hold the Project, its directors, officers, members and agents harmless from all liability, cost and expense, including legal fees, that arise directly or indirectly from any of the following that you do or cause: [1] distribution of this etext, [2] alteration, modification, or addition to the etext, or [3] any Defect.
+svyrd10{_}60{_}DISTRIBUTION UNDER "PROJECT GUTENBERG-tm" You may distribute copies of this etext electronically, or by disk, book or any other medium if you either delete this "Small Print!"
+svyrd10{_}61{_}and all other references to Project Gutenberg, or:  [1]  Only give exact copies of it.
+svyrd10{_}62{_}Among other things, this      requires that you do not remove, alter or modify the      etext or this "small print!"
+svyrd10{_}63{_}statement.
+svyrd10{_}64{_}You may however,      if you wish, distribute this etext in machine readable      binary, compressed, mark-up, or proprietary form,      including any form resulting from conversion by word pro-      cessing or hypertext software, but only so long as      *EITHER*:       [*]  The etext, when displayed, is clearly readable, and           does *not* contain characters other than those           intended by the author of the work, although tilde           (~), asterisk (*) and underline (_) characters may           be used to convey punctuation intended by the           author, and additional characters may be used to           indicate hypertext links; OR       [*]  The etext may be readily converted by the reader at           no expense into plain ASCII, EBCDIC or equivalent           form by the program that displays the etext (as is           the case, for instance, with most word processors);           OR       [*]  You provide, or agree to also provide on request at           no additional cost, fee or expense, a copy of the           etext in its original plain ASCII form (or in EBCDIC           or other equivalent proprietary form).
+svyrd10{_}65{_}[2]  Honor the etext refund and replacement provisions of this      "Small Print!"
+svyrd10{_}66{_}statement.
+svyrd10{_}67{_}[3]  Pay a trademark license fee to the Project of 20% of the      net profits you derive calculated using the method you      already use to calculate your applicable taxes.
+svyrd10{_}68{_}If you      don't derive profits, no royalty is due.
+svyrd10{_}69{_}Royalties are      payable to "Project Gutenberg Association/Carnegie-Mellon      University" within the 60 days following each      date you prepare (or were legally required to prepare)      your annual (or equivalent periodic) tax return.
+svyrd10{_}70{_}WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+svyrd10{_}71{_}The Project gratefully accepts contributions in money, time, scanning machines, OCR software, public domain etexts, royalty free copyright licenses, and every other sort of contribution you can think of.
+svyrd10{_}72{_}Money should be paid to "Project Gutenberg Association / Carnegie-Mellon University".
+svyrd10{_}73{_}*END*THE SMALL PRINT!
+svyrd10{_}74{_}FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*      Songs of a Savoyard by W. S. Gilbert Scanned and proofed by David Price, email ccx074@coventry.ac.uk      Songs of a Savoyard     Contents:  The Darned Mounseer The Englishman The Disagreeable Man The Coming By-And-By The Highly Respectable Gondolier The Fairy Queen's Song Is Life A Boon The Modern Major-General The Heavy Dragoon Proper Pride The Policeman's Lot The Baffled Grumbler The House Of Peers A Merry Madrigal The Duke And The Duchess Eheu Fugaces -!
+svyrd10{_}75{_}They'll None Of `Em Be Missed Girl Graduates Braid The Raven Hair The Working Monarch The Ape And The Lady Only Roses The Rover's Apology An Appeal The Reward Of Merit The Magnet And The Churn The Family Fool Sans Souci A Recipe The Merryman And His Maid The Susceptible Chancellor When A Merry Maiden Marries The British Tar A Man Who Would Woo A Fair Maid The Sorcerer's Song The Fickle Breeze The First Lord's Song Would You Know?
+svyrd10{_}76{_}Speculation Ah Me!
+svyrd10{_}77{_}The Duke Of Plaza-Toro The Aesthete Said I To Myself, Said I Sorry Her Lot The Contemplative Sentry The Philosophic Pill Blue Blood The Judge's Song When I First Put This Uniform On Solatium A Nightmare Don't Forget!
+svyrd10{_}78{_}The Suicide's Grave He And She The Mighty Must A Mirage The Ghosts' High Noon The Humane Mikado Willow Waly!
+svyrd10{_}79{_}Life Is Lovely All The Year The Usher's Charge The Great Oak Tree King Goodheart Sleep On!
+svyrd10{_}80{_}The Love-Sick Boy Poetry Everywhere He Loves!
+svyrd10{_}81{_}True Diffidence The Tangled Skein My Lady One Against The World Put A Penny In The Slot Good Little Girls Life Limited Liability Anglicised Utopia An English Girl A Manager's Perplexities Out Of Sorts How It's Done A Classical Revival The Practical Joker The National Anthem Her Terms The Independent Bee The Disconcerted Tenor The Played-Out Humorist    Ballad: The Darned Mounseer    I shipped, d'ye see, in a Revenue sloop, And, off Cape Finisteere, A merchantman we see, A Frenchman, going free, So we made for the bold Mounseer, D'ye see?
+svyrd10{_}82{_}We made for the bold Mounseer!
+svyrd10{_}83{_}But she proved to be a Frigate - and she up with her ports, And fires with a thirty-two!
+svyrd10{_}84{_}It come uncommon near, But we answered with a cheer, Which paralysed the Parley-voo, D'ye see?
+svyrd10{_}85{_}Which paralysed the Parley-voo!
+svyrd10{_}86{_}Then our Captain he up and he says, says he, "That chap we need not fear, - We can take her, if we like, She is sartin for to strike, For she's only a darned Mounseer, D'ye see?
+svyrd10{_}87{_}She's only a darned Mounseer!
+svyrd10{_}88{_}But to fight a French fal-lal - it's like hittin' of a gal - It's a lubberly thing for to do; For we, with all our faults, Why, we're sturdy British salts, While she's but a Parley-voo, D'ye see?
+svyrd10{_}89{_}A miserable Parley-voo!"
+svyrd10{_}90{_}So we up with our helm, and we scuds before the breeze, As we gives a compassionating cheer; Froggee answers with a shout As he sees us go about, Which was grateful of the poor Mounseer, D'ye see?
+svyrd10{_}91{_}Which was grateful of the poor Mounseer!
+svyrd10{_}92{_}And I'll wager in their joy they kissed each other's cheek (Which is what them furriners do), And they blessed their lucky stars We were hardy British tars Who had pity on a poor Parley-voo, D'ye see?
+svyrd10{_}93{_}Who had pity on a poor Parley-voo!
+svyrd10{_}94{_}Ballad: The Englishman    He is an Englishman!
+svyrd10{_}95{_}For he himself has said it, And it's greatly to his credit, That he is an Englishman!
+svyrd10{_}96{_}For he might have been a Roosian, A French, or Turk, or Proosian, Or perhaps Itali-an!
+svyrd10{_}97{_}But in spite of all temptations, To belong to other nations, He remains an Englishman!
+svyrd10{_}98{_}Hurrah!
+svyrd10{_}99{_}For the true-born Englishman!
+svyrd10{_}100{_}Ballad: The Disagreeable Man    If you give me your attention, I will tell you what I am: I'm a genuine philanthropist - all other kinds are sham.
+svyrd10{_}101{_}Each little fault of temper and each social defect In my erring fellow-creatures, I endeavour to correct.
+svyrd10{_}102{_}To all their little weaknesses I open people's eyes, And little plans to snub the self-sufficient I devise; I love my fellow-creatures - I do all the good I can - Yet everybody says I'm such a disagreeable man!
+svyrd10{_}103{_}And I can't think why!
+svyrd10{_}104{_}To compliments inflated I've a withering reply, And vanity I always do my best to mortify; A charitable action I can skilfully dissect; And interested motives I'm delighted to detect.
+svyrd10{_}105{_}I know everybody's income and what everybody earns, And I carefully compare it with the income-tax returns; But to benefit humanity, however much I plan, Yet everybody says I'm such a disagreeable man!
+svyrd10{_}106{_}And I can't think why!
+svyrd10{_}107{_}I'm sure I'm no ascetic; I'm as pleasant as can be; You'll always find me ready with a crushing repartee; I've an irritating chuckle, I've a celebrated sneer, I've an entertaining snigger, I've a fascinating leer; To everybody's prejudice I know a thing or two; I can tell a woman's age in half a minute - and I do - But although I try to make myself as pleasant as I can, Yet everybody says I'm such a disagreeable man!
+svyrd10{_}108{_}And I can't think why!
+svyrd10{_}109{_}Ballad: The Coming By-And-By    Sad is that woman's lot who, year by year, Sees, one by one, her beauties disappear; As Time, grown weary of her heart-drawn sighs, Impatiently begins to "dim her eyes"!
+svyrd10{_}110{_}- Herself compelled, in life's uncertain gloamings, To wreathe her wrinkled brow with well-saved "combings" - Reduced, with rouge, lipsalve, and pearly grey, To "make up" for lost time, as best she may!
+svyrd10{_}111{_}Silvered is the raven hair, Spreading is the parting straight, Mottled the complexion fair, Halting is the youthful gait,  Hollow is the laughter free, Spectacled the limpid eye, Little will be left of me, In the coming by-and-by!
+svyrd10{_}112{_}Fading is the taper waist - Shapeless grows the shapely limb, And although securely laced, Spreading is the figure trim!
+svyrd10{_}113{_}Stouter than I used to be, Still more corpulent grow I - There will be too much of me In the coming by-and-by!
+svyrd10{_}114{_}Ballad: The Highly Respectable Gondolier    I stole the Prince, and I brought him here, And left him, gaily prattling With a highly respectable Gondolier, Who promised the Royal babe to rear, And teach him the trade of a timoneer With his own beloved bratling.
+svyrd10{_}115{_}Both of the babes were strong and stout, And, considering all things, clever.
+svyrd10{_}116{_}Of that there is no manner of doubt - No probable, possible shadow of doubt - No possible doubt whatever.
+svyrd10{_}117{_}Time sped, and when at the end of a year I sought that infant cherished, That highly respectable Gondolier Was lying a corpse on his humble bier - I dropped a Grand Inquisitor's tear - That Gondolier had perished!
+svyrd10{_}118{_}A taste for drink, combined with gout, Had doubled him up for ever.
+svyrd10{_}119{_}Of THAT there is no manner of doubt - No probable, possible shadow of doubt - No possible doubt whatever.
+svyrd10{_}120{_}But owing, I'm much disposed to fear, To his terrible taste for tippling, That highly respectable Gondolier Could never declare with a mind sincere Which of the two was his offspring dear, And which the Royal stripling!
+svyrd10{_}121{_}Which was which he could never make out, Despite his best endeavour.
+svyrd10{_}122{_}Of THAT there is no manner of doubt - No probable, possible shadow of doubt - No possible doubt whatever.
+svyrd10{_}123{_}The children followed his old career - (This statement can't be parried) Of a highly respectable Gondolier: Well, one of the two (who will soon be here) - But WHICH of the two is not quite clear - Is the Royal Prince you married!
+svyrd10{_}124{_}Search in and out and round about And you'll discover never A tale so free from every doubt - All probable, possible shadow of doubt - All possible doubt whatever!
+svyrd10{_}125{_}Ballad: The Fairy Queen's Song    Oh, foolish fay, Think you because Man's brave array My bosom thaws I'd disobey Our fairy laws?
+svyrd10{_}126{_}Because I fly In realms above, In tendency To fall in love Resemble I The amorous dove?
+svyrd10{_}127{_}Oh, amorous dove!
+svyrd10{_}128{_}Type of Ovidius Naso!
+svyrd10{_}129{_}This heart of mine Is soft as thine, Although I dare not say so!
+svyrd10{_}130{_}On fire that glows With heat intense I turn the hose Of Common Sense, And out it goes At small expense!
+svyrd10{_}131{_}We must maintain Our fairy law; That is the main On which to draw - In that we gain A Captain Shaw.
+svyrd10{_}132{_}Oh, Captain Shaw!
+svyrd10{_}133{_}Type of true love kept under!
+svyrd10{_}134{_}Could thy Brigade With cold cascade Quench my great love, I wonder!
+svyrd10{_}135{_}Ballad: Is Life A Boon    Is life a boon?
+svyrd10{_}136{_}If so, it must befall That Death, whene'er he call, Must call too soon.
+svyrd10{_}137{_}Though fourscore years he give Yet one would pray to live Another moon!
+svyrd10{_}138{_}What kind of plaint have I, Who perish in July?
+svyrd10{_}139{_}I might have had to die Perchance in June!
+svyrd10{_}140{_}Is life a thorn?
+svyrd10{_}141{_}Then count it not a whit!
+svyrd10{_}142{_}Man is well done with it; Soon as he's born He should all means essay To put the plague away; And I, war-worn, Poor captured fugitive, My life most gladly give - I might have had to live Another morn!
+svyrd10{_}143{_}Ballad: The Modern Major-General    I am the very pattern of a modern Major-Gineral, I've information vegetable, animal, and mineral; I know the kings of England, and I quote the fights historical, From Marathon to Waterloo, in order categorical; I'm very well acquainted, too, with matters mathematical, I understand equations, both the simple and quadratical; About binomial theorem I'm teeming with a lot o' news, With interesting facts about the square of the hypotenuse, I'm very good at integral and differential calculus, I know the scientific names of beings animalculous.
+svyrd10{_}144{_}In short, in matters vegetable, animal, and mineral, I am the very model of a modern Major-Gineral.
+svyrd10{_}145{_}I know our mythic history - KING ARTHUR'S and SIR CARADOC'S, I answer hard acrostics, I've a pretty taste for paradox; I quote in elegiacs all the crimes of HELIOGABALUS, In conics I can floor peculiarities parabolous.
+svyrd10{_}146{_}I tell undoubted RAPHAELS from GERARD DOWS and ZOFFANIES, I know the croaking chorus from the "Frogs" of ARISTOPHANES; Then I can hum a fugue, of which I've heard the music's din afore, And whistle all the airs from that confounded nonsense "Pinafore."
+svyrd10{_}147{_}Then I can write a washing-bill in Babylonic cuneiform, And tell you every detail of CARACTACUS'S uniform.
+svyrd10{_}148{_}In short, in matters vegetable, animal, and mineral, I am the very model of a modern Major-Gineral.
+svyrd10{_}149{_}In fact, when I know what is meant by "mamelon" and "ravelin," When I can tell at sight a Chassepot rifle from a javelin, When such affairs as SORTIES and surprises I'm more wary at, And when I know precisely what is meant by Commissariat, When I have learnt what progress has been made in modern gunnery, When I know more of tactics than a novice in a nunnery, In short, when I've a smattering of elementary strategy, You'll say a better Major-GenerAL has never SAT a gee - For my military knowledge, though I'm plucky and adventury, Has only been brought down to the beginning of the century.
+svyrd10{_}150{_}But still in learning vegetable, animal, and mineral, I am the very model of a modern Major-Gineral!
+svyrd10{_}151{_}Ballad: The Heavy Dragoon    If you want a receipt for that popular mystery, Known to the world as a Heavy Dragoon, Take all the remarkable people in history, Rattle them off to a popular tune!
+svyrd10{_}152{_}The pluck of LORD NELSON on board of the VICTORY - Genius of BISMARCK devising a plan; The humour of FIELDING (which sounds contradictory) - Coolness of PAGET about to trepan - The grace of MOZART, that unparalleled musico - Wit of MACAULAY, who wrote of QUEEN ANNE - The pathos of PADDY, as rendered by BOUCICAULT - Style of the BISHOP OF SODOR AND MAN - The dash of a D'ORSAY, divested of quackery - Narrative powers of DICKENS and THACKERAY - VICTOR EMMANUEL - peak-haunting PEVERIL - THOMAS AQUINAS, and DOCTOR SACHEVERELL - TUPPER and TENNYSON - DANIEL DEFOE - ANTHONY TROLLOPE and MISTER GUIZOT!
+svyrd10{_}153{_}Take of these elements all that is fusible, Melt 'em all down in a pipkin or crucible, Set 'em to simmer and take off the scum, And a Heavy Dragoon is the residuum!
+svyrd10{_}154{_}If you want a receipt for this soldierlike paragon, Get at the wealth of the CZAR (if you can) - The family pride of a Spaniard from Arragon - Force of MEPHISTO pronouncing a ban - A smack of LORD WATERFORD, reckless and rollicky - Swagger of RODERICK, heading his clan - The keen penetration of PADDINGTON POLLAKY - Grace of an Odalisque on a divan - The genius strategic of CAESAR or HANNIBAL - Skill of LORD WOLSELEY in thrashing a cannibal - Flavour of HAMLET - the STRANGER, a touch of him - Little of MANFRED (but not very much of him) - Beadle of Burlington - RICHARDSON'S show - MR. MICAWBER and MADAME TUSSAUD!
+svyrd10{_}155{_}Take of these elements all that is fusible - Melt 'em all down in a pipkin or crucible - Set 'em to simmer and take off the scum, And a Heavy Dragoon is the residuum!
+svyrd10{_}156{_}Ballad: Proper Pride    The Sun, whose rays Are all ablaze With ever-living glory, Will not deny His majesty - He scorns to tell a story: He won't exclaim, "I blush for shame, So kindly be indulgent," But, fierce and bold, In fiery gold, He glories all effulgent!
+svyrd10{_}157{_}I mean to rule the earth, As he the sky - We really know our worth, The Sun and I!
+svyrd10{_}158{_}Observe his flame, That placid dame, The Moon's Celestial Highness; There's not a trace Upon her face Of diffidence or shyness: She borrows light That, through the night, Mankind may all acclaim her!
+svyrd10{_}159{_}And, truth to tell, She lights up well, So I, for one, don't blame her!
+svyrd10{_}160{_}Ah, pray make no mistake, We are not shy; We're very wide awake, The Moon and I!
+svyrd10{_}161{_}Ballad: The Policeman's Lot    When a felon's not engaged in his employment, Or maturing his felonious little plans, His capacity for innocent enjoyment Is just as great as any honest man's.
+svyrd10{_}162{_}Our feelings we with difficulty smother When constabulary duty's to be done: Ah, take one consideration with another, A policeman's lot is not a happy one!
+svyrd10{_}163{_}When the enterprising burglar isn't burgling, When the cut-throat isn't occupied in crime, He loves to hear the little brook a-gurgling, And listen to the merry village chime.
+svyrd10{_}164{_}When the coster's finished jumping on his mother, He loves to lie a-basking in the sun: Ah, take one consideration with another, The policeman's lot is not a happy one!
+svyrd10{_}165{_}Ballad: The Baffled Grumbler    Whene'er I poke Sarcastic joke Replete with malice spiteful, The people vile Politely smile And vote me quite delightful!
+svyrd10{_}166{_}Now, when a wight Sits up all night Ill-natured jokes devising, And all his wiles Are met with smiles, It's hard, there's no disguising!
+svyrd10{_}167{_}Oh, don't the days seem lank and long When all goes right and nothing goes wrong, And isn't your life extremely flat With nothing whatever to grumble at!
+svyrd10{_}168{_}When German bands, From music stands Play Wagner imperFECTly - I bid them go - They don't say no, But off they trot directly!
+svyrd10{_}169{_}The organ boys They stop their noise With readiness surprising, And grinning herds Of hurdy-gurds Retire apologising!
+svyrd10{_}170{_}Oh, don't the days seem lank and long When all goes right and nothing goes wrong, And isn't your life extremely flat With nothing whatever to grumble at!
+svyrd10{_}171{_}I've offered gold, In sums untold, To all who'd contradict me - I've said I'd pay A pound a day To any one who kicked me - I've bribed with toys Great vulgar boys To utter something spiteful, But, bless you, no!
+svyrd10{_}172{_}They WILL be so Confoundedly politeful!
+svyrd10{_}173{_}In short, these aggravating lads, They tickle my tastes, they feed my fads, They give me this and they give me that, And I've nothing whatever to grumble at!
+svyrd10{_}174{_}Ballad: The House Of Peers    When Britain really ruled the waves - (In good Queen Bess's time) The House of Peers made no pretence To intellectual eminence, Or scholarship sublime; Yet Britain won her proudest bays In good Queen Bess's glorious days!
+svyrd10{_}175{_}When Wellington thrashed Bonaparte, As every child can tell, The House of Peers, throughout the war, Did nothing in particular, And did it very well; Yet Britain set the world ablaze In good King George's glorious days!
+svyrd10{_}176{_}And while the House of Peers withholds Its legislative hand, And noble statesmen do not itch To interfere with matters which They do not understand, As bright will shine Great Britain's rays, As in King George's glorious days!
+svyrd10{_}177{_}Ballad: A Merry Madrigal    Brightly dawns our wedding day; Joyous hour, we give thee greeting!
+svyrd10{_}178{_}Whither, whither art thou fleeting?
+svyrd10{_}179{_}Fickle moment, prithee stay!
+svyrd10{_}180{_}What though mortal joys be hollow?
+svyrd10{_}181{_}Pleasures come, if sorrows follow.
+svyrd10{_}182{_}Though the tocsin sound, ere long, Ding dong!
+svyrd10{_}183{_}Ding dong!
+svyrd10{_}184{_}Yet until the shadows fall Over one and over all, Sing a merry madrigal - Fal la!
+svyrd10{_}185{_}Let us dry the ready tear; Though the hours are surely creeping, Little need for woeful weeping Till the sad sundown is near.
+svyrd10{_}186{_}All must sip the cup of sorrow, I to-day and thou to-morrow: This the close of every song - Ding dong!
+svyrd10{_}187{_}Ding dong!
+svyrd10{_}188{_}What though solemn shadows fall, Sooner, later, over all?
+svyrd10{_}189{_}Sing a merry madrigal - Fal la!
+svyrd10{_}190{_}Ballad: The Duke And The Duchess    [THE DUKE.]
+svyrd10{_}191{_}Small titles and orders For Mayors and Recorders I get - and they're highly delighted.
+svyrd10{_}192{_}M.P.s baronetted, Sham Colonels gazetted, And second-rate Aldermen knighted.
+svyrd10{_}193{_}Foundation-stone laying I find very paying, It adds a large sum to my makings.
+svyrd10{_}194{_}At charity dinners The best of speech-spinners, I get ten per cent on the takings!
+svyrd10{_}195{_}[THE DUCHESS.]
+svyrd10{_}196{_}I present any lady Whose conduct is shady Or smacking of doubtful propriety; When Virtue would quash her I take and whitewash her And launch her in first-rate society.
+svyrd10{_}197{_}I recommend acres Of clumsy dressmakers - Their fit and their finishing touches; A sum in addition They pay for permission To say that they make for the Duchess!
+svyrd10{_}198{_}[THE DUKE.]
+svyrd10{_}199{_}Those pressing prevailers, The ready-made tailors, Quote me as their great double-barrel; I allow them to do so, Though ROBINSON CRUSOE Would jib at their wearing apparel!
+svyrd10{_}200{_}I sit, by selection, Upon the direction Of several Companies bubble; As soon as they're floated I'm freely bank-noted - I'm pretty well paid for my trouble!
+svyrd10{_}201{_}[THE DUCHESS.]
+svyrd10{_}202{_}At middle-class party I play at ECARTE - And I'm by no means a beginner; To one of my station The remuneration - Five guineas a night and my dinner.
+svyrd10{_}203{_}I write letters blatant On medicines patent - And use any other you mustn't; And vow my complexion Derives its perfection From somebody's soap - which it doesn't.
+svyrd10{_}204{_}[THE DUKE.]
+svyrd10{_}205{_}We're ready as witness To any one's fitness To fill any place or preferment; We're often in waiting At junket FETING, And sometimes attend an interment.
+svyrd10{_}206{_}In short, if you'd kindle The spark of a swindle, Lure simpletons into your clutches, Or hoodwink a debtor, You cannot do better Than trot out a Duke or a Duchess!
+svyrd10{_}207{_}Ballad: Eheu Fugaces -!
+svyrd10{_}208{_}The air is charged with amatory numbers - Soft madrigals, and dreamy lovers' lays.
+svyrd10{_}209{_}Peace, peace, old heart!
+svyrd10{_}210{_}Why waken from its slumbers The aching memory of the old, old days?
+svyrd10{_}211{_}Time was when Love and I were well acquainted; Time was when we walked ever hand in hand; A saintly youth, with worldly thought untainted, None better loved than I in all the land!
+svyrd10{_}212{_}Time was, when maidens of the noblest station, Forsaking even military men, Would gaze upon me, rapt in adoration - Ah me, I was a fair young curate then!
+svyrd10{_}213{_}Had I a headache?
+svyrd10{_}214{_}sighed the maids assembled; Had I a cold?
+svyrd10{_}215{_}welled forth the silent tear; Did I look pale?
+svyrd10{_}216{_}then half a parish trembled; And when I coughed all thought the end was near!
+svyrd10{_}217{_}I had no care - no jealous doubts hung o'er me - For I was loved beyond all other men.
+svyrd10{_}218{_}Fled gilded dukes and belted earls before me - Ah me, I was a pale young curate then!
+svyrd10{_}219{_}Ballad: They'll None Of 'Em Be Missed    As some day it may happen that a victim must be found, I've got a little list - I've got a little list Of social offenders who might well be underground, And who never would be missed - who never would be missed!
+svyrd10{_}220{_}There's the pestilential nuisances who write for autographs - All people who have flabby hands and irritating laughs - All children who are up in dates, and floor you with 'em flat - All persons who in shaking hands, shake hands with you like THAT - And all third persons who on spoiling TETE-E-TETES insist - They'd none of 'em be missed - they'd none of 'em be missed!
+svyrd10{_}221{_}There's the nigger serenader, and the others of his race, And the piano organist - I've got him on the list!
+svyrd10{_}222{_}And the people who eat peppermint and puff it in your face, They never would be missed - they never would be missed!
+svyrd10{_}223{_}Then the idiot who praises, with enthusiastic tone, All centuries but this, and every country but his own; And the lady from the provinces, who dresses like a guy, And who "doesn't think she waltzes, but would rather like to try"; And that FIN-DE-SIECLE anomaly, the scorching motorist - I don't think he'd be missed - I'm SURE he'd not be missed!
+svyrd10{_}224{_}And that NISI PRIUS nuisance, who just now is rather rife, The Judicial humorist - I've got HIM on the list!
+svyrd10{_}225{_}All funny fellows, comic men, and clowns of private life - They'd none of 'em be missed - they'd none of 'em be missed!
+svyrd10{_}226{_}And apologetic statesmen of the compromising kind, Such as - What-d'ye-call-him - Thing'em-Bob, and likewise - Never- mind, And 'St - 'st - 'st - and What's-his-name, and also - You-know-who - (The task of filling up the blanks I'd rather leave to YOU!)
+svyrd10{_}227{_}But it really doesn't matter whom you put upon the list, For they'd none of 'em be missed - they'd none of 'em be missed!
+svyrd10{_}228{_}Ballad: Girl Graduates    They intend to send a wire To the moon; And they'll set the Thames on fire Very soon; Then they learn to make silk purses With their rigs From the ears of LADY CIRCE'S Piggy-wigs.
+svyrd10{_}229{_}And weasels at their slumbers They'll trepan; To get sunbeams from cuCUMbers They've a plan.
+svyrd10{_}230{_}They've a firmly rooted notion They can cross the Polar Ocean, And they'll find Perpetual Motion If they can!
+svyrd10{_}231{_}These are the phenomena That every pretty domina Hopes that we shall see At this Universitee!
+svyrd10{_}232{_}As for fashion, they forswear it, So they say, And the circle - they will square it Some fine day; Then the little pigs they're teaching For to fly; And the niggers they'll be bleaching By-and-by!
+svyrd10{_}233{_}Each newly joined aspirant To the clan Must repudiate the tyrant Known as Man; They mock at him and flout him, For they do not care about him, And they're "going to do without him" If they can!
+svyrd10{_}234{_}These are the phenomena That every pretty domina Hopes that we shall see At this Universitee!
+svyrd10{_}235{_}Ballad: Braid The Raven Hair    Braid the raven hair, Weave the supple tress, Deck the maiden fair In her loveliness; Paint the pretty face, Dye the coral lip, Emphasise the grace Of her ladyship!
+svyrd10{_}236{_}Art and nature, thus allied, Go to make a pretty bride!
+svyrd10{_}237{_}Sit with downcast eye, Let it brim with dew; Try if you can cry, We will do so, too.
+svyrd10{_}238{_}When you're summoned, start Like a frightened roe; Flutter, little heart, Colour, come and go!
+svyrd10{_}239{_}Modesty at marriage tide Well becomes a pretty bride!
+svyrd10{_}240{_}Ballad: The Working Monarch    Rising early in the morning, We proceed to light the fire, Then our Majesty adorning In its work-a-day attire, We embark without delay On the duties of the day.
+svyrd10{_}241{_}First, we polish off some batches Of political despatches, And foreign politicians circumvent; Then, if business isn't heavy, We may hold a Royal LEVEE, Or ratify some Acts of Parliament: Then we probably review the household troops - With the usual "Shalloo humps" and "Shalloo hoops!"
+svyrd10{_}242{_}Or receive with ceremonial and state An interesting Eastern Potentate.
+svyrd10{_}243{_}After that we generally Go and dress our private VALET -  (It's a rather nervous duty - he a touchy little man) - Write some letters literary For our private secretary - (He is shaky in his spelling, so we help him if we can.)
+svyrd10{_}244{_}Then, in view of cravings inner, We go down and order dinner; Or we polish the Regalia and the Coronation Plate - Spend an hour in titivating All our Gentlemen-in-Waiting; Or we run on little errands for the Ministers of State.
+svyrd10{_}245{_}Oh, philosophers may sing Of the troubles of a King, Yet the duties are delightful, and the privileges great; But the privilege and pleasure That we treasure beyond measure Is to run on little errands for the Ministers of State!
+svyrd10{_}246{_}After luncheon (making merry On a bun and glass of sherry), If we've nothing in particular to do, We may make a Proclamation, Or receive a Deputation - Then we possibly create a Peer or two.
+svyrd10{_}247{_}Then we help a fellow-creature on his path With the Garter or the Thistle or the Bath: Or we dress and toddle off in semi-State To a festival, a function, or a FETE.
+svyrd10{_}248{_}Then we go and stand as sentry At the Palace (private entry), Marching hither, marching thither, up and down and to and fro, While the warrior on duty Goes in search of beer and beauty (And it generally happens that he hasn't far to go).
+svyrd10{_}249{_}He relieves us, if he's able, Just in time to lay the table.
+svyrd10{_}250{_}Then we dine and serve the coffee; and at half-past twelve or one, With a pleasure that's emphatic; Then we seek our little attic With the gratifying feeling that our duty has been done.
+svyrd10{_}251{_}Oh, philosophers may sing Of the troubles of a King, But of pleasures there are many and of troubles there are none; And the culminating pleasure That we treasure beyond measure Is the gratifying feeling that our duty has been done!
+svyrd10{_}252{_}Ballad: The Ape And The Lady    A LADY fair, of lineage high, Was loved by an Ape, in the days gone by - The Maid was radiant as the sun, The Ape was a most unsightly one - So it would not do - His scheme fell through; For the Maid, when his love took formal shape, Expressed such terror At his monstrous error, That he stammered an apology and made his 'scape, The picture of a disconcerted Ape.
+svyrd10{_}253{_}With a view to rise in the social scale, He shaved his bristles, and he docked his tail, He grew moustachios, and he took his tub, And he paid a guinea to a toilet club.
+svyrd10{_}254{_}But it would not do, The scheme fell through - For the Maid was Beauty's fairest Queen, With golden tresses, Like a real princess's, While the Ape, despite his razor keen, Was the apiest Ape that ever was seen!
+svyrd10{_}255{_}He bought white ties, and he bought dress suits, He crammed his feet into bright tight boots, And to start his life on a brand-new plan, He christened himself Darwinian Man!
+svyrd10{_}256{_}But it would not do, The scheme fell through - For the Maiden fair, whom the monkey craved, Was a radiant Being, With a brain far-seeing - While a Man, however well-behaved, At best is only a monkey shaved!
+svyrd10{_}257{_}Ballad: Only Roses    To a garden full of posies Cometh one to gather flowers; And he wanders through its bowers Toying with the wanton roses, Who, uprising from their beds, Hold on high their shameless heads With their pretty lips a-pouting, Never doubting - never doubting That for Cytherean posies He would gather aught but roses.
+svyrd10{_}258{_}In a nest of weeds and nettles, Lay a violet, half hidden; Hoping that his glance unbidden Yet might fall upon her petals.
+svyrd10{_}259{_}Though she lived alone, apart, Hope lay nestling at her heart, But, alas!
+svyrd10{_}260{_}the cruel awaking Set her little heart a-breaking, For he gathered for his posies Only roses - only roses!
+svyrd10{_}261{_}Ballad: The Rover's Apology    Oh, gentlemen, listen, I pray; Though I own that my heart has been ranging, Of nature the laws I obey, For nature is constantly changing.
+svyrd10{_}262{_}The moon in her phases is found, The time and the wind and the weather, The months in succession come round, And you don't find two Mondays together.
+svyrd10{_}263{_}Consider the moral, I pray, Nor bring a young fellow to sorrow, Who loves this young lady to-day, And loves that young lady to-morrow!
+svyrd10{_}264{_}You cannot eat breakfast all day.
+svyrd10{_}265{_}Nor is it the act of a sinner, When breakfast is taken away, To turn your attention to dinner; And it's not in the range of belief That you could hold him as a glutton, Who, when he is tired of beef, Determines to tackle the mutton.
+svyrd10{_}266{_}But this I am ready to say, If it will diminish their sorrow, I'll marry this lady to-day, And I'll marry that lady to-morrow!
+svyrd10{_}267{_}Ballad: An Appeal    Oh!
+svyrd10{_}268{_}is there not one maiden breast Which does not feel the moral beauty Of making worldly interest Subordinate to sense of duty?
+svyrd10{_}269{_}Who would not give up willingly All matrimonial ambition To rescue such a one as I From his unfortunate position?
+svyrd10{_}270{_}Oh, is there not one maiden here, Whose homely face and bad complexion Have caused all hopes to disappear Of ever winning man's affection?
+svyrd10{_}271{_}To such a one, if such there be, I swear by heaven's arch above you, If you will cast your eyes on me, - However plain you be - I'll love you!
+svyrd10{_}272{_}Ballad: The Reward Of Merit    DR. BELVILLE was regarded as the CRICHTON of his age: His tragedies were reckoned much too thoughtful for the stage; His poems held a noble rank, although it's very true That, being very proper, they were read by very few.
+svyrd10{_}273{_}He was a famous Painter, too, and shone upon the "line," And even MR. RUSKIN came and worshipped at his shrine; But, alas, the school he followed was heroically high - The kind of Art men rave about, but very seldom buy; And everybody said "How can he be repaid - This very great - this very good - this very gifted man?"
+svyrd10{_}274{_}But nobody could hit upon a practicable plan!
+svyrd10{_}275{_}He was a great Inventor, and discovered, all alone, A plan for making everybody's fortune but his own; For, in business, an Inventor's little better than a fool, And my highly-gifted friend was no exception to the rule.
+svyrd10{_}276{_}His poems - people read them in the Quarterly Reviews - His pictures - they engraved them in the ILLUSTRATED NEWS - His inventions - they, perhaps, might have enriched him by degrees, But all his little income went in Patent Office fees; And everybody said "How can he be repaid - This very great - this very good - this very gifted man?"
+svyrd10{_}277{_}But nobody could hit upon a practicable plan!
+svyrd10{_}278{_}At last the point was given up in absolute despair, When a distant cousin died, and he became a millionaire, With a county seat in Parliament, a moor or two of grouse, And a taste for making inconvenient speeches in the House!
+svyrd10{_}279{_}THEN it flashed upon Britannia that the fittest of rewards Was, to take him from the Commons and to put him in the Lords!
+svyrd10{_}280{_}And who so fit to sit in it, deny it if you can, As this very great - this very good - this very gifted man?
+svyrd10{_}281{_}(Though I'm more than half afraid That it sometimes may be said That we never should have revelled in that source of proper pride, However great his merits - if his cousin hadn't died!)
+svyrd10{_}282{_}Ballad: The Magnet And The Churn    A MAGNET hung in a hardware shop, And all around was a loving crop Of scissors and needles, nails and knives, Offering love for all their lives; But for iron the Magnet felt no whim, Though he charmed iron, it charmed not him, From needles and nails and knives he'd turn, For he'd set his love on a Silver Churn!
+svyrd10{_}283{_}His most aesthetic, Very magnetic Fancy took this turn - "If I can wheedle A knife or needle, Why not a Silver Churn?"
+svyrd10{_}284{_}And Iron and Steel expressed surprise, The needles opened their well-drilled eyes, The pen-knives felt "shut up," no doubt, The scissors declared themselves "cut out," The kettles they boiled with rage, 'tis said, While every nail went off its head, And hither and thither began to roam, Till a hammer came up - and drove it home, While this magnetic Peripatetic Lover he lived to learn, By no endeavour, Can Magnet ever Attract a Silver Churn!
+svyrd10{_}285{_}Ballad: The Family Fool    Oh!
+svyrd10{_}286{_}a private buffoon is a light-hearted loon, If you listen to popular rumour; From morning to night he's so joyous and bright, And he bubbles with wit and good humour!
+svyrd10{_}287{_}He's so quaint and so terse, both in prose and in verse; Yet though people forgive his transgression, There are one or two rules that all Family Fools Must observe, if they love their profession.
+svyrd10{_}288{_}There are one or two rules, Half-a-dozen, maybe, That all family fools, Of whatever degree, Must observe if they love their profession.
+svyrd10{_}289{_}If you wish to succeed as a jester, you'll need To consider each person's auricular: What is all right for B would quite scandalise C (For C is so very particular); And D may be dull, and E's very thick skull Is as empty of brains as a ladle; While F is F sharp, and will cry with a carp, That he's known your best joke from his cradle!
+svyrd10{_}290{_}When your humour they flout, You can't let yourself go; And it DOES put you out When a person says, "Oh!
+svyrd10{_}291{_}I have known that old joke from my cradle!"
+svyrd10{_}292{_}If your master is surly, from getting up early (And tempers are short in the morning), An inopportune joke is enough to provoke Him to give you, at once, a month's warning.
+svyrd10{_}293{_}Then if you refrain, he is at you again, For he likes to get value for money: He'll ask then and there, with an insolent stare, "If you know that you're paid to be funny?"
+svyrd10{_}294{_}It adds to the tasks Of a merryman's place, When your principal asks, With a scowl on his face, If you know that you're paid to be funny?
+svyrd10{_}295{_}Comes a Bishop, maybe, or a solemn D.D.
+svyrd10{_}296{_}- Oh, beware of his anger provoking!
+svyrd10{_}297{_}Better not pull his hair - don't stick pins in his chair; He won't understand practical joking.
+svyrd10{_}298{_}If the jests that you crack have an orthodox smack, You may get a bland smile from these sages; But should it, by chance, be imported from France, Half-a-crown is stopped out of your wages!
+svyrd10{_}299{_}It's a general rule, Though your zeal it may quench, If the Family Fool Makes a joke that's TOO French, Half-a-crown is stopped out of his wages!
+svyrd10{_}300{_}Though your head it may rack with a bilious attack, And your senses with toothache you're losing, And you're mopy and flat - they don't fine you for that If you're properly quaint and amusing!
+svyrd10{_}301{_}Though your wife ran away with a soldier that day, And took with her your trifle of money; Bless your heart, they don't mind - they're exceedingly kind - They don't blame you - as long as you're funny!
+svyrd10{_}302{_}It's a comfort to feel If your partner should flit, Though YOU suffer a deal, THEY don't mind it a bit - They don't blame you - so long as you're funny!
+svyrd10{_}303{_}Ballad: Sans Souci    I cannot tell what this love may be That cometh to all but not to me.
+svyrd10{_}304{_}It cannot be kind as they'd imply, Or why do these gentle ladies sigh?
+svyrd10{_}305{_}It cannot be joy and rapture deep, Or why do these gentle ladies weep?
+svyrd10{_}306{_}It cannot be blissful, as 'tis said, Or why are their eyes so wondrous red?
+svyrd10{_}307{_}If love is a thorn, they show no wit Who foolishly hug and foster it.
+svyrd10{_}308{_}If love is a weed, how simple they Who gather and gather it, day by day!
+svyrd10{_}309{_}If love is a nettle that makes you smart, Why do you wear it next your heart?
+svyrd10{_}310{_}And if it be neither of these, say I, Why do you sit and sob and sigh?
+svyrd10{_}311{_}Ballad: A Recipe    Take a pair of sparkling eyes, Hidden, ever and anon, In a merciful eclipse - Do not heed their mild surprise - Having passed the Rubicon.
+svyrd10{_}312{_}Take a pair of rosy lips; Take a figure trimly planned - Such as admiration whets (Be particular in this); Take a tender little hand, Fringed with dainty fingerettes, Press it - in parenthesis; - Take all these, you lucky man - Take and keep them, if you can.
+svyrd10{_}313{_}Take a pretty little cot - Quite a miniature affair - Hung about with trellised vine, Furnish it upon the spot With the treasures rich and rare I've endeavoured to define.
+svyrd10{_}314{_}Live to love and love to live - You will ripen at your ease, Growing on the sunny side - Fate has nothing more to give.
+svyrd10{_}315{_}You're a dainty man to please If you are not satisfied.
+svyrd10{_}316{_}Take my counsel, happy man: Act upon it, if you can!
+svyrd10{_}317{_}Ballad: The Merryman And His Maid    [HE]  I have a song to sing, O!
+svyrd10{_}318{_}[SHE]  Sing me your song, O!
+svyrd10{_}319{_}[HE]  It is sung to the moon By a love-lorn loon, Who fled from the mocking throng, O!
+svyrd10{_}320{_}It's the song of a merryman, moping mum, Whose soul was sad, whose glance was glum, Who sipped no sup, and who craved no crumb, As he sighed for the love of a ladye.
+svyrd10{_}321{_}Heighdy!
+svyrd10{_}322{_}heighdy!
+svyrd10{_}323{_}Misery me - lackadaydee!
+svyrd10{_}324{_}He sipped no sup, and he craved no crumb, As he sighed for the love of a ladye!
+svyrd10{_}325{_}[SHE]  I have a song to sing, O!
+svyrd10{_}326{_}[HE]  Sing me your song, O!
+svyrd10{_}327{_}[SHE]  It is sung with the ring Of the song maids sing Who love with a love life-long, O!
+svyrd10{_}328{_}It's the song of a merrymaid, peerly proud, Who loved a lord, and who laughed aloud At the moan of the merryman, moping mum, Whose soul was sore, whose glance was glum, Who sipped no sup, and who craved no crumb, As he sighed for the love of a ladye!
+svyrd10{_}329{_}Heighdy!
+svyrd10{_}330{_}heighdy!
+svyrd10{_}331{_}Misery me - lackadaydee!
+svyrd10{_}332{_}He sipped no sup, and he craved no crumb, As he sighed for the love of a ladye!
+svyrd10{_}333{_}[HE]  I have a song to sing, O!
+svyrd10{_}334{_}[SHE]  Sing me your song, O!
+svyrd10{_}335{_}[HE]  It is sung to the knell Of a churchyard bell, And a doleful dirge, ding dong, O!
+svyrd10{_}336{_}It's a song of a popinjay, bravely born, Who turned up his noble nose with scorn At the humble merrymaid, peerly proud, Who loved that lord, and who laughed aloud At the moan of the merryman, moping mum, Whose soul was sad, whose glance was glum, Who sipped no sup, and who craved no crumb, As he sighed for the love of a ladye!
+svyrd10{_}337{_}Heighdy!
+svyrd10{_}338{_}heighdy!
+svyrd10{_}339{_}Misery me - lackadaydee!
+svyrd10{_}340{_}He sipped no sup, and he craved no crumb, As he sighed for the love of a ladye!
+svyrd10{_}341{_}[SHE]  I have a song to sing, O!
+svyrd10{_}342{_}[HE]  Sing me your song, O!
+svyrd10{_}343{_}[SHE]  It is sung with a sigh And a tear in the eye, For it tells of a righted wrong, O!
+svyrd10{_}344{_}It's a song of a merrymaid, once so gay, Who turned on her heel and tripped away From the peacock popinjay, bravely born, Who turned up his noble nose with scorn At the humble heart that he did not prize; And it tells how she begged, with downcast eyes, For the love of a merryman, moping mum, Whose soul was sad, whose glance was glum, Who sipped no sup, and who craved no crumb, As he sighed for the love of a ladye!
+svyrd10{_}345{_}[BOTH]  Heighdy!
+svyrd10{_}346{_}heighdy!
+svyrd10{_}347{_}Misery me - lackadaydee!
+svyrd10{_}348{_}His pains were o'er, and he sighed no more.
+svyrd10{_}349{_}For he lived in the love of a ladye!
+svyrd10{_}350{_}Ballad: The Susceptible Chancellor    The law is the true embodiment Of everything that's excellent.
+svyrd10{_}351{_}It has no kind of fault or flaw, And I, my lords, embody the Law.
+svyrd10{_}352{_}The constitutional guardian I Of pretty young Wards in Chancery, All very agreeable girls - and none Is over the age of twenty-one.
+svyrd10{_}353{_}A pleasant occupation for A rather susceptible Chancellor!
+svyrd10{_}354{_}But though the compliment implied Inflates me with legitimate pride, It nevertheless can't be denied That it has its inconvenient side.
+svyrd10{_}355{_}For I'm not so old, and not so plain, And I'm quite prepared to marry again, But there'd be the deuce to pay in the Lords If I fell in love with one of my Wards: Which rather tries my temper, for I'm SUCH a susceptible Chancellor!
+svyrd10{_}356{_}And every one who'd marry a Ward Must come to me for my accord: So in my court I sit all day, Giving agreeable girls away, With one for him - and one for he - And one for you - and one for ye - And one for thou - and one for thee - But never, oh never a one for me!
+svyrd10{_}357{_}Which is exasperating, for A highly susceptible Chancellor!
+svyrd10{_}358{_}Ballad: When A Merry Maiden Marries    When a merry maiden marries, Sorrow goes and pleasure tarries; Every sound becomes a song, All is right and nothing's wrong!
+svyrd10{_}359{_}From to-day and ever after Let your tears be tears of laughter - Every sigh that finds a vent Be a sigh of sweet content!
+svyrd10{_}360{_}When you marry merry maiden, Then the air with love is laden; Every flower is a rose, Every goose becomes a swan, Every kind of trouble goes Where the last year's snows have gone; Sunlight takes the place of shade When you marry merry maid!
+svyrd10{_}361{_}When a merry maiden marries Sorrow goes and pleasure tarries; Every sound becomes a song, All is right, and nothing's wrong.
+svyrd10{_}362{_}Gnawing Care and aching Sorrow, Get ye gone until to-morrow; Jealousies in grim array, Ye are things of yesterday!
+svyrd10{_}363{_}When you marry merry maiden, Then the air with joy is laden; All the corners of the earth Ring with music sweetly played, Worry is melodious mirth, Grief is joy in masquerade; Sullen night is laughing day - All the year is merry May!
+svyrd10{_}364{_}Ballad: The British Tar    A British tar is a soaring soul, As free as a mountain bird, His energetic fist should be ready to resist A dictatorial word.
+svyrd10{_}365{_}His nose should pant and his lip should curl, His cheeks should flame and his brow should furl, His bosom should heave and his heart should glow, And his fist be ever ready for a knock-down blow.
+svyrd10{_}366{_}His eyes should flash with an inborn fire, His brow with scorn be rung; He never should bow down to a domineering frown, Or the tang of a tyrant tongue.
+svyrd10{_}367{_}His foot should stamp and his throat should growl, His hair should twirl and his face should scowl; His eyes should flash and his breast protrude, And this should be his customary attitude!
+svyrd10{_}368{_}Ballad: A Man Who Would Woo A Fair Maid    A man who would woo a fair maid, Should 'prentice himself to the trade; And study all day, In methodical way, How to flatter, cajole, and persuade.
+svyrd10{_}369{_}He should 'prentice himself at fourteen And practise from morning to e'en; And when he's of age, If he will, I'll engage, He may capture the heart of a queen!
+svyrd10{_}370{_}It is purely a matter of skill, Which all may attain if they will: But every Jack He must study the knack If he wants to make sure of his Jill!
+svyrd10{_}371{_}If he's made the best use of his time, His twig he'll so carefully lime That every bird Will come down at his word.
+svyrd10{_}372{_}Whatever its plumage and clime.
+svyrd10{_}373{_}He must learn that the thrill of a touch May mean little, or nothing, or much; It's an instrument rare, To be handled with care, And ought to be treated as such.
+svyrd10{_}374{_}It is purely a matter of skill, Which all may attain if they will: But every Jack, He must study the knack If he wants to make sure of his Jill!
+svyrd10{_}375{_}Then a glance may be timid or free; It will vary in mighty degree, From an impudent stare To a look of despair That no maid without pity can see.
+svyrd10{_}376{_}And a glance of despair is no guide - It may have its ridiculous side; It may draw you a tear Or a box on the ear; You can never be sure till you've tried.
+svyrd10{_}377{_}It is purely a matter of skill, Which all may attain if they will: But every Jack He must study the knack If he wants to make sure of his Jill!
+svyrd10{_}378{_}Ballad: The Sorcerer's Song    Oh!
+svyrd10{_}379{_}my name is JOHN WELLINGTON WELLS - I'm a dealer in magic and spells, In blessings and curses, And ever-filled purses, In prophecies, witches, and knells!
+svyrd10{_}380{_}If you want a proud foe to "make tracks" - If you'd melt a rich uncle in wax - You've but to look in On our resident Djinn, Number seventy, Simmery Axe.
+svyrd10{_}381{_}We've a first-class assortment of magic; And for raising a posthumous shade With effects that are comic or tragic, There's no cheaper house in the trade.
+svyrd10{_}382{_}Love-philtre - we've quantities of it; And for knowledge if any one burns, We keep an extremely small prophet, a prophet Who brings us unbounded returns: For he can prophesy With a wink OF his eye, Peep with security Into futurity, Sum up your history, Clear up a mystery, Humour proclivity For a nativity.
+svyrd10{_}383{_}With mirrors so magical, Tetrapods tragical, Bogies spectacular, Answers oracular, Facts astronomical, Solemn or comical, And, if you want it, he Makes a reduction on taking a quantity!
+svyrd10{_}384{_}Oh!
+svyrd10{_}385{_}If any one anything lacks, He'll find it all ready in stacks, If he'll only look in On the resident Djinn, Number seventy, Simmery Axe!
+svyrd10{_}386{_}He can raise you hosts, Of ghosts, And that without reflectors; And creepy things With wings, And gaunt and grisly spectres!
+svyrd10{_}387{_}He can fill you crowds Of shrouds, And horrify you vastly; He can rack your brains With chains, And gibberings grim and ghastly.
+svyrd10{_}388{_}Then, if you plan it, he Changes organity With an urbanity, Full of Satanity, Vexes humanity With an inanity Fatal to vanity - Driving your foes to the verge of insanity.
+svyrd10{_}389{_}Barring tautology, In demonology, 'Lectro biology, Mystic nosology, Spirit philology, High class astrology, Such is his knowledge, he Isn't the man to require an apology Oh!
+svyrd10{_}390{_}My name is JOHN WELLINGTON WELLS, I'm a dealer in magic and spells, In blessings and curses, And ever-filled purses - In prophecies, witches, and knells.
+svyrd10{_}391{_}If any one anything lacks, He'll find it all ready in stacks, If he'll only look in On the resident Djinn, Number seventy, Simmery Axe!
+svyrd10{_}392{_}Ballad: The Fickle Breeze    Sighing softly to the river Comes the loving breeze, Setting nature all a-quiver, Rustling through the trees!
+svyrd10{_}393{_}And the brook in rippling measure Laughs for very love, While the poplars, in their pleasure, Wave their arms above!
+svyrd10{_}394{_}River, river, little river, May thy loving prosper ever.
+svyrd10{_}395{_}Heaven speed thee, poplar tree, May thy wooing happy be!
+svyrd10{_}396{_}Yet, the breeze is but a rover, When he wings away, Brook and poplar mourn a lover!
+svyrd10{_}397{_}Sighing well-a-day!
+svyrd10{_}398{_}Ah, the doing and undoing That the rogue could tell!
+svyrd10{_}399{_}When the breeze is out a-wooing, Who can woo so well?
+svyrd10{_}400{_}Pretty brook, thy dream is over, For thy love is but a rover!
+svyrd10{_}401{_}Sad the lot of poplar trees, Courted by the fickle breeze!
+svyrd10{_}402{_}Ballad: The First Lord's Song    When I was a lad I served a term As office boy to an Attorney's firm; I cleaned the windows and I swept the floor, And I polished up the handle of the big front door.
+svyrd10{_}403{_}I polished up that handle so successfullee, That now I am the Ruler of the Queen's Navee!
+svyrd10{_}404{_}As office boy I made such a mark That they gave me the post of a junior clerk; I served the writs with a smile so bland, And I copied all the letters in a big round hand.
+svyrd10{_}405{_}I copied all the letters in a hand so free, That now I am the Ruler of the Queen's Navee!
+svyrd10{_}406{_}In serving writs I made such a name That an articled clerk I soon became; I wore clean collars and a brand-new suit For the Pass Examination at the Institute: And that Pass Examination did so well for me, That now I am the Ruler of the Queen's Navee!
+svyrd10{_}407{_}Of legal knowledge I acquired such a grip That they took me into the partnership, And that junior partnership I ween, Was the only ship that I ever had seen: But that kind of ship so suited me, That now I am the Ruler of the Queen's Navee!
+svyrd10{_}408{_}I grew so rich that I was sent By a pocket borough into Parliament; I always voted at my Party's call, And I never thought of thinking for myself at all.
+svyrd10{_}409{_}I thought so little, they rewarded me, By making me the Ruler of the Queen's Navee!
+svyrd10{_}410{_}Now, landsmen all, whoever you may be, If you want to rise to the top of the tree - If your soul isn't fettered to an office stool, Be careful to be guided by this golden rule - Stick close to your desks and NEVER GO TO SEA, And you all may be Rulers of the Queen's Navee!
+svyrd10{_}411{_}Ballad: Would You Know?
+svyrd10{_}412{_}Would you know the kind of maid Sets my heart a flame-a?
+svyrd10{_}413{_}Eyes must be downcast and staid, Cheeks must flush for shame-a!
+svyrd10{_}414{_}She may neither dance nor sing, But, demure in everything, Hang her head in modest way With pouting lips that seem to say, "Kiss me, kiss me, kiss me, kiss me, Though I die of shame-a!"
+svyrd10{_}415{_}Please you, that's the kind of maid Sets my heart a flame-a!
+svyrd10{_}416{_}When a maid is bold and gay With a tongue goes clang-a, Flaunting it in brave array, Maiden may go hang-a!
+svyrd10{_}417{_}Sunflower gay and hollyhock Never shall my garden stock; Mine the blushing rose of May, With pouting lips that seem to say "Oh, kiss me, kiss me, kiss me, kiss me, Though I die for shame-a!"
+svyrd10{_}418{_}Please you, that's the kind of maid Sets my heart a flame-a!
+svyrd10{_}419{_}Ballad: Speculation    Comes a train of little ladies From scholastic trammels free, Each a little bit afraid is, Wondering what the world can be!
+svyrd10{_}420{_}Is it but a world of trouble - Sadness set to song?
+svyrd10{_}421{_}Is its beauty but a bubble Bound to break ere long?
+svyrd10{_}422{_}Are its palaces and pleasures Fantasies that fade?
+svyrd10{_}423{_}And the glory of its treasures Shadow of a shade?
+svyrd10{_}424{_}Schoolgirls we, eighteen and under, From scholastic trammels free, And we wonder - how we wonder!
+svyrd10{_}425{_}- What on earth the world can be!
+svyrd10{_}426{_}Ballad: Ah Me!
+svyrd10{_}427{_}When maiden loves, she sits and sighs, She wanders to and fro; Unbidden tear-drops fill her eyes, And to all questions she replies, With a sad heigho!
+svyrd10{_}428{_}'Tis but a little word - "heigho!"
+svyrd10{_}429{_}So soft, 'tis scarcely heard - "heigho!"
+svyrd10{_}430{_}An idle breath - Yet life and death May hang upon a maid's "heigho!"
+svyrd10{_}431{_}When maiden loves, she mopes apart, As owl mopes on a tree; Although she keenly feels the smart, She cannot tell what ails her heart, With its sad "Ah me!"
+svyrd10{_}432{_}'Tis but a foolish sigh - "Ah me!"
+svyrd10{_}433{_}Born but to droop and die - "Ah me!"
+svyrd10{_}434{_}Yet all the sense Of eloquence Lies hidden in a maid's "Ah me!"
+svyrd10{_}435{_}Ballad: The Duke Of Plaza-Toro    In enterprise of martial kind, When there was any fighting, He led his regiment from behind (He found it less exciting).
+svyrd10{_}436{_}But when away his regiment ran, His place was at the fore, O- That celebrated, Cultivated, Underrated Nobleman, The Duke of Plaza-Toro!
+svyrd10{_}437{_}In the first and foremost flight, ha, ha!
+svyrd10{_}438{_}You always found that knight, ha, ha!
+svyrd10{_}439{_}That celebrated, Cultivated, Underrated Nobleman, The Duke of Plaza-Toro!
+svyrd10{_}440{_}When, to evade Destruction's hand, To hide they all proceeded, No soldier in that gallant band Hid half as well as he did.
+svyrd10{_}441{_}He lay concealed throughout the war, And so preserved his gore, O!
+svyrd10{_}442{_}That unaffected, Undetected, Well connected Warrior, The Duke of Plaza-Toro!
+svyrd10{_}443{_}In every doughty deed, ha, ha!
+svyrd10{_}444{_}He always took the lead, ha, ha!
+svyrd10{_}445{_}That unaffected, Undetected, Well connected Warrior, The Duke of Plaza-Toro!
+svyrd10{_}446{_}When told that they would all be shot Unless they left the service, That hero hesitated not, So marvellous his nerve is.
+svyrd10{_}447{_}He sent his resignation in, The first of all his corps, O!
+svyrd10{_}448{_}That very knowing, Overflowing, Easy-going Paladin, The Duke of Plaza-Toro!
+svyrd10{_}449{_}To men of grosser clay, ha, ha!
+svyrd10{_}450{_}He always showed the way, ha, ha!
+svyrd10{_}451{_}That very knowing, Overflowing, Easy-going Paladin, The Duke of Plaza-Toro!
+svyrd10{_}452{_}Ballad: The Aesthete    If you're anxious for to shine in the high aesthetic line, as a man of culture rare, You must get up all the germs of the transcendental terms, and plant them everywhere.
+svyrd10{_}453{_}You must lie upon the daisies and discourse in novel phrases of your complicated state of mind (The meaning doesn't matter if it's only idle chatter of a transcendental kind).
+svyrd10{_}454{_}And every one will say, As you walk your mystic way, "If this young man expresses himself in terms too deep for ME, Why, what a very singularly deep young man this deep young man must be!"
+svyrd10{_}455{_}Be eloquent in praise of the very dull old days which have long since passed away, And convince 'em, if you can, that the reign of good QUEEN ANNE was Culture's palmiest day.
+svyrd10{_}456{_}Of course you will pooh-pooh whatever's fresh and new, and declare it's crude and mean, And that Art stopped short in the cultivated court of the EMPRESS JOSEPHINE.
+svyrd10{_}457{_}And every one will say, As you walk your mystic way, "If that's not good enough for him which is good enough for ME, Why, what a very cultivated kind of youth this kind of youth must be!"
+svyrd10{_}458{_}Then a sentimental passion of a vegetable fashion must excite your languid spleen, An attachment E LA Plato for a bashful young potato, or a not-too- French French bean.
+svyrd10{_}459{_}Though the Philistines may jostle, you will rank as an apostle in the high aesthetic band, If you walk down Piccadilly with a poppy or a lily in your mediaeval hand.
+svyrd10{_}460{_}And every one will say, As you walk your flowery way, "If he's content with a vegetable love which would certainly not suit ME, Why, what a most particularly pure young man this pure young man must be!"
+svyrd10{_}461{_}Ballad: Said I To Myself, Said I    When I went to the Bar as a very young man (Said I to myself - said I), I'll work on a new and original plan (Said I to myself - said I), I'll never assume that a rogue or a thief Is a gentleman worthy implicit belief, Because his attorney, has sent me a brief (Said I to myself - said I!)
+svyrd10{_}462{_}I'll never throw dust in a juryman's eyes (Said I to myself - said I), Or hoodwink a judge who is not over-wise (Said I to myself - said I), Or assume that the witnesses summoned in force In Exchequer, Queen's Bench, Common Pleas, or Divorce, Have perjured themselves as a matter of course (Said I to myself - said I!)
+svyrd10{_}463{_}Ere I go into court I will read my brief through (Said I to myself - said I), And I'll never take work I'm unable to do (Said I to myself - said I).
+svyrd10{_}464{_}My learned profession I'll never disgrace By taking a fee with a grin on my face, When I haven't been there to attend to the case (Said I to myself - said I!)
+svyrd10{_}465{_}In other professions in which men engage (Said I to myself - said I), The Army, the Navy, the Church, and the Stage, (Said I to myself - said I), Professional licence, if carried too far, Your chance of promotion will certainly mar - And I fancy the rule might apply to the Bar (Said I to myself - said I!)
+svyrd10{_}466{_}Ballad: Sorry Her Lot    Sorry her lot who loves too well, Heavy the heart that hopes but vainly, Sad are the sighs that own the spell Uttered by eyes that speak too plainly; Heavy the sorrow that bows the head When Love is alive and Hope is dead!
+svyrd10{_}467{_}Sad is the hour when sets the Sun - Dark is the night to Earth's poor daughters, When to the ark the wearied one Flies from the empty waste of waters!
+svyrd10{_}468{_}Heavy the sorrow that bows the head When Love is alive and Hope is dead!
+svyrd10{_}469{_}Ballad: The Contemplative Sentry    When all night long a chap remains On sentry-go, to chase monotony He exercises of his brains, That is, assuming that he's got any.
+svyrd10{_}470{_}Though never nurtured in the lap Of luxury, yet I admonish you, I am an intellectual chap, And think of things that would astonish you.
+svyrd10{_}471{_}I often think it's comical How Nature always does contrive That every boy and every gal, That's born into the world alive, Is either a little Liberal, Or else a little Conservative!
+svyrd10{_}472{_}Fal lal la!
+svyrd10{_}473{_}When in that house M.P.
+svyrd10{_}474{_}'s divide, If they've a brain and cerebellum, too, They've got to leave that brain outside, And vote just as their leaders tell 'em to.
+svyrd10{_}475{_}But then the prospect of a lot Of statesmen, all in close proximity, A-thinking for themselves, is what No man can face with equanimity.
+svyrd10{_}476{_}Then let's rejoice with loud Fal lal That Nature wisely does contrive That every boy and every gal, That's born into the world alive, Is either a little Liberal, Or else a little Conservative!
+svyrd10{_}477{_}Fal lal la!
+svyrd10{_}478{_}Ballad: The Philosophic Pill    I've wisdom from the East and from the West, That's subject to no academic rule; You may find it in the jeering of a jest, Or distil it from the folly of a fool.
+svyrd10{_}479{_}I can teach you with a quip, if I've a mind; I can trick you into learning with a laugh; Oh, winnow all my folly, and you'll find A grain or two of truth among the chaff!
+svyrd10{_}480{_}I can set a braggart quailing with a quip, The upstart I can wither with a whim; He may wear a merry laugh upon his lip, But his laughter has an echo that is grim.
+svyrd10{_}481{_}When they've offered to the world in merry guise, Unpleasant truths are swallowed with a will - For he who'd make his fellow-creatures wise Should always gild the philosophic pill!
+svyrd10{_}482{_}Ballad: Blue Blood    Spurn not the nobly born With love affected, Nor treat with virtuous scorn The well connected.
+svyrd10{_}483{_}High rank involves no shame - We boast an equal claim With him of humble name To be respected!
+svyrd10{_}484{_}Blue blood!
+svyrd10{_}485{_}Blue blood!
+svyrd10{_}486{_}When virtuous love is sought, Thy power is naught, Though dating from the Flood, Blue blood!
+svyrd10{_}487{_}Spare us the bitter pain Of stern denials, Nor with low-born disdain Augment our trials.
+svyrd10{_}488{_}Hearts just as pure and fair May beat in Belgrave Square As in the lowly air Of Seven Dials!
+svyrd10{_}489{_}Blue blood!
+svyrd10{_}490{_}Blue blood!
+svyrd10{_}491{_}Of what avail art thou To serve me now?
+svyrd10{_}492{_}Though dating from the Flood, Blue blood!
+svyrd10{_}493{_}Ballad: The Judge's Song    When I, good friends, was called to the Bar, I'd an appetite fresh and hearty, But I was, as many young barristers are, An impecunious party.
+svyrd10{_}494{_}I'd a swallow-tail coat of a beautiful blue - A brief which was brought by a booby - A couple of shirts and a collar or two, And a ring that looked like a ruby!
+svyrd10{_}495{_}In Westminster Hall I danced a dance, Like a semi-despondent fury; For I thought I should never hit on a chance Of addressing a British Jury - But I soon got tired of third-class journeys, And dinners of bread and water; So I fell in love with a rich attorney's Elderly, ugly daughter.
+svyrd10{_}496{_}The rich attorney, he wiped his eyes, And replied to my fond professions: "You shall reap the reward of your enterprise, At the Bailey and Middlesex Sessions.
+svyrd10{_}497{_}You'll soon get used to her looks," said he, "And a very nice girl you'll find her - She may very well pass for forty-three In the dusk, with a light behind her!"
+svyrd10{_}498{_}The rich attorney was as good as his word: The briefs came trooping gaily, And every day my voice was heard At the Sessions or Ancient Bailey.
+svyrd10{_}499{_}All thieves who could my fees afford Relied on my orations, And many a burglar I've restored To his friends and his relations.
+svyrd10{_}500{_}At length I became as rich as the GURNEYS - An incubus then I thought her, So I threw over that rich attorney's Elderly, ugly daughter.
+svyrd10{_}501{_}The rich attorney my character high Tried vainly to disparage - And now, if you please, I'm ready to try This Breach of Promise of Marriage!
+svyrd10{_}502{_}Ballad: When I First Put This Uniform On    When I first put this uniform on, I said, as I looked in the glass, "It's one to a million That any civilian My figure and form will surpass.
+svyrd10{_}503{_}Gold lace has a charm for the fair, And I've plenty of that, and to spare, While a lover's professions, When uttered in Hessians, Are eloquent everywhere!"
+svyrd10{_}504{_}A fact that I counted upon, When I first put this uniform on!
+svyrd10{_}505{_}I said, when I first put it on, "It is plain to the veriest dunce That every beauty Will feel it her duty To yield to its glamour at once.
+svyrd10{_}506{_}They will see that I'm freely gold-laced In a uniform handsome and chaste" - But the peripatetics Of long-haired aesthetics, Are very much more to their taste - Which I never counted upon When I first put this uniform on!
+svyrd10{_}507{_}Ballad: Solatium    Comes the broken flower - Comes the cheated maid - Though the tempest lower, Rain and cloud will fade!
+svyrd10{_}508{_}Take, O maid, these posies: Though thy beauty rare Shame the blushing roses, They are passing fair!
+svyrd10{_}509{_}Wear the flowers till they fade; Happy be thy life, O maid!
+svyrd10{_}510{_}O'er the season vernal, Time may cast a shade; Sunshine, if eternal, Makes the roses fade: Time may do his duty; Let the thief alone - Winter hath a beauty That is all his own.
+svyrd10{_}511{_}Fairest days are sun and shade: Happy be thy life, O maid!
+svyrd10{_}512{_}Ballad: A Nightmare    When you're lying awake with a dismal headache, and repose is taboo'd by anxiety, I conceive you may use any language you choose to indulge in without impropriety; For your brain is on fire - the bedclothes conspire of usual slumber to plunder you: First your counterpane goes and uncovers your toes, and your sheet slips demurely from under you; Then the blanketing tickles - you feel like mixed pickles, so terribly sharp is the pricking, And you're hot, and you're cross, and you tumble and toss till there's nothing 'twixt you and the ticking.
+svyrd10{_}513{_}Then the bedclothes all creep to the ground in a heap, and you pick 'em all up in a tangle; Next your pillow resigns and politely declines to remain at its usual angle!
+svyrd10{_}514{_}Well, you get some repose in the form of a doze, with hot eyeballs and head ever aching, But your slumbering teems with such horrible dreams that you'd very much better be waking; For you dream you are crossing the Channel, and tossing about in a steamer from Harwich, Which is something between a large bathing-machine and a very small second-class carriage; And you're giving a treat (penny ice and cold meat) to a party of friends and relations - They're a ravenous horde - and they all came on board at Sloane Square and South Kensington Stations.
+svyrd10{_}515{_}And bound on that journey you find your attorney (who started that morning from Devon); He's a bit undersized, and you don't feel surprised when he tells you he's only eleven.
+svyrd10{_}516{_}Well, you're driving like mad with this singular lad (by the bye the ship's now a four-wheeler), And you're playing round games, and he calls you bad names when you tell him that "ties pay the dealer"; But this you can't stand, so you throw up your hand, and you find you're as cold as an icicle, In your shirt and your socks (the black silk with gold clocks), crossing Salisbury Plain on a bicycle: And he and the crew are on bicycles too - which they've somehow or other invested in - And he's telling the tars all the particuLARS of a company he's interested in - It's a scheme of devices, to get at low prices, all goods from cough mixtures to cables (Which tickled the sailors) by treating retailers, as though they were all vegeTAbles - You get a good spadesman to plant a small tradesman (first take off his boots with a boot-tree), And his legs will take root, and his fingers will shoot, and they'll blossom and bud like a fruit-tree - From the greengrocer tree you get grapes and green pea, cauliflower, pineapple, and cranberries, While the pastry-cook plant cherry-brandy will grant - apple puffs, and three-corners, and banberries - The shares are a penny, and ever so many are taken by ROTHSCHILD and BARING, And just as a few are allotted to you, you awake with a shudder despairing - You're a regular wreck, with a crick in your neck, and no wonder you snore, for your head's on the floor, and you've needles and pins from your soles to your shins, and your flesh is a-creep, for your left leg's asleep, and you've cramp in your toes, and a fly on your nose, and some fluff in your lung, and a feverish tongue, and a thirst that's intense, and a general sense that you haven't been sleeping in clover; But the darkness has passed, and it's daylight at last, and the night has been long - ditto, ditto my song - and thank goodness they're both of them over!
+svyrd10{_}517{_}Ballad: Don't Forget!
+svyrd10{_}518{_}Now, Marco, dear, My wishes hear: While you're away It's understood You will be good, And not too gay.
+svyrd10{_}519{_}To every trace Of maiden grace You will be blind, And will not glance By any chance On womankind!
+svyrd10{_}520{_}If you are wise, You'll shut your eyes Till we arrive, And not address A lady less Than forty-five; You'll please to frown On every gown That you may see; And O, my pet, You won't forget You've married me!
+svyrd10{_}521{_}O, my darling, O, my pet, Whatever else you may forget, In yonder isle beyond the sea, O, don't forget you've married me!
+svyrd10{_}522{_}You'll lay your head Upon your bed At set of sun.
+svyrd10{_}523{_}You will not sing Of anything To any one: You'll sit and mope All day, I hope, And shed a tear Upon the life Your little wife Is passing here!
+svyrd10{_}524{_}And if so be You think of me, Please tell the moon; I'll read it all In rays that fall On the lagoon: You'll be so kind As tell the wind How you may be, And send me words By little birds To comfort me!
+svyrd10{_}525{_}And O, my darling, O, my pet, Whatever else you may forget, In yonder isle beyond the sea, O, don't forget you've married me!
+svyrd10{_}526{_}Ballad: The Suicide's Grave    On a tree by a river a little tomtit Sang "Willow, titwillow, titwillow!"
+svyrd10{_}527{_}And I said to him, "Dicky-bird, why do you sit Singing 'Willow, titwillow, titwillow'?
+svyrd10{_}528{_}Is it weakness of intellect, birdie?"
+svyrd10{_}529{_}I cried, "Or a rather tough worm in your little inside?"
+svyrd10{_}530{_}With a shake of his poor little head he replied, "Oh, willow, titwillow, titwillow!"
+svyrd10{_}531{_}He slapped at his chest, as he sat on that bough, Singing "Willow, titwillow, titwillow!"
+svyrd10{_}532{_}And a cold perspiration bespangled his brow, Oh, willow, titwillow, titwillow!
+svyrd10{_}533{_}He sobbed and he sighed, and a gurgle he gave, Then he threw himself into the billowy wave, And an echo arose from the suicide's grave - "Oh, willow, titwillow, titwillow!"
+svyrd10{_}534{_}Now I feel just as sure as I'm sure that my name Isn't Willow, titwillow, titwillow, That 'twas blighted affection that made him exclaim, "Oh, willow, titwillow, titwillow!"
+svyrd10{_}535{_}And if you remain callous and obdurate, I Shall perish as he did, and you will know why, Though I probably shall not exclaim as I die, "Oh, willow, titwillow, titwillow!"
+svyrd10{_}536{_}Ballad: He And She    [HE.]
+svyrd10{_}537{_}I know a youth who loves a little maid - (Hey, but his face is a sight for to see!)
+svyrd10{_}538{_}Silent is he, for he's modest and afraid - (Hey, but he's timid as a youth can be!)
+svyrd10{_}539{_}[SHE.]
+svyrd10{_}540{_}I know a maid who loves a gallant youth - (Hey, but she sickens as the days go by!)
+svyrd10{_}541{_}SHE cannot tell him all the sad, sad truth - (Hey, but I think that little maid will die!)
+svyrd10{_}542{_}[BOTH.]
+svyrd10{_}543{_}Now tell me pray, and tell me true, What in the world should the poor soul do?
+svyrd10{_}544{_}[HE.]
+svyrd10{_}545{_}He cannot eat and he cannot sleep - (Hey, but his face is a sight for to see!)
+svyrd10{_}546{_}Daily he goes for to wail - for to weep - (Hey, but he's wretched as a youth can be!)
+svyrd10{_}547{_}[SHE.]
+svyrd10{_}548{_}She's very thin and she's very pale - (Hey, but she sickens as the days go by!)
+svyrd10{_}549{_}Daily she goes for to weep - for to wail - (Hey, but I think that little maid will die!)
+svyrd10{_}550{_}[BOTH.]
+svyrd10{_}551{_}Now tell me pray, and tell me true, What in the world should the poor soul do?
+svyrd10{_}552{_}[SHE.]
+svyrd10{_}553{_}If I were the youth I should offer her my name - (Hey, but her face is a sight for to see!)
+svyrd10{_}554{_}[HE.]
+svyrd10{_}555{_}If I were the maid I should fan his honest flame - (Hey, but he's bashful as a youth can be!)
+svyrd10{_}556{_}[SHE.]
+svyrd10{_}557{_}If I were the youth I should speak to her to-day - (Hey, but she sickens as the days go by!)
+svyrd10{_}558{_}[HE.]
+svyrd10{_}559{_}If I were the maid I should meet the lad half way - (For I really do believe that timid youth will die!)
+svyrd10{_}560{_}[BOTH.]
+svyrd10{_}561{_}I thank you much for your counsel true; I've learnt what that poor soul ought to do!
+svyrd10{_}562{_}Ballad: The Mighty Must    Come mighty Must!
+svyrd10{_}563{_}Inevitable Shall!
+svyrd10{_}564{_}In thee I trust.
+svyrd10{_}565{_}Time weaves my coronal!
+svyrd10{_}566{_}Go mocking Is!
+svyrd10{_}567{_}Go disappointing Was!
+svyrd10{_}568{_}That I am this Ye are the cursed cause!
+svyrd10{_}569{_}Yet humble Second shall be First, I ween; And dead and buried be the curst Has Been!
+svyrd10{_}570{_}Oh weak Might Be!
+svyrd10{_}571{_}Oh May, Might, Could, Would, Should!
+svyrd10{_}572{_}How powerless ye For evil or for good!
+svyrd10{_}573{_}In every sense Your moods I cheerless call, Whate'er your tense Ye are Imperfect, all!
+svyrd10{_}574{_}Ye have deceived the trust I've shown In ye!
+svyrd10{_}575{_}Away!
+svyrd10{_}576{_}The Mighty Must alone Shall be!
+svyrd10{_}577{_}Ballad: A Mirage    Were I thy bride, Then the whole world beside Were not too wide To hold my wealth of love - Were I thy bride!
+svyrd10{_}578{_}Upon thy breast My loving head would rest, As on her nest The tender turtle-dove - Were I thy bride!
+svyrd10{_}579{_}This heart of mine Would be one heart with thine, And in that shrine Our happiness would dwell - Were I thy bride!
+svyrd10{_}580{_}And all day long Our lives should be a song: No grief, no wrong Should make my heart rebel - Were I thy bride!
+svyrd10{_}581{_}The silvery flute, The melancholy lute, Were night-owl's hoot To my low-whispered coo - Were I thy bride!
+svyrd10{_}582{_}The skylark's trill Were but discordance shrill To the soft thrill Of wooing as I'd woo - Were I thy bride!
+svyrd10{_}583{_}The rose's sigh Were as a carrion's cry To lullaby Such as I'd sing to thee - Were I thy bride!
+svyrd10{_}584{_}A feather's press Were leaden heaviness To my caress.
+svyrd10{_}585{_}But then, unhappily, I'm not thy bride!
+svyrd10{_}586{_}Ballad: The Ghosts' High Noon    When the night wind howls in the chimney cowls, and the bat in the moonlight flies, And inky clouds, like funeral shrouds, sail over the midnight skies - When the footpads quail at the night-bird's wail, and black dogs bay the moon, Then is the spectres' holiday - then is the ghosts' high noon!
+svyrd10{_}587{_}As the sob of the breeze sweeps over the trees, and the mists lie low on the fen, From grey tombstones are gathered the bones that once were women and men, And away they go, with a mop and a mow, to the revel that ends too soon, For cockcrow limits our holiday - the dead of the night's high noon!
+svyrd10{_}588{_}And then each ghost with his ladye-toast to their churchyard beds take flight, With a kiss, perhaps, on her lantern chaps, and a grisly grim "good night"; Till the welcome knell of the midnight bell rings forth its jolliest tune, And ushers our next high holiday - the dead of the night's high noon!
+svyrd10{_}589{_}Ballad: The Humane Mikado    A more humane Mikado never Did in Japan exist; To nobody second, I'm certainly reckoned A true philanthropist.
+svyrd10{_}590{_}It is my very humane endeavour To make, to some extent, Each evil liver A running river Of harmless merriment.
+svyrd10{_}591{_}My object all sublime I shall achieve in time - To let the punishment fit the crime - The punishment fit the crime; And make each prisoner pent Unwillingly represent A source of innocent merriment - Of innocent merriment!
+svyrd10{_}592{_}All prosy dull society sinners, Who chatter and bleat and bore, Are sent to hear sermons From mystical Germans Who preach from ten to four: The amateur tenor, whose vocal villainies All desire to shirk, Shall, during off-hours, Exhibit his powers To Madame Tussaud's waxwork: The lady who dyes a chemical yellow, Or stains her grey hair puce, Or pinches her figger, Is blacked like a nigger With permanent walnut juice: The idiot who, in railway carriages, Scribbles on window panes, We only suffer To ride on a buffer In Parliamentary trains.
+svyrd10{_}593{_}My object all sublime I shall achieve in time - To let the punishment fit the crime - The punishment fit the crime; And make each prisoner pent Unwillingly represent A source of innocent merriment - Of innocent merriment!
+svyrd10{_}594{_}The advertising quack who wearies With tales of countless cures, His teeth, I've enacted, Shall all be extracted By terrified amateurs: The music-hall singer attends a series Of masses and fugues and "ops" By Bach, interwoven With Spohr and Beethoven, At classical Monday Pops: The billiard sharp whom any one catches His doom's extremely hard - He's made to dwell In a dungeon cell On a spot that's always barred; And there he plays extravagant matches In fitless finger-stalls, On a cloth untrue With a twisted cue, And elliptical billiard balls!
+svyrd10{_}595{_}My object all sublime I shall achieve in time - To let the punishment fit the crime - The punishment fit the crime; And make each prisoner pent Unwillingly represent A source of innocent merriment, Of innocent merriment!
+svyrd10{_}596{_}Ballad: Willow Waly!
+svyrd10{_}597{_}[HE.]
+svyrd10{_}598{_}PRITHEE, pretty maiden - prithee, tell me true (Hey, but I'm doleful, willow, willow waly!)
+svyrd10{_}599{_}Have you e'er a lover a-dangling after you?
+svyrd10{_}600{_}Hey, willow waly O!
+svyrd10{_}601{_}I would fain discover If you have a lover?
+svyrd10{_}602{_}Hey, willow waly O!
+svyrd10{_}603{_}[SHE.]
+svyrd10{_}604{_}Gentle sir, my heart is frolicsome and free - (Hey, but he's doleful, willow, willow waly!)
+svyrd10{_}605{_}Nobody I care for comes a-courting me - Hey, willow waly O!
+svyrd10{_}606{_}Nobody I care for Comes a-courting - therefore, Hey, willow waly O!
+svyrd10{_}607{_}[HE.]
+svyrd10{_}608{_}Prithee, pretty maiden, will you marry me?
+svyrd10{_}609{_}(Hey, but I'm hopeful, willow, willow waly!)
+svyrd10{_}610{_}I may say, at once, I'm a man of propertee - Hey, willow waly O!
+svyrd10{_}611{_}Money, I despise it, But many people prize it, Hey, willow waly O!
+svyrd10{_}612{_}[SHE.]
+svyrd10{_}613{_}Gentle sir, although to marry I design - (Hey, but he's hopeful, willow, willow waly!)
+svyrd10{_}614{_}As yet I do not know you, and so I must decline.
+svyrd10{_}615{_}Hey, willow waly O!
+svyrd10{_}616{_}To other maidens go you - As yet I do not know you, Hey, willow waly O!
+svyrd10{_}617{_}Ballad: Life Is Lovely All The Year    When the buds are blossoming, Smiling welcome to the spring, Lovers choose a wedding day - Life is love in merry May!
+svyrd10{_}618{_}Spring is green - Fal lal la!
+svyrd10{_}619{_}Summer's rose - Fal lal la!
+svyrd10{_}620{_}It is sad when Summer goes, Fal la!
+svyrd10{_}621{_}Autumn's gold - Fal lal la!
+svyrd10{_}622{_}Winter's grey - Fal lal la!
+svyrd10{_}623{_}Winter still is far away - Fal la!
+svyrd10{_}624{_}Leaves in Autumn fade and fall; Winter is the end of all.
+svyrd10{_}625{_}Spring and summer teem with glee: Spring and summer, then, for me!
+svyrd10{_}626{_}Fal la!
+svyrd10{_}627{_}In the Spring-time seed is sown: In the Summer grass is mown: In the Autumn you may reap: Winter is the time for sleep.
+svyrd10{_}628{_}Spring is hope - Fal lal la!
+svyrd10{_}629{_}Summer's joy - Fal lal la!
+svyrd10{_}630{_}Spring and Summer never cloy, Fal la!
+svyrd10{_}631{_}Autumn, toil - Fal lal la!
+svyrd10{_}632{_}Winter, rest - Fal lal la!
+svyrd10{_}633{_}Winter, after all, is best - Fal la!
+svyrd10{_}634{_}Spring and summer pleasure you, Autumn, ay, and winter, too - Every season has its cheer; Life is lovely all the year!
+svyrd10{_}635{_}Fal la!
+svyrd10{_}636{_}Ballad: The Usher's Charge    Now, Jurymen, hear my advice - All kinds of vulgar prejudice I pray you set aside: With stern judicial frame of mind - From bias free of every kind, This trial must be tried!
+svyrd10{_}637{_}Oh, listen to the plaintiff's case: Observe the features of her face - The broken-hearted bride!
+svyrd10{_}638{_}Condole with her distress of mind - From bias free of every kind, This trial must be tried!
+svyrd10{_}639{_}And when amid the plaintiff's shrieks, The ruffianly defendant speaks - Upon the other side; What HE may say you need not mind - From bias free of every kind, This trial must be tried!
+svyrd10{_}640{_}Ballad: The Great Oak Tree    There grew a little flower 'Neath a great oak tree: When the tempest 'gan to lower Little heeded she: No need had she to cower, For she dreaded not its power - She was happy in the bower Of her great oak tree!
+svyrd10{_}641{_}Sing hey, Lackaday!
+svyrd10{_}642{_}Let the tears fall free For the pretty little flower and the great oak tree!
+svyrd10{_}643{_}When she found that he was fickle, Was that great oak tree, She was in a pretty pickle, As she well might be - But his gallantries were mickle, For Death followed with his sickle, And her tears began to trickle For her great oak tree!
+svyrd10{_}644{_}Sing hey, Lackaday!
+svyrd10{_}645{_}Let the tears fall free For the pretty little flower and the great oak tree!
+svyrd10{_}646{_}Said she, "He loved me never, Did that great oak tree, But I'm neither rich nor clever, And so why should he?
+svyrd10{_}647{_}But though fate our fortunes sever, To be constant I'll endeavour, Ay, for ever and for ever, To my great oak tree!"
+svyrd10{_}648{_}Sing hey, Lackaday!
+svyrd10{_}649{_}Let the tears fall free For the pretty little flower and the great oak tree!
+svyrd10{_}650{_}Ballad: King Goodheart    There lived a King, as I've been told In the wonder-working days of old, When hearts were twice as good as gold, And twenty times as mellow.
+svyrd10{_}651{_}Good temper triumphed in his face, And in his heart he found a place For all the erring human race And every wretched fellow.
+svyrd10{_}652{_}When he had Rhenish wine to drink It made him very sad to think That some, at junket or at jink, Must be content with toddy: He wished all men as rich as he (And he was rich as rich could be), So to the top of every tree Promoted everybody.
+svyrd10{_}653{_}Ambassadors cropped up like hay, Prime Ministers and such as they Grew like asparagus in May, And Dukes were three a penny: Lord Chancellors were cheap as sprats, And Bishops in their shovel hats Were plentiful as tabby cats - If possible, too many.
+svyrd10{_}654{_}On every side Field-Marshals gleamed, Small beer were Lords-Lieutenants deemed, With Admirals the ocean teemed, All round his wide dominions; And Party Leaders you might meet In twos and threes in every street Maintaining, with no little heat, Their various opinions.
+svyrd10{_}655{_}That King, although no one denies, His heart was of abnormal size, Yet he'd have acted otherwise If he had been acuter.
+svyrd10{_}656{_}The end is easily foretold, When every blessed thing you hold Is made of silver, or of gold, You long for simple pewter.
+svyrd10{_}657{_}When you have nothing else to wear But cloth of gold and satins rare, For cloth of gold you cease to care - Up goes the price of shoddy: In short, whoever you may be, To this conclusion you'll agree, When every one is somebody, Then no one's anybody!
+svyrd10{_}658{_}Ballad: Sleep On!
+svyrd10{_}659{_}Fear no unlicensed entry, Heed no bombastic talk, While guards the British Sentry Pall Mall and Birdcage Walk.
+svyrd10{_}660{_}Let European thunders Occasion no alarms, Though diplomatic blunders May cause a cry "To arms!"
+svyrd10{_}661{_}Sleep on, ye pale civilians; All thunder-clouds defy: On Europe's countless millions The Sentry keeps his eye!
+svyrd10{_}662{_}Should foreign-born rapscallions In London dare to show Their overgrown battalions, Be sure I'll let you know.
+svyrd10{_}663{_}Should Russians or Norwegians Pollute our favoured clime With rough barbaric legions, I'll mention it in time.
+svyrd10{_}664{_}So sleep in peace, civilians, The Continent defy; While on its countless millions The Sentry keeps his eye !
+svyrd10{_}665{_}Ballad: The Love-Sick Boy    When first my old, old love I knew, My bosom welled with joy; My riches at her feet I threw; I was a love-sick boy!
+svyrd10{_}666{_}No terms seemed too extravagant Upon her to employ - I used to mope, and sigh, and pant, Just like a love-sick boy!
+svyrd10{_}667{_}But joy incessant palls the sense; And love unchanged will cloy, And she became a bore intense Unto her love-sick boy?
+svyrd10{_}668{_}With fitful glimmer burnt my flame, And I grew cold and coy, At last, one morning, I became Another's love-sick boy!
+svyrd10{_}669{_}Ballad: Poetry Everywhere    What time the poet hath hymned The writhing maid, lithe-limbed, Quivering on amaranthine asphodel, How can he paint her woes, Knowing, as well he knows, That all can be set right with calomel?
+svyrd10{_}670{_}When from the poet's plinth The amorous colocynth Yearns for the aloe, faint with rapturous thrills, How can he hymn their throes Knowing, as well he knows, That they are only uncompounded pills?
+svyrd10{_}671{_}Is it, and can it be, Nature hath this decree, Nothing poetic in the world shall dwell?
+svyrd10{_}672{_}Or that in all her works Something poetic lurks, Even in colocynth and calomel?
+svyrd10{_}673{_}Ballad: He Loves!
+svyrd10{_}674{_}He loves!
+svyrd10{_}675{_}If in the bygone years Thine eyes have ever shed Tears - bitter, unavailing tears, For one untimely dead - If in the eventide of life Sad thoughts of her arise, Then let the memory of thy wife Plead for my boy - he dies!
+svyrd10{_}676{_}He dies!
+svyrd10{_}677{_}If fondly laid aside In some old cabinet, Memorials of thy long-dead bride Lie, dearly treasured yet, Then let her hallowed bridal dress - Her little dainty gloves - Her withered flowers - her faded tress - Plead for my boy - he loves!
+svyrd10{_}678{_}Ballad: True Diffidence    My boy, you may take it from me, That of all the afflictions accurst With which a man's saddled And hampered and addled, A diffident nature's the worst.
+svyrd10{_}679{_}Though clever as clever can be - A Crichton of early romance - You must stir it and stump it, And blow your own trumpet, Or, trust me, you haven't a chance.
+svyrd10{_}680{_}Now take, for example, MY case: I've a bright intellectual brain - In all London city There's no one so witty - I've thought so again and again.
+svyrd10{_}681{_}I've a highly intelligent face - My features cannot be denied - But, whatever I try, sir, I fail in - and why, sir?
+svyrd10{_}682{_}I'm modesty personified!
+svyrd10{_}683{_}As a poet, I'm tender and quaint - I've passion and fervour and grace - From Ovid and Horace To Swinburne and Morris, They all of them take a back place.
+svyrd10{_}684{_}Then I sing and I play and I paint; Though none are accomplished as I, To say so were treason: You ask me the reason?
+svyrd10{_}685{_}I'm diffident, modest, and shy!
+svyrd10{_}686{_}Ballad: The Tangled Skein    Try we life-long, we can never Straighten out life's tangled skein, Why should we, in vain endeavour, Guess and guess and guess again?
+svyrd10{_}687{_}Life's a pudding full of plums Care's a canker that benumbs.
+svyrd10{_}688{_}Wherefore waste our elocution On impossible solution?
+svyrd10{_}689{_}Life's a pleasant institution, Let us take it as it comes!
+svyrd10{_}690{_}Set aside the dull enigma, We shall guess it all too soon; Failure brings no kind of stigma - Dance we to another tune!
+svyrd10{_}691{_}String the lyre and fill the cup, Lest on sorrow we should sup; Hop and skip to Fancy's fiddle, Hands across and down the middle - Life's perhaps the only riddle That we shrink from giving up!
+svyrd10{_}692{_}Ballad: My Lady    Bedecked in fashion trim, With every curl a-quiver; Or leaping, light of limb, O'er rivulet and river; Or skipping o'er the lea On daffodil and daisy; Or stretched beneath a tree, All languishing and lazy; Whatever be her mood - Be she demurely prude Or languishingly lazy - My lady drives me crazy!
+svyrd10{_}693{_}In vain her heart is wooed, Whatever be her mood!
+svyrd10{_}694{_}What profit should I gain Suppose she loved me dearly?
+svyrd10{_}695{_}Her coldness turns my brain To VERGE of madness merely.
+svyrd10{_}696{_}Her kiss - though, Heaven knows, To dream of it were treason - Would tend, as I suppose, To utter loss of reason!
+svyrd10{_}697{_}My state is not amiss; I would not have a kiss Which, in or out of season, Might tend to loss of reason: What profit in such bliss?
+svyrd10{_}698{_}A fig for such a kiss!
+svyrd10{_}699{_}Ballad: One Against The World    It's my opinion - though I own In thinking so I'm quite alone - In some respects I'm but a fright.
+svyrd10{_}700{_}YOU like my features, I suppose?
+svyrd10{_}701{_}I'M disappointed with my nose: Some rave about it - perhaps they're right.
+svyrd10{_}702{_}My figure just sets off a fit; But when they say it's exquisite (And they DO say so), that's too strong.
+svyrd10{_}703{_}I hope I'm not what people call Opinionated!
+svyrd10{_}704{_}After all, I'm but a goose, and may be wrong!
+svyrd10{_}705{_}When charms enthral There's some excuse For measures strong; And after all I'm but a goose, And may be wrong!
+svyrd10{_}706{_}My teeth are very neat, no doubt; But after all they MAY fall out: I think they will - some think they won't.
+svyrd10{_}707{_}My hands are small, as you may see, But not as small as they might be, At least, I think so - others don't.
+svyrd10{_}708{_}But there, a girl may preach and prate From morning six to evening eight, And never stop to dine, When all the world, although misled, Is quite agreed on any head - And it is quite agreed on mine!
+svyrd10{_}709{_}All said and done, It's little I Against a throng.
+svyrd10{_}710{_}I'm only one, And possibly I may be wrong!
+svyrd10{_}711{_}Ballad: Put A Penny In The Slot    If my action's stiff and crude, Do not laugh, because it's rude.
+svyrd10{_}712{_}If my gestures promise larks, Do not make unkind remarks.
+svyrd10{_}713{_}Clockwork figures may be found Everywhere and all around.
+svyrd10{_}714{_}Ten to one, if I but knew, You are clockwork figures too.
+svyrd10{_}715{_}And the motto of the lot, "Put a penny in the slot!"
+svyrd10{_}716{_}Usurer, for money lent, Making out his cent per cent - Widow plump or maiden rare, Deaf and dumb to suitor's prayer - Tax collectors, whom in vain You implore to "call again" - Cautious voter, whom you find Slow in making up his mind - If you'd move them on the spot, Put a penny in the slot!
+svyrd10{_}717{_}Bland reporters in the courts, Who suppress police reports - Sheriff's yeoman, pen in fist, Making out a jury list - Stern policemen, tall and spare, Acting all "upon the square" - (Which in words that plainer fall, Means that you can square them all) - If you want to move the lot, Put a penny in the slot!
+svyrd10{_}718{_}Ballad: Good Little Girls    Although of native maids the cream, We're brought up on the English scheme - The best of all For great and small Who modesty adore.
+svyrd10{_}719{_}For English girls are good as gold, Extremely modest (so we're told), Demurely coy - divinely cold - And we are that - and more.
+svyrd10{_}720{_}To please papa, who argues thus - All girls should mould themselves on us, Because we are, By furlongs far, The best of all the bunch; We show ourselves to loud applause From ten to four without a pause - Which is an awkward time because It cuts into our lunch.
+svyrd10{_}721{_}Oh, maids of high and low degree, Whose social code is rather free, Please look at us and you will see What good young ladies ought to be!
+svyrd10{_}722{_}And as we stand, like clockwork toys, A lecturer papa employs To puff and praise Our modest ways And guileless character - Our well-known blush - our downcast eyes - Our famous look of mild surprise (Which competition still defies) - Our celebrated "Sir!!!"
+svyrd10{_}723{_}Then all the crowd take down our looks In pocket memorandum books.
+svyrd10{_}724{_}To diagnose, Our modest pose The kodaks do their best: If evidence you would possess Of what is maiden bashfulness, You only need a button press - And WE do all the rest.
+svyrd10{_}725{_}Ballad: Life    First you're born - and I'll be bound you Find a dozen strangers round you.
+svyrd10{_}726{_}"Hallo," cries the new-born baby, "Where's my parents?
+svyrd10{_}727{_}which may they be?"
+svyrd10{_}728{_}Awkward silence - no reply - Puzzled baby wonders why!
+svyrd10{_}729{_}Father rises, bows politely - Mother smiles (but not too brightly) - Doctor mumbles like a dumb thing - Nurse is busy mixing something.
+svyrd10{_}730{_}- Every symptom tends to show You're decidedly DE TROP - Ho!
+svyrd10{_}731{_}ho!
+svyrd10{_}732{_}ho!
+svyrd10{_}733{_}ho!
+svyrd10{_}734{_}ho!
+svyrd10{_}735{_}he!
+svyrd10{_}736{_}ho!
+svyrd10{_}737{_}ho!
+svyrd10{_}738{_}Time's teetotum, If you spin it, Give its quotum Once a minute: I'll go bail You hit the nail, And if you fail The deuce is in it!
+svyrd10{_}739{_}You grow up, and you discover What it is to be a lover.
+svyrd10{_}740{_}Some young lady is selected - Poor, perhaps, but well-connected, Whom you hail (for Love is blind As the Queen of Fairy-kind.
+svyrd10{_}741{_}Though she's plain - perhaps unsightly, Makes her face up - laces tightly, In her form your fancy traces All the gifts of all the graces.
+svyrd10{_}742{_}Rivals none the maiden woo, So you take her and she takes you!
+svyrd10{_}743{_}Ho!
+svyrd10{_}744{_}ho!
+svyrd10{_}745{_}ho!
+svyrd10{_}746{_}ho!
+svyrd10{_}747{_}ho!
+svyrd10{_}748{_}ho!
+svyrd10{_}749{_}ho!
+svyrd10{_}750{_}ho!
+svyrd10{_}751{_}Joke beginning, Never ceases, Till your inning Time releases; On your way You blindly stray, And day by day The joke increases!
+svyrd10{_}752{_}Ten years later - Time progresses - Sours your temper - thins your tresses; Fancy, then, her chain relaxes; Rates are facts and so are taxes.
+svyrd10{_}753{_}Fairy Queen's no longer young - Fairy Queen has such a tongue!
+svyrd10{_}754{_}Twins have probably intruded - Quite unbidden - just as you did; They're a source of care and trouble - Just as you were - only double.
+svyrd10{_}755{_}Comes at last the final stroke - Time has had his little joke!
+svyrd10{_}756{_}Ho!
+svyrd10{_}757{_}ho!
+svyrd10{_}758{_}ho!
+svyrd10{_}759{_}ho!
+svyrd10{_}760{_}ho!
+svyrd10{_}761{_}ho!
+svyrd10{_}762{_}ho!
+svyrd10{_}763{_}ho!
+svyrd10{_}764{_}Daily driven (Wife as drover) Ill you've thriven - Ne'er in clover: Lastly, when Threescore and ten (And not till then), The joke is over!
+svyrd10{_}765{_}Ho!
+svyrd10{_}766{_}ho!
+svyrd10{_}767{_}ho!
+svyrd10{_}768{_}ho!
+svyrd10{_}769{_}ho!
+svyrd10{_}770{_}ho!
+svyrd10{_}771{_}ho!
+svyrd10{_}772{_}ho!
+svyrd10{_}773{_}Then - and then The joke is over!
+svyrd10{_}774{_}Ballad: Limited Liability    Some seven men form an Association (If possible, all Peers and Baronets), They start off with a public declaration To what extent they mean to pay their debts.
+svyrd10{_}775{_}That's called their Capital:  if they are wary They will not quote it at a sum immense.
+svyrd10{_}776{_}The figure's immaterial - it may vary From eighteen million down to eighteenpence.
+svyrd10{_}777{_}I should put it rather low; The good sense of doing so Will be evident at once to any debtor.
+svyrd10{_}778{_}When it's left to you to say What amount you mean to pay, Why, the lower you can put it at, the better.
+svyrd10{_}779{_}They then proceed to trade with all who'll trust 'em, Quite irrespective of their capital (It's shady, but it's sanctified by custom); Bank, Railway, Loan, or Panama Canal.
+svyrd10{_}780{_}You can't embark on trading too tremendous - It's strictly fair, and based on common sense - If you succeed, your profits are stupendous - And if you fail, pop goes your eighteenpence.
+svyrd10{_}781{_}Make the money-spinner spin!
+svyrd10{_}782{_}For you only stand to win, And you'll never with dishonesty be twitted.
+svyrd10{_}783{_}For nobody can know, To a million or so, To what extent your capital's committed!
+svyrd10{_}784{_}If you come to grief, and creditors are craving (For nothing that is planned by mortal head Is certain in this Vale of Sorrow - saving That one's Liability is Limited), - Do you suppose that signifies perdition?
+svyrd10{_}785{_}If so you're but a monetary dunce - You merely file a Winding-Up Petition, And start another Company at once!
+svyrd10{_}786{_}Though a Rothschild you may be In your own capacity, As a Company you've come to utter sorrow - But the Liquidators say, "Never mind - you needn't pay," So you start another Company to-morrow!
+svyrd10{_}787{_}Ballad: Anglicised Utopia    Society has quite forsaken all her wicked courses, Which empties our police courts, and abolishes divorces.
+svyrd10{_}788{_}(Divorce is nearly obsolete in England.)
+svyrd10{_}789{_}No tolerance we show to undeserving rank and splendour; For the higher his position is, the greater the offender.
+svyrd10{_}790{_}(That's a maxim that is prevalent in England.)
+svyrd10{_}791{_}No Peeress at our Drawing-Room before the Presence passes Who wouldn't be accepted by the lower-middle classes; Each shady dame, whatever be her rank, is bowed out neatly.
+svyrd10{_}792{_}In short, this happy country has been Anglicised completely!
+svyrd10{_}793{_}It really is surprising What a thorough Anglicising We've brought about - Utopia's quite another land; In her enterprising movements, She is England - with improvements, Which we dutifully offer to our mother-land!
+svyrd10{_}794{_}Our city we have beautified - we've done it willy-nilly - And all that isn't Belgrave Square is Strand and Piccadilly.
+svyrd10{_}795{_}(They haven't any slummeries in England.)
+svyrd10{_}796{_}We have solved the labour question with discrimination polished, So poverty is obsolete and hunger is abolished - (They are going to abolish it in England.)
+svyrd10{_}797{_}The Chamberlain our native stage has purged, beyond a question, Of "risky" situation and indelicate suggestion; No piece is tolerated if it's costumed indiscreetly - In short, this happy country has been Anglicised completely!
+svyrd10{_}798{_}It really is surprising What a thorough Anglicising We've brought about - Utopia's quite another land; In her enterprising movements, She is England - with improvements, Which we dutifully offer to our mother-land!
+svyrd10{_}799{_}Our Peerage we've remodelled on an intellectual basis, Which certainly is rough on our hereditary races - (They are going to remodel it in England.)
+svyrd10{_}800{_}The Brewers and the Cotton Lords no longer seek admission, And Literary Merit meets with proper recognition - (As Literary Merit does in England!)
+svyrd10{_}801{_}Who knows but we may count among our intellectual chickens Like them an Earl of Thackeray and p'raps a Duke of Dickens - Lord Fildes and Viscount Millais (when they come) we'll welcome sweetly - And then, this happy country will be Anglicised completely!
+svyrd10{_}802{_}It really is surprising What a thorough Anglicising We've brought about - Utopia's quite another land; In her enterprising movements, She is England - with improvements, Which we dutifully offer to our mother-land!
+svyrd10{_}803{_}Ballad: An English Girl    A wonderful joy our eyes to bless, In her magnificent comeliness, Is an English girl of eleven stone two, And five foot ten in her dancing shoe!
+svyrd10{_}804{_}She follows the hounds, and on she pounds - The "field" tails off and the muffs diminish - Over the hedges and brooks she bounds - Straight as a crow, from find to finish.
+svyrd10{_}805{_}At cricket, her kin will lose or win - She and her maids, on grass and clover, Eleven maids out - eleven maids in - (And perhaps an occasional "maiden over").
+svyrd10{_}806{_}Go search the world and search the sea, Then come you home and sing with me There's no such gold and no such pearl As a bright and beautiful English girl!
+svyrd10{_}807{_}With a ten-mile spin she stretches her limbs, She golfs, she punts, she rows, she swims - She plays, she sings, she dances, too, From ten or eleven till all is blue!
+svyrd10{_}808{_}At ball or drum, till small hours come (Chaperon's fan conceals her yawning), She'll waltz away like a teetotum, And never go home till daylight's dawning.
+svyrd10{_}809{_}Lawn tennis may share her favours fair - Her eyes a-dance and her cheeks a-glowing - Down comes her hair, but what does she care?
+svyrd10{_}810{_}It's all her own and it's worth the showing!
+svyrd10{_}811{_}Go search the world and search the sea, Then come you home and sing with me There's no such gold and no such pearl As a bright and beautiful English girl!
+svyrd10{_}812{_}Her soul is sweet as the ocean air, For prudery knows no haven there; To find mock-modesty, please apply To the conscious blush and the downcast eye.
+svyrd10{_}813{_}Rich in the things contentment brings, In every pure enjoyment wealthy, Blithe as a beautiful bird she sings, For body and mind are hale and healthy.
+svyrd10{_}814{_}Her eyes they thrill with right goodwill - Her heart is light as a floating feather - As pure and bright as the mountain rill That leaps and laughs in the Highland heather!
+svyrd10{_}815{_}Go search the world and search the sea, Then come you home and sing with me There's no such gold and no such pearl As a bright and beautiful English girl!
+svyrd10{_}816{_}Ballad: A Manager's Perplexities    Were I a king in very truth, And had a son - a guileless youth - In probable succession; To teach him patience, teach him tact, How promptly in a fix to act, He should adopt, in point of fact, A manager's profession.
+svyrd10{_}817{_}To that condition he should stoop (Despite a too fond mother), With eight or ten "stars" in his troupe, All jealous of each other!
+svyrd10{_}818{_}Oh, the man who can rule a theatrical crew, Each member a genius (and some of them two), And manage to humour them, little and great, Can govern a tuppenny-ha'penny State!
+svyrd10{_}819{_}Both A and B rehearsal slight - They say they'll be "all right at night" (They've both to go to school yet); C in each act MUST change her dress, D WILL attempt to "square the press"; E won't play Romeo unless His grandmother plays Juliet; F claims all hoydens as her rights (She's played them thirty seasons); And G must show herself in tights For two convincing reasons - Two very well-shaped reasons!
+svyrd10{_}820{_}Oh, the man who can drive a theatrical team, With wheelers and leaders in order supreme, Can govern and rule, with a wave of his fin, All Europe and Asia - with Ireland thrown in!
+svyrd10{_}821{_}Ballad: Out Of Sorts    When you find you're a broken-down critter, Who is all of a trimmle and twitter, With your palate unpleasantly bitter, As if you'd just bitten a pill - When your legs are as thin as dividers, And you're plagued with unruly insiders, And your spine is all creepy with spiders, And you're highly gamboge in the gill - When you've got a beehive in your head, And a sewing machine in each ear, And you feel that you've eaten your bed, And you've got a bad headache DOWN HERE - When such facts are about, And these symptoms you find In your body or crown - Well, it's time to look out, You may make up your mind You had better lie down!
+svyrd10{_}822{_}When your lips are all smeary - like tallow, And your tongue is decidedly yallow, With a pint of warm oil in your swAllow, And a pound of tin-tacks in your chest - When you're down in the mouth with the vapours, And all over your new Morris papers Black-beetles are cutting their capers, And crawly things never at rest - When you doubt if your head is your own, And you jump when an open door slams - Then you've got to a state which is known To the medical world as "jim-jams."
+svyrd10{_}823{_}If such symptoms you find In your body or head, They're not easy to quell - You may make up your mind You are better in bed, For you're not at all well!
+svyrd10{_}824{_}Ballad: How It's Done    Bold-faced ranger (Perfect stranger) Meets two well-behaved young ladies He's attractive, Young and active - Each a little bit afraid is.
+svyrd10{_}825{_}Youth advances, At his glances To their danger they awaken; They repel him As they tell him He is very much mistaken.
+svyrd10{_}826{_}Though they speak to him politely, Please observe they're sneering slightly, Just to show he's acting vainly.
+svyrd10{_}827{_}This is Virtue saying plainly, "Go away, young bachelor, We are not what you take us for!"
+svyrd10{_}828{_}(When addressed impertinently, English ladies answer gently, "Go away, young bachelor, We are not what you take us for!")
+svyrd10{_}829{_}As he gazes, Hat he raises, Enters into conversation.
+svyrd10{_}830{_}Makes excuses - This produces Interesting agitation.
+svyrd10{_}831{_}He, with daring, Undespairing, Gives his card - his rank discloses - Little heeding This proceeding, They turn up their little noses.
+svyrd10{_}832{_}Pray observe this lesson vital - When a man of rank and title His position first discloses, Always cock your little noses.
+svyrd10{_}833{_}When at home, let all the class Try this in the looking-glass.
+svyrd10{_}834{_}(English girls of well-bred notions Shun all unrehearsed emotions, English girls of highest class Practise them before the glass.)
+svyrd10{_}835{_}His intentions Then he mentions, Something definite to go on - Makes recitals Of his titles, Hints at settlements, and so on.
+svyrd10{_}836{_}Smiling sweetly, They, discreetly, Ask for further evidences: Thus invited, He, delighted, Gives the usual references.
+svyrd10{_}837{_}This is business.
+svyrd10{_}838{_}Each is fluttered When the offer's fairly uttered.
+svyrd10{_}839{_}"Which of them has his affection?"
+svyrd10{_}840{_}He declines to make selection.
+svyrd10{_}841{_}Do they quarrel for his dross?
+svyrd10{_}842{_}Not a bit of it - they toss!
+svyrd10{_}843{_}Please observe this cogent moral - English ladies never quarrel.
+svyrd10{_}844{_}When a doubt they come across, English ladies always toss.
+svyrd10{_}845{_}Ballad: A Classical Revival    At the outset I may mention it's my sovereign intention To revive the classic memories of Athens at its best, For my company possesses all the necessary dresses, And a course of quiet cramming will supply us with the rest.
+svyrd10{_}846{_}We've a choir hyporchematic (that is, ballet-operatic) Who respond to the CHOREUTAE of that cultivated age, And our clever chorus-master, all but captious criticaster, Would accept as the CHOREGUS of the early Attic stage.
+svyrd10{_}847{_}This return to classic ages is considered in their wages, Which are always calculated by the day or by the week - And I'll pay 'em (if they'll back me) all in OBOLOI and DRACHMAE, Which they'll get (if they prefer it) at the Kalends that are Greek!
+svyrd10{_}848{_}(At this juncture I may mention That this erudition sham Is but classical pretension, The result of steady "cram.
+svyrd10{_}849{_}": Periphrastic methods spurning, To my readers all discerning I admit this show of learning Is the fruit of steady cram."!)
+svyrd10{_}850{_}In the period Socratic every dining-room was Attic (Which suggests an architecture of a topsy-turvy kind), There they'd satisfy their twist on a RECHERCHE cold [Greek text which cannot be reproduced], Which is what they called their lunch - and so may you, if you're inclined.
+svyrd10{_}851{_}As they gradually got on, they'd [Greek text which cannot be reproduced] (Which is Attic for a steady and a conscientious drink).
+svyrd10{_}852{_}But they mixed their wine with water - which I'm sure they didn't oughter - And we Anglo-Saxons know a trick worth two of that, I think!
+svyrd10{_}853{_}Then came rather risky dances (under certain circumstances) Which would shock that worthy gentleman, the Licenser of Plays, Corybantian maniAC kick - Dionysiac or Bacchic - And the Dithyrambic revels of those indecorous days.
+svyrd10{_}854{_}(And perhaps I'd better mention Lest alarming you I am, That it isn't our intention To perform a Dithyramb - It displays a lot of stocking, Which is always very shocking, And of course I'm only mocking At the prevalence of "cram.")
+svyrd10{_}855{_}Yes, on reconsideration, there are customs of that nation Which are not in strict accordance with the habits of our day, And when I come to codify, their rules I mean to modify, Or Mrs. Grundy, p'r'aps, may have a word or two to say: For they hadn't macintoshes or umbrellas or goloshes - And a shower with their dresses must have played the very deuce, And it must have been unpleasing when they caught a fit of sneezing, For, it seems, of pocket-handkerchiefs they didn't know the use.
+svyrd10{_}856{_}They wore little underclothing - scarcely anything - or no-thing - And their dress of Coan silk was quite transparent in design - Well, in fact, in summer weather, something like the "altogether."
+svyrd10{_}857{_}And it's THERE, I rather fancy, I shall have to draw the line!
+svyrd10{_}858{_}(And again I wish to mention That this erudition sham Is but classical pretension, The result of steady "cram."
+svyrd10{_}859{_}Yet my classic love aggressive, If you'll pardon the possessive, Is exceedingly impressive When you're passing an exam.)
+svyrd10{_}860{_}Ballad: The Practical Joker    Oh what a fund of joy jocund lies hid in harmless hoaxes!
+svyrd10{_}861{_}What keen enjoyment springs From cheap and simple things!
+svyrd10{_}862{_}What deep delight from sources trite inventive humour coaxes, That pain and trouble brew For every one but you!
+svyrd10{_}863{_}Gunpowder placed inside its waist improves a mild Havanah, Its unexpected flash Burns eyebrows and moustache; When people dine no kind of wine beats ipecacuanha, But common sense suggests You keep it for your guests - Then naught annoys the organ boys like throwing red-hot coppers, And much amusement bides In common butter-slides.
+svyrd10{_}864{_}And stringy snares across the stairs cause unexpected croppers.
+svyrd10{_}865{_}Coal scuttles, recollect, Produce the same effect.
+svyrd10{_}866{_}A man possessed Of common sense Need not invest At great expense - It does not call For pocket deep, These jokes are all Extremely cheap.
+svyrd10{_}867{_}If you commence with eighteenpence (it's all you'll have to pay), You may command a pleasant and a most instructive day.
+svyrd10{_}868{_}A good spring gun breeds endless fun, and makes men jump like rockets, And turnip-heads on posts Make very decent ghosts: Then hornets sting like anything, when placed in waist-coat pockets - Burnt cork and walnut juice Are not without their use.
+svyrd10{_}869{_}No fun compares with easy chairs whose seats are stuffed with needles - Live shrimps their patience tax When put down people's backs - Surprising, too, what one can do with fifty fat black beedles - And treacle on a chair Will make a Quaker swear!
+svyrd10{_}870{_}Then sharp tin tacks And pocket squirts - And cobblers' wax For ladies' skirts - And slimy slugs On bedroom floors - And water jugs On open doors - Prepared with these cheap properties, amusing tricks to play, Upon a friend a man may spend a most delightful day!
+svyrd10{_}871{_}Ballad: The National Anthem    A monarch is pestered with cares, Though, no doubt, he can often trepan them; But one comes in a shape he can never escape - The implacable National Anthem!
+svyrd10{_}872{_}Though for quiet and rest he may yearn, It pursues him at every turn - No chance of forsaking Its ROCOCO numbers; They haunt him when waking - They poison his slumbers - Like the Banbury Lady, whom every one knows, He's cursed with its music wherever he goes!
+svyrd10{_}873{_}Though its words but imperfectly rhyme, And the devil himself couldn't scan them; With composure polite he endures day and night That illiterate National Anthem!
+svyrd10{_}874{_}It serves a good purpose, I own: Its strains are devout and impressive - Its heart-stirring notes raise a lump in our throats As we burn with devotion excessive: But the King, who's been bored by that song From his cradle - each day - all day long - Who's heard it loud-shouted By throats operatic, And loyally spouted By courtiers emphatic - By soldier - by sailor - by drum and by fife - Small blame if he thinks it the plague of his life!
+svyrd10{_}875{_}While his subjects sing loudly and long, Their King - who would willingly ban them - Sits, worry disguising, anathematising That Bogie, the National Anthem!
+svyrd10{_}876{_}Ballad: Her Terms    My wedded life Must every pleasure bring On scale extensive!
+svyrd10{_}877{_}If I'm your wife I must have everything That's most expensive - A lady's-maid - (My hair alone to do I am not able) - And I'm afraid I've been accustomed to A first-rate table.
+svyrd10{_}878{_}These things one must consider when one marries - And everything I wear must come from Paris!
+svyrd10{_}879{_}Oh, think of that!
+svyrd10{_}880{_}Oh, think of that!
+svyrd10{_}881{_}I can't wear anything that's not from Paris!
+svyrd10{_}882{_}From top to toes Quite Frenchified I am, If you examine.
+svyrd10{_}883{_}And then - who knows?
+svyrd10{_}884{_}- Perhaps some day a fam - Perhaps a famine!
+svyrd10{_}885{_}My argument's correct, if you examine, What should we do, if there should come a f-famine!
+svyrd10{_}886{_}Though in green pea Yourself you needn't stint In July sunny, In Januaree It really costs a mint - A mint of money!
+svyrd10{_}887{_}No lamb for us - House lamb at Christmas sells At prices handsome: Asparagus, In winter, parallels A Monarch's ransom: When purse to bread and butter barely reaches, What is your wife to do for hot-house peaches?
+svyrd10{_}888{_}Ah!
+svyrd10{_}889{_}tell me that!
+svyrd10{_}890{_}Ah!
+svyrd10{_}891{_}tell me that!
+svyrd10{_}892{_}What IS your wife to do for hot-house peaches?
+svyrd10{_}893{_}Your heart and hand Though at my feet you lay, All others scorning!
+svyrd10{_}894{_}As matters stand, There's nothing now to say Except - good morning!
+svyrd10{_}895{_}Though virtue be a husband's best adorning, That won't pay rates and taxes - so, good morning!
+svyrd10{_}896{_}Ballad: The Independent Bee    A hive of bees, as I've heard say, Said to their Queen one sultry day, "Please your Majesty's high position, The hive is full and the weather is warm, We rather think, with a due submission, The time has come when we ought to swarm."
+svyrd10{_}897{_}Buzz, buzz, buzz, buzz.
+svyrd10{_}898{_}Up spake their Queen and thus spake she - "This is a matter that rests with me, Who dares opinions thus to form?
+svyrd10{_}899{_}I'LL tell you when it is time to swarm!"
+svyrd10{_}900{_}Buzz, buzz, buzz, buzz.
+svyrd10{_}901{_}Her Majesty wore an angry frown, In fact, her Majesty's foot was down - Her Majesty sulked - declined to sup - In short, her Majesty's back was up.
+svyrd10{_}902{_}Buzz, buzz, buzz, buzz.
+svyrd10{_}903{_}Her foot was down and her back was up!
+svyrd10{_}904{_}That hive contained one obstinate bee (His name was Peter), and thus spake he - "Though every bee has shown white feather, To bow to tyranny I'm not prone - Why should a hive swarm all together?
+svyrd10{_}905{_}Surely a bee can swarm alone?"
+svyrd10{_}906{_}Buzz, buzz, buzz, buzz.
+svyrd10{_}907{_}Upside down and inside out, Backwards, forwards, round about, Twirling here and twisting there, Topsy turvily everywhere - Buzz, buzz, buzz, buzz.
+svyrd10{_}908{_}Pitiful sight it was to see Respectable elderly high-class bee, Who kicked the beam at sixteen stone, Trying his best to swarm alone!
+svyrd10{_}909{_}Buzz, buzz, buzz, buzz.
+svyrd10{_}910{_}Trying his best to swarm alone!
+svyrd10{_}911{_}The hive were shocked to see their chum (A strict teetotaller) teetotum - The Queen exclaimed, "How terrible, very!
+svyrd10{_}912{_}It's perfectly clear to all the throng Peter's been at the old brown sherry.
+svyrd10{_}913{_}Old brown sherry is much too strong - Buzz, buzz, buzz, buzz.
+svyrd10{_}914{_}Of all who thus themselves degrade, A stern example must be made, To Coventry go, you tipsy bee!"
+svyrd10{_}915{_}So off to Coventry town went he.
+svyrd10{_}916{_}Buzz, buzz, buzz, buzz.
+svyrd10{_}917{_}There, classed with all who misbehave, Both plausible rogue and noisome knave, In dismal dumps he lived to own The folly of trying to swarm alone!
+svyrd10{_}918{_}Buzz, buzz, buzz, buzz.
+svyrd10{_}919{_}All came of trying to swarm alone.
+svyrd10{_}920{_}Ballad: The Disconcerted Tenor    A tenor, all singers above (This doesn't admit of a question), Should keep himself quiet, Attend to his diet, And carefully nurse his digestion.
+svyrd10{_}921{_}But when he is madly in love, It's certain to tell on his singing - You can't do chromatics With proper emphatics When anguish your bosom is wringing!
+svyrd10{_}922{_}When distracted with worries in plenty, And his pulse is a hundred and twenty, And his fluttering bosom the slave of mistrust is, A tenor can't do himself justice.
+svyrd10{_}923{_}Now observe - (SINGS A HIGH NOTE) - You see, I can't do myself justice!
+svyrd10{_}924{_}I could sing, if my fervour were mock, It's easy enough if you're acting, But when one's emotion Is born of devotion, You mustn't be over-exacting.
+svyrd10{_}925{_}One ought to be firm as a rock To venture a shake in VIBRATO; When fervour's expected, Keep cool and collected, Or never attempt AGITATO.
+svyrd10{_}926{_}But, of course, when his tongue is of leather, And his lips appear pasted together, And his sensitive palate as dry as a crust is, A tenor can't do himself justice.
+svyrd10{_}927{_}Now observe - (SINGS A CADENCE) - It's no use - I can't do myself justice!
+svyrd10{_}928{_}Ballad: The Played-Out Humorist    Quixotic is his enterprise, and hopeless his adventure is, Who seeks for jocularities that haven't yet been said.
+svyrd10{_}929{_}The world has joked incessantly for over fifty centuries, And every joke that's possible has long ago been made.
+svyrd10{_}930{_}I started as a humorist with lots of mental fizziness, But humour is a drug which it's the fashion to abuse; For my stock-in-trade, my fixtures, and the goodwill of the business No reasonable offer I am likely to refuse.
+svyrd10{_}931{_}And if anybody choose He may circulate the news That no reasonable offer I'm likely to refuse.
+svyrd10{_}932{_}Oh happy was that humorist - the first that made a pun at all - Who when a joke occurred to him, however poor and mean, Was absolutely certain that it never had been done at all - How popular at dinners must that humorist have been!
+svyrd10{_}933{_}Oh the days when some stepfather for the query held a handle out, The door-mat from the scraper, is it distant very far?
+svyrd10{_}934{_}And when no one knew where Moses was when Aaron blew the candle out, And no one had discovered that a door could be a-jar!
+svyrd10{_}935{_}But your modern hearers are In their tastes particular, And they sneer if you inform them that a door can be a-jar!
+svyrd10{_}936{_}In search of quip and quiddity, I've sat all day, alone, apart - And all that I could hit on as a problem was - to find Analogy between a scrag of mutton and a Bony-part, Which offers slight employment to the speculative mind: For you cannot call it very good, however great your charity - It's not the sort of humour that is greeted with a shout - And I've come to the conclusion that my mine of jocularity In present Anno Domini, is worked completely out!
+svyrd10{_}937{_}Though the notion you may scout, I can prove beyond a doubt That my mine of jocularity is utterly worked out.
+svyrd10{_}938{_}End of Project Gutenberg's Etext of The Bab Ballads by W. S. Gilbert  

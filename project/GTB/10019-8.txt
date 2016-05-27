@@ -1,0 +1,997 @@
+10019-8{_}0{_}Project Gutenberg's Punchinello, Vol.
+10019-8{_}1{_}1, No.
+10019-8{_}2{_}22, August 27, 1870, by Various  This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever.
+10019-8{_}3{_}You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.net   Title: Punchinello, Vol.
+10019-8{_}4{_}1, No.
+10019-8{_}5{_}22, August 27, 1870  Author: Various  Release Date: November 8, 2003 [EBook #10019]  Language: English  Character set encoding: ISO-8859-1  *** START OF THIS PROJECT GUTENBERG EBOOK PUNCHINELLO, VOL.
+10019-8{_}6{_}1, NO.
+10019-8{_}7{_}22 ***     Produced by Cornell University, Joshua Hutchinson, Steve Schulze and the Online Distributed Proofreading Team.
+10019-8{_}8{_}+--------------------------------------------------------------+   |                           CONANT'S                           |   |                                                              |   |                        PATENT BINDERS                        |   |                                                              |   |                             FOR                              |   |                                                              |   |                        "PUNCHINELLO,"                        |   |                                                              |   | to preserve the paper for binding, will be sent postpaid, on |   |                  receipt of One Dollar, by                   |   |                                                              |   |                 PUNCHINELLO PUBLISHING CO.,                  |   |                                                              |   |               83 Nassau Street, New York City.
+10019-8{_}9{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                        CARBOLIC SALVE                        |   |                                                              |   |                  Recommended by Physicians.
+10019-8{_}10{_}|   |                                                              |   |     The best Salve in use for all disorders of the skin,     |   |                 for Cuts, Burns, Wounds, &c.                 |   |                                                              |   |                      USED IN HOSPITALS.
+10019-8{_}11{_}|   |                                                              |   |                    SOLD BY ALL DRUGGISTS.
+10019-8{_}12{_}|   |                                                              |   |                       PRICE 25 CENTS.
+10019-8{_}13{_}|   |                                                              |   |               JOHN F. HENRY, Sole Proprietor,                |   |                No.
+10019-8{_}14{_}8 College Place, New York.
+10019-8{_}15{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                  HARRISON BRADFORD & CO.'S                   |   |                         STEEL PENS.
+10019-8{_}16{_}|   |                                                              |   |     These Pens are of a finer quality, more durable, and     |   | cheaper than any other Pen in the market.
+10019-8{_}17{_}Special attention  |   |  is called to the following grades, as being better suited   |   |     for business purposes than any Pen manufactured.
+10019-8{_}18{_}The     |   |                                                              |   |            "505," "22," and the "Anti-Corrosive,"            |   |                                                              |   |            we recommend for Bank and Office use.
+10019-8{_}19{_}|   |                                                              |   |                      D. APPLETON & CO.,                      |   |                Sole Agents for United States.
+10019-8{_}20{_}|   |                                                              |   +--------------------------------------------------------------+   Vol.
+10019-8{_}21{_}1.
+10019-8{_}22{_}No.
+10019-8{_}23{_}22.
+10019-8{_}24{_}PUNCHINELLO   SATURDAY, AUGUST 27, 1870.
+10019-8{_}25{_}PUBLISHED BY THE  PUNCHINELLO PUBLISHING COMPANY,  83 NASSAU STREET, NEW YORK.
+10019-8{_}26{_}THE MYSTERY OF MR. E. DROOD, By ORPHEUS C. KERR, Continued in this Number.
+10019-8{_}27{_}[Sidenote: See 15th Page for Extra Premiums.]
+10019-8{_}28{_}+--------------------------------------------------------------+   |                                                              |   |                       $47,000 REWARD.
+10019-8{_}29{_}|   |                                                              |   |                        PROCLAMATION.
+10019-8{_}30{_}|   |                                                              |   | The Murder of Mr. Benjamin Nathan.
+10019-8{_}31{_}|   |                                                              |   | The widow having determined to increase the rewards          |   | heretofore offered by me (in my proclamation of July 29),    |   | and no result having yet been obtained, and suggestions      |   | having been made that the rewards were not sufficiently      |   | distributive or specific, the offers in the previous         |   | proclamation are hereby superseded by the following:         |   |                                                              |   | A REWARD of $30,000 will be paid for the arrest and          |   | conviction of the murderer of BENJAMIN NATHAN, who was       |   | killed in his house, No.
+10019-8{_}32{_}12 West Twenty-third Street, New    |   | York, on the morning of Friday, July 29.
+10019-8{_}33{_}|   |                                                              |   | A REWARD of $1,000 will be paid for the identification and   |   | recovery of each and every one of the three Diamond Shirt    |   | Studs which were taken from the clothing of the deceased on  |   | the night of the murder.
+10019-8{_}34{_}Two of the diamonds weighed,        |   | together, 1, 1/2, and 1/3, and 1/16 carats, and the other, a |   | flat stone, showing nearly a surface of one carat, weighed   |   | 3/4 and 1/32.
+10019-8{_}35{_}All three were mounted in skeleton settings,   |   | with spiral screws, but the color of the gold, setting of    |   | the flat diamond was not so dark as the other two.
+10019-8{_}36{_}|   |                                                              |   | A REWARD of $1,500 will be paid for the identification and   |   | recovery of one of the watches, being the Gold anchor        |   | Hunting-case Stem-winding Watch, No.
+10019-8{_}37{_}6657, 19 lines, or      |   | about two inches in diameter, made by Ed.
+10019-8{_}38{_}Perregaux; or for  |   | the Chain and Seals thereto attached.
+10019-8{_}39{_}The Chain is very      |   | massive, with square links, and carries a Pendant Chain with |   | two seals, one of them having the monogram "B.N.," cut       |   | thereon.
+10019-8{_}40{_}|   |                                                              |   | A REWARD of $300 will be given for information leading to    |   | the identification and recovery of an old-fashioned          |   | open-faced Gold Watch, with gold dial, showing rays          |   | diverging from the center, and with raised figures; believed |   | to have been made by Tobias, and which was taken at the same |   | time as the above articles.
+10019-8{_}41{_}|   |                                                              |   | A REWARD of $300 will be given for the recovery of a Gold    |   | Medal of about the size of a silver dollar, and which bears  |   | an inscription of presentation not precisely known, but      |   | believed to be either "To Sampson Simpson, President of the  |   | Jews' Hospital," or, "To Benjamin Nathan, President of the   |   | Jews' Hospital."
+10019-8{_}42{_}|   |                                                              |   | A REWARD of $100 will be given for full and complete         |   | detailed information descriptive of this medal, which may be |   | useful in securing its recovery.
+10019-8{_}43{_}|   |                                                              |   | A REWARD of $1,000 will be given for information leading to  |   | the identification of the instrument used in committing the  |   | murder, which is known as a "dog" or clamp, and is a piece   |   | of wrought iron about sixteen inches long, turned up for     |   | about an inch at each end, and sharp; such as is used by     |   | ship-carpenters, or post-trimmers, ladder-makers,            |   | pump-makers, sawyers, or by iron-moulders to clamp their     |   | flasks.
+10019-8{_}44{_}|   |                                                              |   | A REWARD of $800 will be given to the man who, on the        |   | morning of the murder, was seen to ascend the steps and pick |   | up a piece of paper lying there, and then walk away with it, |   | if he will come forward and produce it.
+10019-8{_}45{_}|   |                                                              |   | Any information bearing upon the case may be sent to the     |   | Mayor, John Jourdan, Superintendent of Police City of New    |   | York; or to James J. Kelso, Chief Detective Officer.
+10019-8{_}46{_}|   |                                                              |   | A. OAKEY HALL, MAYOR.
+10019-8{_}47{_}|   |                                                              |   | The foregoing rewards are offered by                         |   | the request of,                                              |   | and are guaranteed by me.
+10019-8{_}48{_}|   |                                                              |   | Signed, EMILY G. NATHAN,                                     |   | Widow of B. NATHAN.
+10019-8{_}49{_}|   |                                                              |   | The following reward has also been offered by the New York   |   | Stock Exchange:                                              |   |                                                              |   | $10,000--The New York Stock Exchange offers a reward of Ten  |   | Thousand Dollars for the arrest and conviction of the        |   | murderer or murderers of Benjamin Nathan, late a member of   |   | said Exchange, who was killed on the night of July 28, 1870, |   | at his house in Twenty-third street, New York City.
+10019-8{_}50{_}|   |                                                              |   | J.L.
+10019-8{_}51{_}BROWNELL, Vice-Chairman,  Gov.
+10019-8{_}52{_}Com.
+10019-8{_}53{_}|   | D.C. HAYS, Treasurer.
+10019-8{_}54{_}|   | B.O.
+10019-8{_}55{_}WHITE, Secretary.
+10019-8{_}56{_}|   | MAYOR'S OFFICE, New York, August 5, 1870.
+10019-8{_}57{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                       TO NEWS-DEALERS.
+10019-8{_}58{_}|   |                                                              |   |                    Punchinello's Monthly.
+10019-8{_}59{_}|   |                                                              |   |                 The Weekly Numbers for July,                 |   |                                                              |   |                  Bound in a Handsome Cover,                  |   |                                                              |   |              Is now ready.
+10019-8{_}60{_}Price, Fifty Cents.
+10019-8{_}61{_}|   |                                                              |   |                          THE TRADE                           |   |                                                              |   |                       Supplied by the                        |   |                                                              |   |                    AMERICAN NEWS COMPANY,                    |   |                                                              |   |           Who are now prepared to receive Orders.
+10019-8{_}62{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                       WEVILL & HAMMAR,                       |   |                                                              |   |                       Wood Engravers,                        |   |                                                              |   |                        208 BROADWAY,                         |   |                                                              |   |                          NEW YORK.
+10019-8{_}63{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                  Bowling Green Savings-Bank                  |   |                                                              |   |                         33 BROADWAY,                         |   |                                                              |   |                          NEW YORK.
+10019-8{_}64{_}|   |                                                              |   |            Open Every Day from 10 A.M. to 3 P.M.             |   |                                                              |   |             _Deposits of any sum, from Ten Cents             |   |         to Ten Thousand Dollars, will be received._          |   |                                                              |   |                    Six per Cent interest,                    |   |                   Free of Government Tax.
+10019-8{_}65{_}|   |                                                              |   |                   INTEREST ON NEW DEPOSITS                   |   |                                                              |   |            Commences on the First of every Month.
+10019-8{_}66{_}|   |                                                              |   |                   HENRY SMITH, _President_                   |   |                                                              |   |                REEVES E. SELMES, _Secretary._                |   |                                                              |   |        WALTER ROCHE, EDWARD HOGAN, _Vice-Presidents_.
+10019-8{_}67{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                         NEWS DEALERS                         |   |                                                              |   |                              ON                              |   |                                                              |   |                          RAILROADS,                          |   |                                                              |   |                         STEAMBOATS,                          |   |                                                              |   |                            And at                            |   |                                                              |   |                       WATERING PLACES,                       |   |                                                              |   |               Will find the Monthly Numbers of               |   |                                                              |   |                        "PUNCHINELLO"                         |   |                                                              |   |      For April, May, June, and July, an attractive and       |   |                        Saleable Work.
+10019-8{_}68{_}|   |                                                              |   |                 Single Copies Price 50 cts.
+10019-8{_}69{_}|   |                                                              |   |        For trade price address American News Co., or         |   |                                                              |   |                 PUNCHINELLO PUBLISHING CO.,                  |   |                                                              |   |                       83 Nassau Street                       |   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                       FORST & AVERELL                        |   |                                                              |   |             Steam, Lithograph, and Letter Press              |   |                                                              |   |                          PRINTERS,                           |   |                                                              |   |               EMBOSSERS, ENGRAVERS, AND LABEL                |   |                        MANUFACTURERS.
+10019-8{_}70{_}|   |                                                              |   |      Sketches and Estimates furnished upon application.
+10019-8{_}71{_}|   |                                                              |   |           23 Platt Street, and 20-22 Gold Street,            |   |                                                              |   |                          NEW YORK.
+10019-8{_}72{_}|   |                                                              |   |                       [P.O.
+10019-8{_}73{_}BOX 2845.]
+10019-8{_}74{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                           FOLEY'S                            |   |                                                              |   |                          GOLD PENS.
+10019-8{_}75{_}|   |                                                              |   |                    THE BEST AND CHEAPEST.
+10019-8{_}76{_}|   |                                                              |   |                        256 BROADWAY.
+10019-8{_}77{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                    $2 to ALBANY and TROY.
+10019-8{_}78{_}|   |                                                              |   |     The Day Line Steamboats C. Vibbard and Daniel Drew,      |   |  commencing May 31, will leave Vestry st. Pier at 8.45, and  |   | Thirty-fourth st at 9 a.m., landing at Yonkers, (Nyack, and  |   |   Tarrytown by ferry-boat), Cozzens, West Point, Cornwall,   |   |    Newburgh, Poughkeepsie, Rhinebeck, Bristol, Catskill,     |   |  Hudson, and New-Baltimore.
+10019-8{_}79{_}A special train of broad-gauge   |   | cars in connection with the day boats will leave on arrival  |   |   at Albany (commencing June 20) for Sharon Springs.
+10019-8{_}80{_}Fare    |   |   $4.25 from New York and for Cherry Valley.
+10019-8{_}81{_}The Steamboat   |   |     Seneca will transfer passengers from Albany to Troy.
+10019-8{_}82{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                      ESTABLISHED 1866.
+10019-8{_}83{_}|   |                                                              |   |      Jas R. Nichols, M.D., Wm.
+10019-8{_}84{_}J. Rolfe, A.M., Editors       |   |                                                              |   |                 Boston Journal of Chemistry.
+10019-8{_}85{_}|   |                                                              |   |                  Devoted to the Science of                   |   |                                                              |   |                          HOME LIFE,                          |   |                                                              |   |             The Arts, Agriculture, and Medicine.
+10019-8{_}86{_}|   |                                                              |   |                       $1.00 Per Year.
+10019-8{_}87{_}|   |                                                              |   |      _Journal and Punchinello (without Premium)_ $4.00.
+10019-8{_}88{_}|   |                                                              |   |                   SEND FOR SPECIMEN-COPY.
+10019-8{_}89{_}|   |                                                              |   |                Address--JOURNAL OF CHEMISTRY,                |   |                                                              |   |                 150 CONGRESS STREET, BOSTON.
+10019-8{_}90{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                      HENRY L. STEPHENS,                      |   |                                                              |   |                           ARTIST,                            |   |                                                              |   |                    No.
+10019-8{_}91{_}160 FULTON STREET,                    |   |                                                              |   |                          NEW YORK.
+10019-8{_}92{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                       GEO.
+10019-8{_}93{_}B. BOWLEND,                       |   |                                                              |   |                    Draughtsman & Designer                    |   |                                                              |   |                    No.
+10019-8{_}94{_}160 Fulton Street,                    |   |                                                              |   |                    Room No.
+10019-8{_}95{_}11, NEW YORK.
+10019-8{_}96{_}|   |                                                              |   +--------------------------------------------------------------+   Entered, according to Act of Congress, in the year 1870, by the PUNCHINELLO PUBLISHING COMPANY, in the Clerk's Office of the District Court of the United States, for the Southern District of New York.
+10019-8{_}97{_}*       *       *       *       *  THE MYSTERY OF MR. E. DROOD.
+10019-8{_}98{_}AN ADAPTATION.
+10019-8{_}99{_}BY ORPHEUS C. KERR.
+10019-8{_}100{_}CHAPTER XV.
+10019-8{_}101{_}"SPOTTED."
+10019-8{_}102{_}When the bell of St. Cow's began ringing for Ritualistic morning-service, with a sound as of some incontinently rambling dun spinster of the lacteal herd--now near at hand in cracked dissonance, as the wind blows hither; now afar, in tinkling distance, as the wind blows hence--MONTGOMERY PENDRAGON was several miles away from Bumsteadville upon his walking-match, with head already bumped like a pineapple, and face curiously swelled, from amateur practice with the Indian Club.
+10019-8{_}103{_}Being by that time cold enough for breakfast, and willing to try the virtues of some soothing application to his right eye, which, from a bruise just below it, was nearly closed, the badly banged young man suspended his murderous calisthenics at the door of a rustic hotel, and there entered to secure a wayside meal.
+10019-8{_}104{_}The American country "hotel," or half-way house, is, perhaps, one of the most depressing fictions ever encountered by stage-passenger, or pedestrian afield: and depends so exclusively upon the imagination for any earthly distinction from the retired and neglected private hiding-place of some decayed and morbid agricultural family, that only the conventional swing sign-board before the door saves the cognizant mind from a painfully dense confusion.
+10019-8{_}105{_}Smelling about equally of eternal wash-day, casual cow-shed, and passing feather-bed, it sustains a lank, middle-aged, gristly man to come out at the same hour every day and grunt unintelligibly at the stage-driver, an expressionless boy in a bandless straw-hat and no shoes to stare blankly from the doorway at the same old pole-horse he has mechanically thus inspected from infancy, and one speckled hen of mature years to poise observingly on single leg at the head of the shapeless black dog asleep at the sunny end of the low wooden stoop.
+10019-8{_}106{_}It is the one rural spot on earth where a call for fresh eggs evokes remonstrative and chronic denial; where chickens for dinner are sternly discredited as mere freaks of legendary romance, and an order for a glass of new milk is incredulously answered by a tumblerful of water which tastes of whitewash-brush.
+10019-8{_}107{_}Whosoever sleeps there of a night shall be crowded by walls which rub off into a faint feather-bed of the flavor and consistency of geese used whole, and have for his feverish breakfast in the morning a version of broiled ham as racy of attic-salt as the rasher of BACON'S essays.
+10019-8{_}108{_}And to him who pays his bill there, ere he straggles weakly forth to repair his shattered health by frenzied flight, shall be given in change such hoary ten-cent shreds of former postal currency as he has not hitherto deemed credible, sticking together in inextricable conglomeration by such fragments of fish-scales as he never before believed could be gathered by handled small-money from palms not sufficiently washed after piscatorial diversion.
+10019-8{_}109{_}It was in at a country hotel, then, that the young Southern pedestrian turned for temporary rest and a meal, and pitiless was the cross-examination instituted by the inevitable lank, middle-aged gristly man, before he could reconcile it with his duty as a cautious public character to reveal the treasures of the larder.
+10019-8{_}110{_}Those bumps on the head, that swollen eye, and nose, came--did they?--from swinging this here club for exercise.
+10019-8{_}111{_}Well, he wanted to know, now!
+10019-8{_}112{_}People generally used two of the clubs at once--did they?--but one was enough for a beginner.
+10019-8{_}113{_}Well, he _wanted_ to know, now!
+10019-8{_}114{_}Could he supply a couple of poached eggs and a cup of milk?
+10019-8{_}115{_}No, young man; but a slice of corned pork and a bowl of tea were within the resources of the establishment.
+10019-8{_}116{_}When at length upon the road again, the bruised youth resolved to follow a cattle-track "across lots," for the greater space in which to exercise with his Indian club as he walked.
+10019-8{_}117{_}Like any other novice in the practice, he could not divest his mind of the impression, that the frightful thumps he continually received, in twirling the merciless thing around and behind his devoted head, were due to some kind of crowding influence from the boundaries on either side the way, and it was to gain relief from such damaging contraction of area that he left the highway for the wider wintry fields.
+10019-8{_}118{_}Going onward in these latter at an irregular pace; sometimes momentarily stunned into a rangy stagger by a sounding blow on the cerebrum or the cerebellum; and, again, irritated almost to a run by contusion of shoulder-blade or funny-bone; he finally became aware that two men were following him through the lots, and that with a closeness of attention indicating more than common interest.
+10019-8{_}119{_}To the perception of his keenly sensitive Southern nature they at once became ribald Yankee vandals, hoping for unseemly amusement from the detection of some awkwardness in the Indian-club-play of a defeated but not conquered Southern Gentleman; and, in the haughty sectional pride of his contemptuous soul, he indignantly determined to show not the least consciousness of their disrespectful observation.
+10019-8{_}120{_}Twirling the club around and around his battered head with increasing velocity, he smiled scornfully to himself, nor deigned a single backward glance at the one of his two followers who approached more rapidly than the other.
+10019-8{_}121{_}He heard the hindermost say to the foremost, "Leave him alone, I tell you, and he'll knock himself down in a minute," and, in a passionately reckless effort of sheer bravado to catch the club from one hand with the other while it yet circled swiftly over his skull, he accidentally brought the ungovernable weapon into tremendous contact with the top of his head, and dashed himself violently to the earth.
+10019-8{_}122{_}"Didn't I tell you he'd do it?"
+10019-8{_}123{_}cried the hindermost of the two strangers, coming up; while the other coolly seated himself upon the prostrated victim.
+10019-8{_}124{_}"These here Indian clubs always throw a man if he ain't got muscle in his arms; and this here little Chivalry has got arms like a couple of canes."
+10019-8{_}125{_}"Arise from me instantly, fellow.
+10019-8{_}126{_}You're sitting upon my breast-pin," exclaimed MONTGOMERY to the person sitting upon him.
+10019-8{_}127{_}They suffered him to regain his feet, which he did with extreme hauteur, and surveyed his bumped head and swollen countenance with undisguised wonder.
+10019-8{_}128{_}"How dare you treat a Southerner in this way?"
+10019-8{_}129{_}continued the young man, his head aching inexpressibly.
+10019-8{_}130{_}"I thought the war was over long ago.
+10019-8{_}131{_}If money is your object, seek out a citizen of some other section than mine; for the South is out of funds just now, owing to the military outrages of Northern scorpions."
+10019-8{_}132{_}"We're constables, Mr. PENDRAGON," was the reply, "and it is our duty to take you back to the main road, where a couple of your friends are waiting for you."
+10019-8{_}133{_}Staring from one to the other in speechless wonder at what this fresh outrage upon the down-trodden South could mean, MONTGOMERY allowed them to replace his Indian club in his hand, and conduct him back to the public road; where, to his increased bewilderment, he found Gospeler SIMPSON and the Ritualistic organist.
+10019-8{_}134{_}"What is the matter, gentlemen?"
+10019-8{_}135{_}he asked, in great agitation: "must I take the oath of Loyalty; or am I required by Yankee philanthropy to marry a negress?"
+10019-8{_}136{_}At the sound of his voice, Mr. BUMSTEAD left the shoulder of Mr. SIMPSON, upon which he had been leaning with great weight, and, coming forward in three long skips, deliberately wound his right hand in the speaker's neck-tie.
+10019-8{_}137{_}"Where are those nephews--where's that umbrella?"
+10019-8{_}138{_}demanded the organist, with considerable ferocity.
+10019-8{_}139{_}"Nephews!--umbrella!"
+10019-8{_}140{_}gasped the other.
+10019-8{_}141{_}"The EDWINS--bone handle," explained Mr. BUMSTEAD, lurching towards his captive.
+10019-8{_}142{_}"Mr. MONTGOMERY," interposed the Gospeler, sadly, Mr. DROOD went out with you last night, late, from his estimable uncle's lodgings, and has not been seen since.
+10019-8{_}143{_}Where is he?"
+10019-8{_}144{_}"He went back into the house again, sir, after I had walked him up and down the road a few times."
+10019-8{_}145{_}"Well, then, where's that umbrella?"
+10019-8{_}146{_}roared the organist, who seemed quite beside himself with grief and excitement.
+10019-8{_}147{_}"Mr. BUMSTEAD, pray be more calm," implored the Reverend OCTAVIUS.
+10019-8{_}148{_}"Mr. MONTGOMERY, this agitated gentleman's nephew has been mysteriously missing ever since he went out with you at midnight: also an alpaca umbrella."
+10019-8{_}149{_}"Upon my honor, I know nothing of either," ejaculated the unhappy Southerner.
+10019-8{_}150{_}Mr. BUMSTEAD, still holding him by the neck-tie, cast a fiery and unsettled glance around at nothing in particular; then ground his teeth audibly, and scowled.
+10019-8{_}151{_}"My boy's missing!"
+10019-8{_}152{_}he said, hissingly.--"Y'understand?--he's missing.--I must insist upon searching the prisoner."
+10019-8{_}153{_}In the presence of Gospeler and constables, and loftily regardless alike of their startled wonder and the young man's protests, the maddened uncle of the lost DROOD deliberately examined all the captive's pockets in succession.
+10019-8{_}154{_}In one of them was a penknife, which, after thoughtfully trying it upon his pink nails, he abstractedly placed in his own pocket.
+10019-8{_}155{_}Searching next the overwhelmed Southerner's travelling-satchel, he found in it an apple, which he first eyed with marked suspicion, and then bit largely into, as though half expecting to find in it some traces of his nephew.
+10019-8{_}156{_}"I'll keep this suspicious fruit," he remarked, with a hollow laugh; and, bearing unreservedly upon the nearer arm of the hapless MONTGOMERY, and eating audibly as he surged onward, he started on the return march for Bumsteadville.
+10019-8{_}157{_}Not a word more was spoken until, after a cool Christmas stroll of about eight and a quarter miles, the whole party stood before Judge SWEENEY in the house of the latter.
+10019-8{_}158{_}There, when the story had been sorrowfully repeated by the Gospeler, Mr. BUMSTEAD exhibited the core of the apple, and tickled the magistrate almost into hysterics by whispering very closely in his ear, that it was a core curiously similar to that of the last apple eaten by his nephew; and, having been found in an apple from the prisoner's satchel, might be useful in evidence.
+10019-8{_}159{_}Judge SWEENEY wished to know if Mr. PENDRAGON had any political relations, or could influence any votes?
+10019-8{_}160{_}and, upon being answered in the negative, eyed the young man sternly, and said that appearances were decidedly against him.
+10019-8{_}161{_}He could not exactly commit him to jail without accusation, although the apple-core and his political unimportance subjected him to grave suspicion: but he should hold the Gospeler responsible for the youth's appearance at any time when his presence should be required.
+10019-8{_}162{_}Mr. BUMSTEAD, whose eyes were becoming very glassy, then suggested that a handbill should be at once printed and circulated, to the effect that there had been Lost, or Stolen, two Black Alpaca Nephews, about 5 feet 8 inches high, with a bone handle, light eyes and hair, and whalebone ribs; and that if the said EDWIN would return, with a brass ferule slightly worn, the finder should receive earnest thanks, and be seen safely to his home by J. BUMSTEAD.
+10019-8{_}163{_}Mr. Gospeler SIMPSON and Judge SWEENEY agreed that a handbill should be issued: but thought it might confuse the public mind if the missing nephew and the lost umbrella were not kept separate.
+10019-8{_}164{_}"Has either 'f you gen'l'men ever been 'n Uncle?"
+10019-8{_}165{_}asked the Ritualistic organist, with dark intensity.
+10019-8{_}166{_}They shook their heads.
+10019-8{_}167{_}"_Then,_" said Mr. BUMSTEAD, with great force,--"THEN, gen'l'men, you-knownor-wahritis-to-lose-'n-umbrella!"
+10019-8{_}168{_}Before they could decide in their weaker minds what the immediate connection was, he had left them, at a sharp slant, in great intellectual disturbance, and was passing out through the entry-way with both his hands against the wall.
+10019-8{_}169{_}Early next morning, while young Mr. PENDRAGON was locked in his room, startled and wretched, the inconsolable uncle of EDWIN DROOD was energetically ransacking every part of Bumsteadville for the missing man.
+10019-8{_}170{_}House after house he visited, like some unholy inspector: peering up chimneys, prodding under carpets, and staying a long time in cellars where there was cider.
+10019-8{_}171{_}Not a bit of paper or cloth blew along the turnpike but he eagerly picked it up, searched in it with the most anxious care, and finally placed it in his hat.
+10019-8{_}172{_}Going to the Pond, with a borrowed hatchet, he cut a bole in the thick ice, lost the hatchet, and, after bathing his head in the water, declared that his alpaca nephew was not there.
+10019-8{_}173{_}Finding an antique flask in one of his pockets, he gradually removed all the liquid contents therefrom with a tubular straw, but still could discern no traces of EDWIN DROOD.
+10019-8{_}174{_}All the live-long day he prosecuted his researches, to the great discomposure of the populace: and, with whitewash all over the back of his coat, and very dingy hands, had just seated himself at his own fireside in the evening, when Mr. DIBBLE came in.
+10019-8{_}175{_}"This is a strange disappearance," said Mr. DIBBLE.
+10019-8{_}176{_}"And it was good as new," groaned the organist, with but one eye open.
+10019-8{_}177{_}"Almost new!--_what_ was?"
+10019-8{_}178{_}"Th'umbrella."
+10019-8{_}179{_}"Mr. BUMSTEAD," returned the old man, coldly, "I am not talking of an umbrella, but of Mr.
+10019-8{_}180{_}EDWIN."
+10019-8{_}181{_}"Yesh, I know," said the uncle.
+10019-8{_}182{_}"Awright.
+10019-8{_}183{_}I'm li'lle sleepy; tha'sall."
+10019-8{_}184{_}"I've just seen my ward, Mr.
+10019-8{_}185{_}BUMSTEAD."
+10019-8{_}186{_}"'She puerwell, shir?"
+10019-8{_}187{_}"She is _not_ pretty well.
+10019-8{_}188{_}Nor is Miss PENDRAGON."
+10019-8{_}189{_}"I'm vahr' sorry," said Mr. BUMSTEAD, just audibly.
+10019-8{_}190{_}"Miss PENDRAGON scorns the thought of any blame for her brother," continued Mr. DIBBLE, eyeing the fire.
+10019-8{_}191{_}"It had a bun-bone handle," muttered the other, dreamily.
+10019-8{_}192{_}Then, with a momentary brightening--"'scuse me, shir: whah'll y'take?"
+10019-8{_}193{_}"Nothing, sir!"
+10019-8{_}194{_}was the sharp response.
+10019-8{_}195{_}"I'm not at all thirsty.
+10019-8{_}196{_}But there is something more to tell you.
+10019-8{_}197{_}At the last meeting of my ward and your nephew--just before your dinner here,--they concluded to break their engagement of marriage, for certain good reasons, and thenceforth be only brother and sister to each other."
+10019-8{_}198{_}Starting forward in his chair, with partially opened eyes, the white-washed and dingy Mr. BUMSTEAD managed to get off his hat, covering himself with a bandanna handkerchief and innumerable old pieces of paper and cloth, as he did so, from head to foot; made a feeble effort to throw it at the aged lawyer; and then, chair and all, tumbled forward with a crash to the rug, where he lay in a refreshing sleep.
+10019-8{_}199{_}(_To be Continued._)         *       *       *       *       *  CHINCAPIN AT LONG BRANCH.
+10019-8{_}200{_}A QUAKER friend of mine once observed that he loved the Ocean for its Broad Brim.
+10019-8{_}201{_}So do I, but not for that alone.
+10019-8{_}202{_}I am partial to it on account of the somewhat extensive facilities it affords for Sea Bathing.
+10019-8{_}203{_}Learning to swim, by the way, was my principal Elementary study.
+10019-8{_}204{_}I have just returned from taking a plunge in company with many other distinguished persons.
+10019-8{_}205{_}How it cools one to rush into the "Boiling Surf."
+10019-8{_}206{_}How refreshing to dive Below the Billow.
+10019-8{_}207{_}I don't think I could ever have a Surfeit of the Surf, I am so fond of it.
+10019-8{_}208{_}Oh!
+10019-8{_}209{_}the Sea!
+10019-8{_}210{_}the Sea!
+10019-8{_}211{_}with its darkly, deeply cerulean--but stop!
+10019-8{_}212{_}I am getting out of my depth.
+10019-8{_}213{_}Would that I were a poet, that I--But I ain't, so what's the use?
+10019-8{_}214{_}As I sat on the verandah of the ------ Hotel the other morning, gazing on the broad expanse of Ocean and wiping the perspiration which trickled from my lofty brow, (the thermometer marked 90 degrees,) I could not help recalling the beautifully appropriate lines of the celebrated bard:      "When the sun's perpendicular rays       Begin to illumine the Sea,     The fishies exclaim in amaze       'Confound it!
+10019-8{_}215{_}how hot it will be!'"
+10019-8{_}216{_}What a pity that the Bathing here has a drawback.
+10019-8{_}217{_}I refer, of course, to the Under Tow, which has caused some Untoward accidents.
+10019-8{_}218{_}Those who have experienced it, say it is impossible to keep your Feet when caught by the Under Tow.
+10019-8{_}219{_}Presence of mind is indispensable in such a case, but, unfortunately, timid swimmers are too apt to lose their Heads as well as their feet.
+10019-8{_}220{_}Some of the lady visitors are Beautiful Swimmers, and their Divers Charms excite universal admiration.
+10019-8{_}221{_}Many of these fair Amphitrites are so constantly in or on the water that it would hardly be a Fib to call them Amphibious.
+10019-8{_}222{_}Their husbands and brothers are, I regret to say, not so much On the Water, preferring something a trifle stronger semi-occasionally, if not oftener.
+10019-8{_}223{_}You know what a popular amusement crabbing is here.
+10019-8{_}224{_}I seldom indulge in it myself, as I have bad luck, which makes me Crabbed.
+10019-8{_}225{_}Our "distinguished guests," as JENKINS would say, are very numerous, and it is truly an edifying sight to see judges, legislators, eminent politicians, and other "Heads of the People" bobbing about in the water together.
+10019-8{_}226{_}Some folks don't seem to care what they spend when they come here, and no sooner arrive at the Branch than they Branch out into all sorts of extravagance.
+10019-8{_}227{_}There is some superb horseflesh here just now, and the fastest nags may be seen doing their Level best on the Smooth Beach.
+10019-8{_}228{_}The Race Track, Grand Stand, &c., are all that the vivid fancy of a PUNCHINELLO can paint them.
+10019-8{_}229{_}The bathing costumes!
+10019-8{_}230{_}who can do justice to them and their lovely wearers?
+10019-8{_}231{_}Some time ago, (as I am informed,) a lady made her appearance on the beach as a Nereid.
+10019-8{_}232{_}Did you Ne'er read of the Nereids, Mr. PUNCHINELLO?
+10019-8{_}233{_}If you have, you are aware that they were the Sea Nymphs of the Ancients, in other words the Old Maids of the Sea, who never got married, and frequently played Scaly tricks on Mariners.
+10019-8{_}234{_}The Nereid referred to was arrayed in pea green and spangles, with green tresses, which is very well known to be the correct costume of a mermaid of antiquity, copied from the latest Paris fashions.
+10019-8{_}235{_}This Spritely lady was, however, unprovided with a tail, which was Unmermaidenlike in the Extreme.
+10019-8{_}236{_}You know how brilliant the Hops are, so I will Skip them.
+10019-8{_}237{_}One thing, however, is worth noting.
+10019-8{_}238{_}At some of the Hotels they have a Spread on the carpet before the dancing begins, as well as a supper afterwards.
+10019-8{_}239{_}The excellent music of the Hotel bands is Instrumental in drawing crowds of listeners to the Ball rooms.
+10019-8{_}240{_}Some Chinese Jugglers gave an entertainment here the other evening, but I didn't go, not being in the Juggler Vein.
+10019-8{_}241{_}Yours Reverentially,  CHINCAPIN.
+10019-8{_}242{_}*       *       *       *       *  [Illustration: PRUSSIC ACID.
+10019-8{_}243{_}"FIFTY DOUSAND FENIANS ARMED MID REPEATERS FOR FRANCE!
+10019-8{_}244{_}LET 'EM GO!
+10019-8{_}245{_}BEESMARK WILL MAKE DEM NOT COOM PACK TO REPEAT IN DIS GOONDERY NO MORE!"]
+10019-8{_}246{_}*       *       *       *       *  THE POEMS OF THE CRADLE.
+10019-8{_}247{_}CANTO IV.
+10019-8{_}248{_}Little JACK HORNER     Sat in a corner.
+10019-8{_}249{_}Eating a Christmas Pie:     He put in his thumb     And pulled out a plum,       And said, "What a brave boy am I."
+10019-8{_}250{_}In Canto I, I have shown the varied emotions which seized the tender soul of Old Mother HUBBARD'S Dog.
+10019-8{_}251{_}Emotions so fierce in their sorrow, that they left not a single wiggle in his tail: his hopes were crushed, his expectations ruined.
+10019-8{_}252{_}In Canto II I have pictured the musical propensities of the genus _Cat_, the wandering vagaries of the moon-dane cow, the purp's withering contempt thereat, and the frisky evolutions of the dish which rolled off on its ear.
+10019-8{_}253{_}In Canto III I have portrayed the "tender passion" and its melancholy result on the hill-side--a fitting illustration of the fact that the course of true love never did run smooth, especially if there were big rocks to knock one's toes against.
+10019-8{_}254{_}And now, in Canto IV, I am about to portray childish innocence in the pursuit of bliss.
+10019-8{_}255{_}All things are graded, with the trifling exception of many of our streets.
+10019-8{_}256{_}But who cares about this grade of bliss?
+10019-8{_}257{_}I don't, and I am sure the poet didn't when he sang the lines at the head of this chapter.
+10019-8{_}258{_}Bliss is graded.
+10019-8{_}259{_}The old man in Wall street, with white hair and white necktie, and smooth polished tongue, has his degree of bliss when he is engaged in throwing stones at the Apes in the tree-top, that they may return the throw with gold cocoa-nuts.
+10019-8{_}260{_}The young lady has her degree of bliss when her waist is entwined by "Dear CHAWLES," who soothes her troubled spirit with the tender melody of "Red as a beet is she,"--alluding to her would-be rival.
+10019-8{_}261{_}The nice young man has his degree of bliss when he chews a tooth-pick--poor goose!
+10019-8{_}262{_}(not the nice young man, but the fowl which gave the quill,)--and is given a smile by a dark-eyed female in a passing stage.
+10019-8{_}263{_}And Infantdom has--But our poet beautifully illustrates this in the stanzas we have quoted.
+10019-8{_}264{_}"Little JACK HORNER,"  says he, with the easy grace of one perfectly familiar with the subject he is to treat; neither frightened at its immensity, nor putting himself in the way of a dilemma by stopping to examine details.
+10019-8{_}265{_}Little JACK was the poet's pet because he was the afflicted one of the household, and poets know full well how to sympathize with affliction.
+10019-8{_}266{_}Perhaps JACK sat down to dinner next to cross-eyed SUSAN ANN, "by Brother BILL'S gal," and perhaps JACK'S nose was tickled by a little blue-bottle, and that he sneezed right into her soup-plate; and then he was hurried from the table for blowing a fly into SUSAN ANN'S soup!
+10019-8{_}267{_}He would lose his dinner.
+10019-8{_}268{_}His napkin would miss its accustomed wash!
+10019-8{_}269{_}"Shall it be thus?
+10019-8{_}270{_}No!"
+10019-8{_}271{_}says the poet.
+10019-8{_}272{_}"Dry your tears, little JACK, go to the well-stocked pantry, my boy, and get something to eat.
+10019-8{_}273{_}The jury will not convict you of stealing, for their verdict will be that you did the deed in self-defence."
+10019-8{_}274{_}And he did--go to the closet, and--      "Sat in the corner,     Eating a Christmas Pie."
+10019-8{_}275{_}See the smiles as they wreathe themselves on his chubby countenance.
+10019-8{_}276{_}How little JACK looks at the pie!
+10019-8{_}277{_}how he turns it round and round to find the best spot whereon to begin the attack!
+10019-8{_}278{_}How he smacks his lips, and thinks how nice it would be if he _could_ wish to give SUSAN ANN a taste!
+10019-8{_}279{_}But he can't.
+10019-8{_}280{_}Suddenly an idea strikes JACK.
+10019-8{_}281{_}He has heard Uncle TOM talk of a big war between Frawnce and Proossia, and all about the soldiers and the cannon, and the big noises.
+10019-8{_}282{_}Little JACK will make war on the pie.
+10019-8{_}283{_}He will be Frawnce, the pie will be Proossia.
+10019-8{_}284{_}He sets it squarely before him on the floor; rolls up his sleeves, may be; his eyes sparkle with determination; he finds the most vulnerable spot in the crust; he makes one bold dive with his thumb, it goes down, down down, crushing everything before it; it feels something; renewed vigor flows through JACK'S veins, and gives him new strength for the attack; victory crowns him; and, in the words of the poet,      "He pulled out a plum,     And said, 'What a brave boy am I.'"
+10019-8{_}285{_}--Now he is happy.
+10019-8{_}286{_}He has realized his fondest hopes.
+10019-8{_}287{_}The blue-bottle has no tickle for him now.
+10019-8{_}288{_}He was Frawnce and he has licked Proossia.
+10019-8{_}289{_}There is nothing left but the plate, and his teeth are not hard enough for that.
+10019-8{_}290{_}*       *       *       *       *  "Hooray for the Impurrur!"
+10019-8{_}291{_}The ardor with which our Milesian element embraces the cause of France furnishes a puzzle for many thoughtful minds; and yet its solution is simple.
+10019-8{_}292{_}In planning a passage of the Rhine, LOUIS NAPOLEON proposes to BRIDGET.
+10019-8{_}293{_}That's all.
+10019-8{_}294{_}*       *       *       *       *  A Roland for his Oliver.
+10019-8{_}295{_}OLIVER DYER, of the _Sun_, is the original "Dyer Necessity that knows no law."
+10019-8{_}296{_}*       *       *       *       *  OUR PORTFOLIO.
+10019-8{_}297{_}And now comes to light another divorce case in Chicago.
+10019-8{_}298{_}Mrs. HUGG sues Mr. HUGG for a decree _e vinculo matrimonii_.
+10019-8{_}299{_}If there is anything in a name, no one will gainsay the observation that if hugging has lost its charm, Mrs. HUGG is the last person to make a fuss about it.
+10019-8{_}300{_}She took her HUGG with a full knowledge of the circumstances, and it is contrary to public policy and good morals that her plea of "hugged out" should enable her to obtain the remedy which she seeks.
+10019-8{_}301{_}In France they do not wait for the completion of the years of adolescence to dub a scion of the royal family with the title of "man."
+10019-8{_}302{_}The Prince Imperial, prior to his departure for the wars, was presented at Court as the "first gentleman" of France.
+10019-8{_}303{_}For a youth of fourteen he is said to have gone through the trying ceremonies with great credit until directed by his mamma to dance with a venerable female of noble blood, just as he was about to lend a beautiful American miss through the mazes of a Schottische.
+10019-8{_}304{_}The son of his father took one glance at the ancient dame, and one at the lovely creature beside him, and then set up a right royal blubber of disappointment.
+10019-8{_}305{_}"Remember, my son," said EUGENIE, "you are a man now, and men never cry."
+10019-8{_}306{_}"Oh!
+10019-8{_}307{_}mamma," sighed the afflicted Prince, "let me be a boy again, rather than dance with _cette vieille_ yonder!"
+10019-8{_}308{_}Alas!
+10019-8{_}309{_}for the ambition of monarchs, who put forward their beardless progeny to do the deeds of men, and to suffer with men's fortitude, when they are more fit to be puling in a nurse's arms, or unravelling silk skeins for some maid of honor.
+10019-8{_}310{_}*       *       *       *       *  THE WATERING PLACES.
+10019-8{_}311{_}Punchinello's Vacations.
+10019-8{_}312{_}It was hot when Mr. PUNCHINELLO started for Niagara.
+10019-8{_}313{_}So hot that no allusions to Fahrenheit would give an idea of the tremendous preponderance of caloric in the atmosphere.
+10019-8{_}314{_}The trip was full of discomforts, and there was great danger, at one time, that the train would arrive at Niagara with a load of desiccated bodies.
+10019-8{_}315{_}Of course the water all boiled away in the engine-tanks, causing endless stoppages; and of course the hot sun, pouring directly upon the roof of the cars, caused the boards thereof to curl up and twist about in such fantastic fashion, that they afforded no protection whatever to the passengers, who were obliged to resort to sunshades and umbrellas, or get under the seats.
+10019-8{_}316{_}Added to this were the facts that the ice-water in the coolers scalded the mouth; the brass-work on the seats blistered the hands; and the empty stoves, almost red-hot from their exposure to the sun, superheated the cars to a degree that was maddening.
+10019-8{_}317{_}Added to these was the fact that the intense heat expanded the rails until they were several miles longer than usual, and thus the passengers suffered the tortures of the transit for an increased length of time.
+10019-8{_}318{_}When, at last, Mr. P. was conveyed, in a stifling hack, (the fare had risen, under the unusual circumstances, about one hundred and ten degrees,) to a stifling little room under the hot roof of an hotel exposed to the sun on every side, and had taken an extempore Russian bath while changing his linen, and had partaken of a hot dinner, he might have been excused for saying that he would like to cool off a little.
+10019-8{_}319{_}Inquiring if there was any stream of water convenient, he was directed to the river Niagara, which runs hard by the hotel.
+10019-8{_}320{_}Reaching the banks of the river, Mr. P. was very much pleased by the prospect.
+10019-8{_}321{_}There is a considerable depression in the bed of the stream at one point, and the water runs over the rocks quite rapidly, carrying with it such leaves, twigs, steamboats or other objects that may be floating upon its surface.
+10019-8{_}322{_}Mr. P. immediately perceived the advantages of this condition of things to a a gentleman suffering from the heat, and procuring a boat, he rowed close to the foot of a cascade formed by the inclination in the bed of the river, and throwing out his anchor, revelled in the luxury of the cool spray and the refreshing sound of the rushing water.
+10019-8{_}323{_}[Illustration]  Does not this look cool?
+10019-8{_}324{_}When sufficiently refreshed, Mr. P. rowed to shore, feeling like another man.
+10019-8{_}325{_}With the greatest confidence in its merits, he recommends his plan to those who may be suffering from the summer heat.
+10019-8{_}326{_}After breakfast the next morning, Mr. P. set out to see what he could see.
+10019-8{_}327{_}He did not engage the services of any hackman or professional guide.
+10019-8{_}328{_}He had heard of their extortions, and determined to submit to nothing of the kind.
+10019-8{_}329{_}He intended relying entirely upon himself.
+10019-8{_}330{_}He walked some distance without meeting with any of the places of interest of which he had heard so much.
+10019-8{_}331{_}Meeting at length with a respectable elderly gentleman, Mr. P. inquired of him the way to the Cave of the Winds.
+10019-8{_}332{_}"The Cave of the Winds?
+10019-8{_}333{_}Ah!"
+10019-8{_}334{_}said this worthy person.
+10019-8{_}335{_}"You turn to your left here, sir--ah!
+10019-8{_}336{_}and then you keep on for about--ah!
+10019-8{_}337{_}half a mile, and you will--ah!
+10019-8{_}338{_}see a gate--ah!
+10019-8{_}339{_}Behind that is a man and the cave--ah!"
+10019-8{_}340{_}Mr. P. thanked him and was proceeding on his way, when the worthy citizen touched him on the arm, saying:  "Twenty-one dollars, if you please, sir."
+10019-8{_}341{_}"Twenty-one dev----developments!"
+10019-8{_}342{_}cried Mr. P; "Why, what do you mean?"
+10019-8{_}343{_}"Information, sir; fifty cents a word; forty-two words; twenty-one dollars."
+10019-8{_}344{_}It must not be supposed that Mr. P. submitted tamely to this outrage, but after a long dispute, it was agreed to refer the matter to the arbitration of three of the principal citizens.
+10019-8{_}345{_}They promptly decided that the charge was just and must be paid, but, owing to Mr. P.'s earnest protestations, they agreed to throw out the "ahs," as being of doubtful value as information.
+10019-8{_}346{_}The sum thus saved to Mr. P. exactly paid for drinks for the party.
+10019-8{_}347{_}Mr. P. now very sensibly concluded that it was about time to leave, if his editors, his printers, and the employés in his pun-factory were to expect any pay that week, and so he set out for home in the evening, taking a shortcut by the way of Montreal.
+10019-8{_}348{_}He thought that a day might be very profitably spent here, especially if he could fall in with any of the French-Canadians, of whose peculiarities he had heard so much.
+10019-8{_}349{_}The study of human nature was always Mr. P.'s particular forte.
+10019-8{_}350{_}On the morning of his arrival, Mr. P. met, in the dining-room of the hotel, a gentleman who was unmistakably a Frenchman, and being in Canada, was probably Canadian.
+10019-8{_}351{_}As they were sitting together at the table, Mr. P., having mentally rubbed up his knowledge of the French language, addressed his companion thus:  "_Avez-vous le chapeau de mon frere?_"  The gentleman thus politely addressed, bowed, smiled, and after a little hesitation answered:  "_Non, Monsieur; mais jài le fromage de votre soeur._"  "_Eh bien_" said Mr. P., as he scratched his head for a moment.
+10019-8{_}352{_}"_Otez vous vos souliers et vos bas?_"  The other answered promptly, "_Je n'ote ni les uns ni les autres._"  "_Votre père,_" remarked Mr. P., "_a-t-il la chandelle de votre oncle?_"  His companion remained silent for a minute or two, and then he said:  "I forget the French of the answer to that, but I know the English of it; it is 'no, sir, but he has the apples-of-the-ground-of-sugar of my mother-in-law.'"
+10019-8{_}353{_}When Mr. P. discovered, after a little conversation in the vernacular, that his companion was a New York dry-goods clerk, he gave up the study of the French-Canadian character and went on with his breakfast.
+10019-8{_}354{_}When he went out into the streets to see the lions of the city he was delighted to meet with some old friends.
+10019-8{_}355{_}In company with them he visited the Government House; the Cathedral; the Statue of NELSON; the VICTORIA bridge; and everything else of interest in the place.
+10019-8{_}356{_}But nothing was so delightful to him as the faces of these old friends, from whom he had been separated so long.
+10019-8{_}357{_}*       *       *       *       *  [Illustration: When, at last, they left him, he returned sadly to New York.]
+10019-8{_}358{_}*       *       *       *       *  IDIOTIC ITEMS.
+10019-8{_}359{_}On Tuesday last one of the swans in Central Park laid a hen's egg.
+10019-8{_}360{_}A celebrated English professor of heraldry is now at Long Branch, studying the crests of the waves.
+10019-8{_}361{_}Dr. LIVINGSTONE is no longer a white man.
+10019-8{_}362{_}The large colored princess whom he has been compelled to marry has beaten him black and blue.
+10019-8{_}363{_}Louis NAPOLEON'S first bulletin about the war was the bullet in the pocket of NAP Junior.
+10019-8{_}364{_}An intelligent cordwainer of this city has invented a bathing shoe to fit the under-toe at Long Branch.
+10019-8{_}365{_}The lock of the writing-desk made with his own hands by LOUIS NAPOLEON, at Hoboken, has been presented to the Empress EUGENIE by a gentleman residing at Union Hill, in exchange for a lock of her Majesty's hair.
+10019-8{_}366{_}Yesterday, while three eminent Wall street brokers--names, BROWN, JONES, and ROBINSON--were engaged in watering stock, they fell in and were drowned.
+10019-8{_}367{_}Loss fully covered by insurance.
+10019-8{_}368{_}CARL FORMES is oddly reported to have lost his Bass voice through over indulgence in lager-beer.
+10019-8{_}369{_}He drank a barrel of beer a day, and his voice has now become a barrel organ.
+10019-8{_}370{_}In France the _Marseillaise_ has become the national Him; while, in Prussia, BISMARCK is decidedly the national Herr.
+10019-8{_}371{_}A French paper has an article respecting certain musical fishes found in the Indian Seas, They ought to be engaged for PIKE'S Opera House.
+10019-8{_}372{_}The annual panther, weighing 8 ft., 9 inches, from snout to tip of tail, and measuring 213 lbs., has just been killed in the Adirondacks by a reporter.
+10019-8{_}373{_}*       *       *       *       *  POLITICAL CLAPTRAP.
+10019-8{_}374{_}The sympathy exhibited by the _Sun_ reporters and editors for the unhappy victim of Ogre Tammany is particularly touching.
+10019-8{_}375{_}Association with the Wickedest Man in New York, the Honorable JOHN ALLEN, _protégé_ of the Reverend OLIVER DYER, has evidently demoralized the pure beings who control the immaculate sheet known as the _Sun_, whose putrescent light "shines for all."
+10019-8{_}376{_}These panders to the depraved taste of a depraved portion of the community, may exult in the spectacle presented in the City of New York on Sunday, the 7th inst., but is it not a sorrowful thing in a so-called Christian land to see a murderer borne with triumph to his grave, while pseudo philanthropists deck his bier with flowers, and deliberately charge a great political party with having hunted the wretched man to his death?
+10019-8{_}377{_}Was there no nobler game worth the killing by Tammany?
+10019-8{_}378{_}Was there not a "stag of Ten" to be found, to be struck, if party necessities required it?
+10019-8{_}379{_}Would OAKEY HALL and PETER B. SWEENY put such a slight upon these bastard allies of the O'BRIENS and MORRISSEYS whose columns are open to the highest bidder, and whose lips reek venom while their hands are ever ready to strike a victim in the back, as to pass them by while they were on the war-path?
+10019-8{_}380{_}But hold--perhaps we have a clue to this singular conduct of the Tammany warriors.
+10019-8{_}381{_}They may have foreseen how apt the sweet people are to confer immortality upon those whose death becomes them better than their life, and therefore wisely forebore to disturb those blissful with murderers and felons which seem to bind the Satellites of the _Sun_ and the denizens of the Tombs together.
+10019-8{_}382{_}*       *       *       *       *  SUMMER ON THE CATSKILLS,  BY REGALIA REYNA.
+10019-8{_}383{_}I.      O thou Mount Katskill!
+10019-8{_}384{_}whom I now survey     In roseate brightness of the new-born day,     To thee my thankfulness I would convey,           For self and crowd;     Who from the glare and hum of hot           Financial lives,     Have sought repose upon thy wondrous crest, and           Brought our wives--     I gaze upon thy placid brow, where storms do           Reckless rage,     Forgetful of the storms of life, and Mister           BEACH's stage.
+10019-8{_}385{_}II.
+10019-8{_}386{_}I gaze upon thy beauteous vistas           Far and wide;     I see the day-break beautifully paint thy           Rugged side:     I see AURORA show the panorama           Night did hide:     I see the lazy Hudson grad-u-           Ally glide,     Reluctant to abandon thee, and seek           The salt sea tide.
+10019-8{_}387{_}I think almost excusingly of that tough           Two dollar ride;     And only for my wallet's sake, I longer           Would abide.
+10019-8{_}388{_}III.
+10019-8{_}389{_}Nature has kindly gifted thee with meadow,           Lake and dell,     And for the Falls of Kauterskill I know no           Parallel:     Humanity has crowned thee with this festive           Gay Hotel,     Where Fame and Fashion eager wait to hear           Thy dinner bell:     O Mount!
+10019-8{_}390{_}O view!
+10019-8{_}391{_}thy beauties now I can no           Longer tell,     For, after breakfast, I must say--O Katskill!
+10019-8{_}392{_}Fare thee well!
+10019-8{_}393{_}And leave thee--in one of those abominable stages,           "which I wish it"               Was in H------eaven!
+10019-8{_}394{_}*       *       *       *       *  Extraordinary Ledger-demain.
+10019-8{_}395{_}The Soldiers' Monument at Cambridge is the result of the combined efforts of CYRUS and DARIUS COBB, whereas, SYLVANUS, alone and unassisted, is able to raise, every week, a tall column on the surface of the _N.Y.
+10019-8{_}396{_}Ledger._         *       *       *       *       *  Censor of the Press.
+10019-8{_}397{_}The unfortunate official who sought reliable information, the other day, respecting the age and immense property possessions of PUNCHINELLO, on comparing his notes subsequently, remarked to a friend that he felt as if he had temporarily lost his Census.
+10019-8{_}398{_}*       *       *       *       *  Appropriate.
+10019-8{_}399{_}DANA, of the _Sun_, is about to open an undertaker's establishment for the arrangement of murderer's obsequies.
+10019-8{_}400{_}Motto--"Pinking done here."
+10019-8{_}401{_}*       *       *       *       *  The Wrong Mouth.
+10019-8{_}402{_}A LITTLE Fourth-of-Julyer in Pittsburgh, going along with his mouth open, (after the manner of boys), caught a fire-cracker therein, just as the cracker was going off.
+10019-8{_}403{_}He had often had crackers in his mouth, but preceding ones had proved nourishing and non-explosive; whereas, this cracker was quite the reverse.
+10019-8{_}404{_}As a consequence, the boy has lost his voice, but (what is curious, certainly,) is otherwise all sound.
+10019-8{_}405{_}Were we certain that heaving a fire-cracker into an open mouth would always produce such a result, we should certainly hire some one to shut up the noisier of our public nuisances--such as G.F.
+10019-8{_}406{_}TRAIN, and several members of Congress.
+10019-8{_}407{_}This could be easily done, as their mouths are always open, and usually are very large ones.
+10019-8{_}408{_}We invite proposals from boys, relating to next season's operations.
+10019-8{_}409{_}*       *       *       *       *  Theft Extraordinary.
+10019-8{_}410{_}A weekly journal gravely informs a correspondent that "the line, 'A thing of beauty is a joy forever,' occurs in TUPPER's _Proverbial Philosophy_."
+10019-8{_}411{_}Shades of the poets!
+10019-8{_}412{_}More than fifty years ago, JOHN KEATS commenced a poem called "Endymion," with that very line.
+10019-8{_}413{_}To think that he should have gone and borrowed it from TUPPER!
+10019-8{_}414{_}*       *       *       *       *  Politician's Plant.
+10019-8{_}415{_}See WEED.
+10019-8{_}416{_}*       *       *       *       *  [Illustration:  THE LATEST MELODRAMATIC DODGE OF A PLAYED-OUT POLITICIAN.
+10019-8{_}417{_}PROMPTER DANA, OF THE "SUN," GIVES THE CUE TO A _REAL_ SKELETON.]
+10019-8{_}418{_}*       *       *       *       *  Conversion of the "Sun."
+10019-8{_}419{_}It was said of Bishop COLENSO that he "undertook to convert a Zulu Kaffir, but the Z. K. converted him."
+10019-8{_}420{_}Such a circumstance may be fallen upon without going so far as Africa to seek for it.
+10019-8{_}421{_}JOHN ALLEN, of Water Street, was, once upon a time, the Zulu Kaffir of DANA of the _Sun_ and his fascinating Satellite, OLIVER DYER.
+10019-8{_}422{_}The ways of JOHN ALLEN were very wicked when these pious missionaries threw themselves upon his trail, and tried to convert him.
+10019-8{_}423{_}Perhaps the reformatory effort was well meant; but, alas!
+10019-8{_}424{_}for the feebleness of all human arrangements--JOHN ALLEN remains the reprobate he was, while he to his flock has brought DANA, the _Sun_ man, and DYER, the Satellite man, converts to the Allenian theory that money made from dirt is the only healthful stimulant to virtuous toil.
+10019-8{_}425{_}And so it was that DANA the devout, and DYER the saintly, went forth to convert the Zulu Kaffir of Water Street, and the Z. F. converted them.
+10019-8{_}426{_}*       *       *       *       *  Ready for Another Heat.
+10019-8{_}427{_}The horses of PHOEBUS.
+10019-8{_}428{_}*       *       *       *       *  A Royal Game.
+10019-8{_}429{_}The ex-queen of Spain fears that ALFONSO will be "euchred."
+10019-8{_}430{_}She remarked to him recently, Play you're king.
+10019-8{_}431{_}*       *       *       *       *  CONTEMPORARY SENTIMENTS,  On the Great War Question.
+10019-8{_}432{_}"WILLIAM'S my man!"
+10019-8{_}433{_}cries one enthusiast,--       "He'll be in Paris, _sure_, within ten days!"
+10019-8{_}434{_}"'Paris' your Granny!"
+10019-8{_}435{_}cries one just as fast;       "'Ere that, man!
+10019-8{_}436{_}you'll see Berlin in a blaze!"
+10019-8{_}437{_}"France has the finest soldiers ever seen!"
+10019-8{_}438{_}Says one who knows; "they never can be beat!"
+10019-8{_}439{_}One who knows also, says, "the French are green!
+10019-8{_}440{_}Their only real strength is in their fleet!"
+10019-8{_}441{_}"Oh, hang their fleet!"
+10019-8{_}442{_}exclaims another man;       "It's useless now,--it has no work to do!
+10019-8{_}443{_}But let France use her navy all she can,       You'll see if Prussia doesn't put her through!"
+10019-8{_}444{_}"Prussia ain't able!"
+10019-8{_}445{_}cries an eager one:       "Let her drink all the lager in her shops,     She'll find the little job is not yet done,       For all there's such enormous strength in hops!"
+10019-8{_}446{_}"And if there's any danger comes to France,"       Remarks the seventh man, "_Ireland_ will arise!"
+10019-8{_}447{_}"And if she does, old England will advance!"
+10019-8{_}448{_}The eighth (an Englishman,) with pride replies.
+10019-8{_}449{_}And so they have it hot, for half a day,--       First A., then B., then C. and D. at once,     And thus the precious moments roll away,       And none can tell who is the greatest dunce.
+10019-8{_}450{_}*       *       *       *       *  The Aldermen to their Dinner.
+10019-8{_}451{_}Gorge us!
+10019-8{_}452{_}*       *       *       *       *  [Illustration: THE OVATION OF MURDER.
+10019-8{_}453{_}_The Devil, (soliloquizing.
+10019-8{_}454{_})_ "NEW YORK'S THE PLACE FOR ME!
+10019-8{_}455{_}THIS IS WHAT I CALL _REAL_ ENJOYMENT--A MURDERER'S FUNERAL PROCESSION GRANDER FAR THAN THAT OF ANY GREAT AND GOOD CITIZEN, AND THIS IN A CITY OF SUNDAY-SCHOOLS AND CHURCHES!".
+10019-8{_}456{_}_(The Devil's Walk: Sunday, August 7, 1870.
+10019-8{_}457{_})_]         *       *       *       *       *  HIRAM GREEN AT THE FEMALE CONVENTION.
+10019-8{_}458{_}The Cardiff Giant and other Fossils at Saratoga.
+10019-8{_}459{_}"Duble, duble, heaps of truble,       Wimmen's rites will bust the bubble."
+10019-8{_}460{_}SHAKESPEAR.
+10019-8{_}461{_}(WM.)
+10019-8{_}462{_}The wolves in sheeps clothin' convenshed agin for an annual rippin' up of things, at Saratogy.
+10019-8{_}463{_}The undersined, in custody of the undersined's wife, who is a Hicockalormn of the Skeensboro Sore-eye-sisses, was present at the singin' of the above selection from the defunct bard.
+10019-8{_}464{_}Male and femail wimmen was there dressed emblamatical of their callin'.
+10019-8{_}465{_}"Black folks and white       With red hair and gray,       Mingled for a fite       In Sar-a-to-ga."        SHAKESPEAR & GREEN.
+10019-8{_}466{_}SOOZAN B. ANTHENY was scrumpshusly ragged out in broad-cloth.
+10019-8{_}467{_}A turkish towellin' vest-pattent lether butes and silk hat, completed her _Toot in cymbals_.
+10019-8{_}468{_}ERNEST L. ROZE wore a nobby scotch cassimer soot.
+10019-8{_}469{_}She carried a cane and wore her hair parted in the middle.
+10019-8{_}470{_}Mrs. RUBE PHENTON--MARTHY WRITE--O'LIMPING BROWN--SARY FILLEO--Mrs. DEXTER NOLTON--LILLY DEVERS BLAKE--SARY HALLEK--FEBEE CAREY, and other prominent Fireside agitaters and Herthstun depopulaters, were becominly araid, and did gustise to their tailors.
+10019-8{_}471{_}PHREDRICK DOUGLIS, a firey broonet from Rochester, looked bewitchin' in a _more anteek_ silk dress.
+10019-8{_}472{_}A camels hair overskirt hung grasefully over his loins.
+10019-8{_}473{_}Peepin' out from beneath his robes, was a delicate little foot, encased in a flesh cullered pair of No.
+10019-8{_}474{_}11 buckskin mocasins.
+10019-8{_}475{_}His hair was done up in a 2 bushel waterfall, and was frizzled all over, _a lar Ethiope_.
+10019-8{_}476{_}EDWIN A. STUDWELL, of Brooklyn, looked stunnin' in a granny Dean walkin' dress and red cotton umbreller.
+10019-8{_}477{_}His back hair was tempestously arranged.
+10019-8{_}478{_}A couple of bolony sassiges, in a hily chawed up state, hung pendent from the aft of his gorgeous waterfall, and dangled to his heels, _a lar cheapee John_,  When approached by that great captivater of susseptible hearts (?)
+10019-8{_}479{_}SOOZAN B. ANTHENY, ED blushed like a red-headed woodpecker, and hid his modesty behind a $4.00 palm leaf fan.
+10019-8{_}480{_}STEVE GRISWOLD, DAN KETCHAM and a few other manikins, was dressed accordin' to the prevailin' fashions of the feminin sects.
+10019-8{_}481{_}A good cleen shave would have completed their disgize, and folks woulden't have had a suspicion but what they was what they was actin' to be.
+10019-8{_}482{_}I was shocked to hear one audacious retch remark:  "Them chaps look like a lot of hen-peckt broken furniture."
+10019-8{_}483{_}"Come, sisters, cheer we up his sprites     And show the best of femail spites,     So teach that horrid critter, man,     We'll swaller him hul, when ere we can."
+10019-8{_}484{_}1ST WITCH.
+10019-8{_}485{_}SOOZAN B. was elected chairman.
+10019-8{_}486{_}On takin' her seat she said:  "My femail friends by birth, and my femail friends by brevet;"  "We have convenshed for the purpuss of having our rites redressed----"  A voice: "Haden't you better go home and redress yourselves first?"
+10019-8{_}487{_}The whole convention was onto their feet in a second, while the chairman fell into her seet and regained her composure, by takin' a good helthy pinch of scotch snuff.
+10019-8{_}488{_}Quiet bein' restored, a Mrs. GAGE riz to her feet, and, removin' a chew of tobacker from her mouth, read the follerin' resolutions:  Whereas: 2 National Wimmen's Suffrage Circus are industrously plyin' their vocation.
+10019-8{_}489{_}Whereas: A effort is afoot to jine 'em together under the same tent.
+10019-8{_}490{_}Now be it resolved: We don't perceeve it in them sunbeams.
+10019-8{_}491{_}The New York State Suffrage Circus is able to paddle her own stone bote.
+10019-8{_}492{_}Bosting to the contrary not-with-out-standin'-up.
+10019-8{_}493{_}Resolved finally: We is the original JACOBS, and if Bosting don't like the cut of our Jib, let her lump it.
+10019-8{_}494{_}(Grate applaws.)
+10019-8{_}495{_}A strange lookin' woman, who wore a swaller tail cote, red the follerin resolutions:  Whereas: Woman has a spear, it hain't to cook vittles--darn stockin's--tend baby and try to make her husbin happy.
+10019-8{_}496{_}Whereas: Man is a brute--woman an angle.
+10019-8{_}497{_}Man can vote--woman can't.
+10019-8{_}498{_}Resolved: That as long as man won't give us the ballit, that after Jan., 1871, every mail brat that comes squawkin' into the world, be smothered the minnit he is borned.
+10019-8{_}499{_}Resolved: That when the mail rase is extinguished, the superior critter, woman, take peaceable possession of the ballit box.
+10019-8{_}500{_}These resolutions was vociferously cheered, Mrs. GREEN becomin' so exsited that she whacked me over the head with her parasol in a most ongentlemanly manner.
+10019-8{_}501{_}(N.B.--I would heer state that I'me a Resistanter agin femail suffrage.
+10019-8{_}502{_}Give woman the 16th Commendment and we can cry "peece" ontil our wind-pipes are collored, but not a darned bit of peece will we git, except occashunly a peece is nockt off of our snoot, for refusin' to get up early Monday mornin's to do the washin'.)
+10019-8{_}503{_}At the above juncture of the proceedin's, the Cardiff Jiant, who is spendin' the summer at this selebrated waterin' place, entered the room.
+10019-8{_}504{_}The old feller had heard of this grate Fossil Convenshun.
+10019-8{_}505{_}As the distinguished fraud entered the room, cheers filled the air.
+10019-8{_}506{_}Members in exstasy jumped up onto the benches--stood on their heads--threw their false teeth all about the floor, and acted like a lot of Rocky Mountain injuns, chock full of New England rum.
+10019-8{_}507{_}Silents was restored by tossin' a live man to the exsited Amazons, whom they tore to peeces, partly satisfyin' their cravin' appetites.
+10019-8{_}508{_}Old GIPSUM then _oratoricised_ as viz.
+10019-8{_}509{_}:  "Feller Fossils: This is indeed the most momentous event I've attended since I left Onondagar.
+10019-8{_}510{_}"When COTTON MATHER came over in the Grate Eastern, he sent out a dove to see if the Pilgrims, would allow her to pick any flowers off of Plymouth Rock.
+10019-8{_}511{_}"What was the result of that experiment?
+10019-8{_}512{_}"Why, the dove coulden't find any rest for the soul of her shoo; for Plymouth Rocks were thicker than Cardiff Jiants.
+10019-8{_}513{_}That base man, BARNUM, had taken plaster casts of the old rock, and there wasen't a town along the coast, but what had its 'original Plymouth Rock.'
+10019-8{_}514{_}"The dove, not bein' a good judge of genuine stuns, made her "Shoo fly" back to the old ark, and told her tail.
+10019-8{_}515{_}Therefore, I ask as a personal favor, seein' that BARNUM sarved me same's he did old Plymouth Rock, that when this august assemblage of Fossilized human bein's comes down onto the mail portion of the U.
+10019-8{_}516{_}States, old P.T.
+10019-8{_}517{_}be turned over to us.
+10019-8{_}518{_}I'le make him think he's got straddle his wooly hoss, and an army of mermades was after him with red hot pitchforks.
+10019-8{_}519{_}"Grant me this favor, and when the fite of the Amazons begins, you can count on me to hold your bonnets."
+10019-8{_}520{_}Amid tremenjus applaus old Fort Dodger squatted.
+10019-8{_}521{_}Letters were then read from the Cohoes Mastodon--ARTEMAS WARD'S wax figgers--the wooly hoss--a miselaneous lot of Egipshun Mummies, and THEODOR TILTIN--regrettin' their inability to attend the Fossil Convention.
+10019-8{_}522{_}HORRIS GREELY was then anathemized, BEN BUTLER--Senator WILSON--and GEO.
+10019-8{_}523{_}FRANCIS TRAIN Ulogized.
+10019-8{_}524{_}Resolutions were offered that Congressman MORRISEY be pulverized, by some talented femail startin' a opposition club house, employin' none but Tigers of the gentle sects.
+10019-8{_}525{_}After a few more summer complaint speeches agin that Horrible!
+10019-8{_}526{_}Bloodthirsty!
+10019-8{_}527{_}2 legged Monkster, MAN!!
+10019-8{_}528{_}the annual Hen convention of Antideluvian Fossils tide up their bonnet strings--took their husbans under their off arm--walked down to Congress Spring.
+10019-8{_}529{_}The witches who dipp up the mineral fluid danced about the cauldron, while the President of the company spyin' the Femails approachin' remarked:      "By the prickin' of my thumb     Somethin' wicked this way comes."
+10019-8{_}530{_}The above, Friend PUNCHINELLO, was as seen by,  Ewers faithfully,  HIRAM GREEN,  _Lait Gustise of the Peece_.
+10019-8{_}531{_}*       *       *       *       *  Birds of Passage.
+10019-8{_}532{_}The African ostrich is sometimes trained to carry passengers on his back, but the player of "our national game" is often seen "going out on a Foul."
+10019-8{_}533{_}*       *       *       *       *  [Illustration: A VERY NECESSARY PRECAUTION.]
+10019-8{_}534{_}*       *       *       *       *  BLOCKS AND BLOCKHEADS.
+10019-8{_}535{_}Mr. Punchinello: As the acknowledged redresser of American wrongs and the enemy of public nuisances, we beg your attention to a vice which seems to be upon the increase, and which grows in strength with what it feeds upon.
+10019-8{_}536{_}As the vice in question appears to be upon the increase, and to fascinate its victims by the allurements of the excitement, we consider it worthy of PUNCHINELLO'S lance, or, in other words, of being transfixed upon PUNCHINELLO'S quill.
+10019-8{_}537{_}We refer to the loafing which invariably takes place upon the occasion of the relaying of the wooden pavement.
+10019-8{_}538{_}I say wooden more particularly, inasmuch as new fangled varieties of pavement, such as Concrete, Nicholson, etc., although they have their day, cannot be said to compete for a moment in public regard with the good old fashioned kind first described.
+10019-8{_}539{_}Of all the causes that arrest public attention, surely this laying of wooden pavement is the most enduring and effectual.
+10019-8{_}540{_}People of every grade and degree make a dead halt as they approach this centre of interest, and at once settle down for a prolonged inspection of the works before them.
+10019-8{_}541{_}It is true that everybody has seen the same thing one hundred and fifty times, but this description of indulgence appears to grow by what it feeds upon, and the fascinated victim watches the operation of the workers with a gratification which knows no abatement.
+10019-8{_}542{_}The usual formula gone through upon these occasions is as follows:  Citizen approaches the scene of interest, and sees crowds of spectators upon each side; he glances at the workmen, and, after taking stock of both them and the overseer, proceeds to read the opinion of his fellows in their faces, after which he settles down in right earnest with his hands in his pockets for a prolonged stare.
+10019-8{_}543{_}This latter may continue for periods varying from ten minutes to an hour and three quarters, according to inclination or opportunity.
+10019-8{_}544{_}If the spectator is a man of business, it is just possible that he may content himself with measuring the size of the blocks with his eye, and then pass on, content to know that he, as one out of many taxpayers, is getting the value of what they are called on to pay for.
+10019-8{_}545{_}But with the mass of the onlookers, the pouring of the hot pitch into the gravelled interstices is watched with a satisfaction ever new, like that bestowed in the pantomime upon the application by the clown of the red-hot poker.
+10019-8{_}546{_}There is also the pleasure of seeing others at hard work, and the indulgence of everybody's belief (which is common to all present,) that he or she could suggest an improvement upon the work proceeding, and the manner of doing it.
+10019-8{_}547{_}Then they look at each other once more and depart contented.
+10019-8{_}548{_}Upon a moderate calculation, the amount of time devoted by human beings to this amusing study, in the City of New York, amounts to 2,450,000 hours per annum.
+10019-8{_}549{_}*       *       *       *       *  ENGLAND'S QUANDARY.
+10019-8{_}550{_}Conjecture and expectancy, O PUNCHINELLO!
+10019-8{_}551{_}have been the order of the day in this European turmoil, with regard to the position of what are called neutral Powers.
+10019-8{_}552{_}People have been looking at England with much curiosity to see what she really does intend.
+10019-8{_}553{_}With the facilities which our _special wire_ affords, I am enabled to report a highly interesting soliloquy delivered by the Rt.
+10019-8{_}554{_}Hon.
+10019-8{_}555{_}W. E. GLADSTONE, to his bed-post, at his home in Spring Gardens, London, after a hot night's debate at St. STEPHEN'S.
+10019-8{_}556{_}Our reporter concealed himself in the key-hole and took _verbatim_ notes.
+10019-8{_}557{_}As in the case of the speeches delivered by the rival monarchs to their armies, which you published a week in advance of the speeches themselves, the following can be relied on:  "I'm tired of answering questions.
+10019-8{_}558{_}Let me think awhile.
+10019-8{_}559{_}Is war the only alternative?
+10019-8{_}560{_}They blame me for not talking out.
+10019-8{_}561{_}Fools, they don't know where they stand.
+10019-8{_}562{_}At home and abroad, difficulty.
+10019-8{_}563{_}Our workmen emigrating; the Irish irreconcilable, (curse that word!)
+10019-8{_}564{_}nothing cheerful that side.
+10019-8{_}565{_}"France can rock _her_ irreconcilables to sleep to the war lullaby of that man we have so trusted only to betray us; _our_ irreconcilables only wait for war to side with our enemy.
+10019-8{_}566{_}Prussia, grasping bull-dog as she is, makes capital out of it, and calls us to her side, while our stupid people burn with a Prussian fever, which may turn to a plague to-morrow.
+10019-8{_}567{_}"Is the Prussian whom we have helped to humble to be our only ally?
+10019-8{_}568{_}Then must we write ourselves down asses in Constantinople.
+10019-8{_}569{_}"If we had some other head besides weather-cock expediency.
+10019-8{_}570{_}France has an Emperor, Prussia a King to lead them; we have a Queen who takes walks in the Isle of Wight; and her son--bah!
+10019-8{_}571{_}a _roué_ about town.
+10019-8{_}572{_}Their marriage alliances are drag-chains, not bonds of love.
+10019-8{_}573{_}Denmark does not forget our treachery in '65.
+10019-8{_}574{_}Holland is afraid of France.
+10019-8{_}575{_}We are safe from America yet.
+10019-8{_}576{_}They are too much afraid of the German vote, thank Heaven, to side with France, but "Alabama" is her watchword, and she only waits to strangle us.
+10019-8{_}577{_}LAFAYETTE and the Hessians are only memories, they have no votes.
+10019-8{_}578{_}Ah!
+10019-8{_}579{_}it was a mistake to sympathize with the South.
+10019-8{_}580{_}"Our statesmen--Heaven save the mark!--are our worst enemies.
+10019-8{_}581{_}D'ISRAELI, the Jew, doubles our difficulty by showing our weakness.
+10019-8{_}582{_}He would play the part of PITT without his brains or his chances.
+10019-8{_}583{_}Then we led, now we are dragged at the tail.
+10019-8{_}584{_}We may sign treaties, but we cannot write them.
+10019-8{_}585{_}BRIGHT would be friendly with both; GRANVILLE with neither, and thus each is offended.
+10019-8{_}586{_}It is ridiculous, and the only course left is to bluster about Belgium.
+10019-8{_}587{_}"It must be the late dinner.
+10019-8{_}588{_}There are all sorts of threatening shadows around, and but one light; that is a war flame.
+10019-8{_}589{_}Let me sleep.
+10019-8{_}590{_}To-morrow the gaping thousands will ask a sign.
+10019-8{_}591{_}It may come, but it shall be hoisted on the Rhine, and, helpless tide waiters, we cannot tell from which side it shall come.
+10019-8{_}592{_}Ah!
+10019-8{_}593{_}'Uneasy sits the man on the ministerial bench,' as SHAKESPEARE would say to-day, for the crown that he spoke of is an ornament in the tower."
+10019-8{_}594{_}REPORTER         *       *       *       *       *  Magnetic  Polish soldiers should choose the needle gun.
+10019-8{_}595{_}The needle is always true to the Pole.
+10019-8{_}596{_}*       *       *       *       *  [Illustration: A CAPITAL HINT FOR OUR STATIONARY STREET MUSICIANS, IF THEY WANT TO MAKE MONEY. ]
+10019-8{_}597{_}*       *       *       *       *  THE LEAVEN OF LEAVENWORTH.
+10019-8{_}598{_}The great West has long been famous for the loose, untrammelled freedom with which its inhabitants treat everything and everybody.
+10019-8{_}599{_}Breadth, no less than length, is a striking feature of Western settlements, and that this element is conspicuous in the journalism of those singular abodes, no less than in the social life of their inhabitants, generally, is evidenced in the following advertisement cut from "_The Times_"--a paper published at Leavenworth, Kansas:  "NOTICE TO DRIVERS OF FAST STOCK.--Hold your horses and do not drive so fast.
+10019-8{_}600{_}All gay and festive cusses caught driving faster than ordinary gait in the city, will be brought before Judge Vaughan, for instance--the fine is $20.
+10019-8{_}601{_}H. A. ROBERTSON, City Marshal."
+10019-8{_}602{_}The City Marshal of Leavenworth is clearly a pot-companion of the first (whiskey and) water.
+10019-8{_}603{_}He declines to address his fellow-citizens in the commonplace terms usually recognised in more prosaic communities.
+10019-8{_}604{_}To adopt his own style of phraseology, ROBERTSON is clearly a "gay and festive cuss."
+10019-8{_}605{_}He is a specimen brick from Kansas, and doubtless always carries one in his hat.
+10019-8{_}606{_}The expression "ordinary gait," as applied to driving in Kansas, where everybody owns "fast stock," is rather equivocal in these quieter latitudes to be sure, but we may guess that, at Leavenworth, a man who rides or drives at a pace of twenty miles an hour, is liable, "for instance," to a fine of $20, or just one dollar per mile.
+10019-8{_}607{_}Kansas maybe a very nice place to live in, for some people, but we would hardly recommend Mr. ROBERT BONNER to emigrate thither, and so risk the probability of being advertised as a "gay and festive cuss."
+10019-8{_}608{_}*       *       *       *       *  SHIP AHOY!
+10019-8{_}609{_}Of all public performers, there are none who "draw" better than the gymnasts who risk their necks by attempting hazardous feats.
+10019-8{_}610{_}The fool who attaches himself by the heels to the car of an ascending balloon is sure to have thousands of feeble-minded females waving handkerchiefs at him.
+10019-8{_}611{_}BLONDIN, the great French tomfool, brought more people to Niagara Falls to see him, possibly, add a new Fall to the prospect, than ever the Falls themselves did.
+10019-8{_}612{_}And when another donkey announces that he is going to stand upon his head on the point of a church spire, that church is sure to be thronged--outside.
+10019-8{_}613{_}These performances, and all of their sort, should be made punishable, and will probably be so when a hundred or two performers shall have been killed, in addition to those who have already suffered.
+10019-8{_}614{_}Not nearly so exciting as performances of the kind referred to, though, perhaps, quite as rash, are the ocean voyages occasionally essayed by tiny, toy ships.
+10019-8{_}615{_}One of these--the _Red, White and Blue_--is announced as about to start upon a "voyage round the world."
+10019-8{_}616{_}We wish her our best wishes, and hope she may get round in the roundest way and time.
+10019-8{_}617{_}One of her first stopping places, though, as we see, is Martha's Vineyard.
+10019-8{_}618{_}Our advice to the skipper of the toy ship, is to go no further than that delightful haven of rest.
+10019-8{_}619{_}MARTHA.
+10019-8{_}620{_}will cherish her as a chimney ornament, or give her to her kids to play with--and nobody will be hurt.
+10019-8{_}621{_}*       *       *       *       *  Two Renderings.
+10019-8{_}622{_}_Finis coronat opus:_--The end crowns the work.
+10019-8{_}623{_}_Finis coroner opus:_--There is plenty of work for the Coroner, but the "end" does not always appear to be gained.
+10019-8{_}624{_}All of which is respectfully submitted to the investigators of murder in this city.
+10019-8{_}625{_}*       *       *       *       *  The Modern Monks of La Trappe.
+10019-8{_}626{_}The Coroner, the Assistant District-Attorney, and certain other officials who have been trying the "trap" game on the witnesses examined in the NATHAN murder case.
+10019-8{_}627{_}*       *       *       *       *  Results of Silver Stock.
+10019-8{_}628{_}1.
+10019-8{_}629{_}The dream is ore.  2.
+10019-8{_}630{_}Never mined.
+10019-8{_}631{_}*       *       *       *       *  [Illustration: PUNCHINELLO CORRESPONDENCE. ]
+10019-8{_}632{_}ANSWERS TO CORRESPONDENTS.
+10019-8{_}633{_}_Englishman, London._--You have lost your wager.
+10019-8{_}634{_}Ohio is not the capital of Indiana.
+10019-8{_}635{_}_Stranger, New York City._--When you get lost in our streets and do not know where you are, it is a good plan to seek information from a policeman.
+10019-8{_}636{_}If he does not know where you are, come directly to the office of PUNCHINELLO.
+10019-8{_}637{_}_Antiquary._--"The Last of the Barons" was a term applied to an implement used by the ancient shoemakers.
+10019-8{_}638{_}The pedal members of the old English barons were of a peculiar aristocratic conformation, and lasts were made expressly for them.
+10019-8{_}639{_}This is a curious fact not generally known.
+10019-8{_}640{_}_Ploughboy_ finds the following remark in Mr. GREELEY'S thirtieth What, and asks explanation.
+10019-8{_}641{_}"So with regard to Carrots.
+10019-8{_}642{_}I have never achieved success in growing these nor Beets."
+10019-8{_}643{_}We infer that the meaning is, With regard to carrots, sow them.
+10019-8{_}644{_}"These nor Beets" are probably a new variety.
+10019-8{_}645{_}They may have come from Norfolk, but more "presumably" they were found in Alaska.
+10019-8{_}646{_}_Metaphysician, Cloudland._--Your article on the "Psychical Basis of Objective Existence" is excellent.
+10019-8{_}647{_}Look out for it in the "Juvenile Department" of our Christmas number.
+10019-8{_}648{_}_Grammarian._--The expression "We ain't got none" is manifestly incorrect.
+10019-8{_}649{_}It has two negatives.
+10019-8{_}650{_}"We ain't got any" is by far more elegant.
+10019-8{_}651{_}_Wager_ says that A. made a bet with B. that he could cut a dime in two at one stroke of his pen-knife, C. to hold the stakes.
+10019-8{_}652{_}A. took a ten-cent "scrip" and chopped it in two with his blade.
+10019-8{_}653{_}Meantime C. walked away with the stake money.
+10019-8{_}654{_}Who won?
+10019-8{_}655{_}_Answer._--The bet is off.
+10019-8{_}656{_}C. is also off, but no better, and neither A. or B. is any better off.
+10019-8{_}657{_}*       *       *       *       *  [Illustration: NOTES ON THE FERRY.
+10019-8{_}658{_}_Gushington, (with the pipe.
+10019-8{_}659{_})_ "SHE SMILED ON ONE OF US, I'LL SWEAR."
+10019-8{_}660{_}_Spindle_.
+10019-8{_}661{_}"PERHAPS; BUT WHAT'S A SMILE?
+10019-8{_}662{_}A POSITIVE NOD FOR ME, OR NOTHING!"]
+10019-8{_}663{_}*       *       *       *       *  AERATED VERBIAGE.
+10019-8{_}664{_}An Every-day Romance.
+10019-8{_}665{_}CHAPTER I.
+10019-8{_}666{_}In a room in a palatial tenement house in Avenue D, stood GILBERT FERNANDE FROU FROU SNOGGS.
+10019-8{_}667{_}G.F.F.F.S.
+10019-8{_}668{_}was rampant.
+10019-8{_}669{_}"Why?"
+10019-8{_}670{_}you say.
+10019-8{_}671{_}Gentle reader, hurry me not.
+10019-8{_}672{_}Let the tale wag on.
+10019-8{_}673{_}She was talking to her mamma.
+10019-8{_}674{_}"Now," said G.F.F.F.S., "I prognosticated that my maternal relative would become oblivions of my reiterated solicitations to perambulate the Avenue, and make the acquisition of four yards of cerulean hued ribbon," and she stamped her tiny number eights on the floor.
+10019-8{_}675{_}You will notice that, even in her anger, she did not forget her English.
+10019-8{_}676{_}"You can purchase it on the morrow," replied her mamma.
+10019-8{_}677{_}"I will not remain acquiescent.
+10019-8{_}678{_}I will promenade upon my profluence to Sixth Avenue, and purchase the ceruleous ribbon immediately," said G.F.F.F.S., putting on her waterproof and sun-bonnet.
+10019-8{_}679{_}Her mother pointed to the paternal turnip, which hung over the mantel, and showed her that old Time was "doing stunts" at 10-1/2.
+10019-8{_}680{_}But G.F.F.F.S.
+10019-8{_}681{_}was obstinate.
+10019-8{_}682{_}She put on her chignon, her curls, her breast elevator, her bustle, her high-heeled shoes, a little rouge, a little whiting and a bit of court-plaster, and sallied forth, down the dumb-waiter to the cellar, and thence, through the ash-hole, to the street.
+10019-8{_}683{_}CHAPTER II.
+10019-8{_}684{_}The deed was done!!!
+10019-8{_}685{_}The purchase was made find G.F.F.F.S.
+10019-8{_}686{_}walked towards her palatial paternal mansion.
+10019-8{_}687{_}She felt slightly timid, for, as she looked at the heavens, she saw that ARCTURUS, who had been playing tag with CASTOR and POLLUX all the evening, had reached hunk, the Great Bear.
+10019-8{_}688{_}From the astronomical knowledge which she had acquired at the Vavasour Female Academy, she knew that the paternal turnip now pointed to the witching hour of 11-1/2.
+10019-8{_}689{_}Suddenly she found herself surrounded by a party of bandits, (she thought she was in Greece, but she was only in the 19th Ward.)
+10019-8{_}690{_}They seized her.
+10019-8{_}691{_}"Not a word," said the leader.
+10019-8{_}692{_}"Your money or your life."
+10019-8{_}693{_}Now G.F.F.F.S.
+10019-8{_}694{_}had lots of life and very little money, so she could hardly determine whether to give up some of her life or all of her money.
+10019-8{_}695{_}"Illustrious banditti," said she, "the auriferous contents of my reticulated depository are notable for minuteness.
+10019-8{_}696{_}Be conservators of my pullulating existence."
+10019-8{_}697{_}"I say, TOM," said the leader, "what's her little game?"
+10019-8{_}698{_}"It sounds like Irish," said TOM.
+10019-8{_}699{_}"Hand over your stamps," said the leader.
+10019-8{_}700{_}G.F.F.F.S.
+10019-8{_}701{_}slowly drew out her net purse, when suddenly the robbers fled.
+10019-8{_}702{_}G.F.F.F.S.
+10019-8{_}703{_}felt that her hero had come, and, like all the ARAMINTAS in the novels, she fainted and was caught in the arms of--  CHAPTER III.
+10019-8{_}704{_}The author tried to persuade the editor to allow him to write "to be continued" after the last thrilling chapter, but the editor was inexorable, hence this chapter, "in the arms of"--a little red-headed policeman.
+10019-8{_}705{_}G.F.F.F.S.
+10019-8{_}706{_}smiled gently, but, as soon as she had opened her eyes, and had cast them on the red head, freckled face, pug-nose, and little eyes of MIKE MCFLYNN, she sprang to her feet.
+10019-8{_}707{_}It was better than forty gallons of hartshorn.
+10019-8{_}708{_}She had wasted a faint.
+10019-8{_}709{_}"_Perdidi animi deliquium_," said she.
+10019-8{_}710{_}"Mother of MOSES, but you was heavy!"
+10019-8{_}711{_}said MCFLYNN.
+10019-8{_}712{_}But she did not wait, and a pair of number eight shoes might have been seen by an inquisitive reporter, cutting around the corners and stamping up seven flights of stairs.
+10019-8{_}713{_}MORAL.
+10019-8{_}714{_}When the paternal turnip solemnly points to 10-1/2, G.F.F.F.S.
+10019-8{_}715{_}puts her number eights on the mantel, looks reflectively at a sore-eyed kitten, and falls into polysyllables.
+10019-8{_}716{_}*       *       *       *       *  HOMODEIFICATION.
+10019-8{_}717{_}Late advices from China convey the intelligence that the American-Chinese General WARD, who died in the service of the Celestial empire, has been postmortuarily brevetted to the rank of a "major god," and is now regularly worshipped as such by JOHN PIGTAIL.
+10019-8{_}718{_}Possibly the antithesis to this may turn up on the cards, here.
+10019-8{_}719{_}In the course of events the bronze idol to which our PHILLIPSES and SUMNERS used to bend the knee, has been prostrated from his pedestal by the Fifteenth Amendment.
+10019-8{_}720{_}Coolie labor, with its possible abuses, may engage the attention of the philanthropists, next, and we may yet behold JOHN PIGTAIL on a pedestal, in the character of an American "major god."
+10019-8{_}721{_}*       *       *       *       *  "LUCUS A NON," ETC.
+10019-8{_}722{_}In the culinary department of a newspaper we find a recipe for making "bird's nest pudding," which would surely make the pigtail of a JOHN Chinaman stick straight up on end.
+10019-8{_}723{_}The component parts of the pudding are apples, sugar, milk, five eggs, and vanilla.
+10019-8{_}724{_}Perhaps the inventor of the pudding once found a bird's nest with five eggs in it, and has thus essayed to immortalize the interesting fact.
+10019-8{_}725{_}*       *       *       *       *  Bullet Proof.
+10019-8{_}726{_}The fact of the young Prince Imperial having picked up a bullet on the field of Saarbruck is significant It proves that, like a true BONAPARTE, he is prompt to take the Lead.
+10019-8{_}727{_}+--------------------------------------------------------------+   |                                                              |   |                     A. T. Stewart & Co.                      |   |                                                              |   |                     HOUSEKEEPING GOODS.
+10019-8{_}728{_}|   |                                                              |   |             A Special Lot of IRISH DAMASK TABLE              |   |            CLOTHS in 8-4 and 8-4-4, 10-4 from $2             |   |                    and $2.50 and upwards                     |   |                                                              |   |                     5-8 DAMASK NAPKINS,                      |   |                     $1 per doz.
+10019-8{_}729{_}upward.
+10019-8{_}730{_}|   |                                                              |   |                        TABLE DAMASK,                         |   |                  40c.
+10019-8{_}731{_}per yard and upward.
+10019-8{_}732{_}|   |                                                              |   |                      HUCKABUCK TOWELS,                       |   |                  $1.50 per doz.
+10019-8{_}733{_}and upward.
+10019-8{_}734{_}|   |                                                              |   |                        PILLOW LINEN,                         |   |                 40-inch wide.
+10019-8{_}735{_}30c.
+10019-8{_}736{_}per yard.
+10019-8{_}737{_}|   |                                                              |   |                       LINEN SHEETINGS,                       |   |                 2 yards wide.
+10019-8{_}738{_}60c.
+10019-8{_}739{_}per yard.
+10019-8{_}740{_}|   |                                                              |   |                       LINEN SHEETINGS,                       |   |               2-1/4 yard wide, 70c.
+10019-8{_}741{_}per yard.
+10019-8{_}742{_}|   |                                                              |   |                       LINEN SHEETINGS,                       |   |               2-1/2 yards wide, 90c.
+10019-8{_}743{_}per yard.
+10019-8{_}744{_}|   |                                                              |   |                       LINEN SHEETINGS,                       |   |                2-3/4 yards wide, $1 per yard.
+10019-8{_}745{_}|   |                                                              |   |            A Job Lot of READY-MADE, LINEN SHEETS,            |   |               from $2.50 per pair and upward.
+10019-8{_}746{_}|   |                                                              |   |                 Fine yard-wide IRISH LINEN,                  |   |               suitable for Ladies' wear, 35c.
+10019-8{_}747{_}|   |                                                              |   |                   Extra Heavy IRISH LINEN                    |   |                  for Gentlemen's wear, 40c.
+10019-8{_}748{_}|   |                                                              |   |                    Further Reductions In                     |   |                 SUMMER QUILTS and BLANKETS.
+10019-8{_}749{_}|   |                                                              |   |                   ALL WOOL WHITE FLANNELS,                   |   |                        25c.
+10019-8{_}750{_}per yard.
+10019-8{_}751{_}|   |                                                              |   |                        A new all wool                        |   |             GRAY FLANNEL for LADIES' OVERSKIRTS,             |   |                        40c.
+10019-8{_}752{_}per yard.
+10019-8{_}753{_}|   |                                                              |   |                            TWEEDS                            |   |              for Bathing Suits, 30c.
+10019-8{_}754{_}per yard.
+10019-8{_}755{_}|   |                                                              |   |                          BROADWAY,                           |   |                                                              |   |              4th Avenue, 9th and 10th Streets.
+10019-8{_}756{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                      A. T. Stewart & Co.                     |   |                                                              |   |        Call special attention to their large and well        |   |                      selected stock of                       |   |                                                              |   |                    Domestic Cotton Goods,                    |   |                                                              |   |                        Consisting of                         |   |                                                              |   |                      BLEACHED AND BROWN                      |   |                                                              |   |                   Shirtings and Sheetings                    |   |                                                              |   |                  IN ALL THE CHOICE BRANDS;                   |   |                                                              |   |                             ALSO                             |   |                                                              |   |                      Tickings, Denims,                       |   |                                                              |   |                        ETC., ETC., AT                        |   |                                                              |   |                    EXTREMELY LOW PRICES.
+10019-8{_}757{_}|   |                                                              |   |                          BROADWAY,                           |   |                                                              |   |              4th Avenue, 9th and 10th Streets.
+10019-8{_}758{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                      A. T. STEWART & CO.                      |   |                                                              |   |                         ARE OFFERING                         |   |                                                              |   |                   IRISH AND FRENCH POPLINS                   |   |                                                              |   |                     At very Low Prices.
+10019-8{_}759{_}|   |                                                              |   |                  MERINO AND EMPRESS CLOTHS                   |   |                                                              |   |                          IN CHOICE                           |   |                                                              |   |                   FALL AND WINTER COLORS,                    |   |                                                              |   |                       75c.
+10019-8{_}760{_}and upward.
+10019-8{_}761{_}|   |                                                              |   |                       ALL WOOL SERGES                        |   |                                                              |   |         75c.
+10019-8{_}762{_}and $1 per yard, worth $1.50 and $1.75          |   |                                                              |   |                        TARTAN PLAIDS,                        |   |                                                              |   |                      IN GREAT VARIETY,                       |   |                                                              |   |                    From 35c.
+10019-8{_}763{_}and upward.
+10019-8{_}764{_}|   |                                                              |   |                           WINSEYS,                           |   |                                                              |   |                From 35 to 40 cents per yard.
+10019-8{_}765{_}|   |                                                              |   |                       ROUBAIX POPLINS,                       |   |                                                              |   |                From 25 to 40 cents per yard.
+10019-8{_}766{_}|   |                                                              |   |                          BROADWAY,                           |   |                                                              |   |               4TH AVE., 9TH AND 10TH STREETS.
+10019-8{_}767{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                          PUNCHINELLO.
+10019-8{_}768{_}|   |                                                              |   | The first number of this Illustrated Humorous and Satirical  |   | Weekly Paper was issued under date of April 2, 1870.
+10019-8{_}769{_}The     |   | Press and the Public in every State and Territory of the     |   | Union endorse it as the best paper of the kind ever          |   | published in America.
+10019-8{_}770{_}|   |                                                              |   | CONTENTS ENTIRELY ORIGINAL.
+10019-8{_}771{_}|   |                                                              |   | Subscription for one year, (with $2.00 premium,)      $4.00  |   | "           "  six months, (without premium,)          2.00  |   | "           "  three months, "         "               1.00  |   | Single copies mailed free, for                          .10  |   |                                                              |   | We offer the following elegant premiums of L. PRANG & CO'S   |   | CHROMOS for subscriptions as follows:                        |   |                                                              |   | A copy of paper for one year, and                            |   |                                                              |   | "The Awakening," (a Litter of Puppies.)
+10019-8{_}772{_}Half chromo.
+10019-8{_}773{_}|   | Size 8-3/8 by 11-1/8 ($2.00 picture,)--for            $4.00  |   |                                                              |   | A copy of paper for one year and either of the               |   | following $3.00 chromos:                                     |   |                                                              |   | Wild Roses.
+10019-8{_}774{_}12-1/8 x 9.
+10019-8{_}775{_}|   | Dead Game.
+10019-8{_}776{_}11-1/8 x 8-5/8.
+10019-8{_}777{_}|   | Easter Morning.
+10019-8{_}778{_}6-3/4 x 10-1/4--for                   $5.00  |   |                                                              |   | A copy of paper for one year and either of the               |   | following $5.00 chromos:                                     |   |                                                              |   | Group of Chickens;                                           |   | Group of Ducklings;                                          |   | Group of Quails.
+10019-8{_}779{_}Each 10 x 12-1/8.
+10019-8{_}780{_}|   | The Poultry Yard.
+10019-8{_}781{_}10-1/8 x 14.
+10019-8{_}782{_}|   | The Barefoot Boy; Wild Fruit.
+10019-8{_}783{_}Each 9-3/4 x 13.
+10019-8{_}784{_}|   | Pointer and Quail; Spaniel and Woodcock.
+10019-8{_}785{_}10 x 12--for  $6.50 |   |                                                              |   | A copy of paper for one year and either of the               |   | following $6.00 chromos:                                     |   |                                                              |   | The Baby in Trouble; The Unconscious Sleeper; The Two        |   | Friends.
+10019-8{_}786{_}(Dog and Child.)
+10019-8{_}787{_}Each 13 x 16-3/4.
+10019-8{_}788{_}|   | Spring; Summer: Autumn; 12-7/8 x 16-1/8.
+10019-8{_}789{_}|   | The Kid's Play Ground.
+10019-8{_}790{_}11 x 17-1/2--for                $7.00 |   |                                                              |   | A copy of paper for one year and either of the               |   | following $7.50 chromos                                      |   |                                                              |   | Strawberries and Baskets.
+10019-8{_}791{_}|   | Cherries and Baskets.
+10019-8{_}792{_}|   | Currants.
+10019-8{_}793{_}Each 13x18.
+10019-8{_}794{_}|   | Horses in a Storm.
+10019-8{_}795{_}22-1/4 x 15-1/4.
+10019-8{_}796{_}|   | Six Central Park Views.
+10019-8{_}797{_}(A set.)
+10019-8{_}798{_}9-1/8 x 4-1/2--for    $8.00 |   |                                                              |   | A copy of paper for one year and Six American Landscapes.
+10019-8{_}799{_}|   | (A set.)
+10019-8{_}800{_}4-3/8 x 9, price $9.00--for                   $9.00 |   |                                                              |   | A copy of paper for one year and either of the               |   | following $10 chromos:                                       |   |                                                              |   | Sunset in California.
+10019-8{_}801{_}(Bierstadt) 18-1/8 x 12                |   | Easter Morning.
+10019-8{_}802{_}14 x 21.
+10019-8{_}803{_}|   | Corregio's Magdalen.
+10019-8{_}804{_}12-1/2 x 16-3/8.
+10019-8{_}805{_}|   | Summer Fruit, and Autumn Fruit.
+10019-8{_}806{_}(Half chromos,)              |   | 15-1/2 x 10-1/2, (companions, price $10.00 for the two),     |   | for $10.00                                                   |   |                                                              |   | Remittances should be made in P.O.
+10019-8{_}807{_}Orders, Drafts, or Bank   |   | Checks on New York, or Registered letters.
+10019-8{_}808{_}The paper will be |   | sent from the first number, (April 2d, 1870,) when not       |   | otherwise ordered.
+10019-8{_}809{_}|   |                                                              |   | Postage of paper is payable at the office where received,    |   | twenty cents per year, or five cents per quarter, in         |   | advance; the CHROMOS will be mailed free on receipt of       |   | money.
+10019-8{_}810{_}|   |                                                              |   | CANVASSERS WANTED, to whom liberal commissions will be       |   | given.
+10019-8{_}811{_}For special terms address the Company.
+10019-8{_}812{_}|   |                                                              |   | The first ten numbers will be sent to any one desirous of    |   | seeing the paper before subscribing, for SIXTY CENTS.
+10019-8{_}813{_}A      |   | specimen copy sent to any one desirous of canvassing or      |   | getting up a club, on receipt of postage stamp.
+10019-8{_}814{_}|   |                                                              |   | Address,                                                     |   |                                                              |   | PUNCHINELLO PUBLISHING CO.,                                  |   |                                                              |   | P.O.
+10019-8{_}815{_}Box 2783.
+10019-8{_}816{_}|   |                                                              |   | No.
+10019-8{_}817{_}83 Nassau Street, New York.
+10019-8{_}818{_}|   |                                                              |   +--------------------------------------------------------------+  [Illustration: IMITATION THE SINCEREST FLATTERY.
+10019-8{_}819{_}_Regular Customer._ "ALONZO, BRING ME SOME BEANS AND TOMAYTESES."
+10019-8{_}820{_}_Waiter._ "YES'M.
+10019-8{_}821{_}"WILL YOU HAVE 'EM ON ONE PLATE OR ON TWO PLATESES?"]
+10019-8{_}822{_}+--------------------------------------------------------------+   |                                                              |   |          "The Printing House of the United States."
+10019-8{_}823{_}|   |                                                              |   |                    GEO.
+10019-8{_}824{_}F. NESBITT & CO.,                    |   |                                                              |   |                    General JOB PRINTERS,                     |   |                  BLANK BOOK Manufacturers,                   |   |              STATIONERS.
+10019-8{_}825{_}Wholesale and Retail.
+10019-8{_}826{_}|   |             LITHOGRAPHIC Engravers and Printers.
+10019-8{_}827{_}|   |             COPPER-PLATE Engravers and Printers,             |   |                   ENVELOPE Manufacturers,                    |   |                 FINE CUT and COLOR Printers.
+10019-8{_}828{_}|   |                                                              |   |              163, 165, 167, and 169 PEARL ST.,               |   |            73, 75, 77, and 79 FINE ST., New York.
+10019-8{_}829{_}|   |                                                              |   |       ADVANTAGES.--All at the same premises, and under       |   |          immediate supervision of the proprietors.
+10019-8{_}830{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |               Tourists and Pleasure Travelers                |   |                                                              |   | will be glad to learn that that the Erie Railway Company has |   |                           prepared                           |   |                                                              |   |         COMBINATION EXCURSION or Round Trip Tickets,         |   |                                                              |   |         Valid during the entire season, and embracing        |   |    Ithaca--headwaters of Cayuga Lake--Niagara Falls, Lake    |   |   Ontario, the River St. Lawrence, Montreal, Quebec, Lake    |   |  Champlain, Lake George, Saratoga, the White Mountains, and  |   |  all principal points of interest in Northern New York, the  |   |  Canadas, and New England.
+10019-8{_}831{_}Also similar Tickets at reduced   |   |  rates, through Lake Superior, enabling travelers to visit   |   |    the celebrated Iron Mountains and Copper Mines of that    |   | region.
+10019-8{_}832{_}By applying at the Offices of the Erie Railway Co.,  |   |    Nos.
+10019-8{_}833{_}241, 529, and 957 Broadway; 205 Chambers St.; 33     |   | Greenwich St.; cor.
+10019-8{_}834{_}125th St. and Third Avenue, Harlem; 338  |   |  Fulton St., Brooklyn; Depots foot of Chambers Street, and   |   |  foot of 23rd St., New York; No.
+10019-8{_}835{_}3 Exchange Place, and Long  |   |   Dock Depot, Jersey City, and the Agents at the principal   |   | hotels, travelers can obtain just the Ticket they desire, as |   |            well as all the necessary information.
+10019-8{_}836{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   | PRANG'S LATEST PUBLICATIONS: "Wild Flowers," "Water-Lilies," |   |                       "Chas.
+10019-8{_}837{_}Dickens."
+10019-8{_}838{_}|   |                                                              |   | PRANG'S CHROMOS sold in all Art Stores throughout the world.
+10019-8{_}839{_}|   |                                                              |   | PRANG'S ILLUSTRATED CATALOGUE sent free on receipt of stamp.
+10019-8{_}840{_}|   |                                                              |   |                   L. PRANG & CO., Boston.
+10019-8{_}841{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                         PUNCHINELLO.
+10019-8{_}842{_}|   |                                                              |   |   With a large and varied experience in the management and   |   | publication of a paper of the class herewith submitted, and  |   |  with the still more positive advantage of an Ample Capital  |   |               to justify the undertaking, the                |   |                                                              |   |                  PUNCHINELLO PUBLISHING CO.                  |   |                                                              |   |                   OF THE CITY OF NEW YORK,                   |   |                                                              |   |         Presents to the public for approval, the new         |   |                                                              |   |              ILLUSTRATED HUMOROUS AND SATIRICAL              |   |                                                              |   |                        WEEKLY PAPER,                         |   |                                                              |   |                         PUNCHINELLO,                         |   |                                                              |   | The first number of which was issued under date of April 2.
+10019-8{_}843{_}|   |                                                              |   |                      ORIGINAL ARTICLES,                      |   |                                                              |   | Suitable for the paper, and Original Designs, or suggestive  |   | ideas or sketches for illustrations, upon the topics of the  |   |  day, are always acceptable and will be paid for liberally.
+10019-8{_}844{_}|   |  Rejected communications cannot be returned, unless postage  |   |                     stamps are included.
+10019-8{_}845{_}|   |                                                              |   |                            TERMS:                            |   |                                                              |   | One copy, per year, in advance ...................... $4.00  |   |                                                              |   |  Single copies ........................................ .10  |   |                                                              |   | A specimen copy will be mailed free upon the receipt of ten  |   |                            cents.
+10019-8{_}846{_}|   |                                                              |   | One copy, with the Riverside Magazine, or any other magazine |   |     or paper, price, $2.50, for................... $5.50     |   |                                                              |   |   One copy, with any magazine of paper, price $4, for ...    |   |                            $7.00                             |   |                                                              |   |  All communications, remittances, etc., to be addressed to   |   |                                                              |   |                 PUNCHINELLO PUBLISHING CO.,                  |   |                                                              |   |                    No.
+10019-8{_}847{_}83 Nassau Street,                     |   |                                                              |   |                  P. O.
+10019-8{_}848{_}Box, 2783, NEW YORK.
+10019-8{_}849{_}|   |                                                              |   +--------------------------------------------------------------+   |                                                              |   |                 THE MYSTERY OF MR. E. DROOD.
+10019-8{_}850{_}|   |                                                              |   |                  The New Burlesque Serial,                   |   |                                                              |   |              Written expressly for PUNCHINELLO,              |   |                                                              |   |                              BY                              |   |                                                              |   |                       ORPHEUS C. KERR,                       |   |                                                              |   | Commenced in No.
+10019-8{_}851{_}11, will be continued weekly throughout the |   |                            year.
+10019-8{_}852{_}|   |                                                              |   | A sketch of the eminent author, written by his bosom friend, |   |                 with superb illustrations of                 |   |                                                              |   |    1ST.
+10019-8{_}853{_}THE AUTHOR'S PALATIAL RESIDENCE AT BEGAD'S HILL,     |   |                 TICKNOR'S FIELDS, NEW JERSEY                 |   |                                                              |   | 2D.
+10019-8{_}854{_}THE AUTHOR AT THE DOOR OF SAID PALATIAL RESIDENCE, taken |   |  as he appears "Every Saturday," will also be found in the   |   |                         same number.
+10019-8{_}855{_}|   |                                                              |   | Single Copies, for Sale by all newsmen, (or mailed from this |   |   office, free,) Ten Cents.
+10019-8{_}856{_}Subscription for One Year, one   |   |              copy, with $2 Chromo Premium, $4.
+10019-8{_}857{_}|   |                                                              |   |  Those desirous of receiving the paper containing this new   |   |    serial, which promises to be the best ever written by     |   | ORPHEUS C. KERR, should subscribe now, to insure its regular |   |                       receipt weekly.
+10019-8{_}858{_}|   |                                                              |   | We will send the first Ten Numbers of PUNCHINELLO to any one |   |    who wishes to see them, in view of subscribing, on the    |   |                   receipt of SIXTY CENTS.
+10019-8{_}859{_}|   |                                                              |   |                           Address,                           |   |                                                              |   |               PUNCHINELLO PUBLISHING COMPANY,                |   |                                                              |   |           P. O.
+10019-8{_}860{_}Box 2783.
+10019-8{_}861{_}83 Nassau St., New York            |   |                                                              |   +--------------------------------------------------------------+         *       *       *       *       *  GEO.
+10019-8{_}862{_}W. WHEAT & CO, PRINTERS, No.
+10019-8{_}863{_}8 SPRUCE STREET.
+10019-8{_}864{_}End of the Project Gutenberg EBook of Punchinello, Vol.
+10019-8{_}865{_}1, No.
+10019-8{_}866{_}22, August 27, 1870, by Various  *** END OF THIS PROJECT GUTENBERG EBOOK PUNCHINELLO, VOL.
+10019-8{_}867{_}1, NO.
+10019-8{_}868{_}22 ***  ***** This file should be named 10019-8.txt or 10019-8.zip ***** This and all associated files of various formats will be found in:         http://www.gutenberg.net/1/0/0/1/10019/  Produced by Cornell University, Joshua Hutchinson, Steve Schulze and the Online Distributed Proofreading Team.
+10019-8{_}869{_}Updated editions will replace the previous one--the old editions will be renamed.
+10019-8{_}870{_}Creating the works from public domain print editions means that no one owns a United States copyright in these works, so the Foundation (and you!)
+10019-8{_}871{_}can copy and distribute it in the United States without permission and without paying copyright royalties.
+10019-8{_}872{_}Special rules, set forth in the General Terms of Use part of this license, apply to copying and distributing Project Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm concept and trademark.
+10019-8{_}873{_}Project Gutenberg is a registered trademark, and may not be used if you charge for the eBooks, unless you receive specific permission.
+10019-8{_}874{_}If you do not charge anything for copies of this eBook, complying with the rules is very easy.
+10019-8{_}875{_}You may use this eBook for nearly any purpose such as creation of derivative works, reports, performances and research.
+10019-8{_}876{_}They may be modified and printed and given away--you may do practically ANYTHING with public domain eBooks.
+10019-8{_}877{_}Redistribution is subject to the trademark license, especially commercial redistribution.
+10019-8{_}878{_}*** START: FULL LICENSE ***  THE FULL PROJECT GUTENBERG LICENSE PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK  To protect the Project Gutenberg-tm mission of promoting the free distribution of electronic works, by using or distributing this work (or any other work associated in any way with the phrase "Project Gutenberg"), you agree to comply with all the terms of the Full Project Gutenberg-tm License (available with this file or online at http://gutenberg.net/license).
+10019-8{_}879{_}Section 1.
+10019-8{_}880{_}General Terms of Use and Redistributing Project Gutenberg-tm electronic works  1.A.
+10019-8{_}881{_}By reading or using any part of this Project Gutenberg-tm electronic work, you indicate that you have read, understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement.
+10019-8{_}882{_}If you do not agree to abide by all the terms of this agreement, you must cease using and return or destroy all copies of Project Gutenberg-tm electronic works in your possession.
+10019-8{_}883{_}If you paid a fee for obtaining a copy of or access to a Project Gutenberg-tm electronic work and you do not agree to be bound by the terms of this agreement, you may obtain a refund from the person or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+10019-8{_}884{_}1.B.
+10019-8{_}885{_}"Project Gutenberg" is a registered trademark.
+10019-8{_}886{_}It may only be used on or associated in any way with an electronic work by people who agree to be bound by the terms of this agreement.
+10019-8{_}887{_}There are a few things that you can do with most Project Gutenberg-tm electronic works even without complying with the full terms of this agreement.
+10019-8{_}888{_}See paragraph 1.C below.
+10019-8{_}889{_}There are a lot of things you can do with Project Gutenberg-tm electronic works if you follow the terms of this agreement and help preserve free future access to Project Gutenberg-tm electronic works.
+10019-8{_}890{_}See paragraph 1.E below.
+10019-8{_}891{_}1.C.
+10019-8{_}892{_}The Project Gutenberg Literary Archive Foundation ("the Foundation" or PGLAF), owns a compilation copyright in the collection of Project Gutenberg-tm electronic works.
+10019-8{_}893{_}Nearly all the individual works in the collection are in the public domain in the United States.
+10019-8{_}894{_}If an individual work is in the public domain in the United States and you are located in the United States, we do not claim a right to prevent you from copying, distributing, performing, displaying or creating derivative works based on the work as long as all references to Project Gutenberg are removed.
+10019-8{_}895{_}Of course, we hope that you will support the Project Gutenberg-tm mission of promoting free access to electronic works by freely sharing Project Gutenberg-tm works in compliance with the terms of this agreement for keeping the Project Gutenberg-tm name associated with the work.
+10019-8{_}896{_}You can easily comply with the terms of this agreement by keeping this work in the same format with its attached full Project Gutenberg-tm License when you share it without charge with others.
+10019-8{_}897{_}1.D.
+10019-8{_}898{_}The copyright laws of the place where you are located also govern what you can do with this work.
+10019-8{_}899{_}Copyright laws in most countries are in a constant state of change.
+10019-8{_}900{_}If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, performing, distributing or creating derivative works based on this work or any other Project Gutenberg-tm work.
+10019-8{_}901{_}The Foundation makes no representations concerning the copyright status of any work in any country outside the United States.
+10019-8{_}902{_}1.E.
+10019-8{_}903{_}Unless you have removed all references to Project Gutenberg:  1.E.1.
+10019-8{_}904{_}The following sentence, with active links to, or other immediate access to, the full Project Gutenberg-tm License must appear prominently whenever any copy of a Project Gutenberg-tm work (any work on which the phrase "Project Gutenberg" appears, or with which the phrase "Project Gutenberg" is associated) is accessed, displayed, performed, viewed, copied or distributed:  This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever.
+10019-8{_}905{_}You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.net  1.E.2.
+10019-8{_}906{_}If an individual Project Gutenberg-tm electronic work is derived from the public domain (does not contain a notice indicating that it is posted with permission of the copyright holder), the work can be copied and distributed to anyone in the United States without paying any fees or charges.
+10019-8{_}907{_}If you are redistributing or providing access to a work with the phrase "Project Gutenberg" associated with or appearing on the work, you must comply either with the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of the work and the Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+10019-8{_}908{_}1.E.3.
+10019-8{_}909{_}If an individual Project Gutenberg-tm electronic work is posted with the permission of the copyright holder, your use and distribution must comply with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed by the copyright holder.
+10019-8{_}910{_}Additional terms will be linked to the Project Gutenberg-tm License for all works posted with the permission of the copyright holder found at the beginning of this work.
+10019-8{_}911{_}1.E.4.
+10019-8{_}912{_}Do not unlink or detach or remove the full Project Gutenberg-tm License terms from this work, or any files containing a part of this work or any other work associated with Project Gutenberg-tm.
+10019-8{_}913{_}1.E.5.
+10019-8{_}914{_}Do not copy, display, perform, distribute or redistribute this electronic work, or any part of this electronic work, without prominently displaying the sentence set forth in paragraph 1.E.1 with active links or immediate access to the full terms of the Project Gutenberg-tm License.
+10019-8{_}915{_}1.E.6.
+10019-8{_}916{_}You may convert to and distribute this work in any binary, compressed, marked up, nonproprietary or proprietary form, including any word processing or hypertext form.
+10019-8{_}917{_}However, if you provide access to or distribute copies of a Project Gutenberg-tm work in a format other than "Plain Vanilla ASCII" or other format used in the official version posted on the official Project Gutenberg-tm web site (www.gutenberg.net), you must, at no additional cost, fee or expense to the user, provide a copy, a means of exporting a copy, or a means of obtaining a copy upon request, of the work in its original "Plain Vanilla ASCII" or other form.
+10019-8{_}918{_}Any alternate format must include the full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+10019-8{_}919{_}1.E.7.
+10019-8{_}920{_}Do not charge a fee for access to, viewing, displaying, performing, copying or distributing any Project Gutenberg-tm works unless you comply with paragraph 1.E.8 or 1.E.9.
+10019-8{_}921{_}1.E.8.
+10019-8{_}922{_}You may charge a reasonable fee for copies of or providing access to or distributing Project Gutenberg-tm electronic works provided that  - You pay a royalty fee of 20% of the gross profits you derive from      the use of Project Gutenberg-tm works calculated using the method      you already use to calculate your applicable taxes.
+10019-8{_}923{_}The fee is      owed to the owner of the Project Gutenberg-tm trademark, but he      has agreed to donate royalties under this paragraph to the      Project Gutenberg Literary Archive Foundation.
+10019-8{_}924{_}Royalty payments      must be paid within 60 days following each date on which you      prepare (or are legally required to prepare) your periodic tax      returns.
+10019-8{_}925{_}Royalty payments should be clearly marked as such and      sent to the Project Gutenberg Literary Archive Foundation at the      address specified in Section 4, "Information about donations to      the Project Gutenberg Literary Archive Foundation."
+10019-8{_}926{_}- You provide a full refund of any money paid by a user who notifies      you in writing (or by e-mail) within 30 days of receipt that s/he      does not agree to the terms of the full Project Gutenberg-tm      License.
+10019-8{_}927{_}You must require such a user to return or      destroy all copies of the works possessed in a physical medium      and discontinue all use of and all access to other copies of      Project Gutenberg-tm works.
+10019-8{_}928{_}- You provide, in accordance with paragraph 1.F.3, a full refund of any      money paid for a work or a replacement copy, if a defect in the      electronic work is discovered and reported to you within 90 days      of receipt of the work.
+10019-8{_}929{_}- You comply with all other terms of this agreement for free      distribution of Project Gutenberg-tm works.
+10019-8{_}930{_}1.E.9.
+10019-8{_}931{_}If you wish to charge a fee or distribute a Project Gutenberg-tm electronic work or group of works on different terms than are set forth in this agreement, you must obtain permission in writing from both the Project Gutenberg Literary Archive Foundation and Michael Hart, the owner of the Project Gutenberg-tm trademark.
+10019-8{_}932{_}Contact the Foundation as set forth in Section 3 below.
+10019-8{_}933{_}1.F.
+10019-8{_}934{_}1.F.1.
+10019-8{_}935{_}Project Gutenberg volunteers and employees expend considerable effort to identify, do copyright research on, transcribe and proofread public domain works in creating the Project Gutenberg-tm collection.
+10019-8{_}936{_}Despite these efforts, Project Gutenberg-tm electronic works, and the medium on which they may be stored, may contain "Defects," such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes that damage or cannot be read by your equipment.
+10019-8{_}937{_}1.F.2.
+10019-8{_}938{_}LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right of Replacement or Refund" described in paragraph 1.F.3, the Project Gutenberg Literary Archive Foundation, the owner of the Project Gutenberg-tm trademark, and any other party distributing a Project Gutenberg-tm electronic work under this agreement, disclaim all liability to you for damages, costs and expenses, including legal fees.
+10019-8{_}939{_}YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH F3.
+10019-8{_}940{_}YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.
+10019-8{_}941{_}1.F.3.
+10019-8{_}942{_}LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect in this electronic work within 90 days of receiving it, you can receive a refund of the money (if any) you paid for it by sending a written explanation to the person you received the work from.
+10019-8{_}943{_}If you received the work on a physical medium, you must return the medium with your written explanation.
+10019-8{_}944{_}The person or entity that provided you with the defective work may elect to provide a replacement copy in lieu of a refund.
+10019-8{_}945{_}If you received the work electronically, the person or entity providing it to you may choose to give you a second opportunity to receive the work electronically in lieu of a refund.
+10019-8{_}946{_}If the second copy is also defective, you may demand a refund in writing without further opportunities to fix the problem.
+10019-8{_}947{_}1.F.4.
+10019-8{_}948{_}Except for the limited right of replacement or refund set forth in paragraph 1.F.3, this work is provided to you 'AS-IS," WITH NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+10019-8{_}949{_}1.F.5.
+10019-8{_}950{_}Some states do not allow disclaimers of certain implied warranties or the exclusion or limitation of certain types of damages.
+10019-8{_}951{_}If any disclaimer or limitation set forth in this agreement violates the law of the state applicable to this agreement, the agreement shall be interpreted to make the maximum disclaimer or limitation permitted by the applicable state law.
+10019-8{_}952{_}The invalidity or unenforceability of any provision of this agreement shall not void the remaining provisions.
+10019-8{_}953{_}1.F.6.
+10019-8{_}954{_}INDEMNITY - You agree to indemnify and hold the Foundation, the trademark owner, any agent or employee of the Foundation, anyone providing copies of Project Gutenberg-tm electronic works in accordance with this agreement, and any volunteers associated with the production, promotion and distribution of Project Gutenberg-tm electronic works, harmless from all liability, costs and expenses, including legal fees, that arise directly or indirectly from any of the following which you do or cause to occur: (a) distribution of this or any Project Gutenberg-tm work, (b) alteration, modification, or additions or deletions to any Project Gutenberg-tm work, and (c) any Defect you cause.
+10019-8{_}955{_}Section  2.
+10019-8{_}956{_}Information about the Mission of Project Gutenberg-tm  Project Gutenberg-tm is synonymous with the free distribution of electronic works in formats readable by the widest variety of computers including obsolete, old, middle-aged and new computers.
+10019-8{_}957{_}It exists because of the efforts of hundreds of volunteers and donations from people in all walks of life.
+10019-8{_}958{_}Volunteers and financial support to provide volunteers with the assistance they need, is critical to reaching Project Gutenberg-tm's goals and ensuring that the Project Gutenberg-tm collection will remain freely available for generations to come.
+10019-8{_}959{_}In 2001, the Project Gutenberg Literary Archive Foundation was created to provide a secure and permanent future for Project Gutenberg-tm and future generations.
+10019-8{_}960{_}To learn more about the Project Gutenberg Literary Archive Foundation and how your efforts and donations can help, see Sections 3 and 4 and the Foundation web page at http://www.pglaf.org.
+10019-8{_}961{_}Section 3.
+10019-8{_}962{_}Information about the Project Gutenberg Literary Archive Foundation  The Project Gutenberg Literary Archive Foundation is a non profit 501(c)(3) educational corporation organized under the laws of the state of Mississippi and granted tax exempt status by the Internal Revenue Service.
+10019-8{_}963{_}The Foundation's EIN or federal tax identification number is 64-6221541.
+10019-8{_}964{_}Its 501(c)(3) letter is posted at http://pglaf.org/fundraising.
+10019-8{_}965{_}Contributions to the Project Gutenberg Literary Archive Foundation are tax deductible to the full extent permitted by U.S. federal laws and your state's laws.
+10019-8{_}966{_}The Foundation's principal office is located at 4557 Melan Dr. S. Fairbanks, AK, 99712., but its volunteers and employees are scattered throughout numerous locations.
+10019-8{_}967{_}Its business office is located at 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email business@pglaf.org.
+10019-8{_}968{_}Email contact links and up to date contact information can be found at the Foundation's web site and official page at http://pglaf.org  For additional contact information:      Dr. Gregory B. Newby      Chief Executive and Director      gbnewby@pglaf.org  Section 4.
+10019-8{_}969{_}Information about Donations to the Project Gutenberg Literary Archive Foundation  Project Gutenberg-tm depends upon and cannot survive without wide spread public support and donations to carry out its mission of increasing the number of public domain and licensed works that can be freely distributed in machine readable form accessible by the widest array of equipment including outdated equipment.
+10019-8{_}970{_}Many small donations ($1 to $5,000) are particularly important to maintaining tax exempt status with the IRS.
+10019-8{_}971{_}The Foundation is committed to complying with the laws regulating charities and charitable donations in all 50 states of the United States.
+10019-8{_}972{_}Compliance requirements are not uniform and it takes a considerable effort, much paperwork and many fees to meet and keep up with these requirements.
+10019-8{_}973{_}We do not solicit donations in locations where we have not received written confirmation of compliance.
+10019-8{_}974{_}To SEND DONATIONS or determine the status of compliance for any particular state visit http://pglaf.org  While we cannot and do not solicit contributions from states where we have not met the solicitation requirements, we know of no prohibition against accepting unsolicited donations from donors in such states who approach us with offers to donate.
+10019-8{_}975{_}International donations are gratefully accepted, but we cannot make any statements concerning tax treatment of donations received from outside the United States.
+10019-8{_}976{_}U.S. laws alone swamp our small staff.
+10019-8{_}977{_}Please check the Project Gutenberg Web pages for current donation methods and addresses.
+10019-8{_}978{_}Donations are accepted in a number of other ways including including checks, online payments and credit card donations.
+10019-8{_}979{_}To donate, please visit: http://pglaf.org/donate   Section 5.
+10019-8{_}980{_}General Information About Project Gutenberg-tm electronic works.
+10019-8{_}981{_}Professor Michael S. Hart is the originator of the Project Gutenberg-tm concept of a library of electronic works that could be freely shared with anyone.
+10019-8{_}982{_}For thirty years, he produced and distributed Project Gutenberg-tm eBooks with only a loose network of volunteer support.
+10019-8{_}983{_}Project Gutenberg-tm eBooks are often created from several printed editions, all of which are confirmed as Public Domain in the U.S. unless a copyright notice is included.
+10019-8{_}984{_}Thus, we do not necessarily keep eBooks in compliance with any particular paper edition.
+10019-8{_}985{_}Each eBook is in a subdirectory of the same number as the eBook's eBook number, often in several formats including plain vanilla ASCII, compressed (zipped), HTML and others.
+10019-8{_}986{_}Corrected EDITIONS of our eBooks replace the old file and take over the old filename and etext number.
+10019-8{_}987{_}The replaced older file is renamed.
+10019-8{_}988{_}VERSIONS based on separate sources are treated as new eBooks receiving new filenames and etext numbers.
+10019-8{_}989{_}Most people start at our Web site which has the main PG search facility:       http://www.gutenberg.net  This Web site includes information about Project Gutenberg-tm, including how to make donations to the Project Gutenberg Literary Archive Foundation, how to help produce our new eBooks, and how to subscribe to our email newsletter to hear about new eBooks.
+10019-8{_}990{_}EBooks posted prior to November 2003, with eBook numbers BELOW #10000, are filed in directories based on their release date.
+10019-8{_}991{_}If you want to download any of these eBooks directly, rather than using the regular search system you may utilize the following addresses and just download by the etext year.
+10019-8{_}992{_}http://www.ibiblio.org/gutenberg/etext06      (Or /etext 05, 04, 03, 02, 01, 00, 99,      98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)  EBooks posted since November 2003, with etext numbers OVER #10000, are filed in a different way.
+10019-8{_}993{_}The year of a release date is no longer part of the directory path.
+10019-8{_}994{_}The path is based on the etext number (which is identical to the filename).
+10019-8{_}995{_}The path to the file is made up of single digits corresponding to all but the last digit in the filename.
+10019-8{_}996{_}For example an eBook of filename 10234 would be found at:       http://www.gutenberg.net/1/0/2/3/10234  or filename 24689 would be found at:      http://www.gutenberg.net/2/4/6/8/24689  An alternative method of locating eBooks:      http://www.gutenberg.net/GUTINDEX.ALL   

@@ -1,0 +1,1786 @@
+bgopr10{_}0{_}The Project Gutenberg Etext of The Beggar's Opera by John Gay #1 in our series by John Gay   Copyright laws are changing all over the world, be sure to check the copyright laws for your country before posting these files!!
+bgopr10{_}1{_}Please take a look at the important information in this header.
+bgopr10{_}2{_}We encourage you to keep this file on your own disk, keeping an electronic path open for the next readers.
+bgopr10{_}3{_}Do not remove this.
+bgopr10{_}4{_}**Welcome To The World of Free Plain Vanilla Electronic Texts**  **Etexts Readable By Both Humans and By Computers, Since 1971**  *These Etexts Prepared By Hundreds of Volunteers and Donations*  Information on contacting Project Gutenberg to get Etexts, and further information is included below.
+bgopr10{_}5{_}We need your donations.
+bgopr10{_}6{_}The Beggar's Opera  by John Gay  December, 2000 [Etext #2421]  The Project Gutenberg Etext of The Beggar's Opera by John Gay ******This file should be named bgopr10.txt or bgopr10.zip******  Corrected EDITIONS of our etexts get a new NUMBER, bgopr11.txt VERSIONS based on separate sources get new LETTER, bgopr10a.txt   This etext was prepared by David Price, email ccx074@coventry.ac.uk from the text of the 1765 edition.
+bgopr10{_}7{_}Project Gutenberg Etexts are usually created from multiple editions, all of which are in the Public Domain in the United States, unless a copyright notice is included.
+bgopr10{_}8{_}Therefore, we do usually do NOT!
+bgopr10{_}9{_}keep these books in compliance with any particular paper edition.
+bgopr10{_}10{_}We are now trying to release all our books one month in advance of the official release dates, leaving time for better editing.
+bgopr10{_}11{_}Please note:  neither this list nor its contents are final till midnight of the last day of the month of any such announcement.
+bgopr10{_}12{_}The official release date of all Project Gutenberg Etexts is at Midnight, Central Time, of the last day of the stated month.
+bgopr10{_}13{_}A preliminary version may often be posted for suggestion, comment and editing by those who wish to do so.
+bgopr10{_}14{_}To be sure you have an up to date first edition [xxxxx10x.xxx] please check file sizes in the first week of the next month.
+bgopr10{_}15{_}Since our ftp program has a bug in it that scrambles the date [tried to fix and failed] a look at the file size will have to do, but we will try to see a new copy has at least one byte more or less.
+bgopr10{_}16{_}Information about Project Gutenberg (one page)  We produce about two million dollars for each hour we work.
+bgopr10{_}17{_}The time it takes us, a rather conservative estimate, is fifty hours to get any etext selected, entered, proofread, edited, copyright searched and analyzed, the copyright letters written, etc.
+bgopr10{_}18{_}This projected audience is one hundred million readers.
+bgopr10{_}19{_}If our value per text is nominally estimated at one dollar then we produce $2 million dollars per hour this year as we release thirty-six text files per month, or 432 more Etexts in 1999 for a total of 2000+ If these reach just 10% of the computerized population, then the total should reach over 200 billion Etexts given away this year.
+bgopr10{_}20{_}The Goal of Project Gutenberg is to Give Away One Trillion Etext Files by December 31, 2001.
+bgopr10{_}21{_}[10,000 x 100,000,000 = 1 Trillion] This is ten thousand titles each to one hundred million readers, which is only ~5% of the present number of computer users.
+bgopr10{_}22{_}At our revised rates of production, we will reach only one-third of that goal by the end of 2001, or about 3,333 Etexts unless we manage to get some real funding; currently our funding is mostly from Michael Hart's salary at Carnegie-Mellon University, and an assortment of sporadic gifts; this salary is only good for a few more years, so we are looking for something to replace it, as we don't want Project Gutenberg to be so dependent on one person.
+bgopr10{_}23{_}We need your donations more than ever!
+bgopr10{_}24{_}All donations should be made to "Project Gutenberg/CMU": and are tax deductible to the extent allowable by law.
+bgopr10{_}25{_}(CMU = Carnegie- Mellon University).
+bgopr10{_}26{_}For these and other matters, please mail to:  Project Gutenberg P. O.
+bgopr10{_}27{_}Box  2782 Champaign, IL 61825  When all other email fails.
+bgopr10{_}28{_}.
+bgopr10{_}29{_}.try our Executive Director: Michael S. Hart <hart@pobox.com> hart@pobox.com forwards to hart@prairienet.org and archive.org if your mail bounces from archive.org, I will still see it, if it bounces from prairienet.org, better resend later on.
+bgopr10{_}30{_}.
+bgopr10{_}31{_}.
+bgopr10{_}32{_}.
+bgopr10{_}33{_}We would prefer to send you this information by email.
+bgopr10{_}34{_}******  To access Project Gutenberg etexts, use any Web browser to view http://promo.net/pg.
+bgopr10{_}35{_}This site lists Etexts by author and by title, and includes information about how to get involved with Project Gutenberg.
+bgopr10{_}36{_}You could also download our past Newsletters, or subscribe here.
+bgopr10{_}37{_}This is one of our major sites, please email hart@pobox.com, for a more complete list of our various sites.
+bgopr10{_}38{_}To go directly to the etext collections, use FTP or any Web browser to visit a Project Gutenberg mirror (mirror sites are available on 7 continents; mirrors are listed at http://promo.net/pg).
+bgopr10{_}39{_}Mac users, do NOT point and click, typing works better.
+bgopr10{_}40{_}Example FTP session:  ftp sunsite.unc.edu login: anonymous password: your@login cd pub/docs/books/gutenberg cd etext90 through etext99 dir [to see files] get or mget [to get files.
+bgopr10{_}41{_}.
+bgopr10{_}42{_}.set bin for zip files] GET GUTINDEX.??
+bgopr10{_}43{_}[to get a year's listing of books, e.g., GUTINDEX.99] GET GUTINDEX.ALL [to get a listing of ALL books]  ***  **Information prepared by the Project Gutenberg legal advisor**  (Three Pages)   ***START**THE SMALL PRINT!
+bgopr10{_}44{_}**FOR PUBLIC DOMAIN ETEXTS**START*** Why is this "Small Print!"
+bgopr10{_}45{_}statement here?
+bgopr10{_}46{_}You know: lawyers.
+bgopr10{_}47{_}They tell us you might sue us if there is something wrong with your copy of this etext, even if you got it for free from someone other than us, and even if what's wrong is not our fault.
+bgopr10{_}48{_}So, among other things, this "Small Print!"
+bgopr10{_}49{_}statement disclaims most of our liability to you.
+bgopr10{_}50{_}It also tells you how you can distribute copies of this etext if you want to.
+bgopr10{_}51{_}*BEFORE!
+bgopr10{_}52{_}* YOU USE OR READ THIS ETEXT By using or reading any part of this PROJECT GUTENBERG-tm etext, you indicate that you understand, agree to and accept this "Small Print!"
+bgopr10{_}53{_}statement.
+bgopr10{_}54{_}If you do not, you can receive a refund of the money (if any) you paid for this etext by sending a request within 30 days of receiving it to the person you got it from.
+bgopr10{_}55{_}If you received this etext on a physical medium (such as a disk), you must return it with your request.
+bgopr10{_}56{_}ABOUT PROJECT GUTENBERG-TM ETEXTS This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG- tm etexts, is a "public domain" work distributed by Professor Michael S. Hart through the Project Gutenberg Association at Carnegie-Mellon University (the "Project").
+bgopr10{_}57{_}Among other things, this means that no one owns a United States copyright on or for this work, so the Project (and you!)
+bgopr10{_}58{_}can copy and distribute it in the United States without permission and without paying copyright royalties.
+bgopr10{_}59{_}Special rules, set forth below, apply if you wish to copy and distribute this etext under the Project's "PROJECT GUTENBERG" trademark.
+bgopr10{_}60{_}To create these etexts, the Project expends considerable efforts to identify, transcribe and proofread public domain works.
+bgopr10{_}61{_}Despite these efforts, the Project's etexts and any medium they may be on may contain "Defects".
+bgopr10{_}62{_}Among other things, Defects may take the form of incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other etext medium, a computer virus, or computer codes that damage or cannot be read by your equipment.
+bgopr10{_}63{_}LIMITED WARRANTY; DISCLAIMER OF DAMAGES But for the "Right of Replacement or Refund" described below, [1] the Project (and any other party you may receive this etext from as a PROJECT GUTENBERG-tm etext) disclaims all liability to you for damages, costs and expenses, including legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT, INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGES.
+bgopr10{_}64{_}If you discover a Defect in this etext within 90 days of receiving it, you can receive a refund of the money (if any) you paid for it by sending an explanatory note within that time to the person you received it from.
+bgopr10{_}65{_}If you received it on a physical medium, you must return it with your note, and such person may choose to alternatively give you a replacement copy.
+bgopr10{_}66{_}If you received it electronically, such person may choose to alternatively give you a second opportunity to receive it electronically.
+bgopr10{_}67{_}THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".
+bgopr10{_}68{_}NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+bgopr10{_}69{_}Some states do not allow disclaimers of implied warranties or the exclusion or limitation of consequential damages, so the above disclaimers and exclusions may not apply to you, and you may have other legal rights.
+bgopr10{_}70{_}INDEMNITY You will indemnify and hold the Project, its directors, officers, members and agents harmless from all liability, cost and expense, including legal fees, that arise directly or indirectly from any of the following that you do or cause: [1] distribution of this etext, [2] alteration, modification, or addition to the etext, or [3] any Defect.
+bgopr10{_}71{_}DISTRIBUTION UNDER "PROJECT GUTENBERG-tm" You may distribute copies of this etext electronically, or by disk, book or any other medium if you either delete this "Small Print!"
+bgopr10{_}72{_}and all other references to Project Gutenberg, or:  [1]  Only give exact copies of it.
+bgopr10{_}73{_}Among other things, this      requires that you do not remove, alter or modify the      etext or this "small print!"
+bgopr10{_}74{_}statement.
+bgopr10{_}75{_}You may however,      if you wish, distribute this etext in machine readable      binary, compressed, mark-up, or proprietary form,      including any form resulting from conversion by word pro-      cessing or hypertext software, but only so long as      *EITHER*:       [*]  The etext, when displayed, is clearly readable, and           does *not* contain characters other than those           intended by the author of the work, although tilde           (~), asterisk (*) and underline (_) characters may           be used to convey punctuation intended by the           author, and additional characters may be used to           indicate hypertext links; OR       [*]  The etext may be readily converted by the reader at           no expense into plain ASCII, EBCDIC or equivalent           form by the program that displays the etext (as is           the case, for instance, with most word processors);           OR       [*]  You provide, or agree to also provide on request at           no additional cost, fee or expense, a copy of the           etext in its original plain ASCII form (or in EBCDIC           or other equivalent proprietary form).
+bgopr10{_}76{_}[2]  Honor the etext refund and replacement provisions of this      "Small Print!"
+bgopr10{_}77{_}statement.
+bgopr10{_}78{_}[3]  Pay a trademark license fee to the Project of 20% of the      net profits you derive calculated using the method you      already use to calculate your applicable taxes.
+bgopr10{_}79{_}If you      don't derive profits, no royalty is due.
+bgopr10{_}80{_}Royalties are      payable to "Project Gutenberg Association/Carnegie-Mellon      University" within the 60 days following each      date you prepare (or were legally required to prepare)      your annual (or equivalent periodic) tax return.
+bgopr10{_}81{_}WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+bgopr10{_}82{_}The Project gratefully accepts contributions in money, time, scanning machines, OCR software, public domain etexts, royalty free copyright licenses, and every other sort of contribution you can think of.
+bgopr10{_}83{_}Money should be paid to "Project Gutenberg Association / Carnegie-Mellon University".
+bgopr10{_}84{_}*END*THE SMALL PRINT!
+bgopr10{_}85{_}FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*     THE BEGGAR'S OPERA     INTRODUCTION    BEGGAR, PLAYER.
+bgopr10{_}86{_}BEGGAR.
+bgopr10{_}87{_}If Poverty be a Title to Poetry, I am sure no-body can  dispute mine.
+bgopr10{_}88{_}I own myself of the Company of Beggars; and I make one  at their Weekly Festivals at St. Giles's.
+bgopr10{_}89{_}I have a small Yearly  Salary for my Catches, and am welcome to a Dinner there whenever I  please, which is more than most Poets can say.
+bgopr10{_}90{_}PLAYER.
+bgopr10{_}91{_}As we live by the Muses, it is but Gratitude in us to  encourage Poetical Merit wherever we find it.
+bgopr10{_}92{_}The Muses, contrary to  all other Ladies, pay no Distinction to Dress, and never partially  mistake the Pertness of Embroidery for Wit, nor the Modesty of Want  for Dulness.
+bgopr10{_}93{_}Be the Author who he will, we push his Play as far as  it will go.
+bgopr10{_}94{_}So (though you are in Want) I wish you success heartily.
+bgopr10{_}95{_}BEGGAR.
+bgopr10{_}96{_}This piece I own was originally writ for the celebrating the  Marriage of James Chaunter and Moll Lay, two most excellent Ballad- Singers.
+bgopr10{_}97{_}I have introduced the Similes that are in all your  celebrated Operas:  The Swallow, the Moth, the Bee, the Ship, the  Flower, &c.  Besides, I have a Prison-Scene, which the Ladies always  reckon charmingly pathetic.
+bgopr10{_}98{_}As to the Parts, I have observed such a  nice Impartiality to our two Ladies, that it is impossible for either  of them to take Offence.
+bgopr10{_}99{_}I hope I may be forgiven, that I have not  made my Opera throughout unnatural, like those in vogue; for I have  no Recitative; excepting this, as I have consented to have neither  Prologue nor Epilogue, it must be allowed an Opera in all its Forms.
+bgopr10{_}100{_}The Piece indeed hath been heretofore frequently represented by  ourselves in our Great Room at St. Giles's, so that I cannot too  often acknowledge your Charity in bringing it now on the Stage.
+bgopr10{_}101{_}PLAYER.
+bgopr10{_}102{_}But I see it is time for us to withdraw; the Actors are  preparing to begin.
+bgopr10{_}103{_}Play away the Overture.
+bgopr10{_}104{_}[Exeunt.]
+bgopr10{_}105{_}OVERTURE    ACT I.
+bgopr10{_}106{_}SCENE I.
+bgopr10{_}107{_}SCENE, Peachum's House.
+bgopr10{_}108{_}Peachum sitting at a Table with a large Book of Accounts before him.
+bgopr10{_}109{_}AIR I.
+bgopr10{_}110{_}An old Woman clothed in Gray, &c.  Through all the Employments of Life Each Neighbour abuses his Brother; Whore and Rogue they call Husband and Wife: All Professions be-rogue one another: The Priest calls the Lawyer a Cheat, The Lawyer be-knaves the Divine: And the Statesman, because he's so great, Thinks his Trade as honest as mine.
+bgopr10{_}111{_}A Lawyer is an honest Employment, so is mine.
+bgopr10{_}112{_}Like me too he acts in  a double Capacity, both against Rogues and for 'em; for 'tis but  fitting that we should protect and encourage Cheats, since we live by  them.
+bgopr10{_}113{_}[Enter Filch.]
+bgopr10{_}114{_}FILCH.
+bgopr10{_}115{_}Sir, Black Moll hath sent word her Trial comes on in the  Afternoon, and she hopes you will order Matters so as to bring her  off.
+bgopr10{_}116{_}PEACHUM.
+bgopr10{_}117{_}As the Wench is very active and industrious, you may  satisfy her that I'll soften the Evidence.
+bgopr10{_}118{_}FILCH.
+bgopr10{_}119{_}Tom Gagg, Sir, is found guilty.
+bgopr10{_}120{_}PEACHUM.
+bgopr10{_}121{_}A lazy Dog!
+bgopr10{_}122{_}When I took him the time before, I told him  what he would come to if he did not mend his Hand.
+bgopr10{_}123{_}This is Death  without Reprieve.
+bgopr10{_}124{_}I may venture to Book him [writes.]
+bgopr10{_}125{_}For Tom Gagg,  forty Pounds.
+bgopr10{_}126{_}Let Betty Sly know that I'll save her from  Transportation, for I can get more by her staying in England.
+bgopr10{_}127{_}FILCH.
+bgopr10{_}128{_}Betty hath brought more Goods into our Lock to-year than any  five of the Gang; and in truth, 'tis a pity to lose so good a  Customer.
+bgopr10{_}129{_}PEACHUM.
+bgopr10{_}130{_}If none of the Gang take her off, she may, in the common  course of Business, live a Twelve-month longer.
+bgopr10{_}131{_}I love to let Women  scape.
+bgopr10{_}132{_}A good Sportsman always lets the Hen Partridges fly, because  the Breed of the Game depends upon them.
+bgopr10{_}133{_}Besides, here the Law  allows us no Reward; there is nothing to be got by the Death of  Women--except our Wives.
+bgopr10{_}134{_}FILCH.
+bgopr10{_}135{_}Without dispute, she is a fine Woman!
+bgopr10{_}136{_}'Twas to her I was  obliged for my Education, and (to say a bold Word) she hath trained  up more young Fellows to the Business than the Gaming table.
+bgopr10{_}137{_}PEACHUM.
+bgopr10{_}138{_}Truly, Filch, thy Observation is right.
+bgopr10{_}139{_}We and the  Surgeons are more beholden to Women than all the Professions besides.
+bgopr10{_}140{_}AIR II.
+bgopr10{_}141{_}The bonny gray-ey'd Morn, &c.  FILCH.
+bgopr10{_}142{_}'Tis Woman that seduces all Mankind, By her we first were taught the wheedling Arts: Her very Eyes can cheat; when most she's kind, She tricks us of our Money with our Hearts.
+bgopr10{_}143{_}For her, like Wolves by Night we roam for Prey, And practise ev'ry Fraud to bribe her Charms; For Suits of Love, like Law, are won by Pay, And Beauty must be fee'd into our Arms.
+bgopr10{_}144{_}PEACHUM.
+bgopr10{_}145{_}But make haste to Newgate, Boy, and let my Friends know  what I intend; for I love to make them easy one way or other.
+bgopr10{_}146{_}FILCH.
+bgopr10{_}147{_}When a Gentleman is long kept in suspence, Penitence may  break his Spirit ever after.
+bgopr10{_}148{_}Besides, Certainty gives a Man a good  Air upon his Trial, and makes him risk another without Fear or  Scruple.
+bgopr10{_}149{_}But I'll away, for 'tis a Pleasure to be the Messenger of  Comfort to Friends in Affliction.
+bgopr10{_}150{_}[Exit Filch.]
+bgopr10{_}151{_}PEACHUM.
+bgopr10{_}152{_}But 'tis now high time to look about me for a decent  Execution against next Sessions.
+bgopr10{_}153{_}I hate a lazy Rogue, by whom one  can get nothing 'till he is hang'd.
+bgopr10{_}154{_}A Register of the Gang,  [Reading.]
+bgopr10{_}155{_}Crook-finger'd Jack.
+bgopr10{_}156{_}A Year and a half in the Service;  Let me see how much the Stock owes to his industry; one, two, three,  four, five Gold Watches, and seven Silver ones.
+bgopr10{_}157{_}A mighty clean- handed Fellow!
+bgopr10{_}158{_}Sixteen Snuff-boxes, five of them of true Gold.
+bgopr10{_}159{_}Six  Dozen of Handkerchiefs, four silver-hilted Swords, half a Dozen of  Shirts, three Tye-Periwigs, and a Piece of Broad-Cloth.
+bgopr10{_}160{_}Considering  these are only the Fruits of his leisure Hours, I don't know a  prettier Fellow, for no Man alive hath a more engaging Presence of  Mind upon the Road.
+bgopr10{_}161{_}Wat Dreary, alias Brown Will, an irregular Dog,  who hath an underhand way of disposing of his Goods.
+bgopr10{_}162{_}I'll try him  only for a Sessions or two longer upon his Good-behaviour.
+bgopr10{_}163{_}Harry  Paddington, a poor petty-larceny Rascal, without the least Genius;  that Fellow, though he were to live these six Months, will never come  to the Gallows with any Credit.
+bgopr10{_}164{_}Slippery Sam; he goes off the next  Sessions, for the Villain hath the Impudence to have Views of  following his Trade as a Tailor, which he calls an honest Employment.
+bgopr10{_}165{_}Mat of the Mint; listed not above a Month ago, a promising sturdy  Fellow, and diligent in his way; somewhat too bold and hasty, and may  raise good Contributions on the Public, if he does not cut himself  short by Murder.
+bgopr10{_}166{_}Tom Tipple, a guzzling soaking Sot, who is always  too drunk to stand himself, or to make others stand.
+bgopr10{_}167{_}A Cart is  absolutely necessary for him.
+bgopr10{_}168{_}Robin of Bagshot, alias Gorgon, alias  Bluff Bob, alias Carbuncle, alias Bob Booty.
+bgopr10{_}169{_}[Enter Mrs.
+bgopr10{_}170{_}Peachum.]
+bgopr10{_}171{_}MRS. PEACHUM.
+bgopr10{_}172{_}What of Bob Booty, Husband?
+bgopr10{_}173{_}I hope nothing bad hath  betided him.
+bgopr10{_}174{_}You know, my Dear, he's a favourite Customer of mine.
+bgopr10{_}175{_}'Twas he made me a present of this Ring.
+bgopr10{_}176{_}PEACHUM.
+bgopr10{_}177{_}I have set his Name down in the Black List, that's all, my  Dear; he spends his Life among Women, and as soon as his Money is  gone, one or other of the Ladies will hang him for the Reward, and  there's forty Pound lost to us for-ever.
+bgopr10{_}178{_}MRS. PEACHUM.
+bgopr10{_}179{_}You know, my Dear, I never meddle in matters of Death;  I always leave those Affairs to you.
+bgopr10{_}180{_}Women indeed are bitter bad  Judges in these cases, for they are so partial to the Brave that they  think every Man handsome who is going to the Camp or the Gallows.
+bgopr10{_}181{_}AIR III.
+bgopr10{_}182{_}Cold and raw, &c.  If any Wench Venus's Girdle wear, Though she be never so ugly; Lilies and Roses will quickly appear, And her Face look wond'rous smugly.
+bgopr10{_}183{_}Beneath the left Ear so fit but a Cord, (A Rope so charming a Zone is!)
+bgopr10{_}184{_}The Youth in his Cart hath the Air of a Lord, And we cry, There dies an Adonis!
+bgopr10{_}185{_}But really, Husband, you should not be too hard-hearted, for you  never had a finer, braver set of Men than at present.
+bgopr10{_}186{_}We have not  had a Murder among them all, these seven Months.
+bgopr10{_}187{_}And truly, my Dear,  that is a great Blessing.
+bgopr10{_}188{_}PEACHUM.
+bgopr10{_}189{_}What a dickens is the Woman always a whimpring about Murder  for?
+bgopr10{_}190{_}No Gentleman is ever look'd upon the worse for killing a Man in  his own Defence; and if Business cannot be carried on without it,  what would you have a Gentleman do?
+bgopr10{_}191{_}MRS. PEACHUM.
+bgopr10{_}192{_}If I am in the wrong, my Dear, you must excuse me, for  no body can help the Frailty of an over-scrupulous Conscience.
+bgopr10{_}193{_}PEACHUM.
+bgopr10{_}194{_}Murder is as fashionable a Crime as a Man can be guilty of.
+bgopr10{_}195{_}How many fine Gentlemen have we in Newgate every Year, purely upon  that Article!
+bgopr10{_}196{_}If they have wherewithal to persuade the Jury to bring  it in Manslaughter, what are they the worse for it?
+bgopr10{_}197{_}So, my Dear,  have done upon this Subject.
+bgopr10{_}198{_}Was Captain Macheath here this Morning,  for the Bank-Notes he left with you last Week?
+bgopr10{_}199{_}MRS. PEACHUM.
+bgopr10{_}200{_}Yes, my Dear; and though the Bank hath stopt Payment,  he was so chearful and so agreeable!
+bgopr10{_}201{_}Sure there is not a finer  Gentleman upon the Road than the Captain!
+bgopr10{_}202{_}if he comes from Bagshot at  any reasonable Hour, he hath promis'd to make one this Evening with  Polly and me, and Bob Booty at a Party of Quadrille.
+bgopr10{_}203{_}Pray, my Dear,  is the Captain rich?
+bgopr10{_}204{_}PEACHUM.
+bgopr10{_}205{_}The Captain keeps too good Company ever to grow rich.
+bgopr10{_}206{_}Marybone and the Chocolate-houses are his Undoing.
+bgopr10{_}207{_}The Man that  proposes to get Money by play should have the Education of a fine  Gentleman, and be train'd up to it from his Youth.
+bgopr10{_}208{_}MRS. PEACHUM.
+bgopr10{_}209{_}Really, I am sorry upon Polly's Account the Captain  hath not more Discretion.
+bgopr10{_}210{_}What Business hath he to keep Company with  Lords and Gentlemen?
+bgopr10{_}211{_}he should leave them to prey upon one another.
+bgopr10{_}212{_}PEACHUM.
+bgopr10{_}213{_}Upon Polly's Account!
+bgopr10{_}214{_}What, a Plague, does the Woman  mean?--Upon Polly's Account!
+bgopr10{_}215{_}MRS. PEACHUM.
+bgopr10{_}216{_}Captain Macheath is very fond of the Girl.
+bgopr10{_}217{_}PEACHUM.
+bgopr10{_}218{_}And what then?
+bgopr10{_}219{_}MRS. PEACHUM.
+bgopr10{_}220{_}If I have any Skill in the Ways of Women, I am sure  Polly thinks him a very pretty Man.
+bgopr10{_}221{_}PEACHUM.
+bgopr10{_}222{_}And what then?
+bgopr10{_}223{_}You would not be so mad to have the Wench  marry him!
+bgopr10{_}224{_}Gamesters and Highwaymen are generally very good to their  Whores, but they are very Devils to their Wives.
+bgopr10{_}225{_}MRS. PEACHUM.
+bgopr10{_}226{_}But if Polly should be in Love, how should we help  her, or how can she help herself?
+bgopr10{_}227{_}Poor Girl, I am in the utmost  Concern about her.
+bgopr10{_}228{_}AIR IV.
+bgopr10{_}229{_}Why is your faithful Slave disdain'd?
+bgopr10{_}230{_}&c.  If Love the Virgin's Heart invade, How, like a Moth, the simple Maid Still plays about the Flame!
+bgopr10{_}231{_}If soon she be not made a Wife, Her Honour's sing'd, and then for Life, She's--what I dare not name.
+bgopr10{_}232{_}PEACHUM.
+bgopr10{_}233{_}Look ye, Wife.
+bgopr10{_}234{_}A handsome Wench in our way of Business is  as profitable as at the Bar of a Temple Coffee-House, who looks upon  it as her livelihood to grant every Liberty but one.
+bgopr10{_}235{_}You see I would  indulge the Girl as far as prudently we can.
+bgopr10{_}236{_}In any thing, but  Marriage!
+bgopr10{_}237{_}After that, my Dear, how shall we be safe?
+bgopr10{_}238{_}Are we not  then in her Husband's Power?
+bgopr10{_}239{_}For a Husband hath the absolute Power  over all a Wife's Secrets but her own.
+bgopr10{_}240{_}If the Girl had the  Discretion of a Court-Lady, who can have a Dozen young Fellows at her  Ear without complying with one, I should not matter it; but Polly is  Tinder, and a Spark will at once set her on a Flame.
+bgopr10{_}241{_}Married!
+bgopr10{_}242{_}If  the Wench does not know her own Profit, sure she knows her own  Pleasure better than to make herself a Property!
+bgopr10{_}243{_}My Daughter to me  should be, like a Court-Lady to a Minister of State, a Key to the  whole Gang.
+bgopr10{_}244{_}Married!
+bgopr10{_}245{_}If the Affair is not already done, I'll  terrify her from it, by the Example of our Neighbours.
+bgopr10{_}246{_}MRS. PEACHUM.
+bgopr10{_}247{_}May-hap, my Dear, you may injure the Girl.
+bgopr10{_}248{_}She loves  to imitate the fine Ladies, and she may only allow the Captain  Liberties in the view of Interest.
+bgopr10{_}249{_}PEACHUM.
+bgopr10{_}250{_}But 'tis your Duty, my Dear, to warn the Girl against her  Ruin, and to instruct her how to make the most of her Beauty.
+bgopr10{_}251{_}I'll  go to her this moment, and sift her.
+bgopr10{_}252{_}In the meantime, Wife, rip out  the Coronets and Marks of these Dozen of Cambric Handkerchiefs, for I  can dispose of them this Afternoon to a Chap in the City.
+bgopr10{_}253{_}[Exit  Peachum.]
+bgopr10{_}254{_}MRS. PEACHUM.
+bgopr10{_}255{_}Never was a Man more out of the way in an Argument  than my Husband!
+bgopr10{_}256{_}Why must our Polly, forsooth, differ from her Sex,  and love only her Husband?
+bgopr10{_}257{_}And why must Polly's Marriage, contrary  to all Observations, make her the less followed by other Men?
+bgopr10{_}258{_}All  Men are Thieves in Love, and like a Woman the better for being  another's Property.
+bgopr10{_}259{_}AIR V.  Of all the simple Things we do, &c.  A Maid is like the Golden Ore, Which hath Guineas intrinsical in't, Whose Worth is never known before It is try'd and imprest in the Mint.
+bgopr10{_}260{_}A Wife's like a Guinea in Gold, Stampt with the Name of her Spouse; Now here, now there; is bought, or is sold; And is current in every House.
+bgopr10{_}261{_}[Enter Filch.]
+bgopr10{_}262{_}MRS. PEACHUM.
+bgopr10{_}263{_}Come hither, Filch.
+bgopr10{_}264{_}I am as fond of this Child, as  though my Mind misgave me he were my own.
+bgopr10{_}265{_}He hath as fine a Hand at  picking a Pocket as a Woman, and is as nimble-finger'd as a Juggler.
+bgopr10{_}266{_}If an unlucky Session does not cut the Rope of thy Life, I pronounce,  Boy, thou wilt be a great Man in History.
+bgopr10{_}267{_}Where was your Post last  Night, my Boy?
+bgopr10{_}268{_}FILCH.
+bgopr10{_}269{_}I ply'd at the Opera, Madam; and considering 'twas neither  dark nor rainy, so that there was no great Hurry in getting Chairs  and Coaches, made a tolerable Hand on't.
+bgopr10{_}270{_}These seven Handkerchiefs,  Madam.
+bgopr10{_}271{_}MRS. PEACHUM.
+bgopr10{_}272{_}Colour'd ones, I see.
+bgopr10{_}273{_}They are of sure Sale from our  Warehouse at Redriff among the Seamen.
+bgopr10{_}274{_}FILCH.
+bgopr10{_}275{_}And this Snuff-box.
+bgopr10{_}276{_}MRS. PEACHUM.
+bgopr10{_}277{_}Set in Gold!
+bgopr10{_}278{_}A pretty Encouragement this to a young  Beginner.
+bgopr10{_}279{_}FILCH.
+bgopr10{_}280{_}I had a fair Tug at a charming Gold Watch.
+bgopr10{_}281{_}Pox take the  Tailors for making the Fobs so deep and narrow!
+bgopr10{_}282{_}It stuck by the way,  and I was forc'd to make my Escape under a Coach.
+bgopr10{_}283{_}Really, Madam, I  fear I shall be cut off in the Flower of my Youth, so that every now  and then (since I was pumpt) I have Thoughts of taking up and going  to Sea.
+bgopr10{_}284{_}MRS. PEACHUM.
+bgopr10{_}285{_}You should go to Hockley in the Hole, and to Marybone,  Child, to learn Valour.
+bgopr10{_}286{_}These are the Schools that have bred so many  brave Men.
+bgopr10{_}287{_}I thought, Boy, by this time, thou hadst lost Fear as  well as Shame.
+bgopr10{_}288{_}Poor Lad!
+bgopr10{_}289{_}how little does he know as yet of the Old  Baily!
+bgopr10{_}290{_}For the first Fact I'll insure thee from being hang'd; and  going to Sea, Filch, will come time enough upon a Sentence of  Transportation.
+bgopr10{_}291{_}But now, since you have nothing better to do, ev'n  go to your Book, and learn your Catechism; for really a Man makes but  an ill Figure in the Ordinary's Paper, who cannot give a satisfactory  Answer to his Questions.
+bgopr10{_}292{_}But, hark you, my Lad.
+bgopr10{_}293{_}Don't tell me a  Lye; for you know I hate a Liar.
+bgopr10{_}294{_}Do you know of anything that hath  pass'd between Captain Macheath and our Polly?
+bgopr10{_}295{_}FILCH.
+bgopr10{_}296{_}I beg you, Madam, don't ask me; for I must either tell a Lye  to you or to Miss Polly; for I promis'd her I would not tell.
+bgopr10{_}297{_}MRS. PEACHUM.
+bgopr10{_}298{_}But when the Honour of our Family is concern'd -  FILCH.
+bgopr10{_}299{_}I shall lead a sad Life with Miss Polly, if ever she comes to  know that I told you.
+bgopr10{_}300{_}Besides, I would not willingly forfeit my own  Honour by betraying any body.
+bgopr10{_}301{_}MRS. PEACHUM.
+bgopr10{_}302{_}Yonder comes my Husband and Polly.
+bgopr10{_}303{_}Come, Filch, you  shall go with me into my own Room, and tell me the whole Story.
+bgopr10{_}304{_}I'll  give thee a Glass of a most delicious Cordial that I keep for my own  drinking.
+bgopr10{_}305{_}[Exeunt.]
+bgopr10{_}306{_}[Enter Peachum, Polly.]
+bgopr10{_}307{_}POLLY.
+bgopr10{_}308{_}I know as well as any of the fine Ladies how to make the most  of myself and of my Man too.
+bgopr10{_}309{_}A Woman knows how to be mercenary,  though she hath never been in a Court or at an Assembly.
+bgopr10{_}310{_}We have it  in our Natures, Papa.
+bgopr10{_}311{_}If I allow Captain Macheath some trifling  Liberties, I have this Watch and other visible Marks of his Favour to  shew for it.
+bgopr10{_}312{_}A Girl who cannot grant some Things, and refuse what is  most material, will make but a poor hand of her Beauty, and soon be  thrown upon the Common.
+bgopr10{_}313{_}AIR VI.
+bgopr10{_}314{_}What shall I do to shew how much I love her, &c.  Virgins are like the fair Flower in its Lustre, Which in the Garden enamels the Ground; Near it the Bees in play flutter and cluster, And gaudy Butterflies frolick around.
+bgopr10{_}315{_}But, when once pluck'd, 'tis no longer alluring, To Covent-Garden 'tis sent (as yet sweet), There fades, and shrinks, and grows past all enduring, Rots, stinks, and dies, and is trod under feet.
+bgopr10{_}316{_}PEACHUM.
+bgopr10{_}317{_}You know, Polly, I am not against your toying and trifling  with a Customer in the way of Business, or to get out a Secret, or  so.
+bgopr10{_}318{_}But if I find out that you have play'd the Fool and are married,  you Jade you, I'll cut your Throat, Hussy.
+bgopr10{_}319{_}Now you know my Mind.
+bgopr10{_}320{_}[Enter Mrs. Peachum, in a very great Passion.]
+bgopr10{_}321{_}AIR VII.
+bgopr10{_}322{_}Oh London is a fine Town.
+bgopr10{_}323{_}Our Polly is a sad Slut!
+bgopr10{_}324{_}nor heeds what we have taught her.
+bgopr10{_}325{_}I wonder any Man alive will ever rear a Daughter!
+bgopr10{_}326{_}For she must have both Hoods and Gowns, and Hoops to swell her Pride, With Scarfs and Stays, and Gloves and Lace; and she will have Men  beside; And when she's drest with Care and Cost, all tempting, fine and gay, As Men should serve a Cucumber, she flings herself away.
+bgopr10{_}327{_}Our Polly is a sad Slut!
+bgopr10{_}328{_}&c.  You Baggage!
+bgopr10{_}329{_}you Hussy!
+bgopr10{_}330{_}you inconsiderate Jade!
+bgopr10{_}331{_}had you been hang'd,  it would not have vex'd me, for that might have been your Misfortune;  but to do such a mad thing by Choice; The Wench is married, Husband.
+bgopr10{_}332{_}PEACHUM.
+bgopr10{_}333{_}Married!
+bgopr10{_}334{_}the Captain is a bold Man, and will risk any thing  for Money; to be sure he believes her a Fortune.
+bgopr10{_}335{_}Do you think your  Mother and I should have liv'd comfortably so long together, if ever  we had been married?
+bgopr10{_}336{_}Baggage!
+bgopr10{_}337{_}MRS. PEACHUM.
+bgopr10{_}338{_}I knew she was always a proud Slut; and now the Wench  hath play'd the Fool and Married, because forsooth she would do like  the Gentry.
+bgopr10{_}339{_}Can you support the Expence of a Husband, Hussy, in  Gaming, Drinking and Whoring?
+bgopr10{_}340{_}Have you Money enough to carry on the  daily Quarrels of Man and Wife about who shall squander most?
+bgopr10{_}341{_}There  are not many Husbands and Wives, who can bear the Charges of plaguing  one another in a handsom way.
+bgopr10{_}342{_}If you must be married, could you  introduce no body into our Family but a Highwayman?
+bgopr10{_}343{_}Why, thou  foolish Jade, thou wilt be as ill-us'd, and as much neglected, as if  thou hadst married a Lord!
+bgopr10{_}344{_}PEACHUM.
+bgopr10{_}345{_}Let not your Anger, my Dear, break through the Rules of  Decency, for the Captain looks upon himself in the Military Capacity,  as a Gentleman by his Profession.
+bgopr10{_}346{_}Besides what he hath already, I  know he is in a fair way of getting, or of dying; and both these  ways, let me tell you, are most excellent Chances for a Wife.
+bgopr10{_}347{_}Tell  me, Hussy, are you ruin'd or no?
+bgopr10{_}348{_}MRS. PEACHUM.
+bgopr10{_}349{_}With Polly's Fortune, she might very well have gone  off to a Person of Distinction.
+bgopr10{_}350{_}Yes, that you might, you pouting  Slut!
+bgopr10{_}351{_}PEACHUM.
+bgopr10{_}352{_}What is the Wench dumb?
+bgopr10{_}353{_}Speak, or I'll make you plead by  squeezing out an Answer from you.
+bgopr10{_}354{_}Are you really bound Wife to him,  or are you only upon liking?
+bgopr10{_}355{_}[Pinches her.]
+bgopr10{_}356{_}POLLY.
+bgopr10{_}357{_}Oh!
+bgopr10{_}358{_}[Screaming.]
+bgopr10{_}359{_}MRS. PEACHUM.
+bgopr10{_}360{_}How the Mother is to be pitied who hath handsom  Daughters!
+bgopr10{_}361{_}Locks, Bolts, Bars, and Lectures of Morality are nothing  to them:  They break through them all.
+bgopr10{_}362{_}They have as much Pleasure in  cheating a Father and Mother, as in cheating at Cards.
+bgopr10{_}363{_}PEACHUM.
+bgopr10{_}364{_}Why, Polly, I shall soon know if you are married, by  Macheath's keeping from our House.
+bgopr10{_}365{_}AIR VIII.
+bgopr10{_}366{_}Grim King of the Ghosts, &c.  POLLY.
+bgopr10{_}367{_}Can Love be control'd by Advice?
+bgopr10{_}368{_}Will Cupid our Mothers obey?
+bgopr10{_}369{_}Though my Heart were as frozen as Ice, At his Flame 'twould have melted away.
+bgopr10{_}370{_}When he kist me so closely he prest, 'Twas so sweet that I must have comply'd: So I thought it both safest and best To marry, for fear you should chide.
+bgopr10{_}371{_}MRS. PEACHUM.
+bgopr10{_}372{_}Then all the Hopes of our Family are gone for ever and  ever!
+bgopr10{_}373{_}PEACHUM.
+bgopr10{_}374{_}And Macheath may hang his Father and Mother-in-law, in hope  to get into their Daughter's Fortune.
+bgopr10{_}375{_}POLLY.
+bgopr10{_}376{_}I did not marry him (as 'tis the Fashion) coolly and  deliberately for Honour or Money.
+bgopr10{_}377{_}But, I love him.
+bgopr10{_}378{_}MRS. PEACHUM.
+bgopr10{_}379{_}Love him!
+bgopr10{_}380{_}worse and worse!
+bgopr10{_}381{_}I thought the Girl had  been better bred.
+bgopr10{_}382{_}Oh Husband, Husband!
+bgopr10{_}383{_}her Folly makes me mad!
+bgopr10{_}384{_}my  Head swims!
+bgopr10{_}385{_}I'm distracted!
+bgopr10{_}386{_}I can't support myself--Oh!
+bgopr10{_}387{_}[Faints.]
+bgopr10{_}388{_}PEACHUM.
+bgopr10{_}389{_}See, Wench, to what a Condition you have reduc'd your poor  Mother!
+bgopr10{_}390{_}a Glass of Cordial, this instant.
+bgopr10{_}391{_}How the poor Woman takes  it to heart!
+bgopr10{_}392{_}[Polly goes out, and returns with it.]
+bgopr10{_}393{_}Ah, Hussy, now this is the only Comfort your Mother has left!
+bgopr10{_}394{_}POLLY.
+bgopr10{_}395{_}Give her another Glass, Sir!
+bgopr10{_}396{_}my Mama drinks double the  Quantity whenever she is out of Order.
+bgopr10{_}397{_}This, you see, fetches her.
+bgopr10{_}398{_}MRS. PEACHUM.
+bgopr10{_}399{_}The Girl shews such a Readiness, and so much Concern,  that I could almost find in my Heart to forgive her.
+bgopr10{_}400{_}AIR IX.
+bgopr10{_}401{_}O Jenny, O Jenny, where hast thou been.
+bgopr10{_}402{_}POLLY.
+bgopr10{_}403{_}O Polly, you might have toy'd and kist.
+bgopr10{_}404{_}By keeping Men off, you keep them on.
+bgopr10{_}405{_}But he so teaz'd me, And he so pleas'd me, What I did, you must have done.
+bgopr10{_}406{_}MRS. PEACHUM.
+bgopr10{_}407{_}Not with a Highwayman.--You sorry Slut!
+bgopr10{_}408{_}PEACHUM.
+bgopr10{_}409{_}A Word with you, Wife.
+bgopr10{_}410{_}'Tis no new thing for a Wench to  take Man without Consent of Parents.
+bgopr10{_}411{_}You know 'tis the Frailty of  Women, my Dear.
+bgopr10{_}412{_}MRS. PEACHUM.
+bgopr10{_}413{_}Yes, indeed, the Sex is frail.
+bgopr10{_}414{_}But the first time a  Woman is frail, she should be somewhat nice methinks, for then or  never is the time to make her Fortune.
+bgopr10{_}415{_}After that, she hath nothing  to do but to guard herself from being found out, and she may do what  she pleases.
+bgopr10{_}416{_}PEACHUM.
+bgopr10{_}417{_}Make yourself a little easy; I have a Thought shall soon  set all Matters again to rights.
+bgopr10{_}418{_}Why so melancholy, Polly?
+bgopr10{_}419{_}since  what is done cannot be undone, we must all endeavour to make the best  of it.
+bgopr10{_}420{_}MRS. PEACHUM.
+bgopr10{_}421{_}Well, Polly; as far as one Woman can forgive another,  I forgive thee.--Your Father is too fond of you, Hussy.
+bgopr10{_}422{_}POLLY.
+bgopr10{_}423{_}Then all my Sorrows are at an end.
+bgopr10{_}424{_}MRS. PEACHUM.
+bgopr10{_}425{_}A mighty likely Speech in troth, for a Wench who is  just married!
+bgopr10{_}426{_}AIR X.  Thomas, I cannot, &c.  POLLY.
+bgopr10{_}427{_}I, like a Ship in Storms, was tost; Yet afraid to put in to Land: For seiz'd in the Port the Vessel's lost, Whose Treasure is contreband.
+bgopr10{_}428{_}The Waves are laid, My Duty's paid.
+bgopr10{_}429{_}O Joy beyond Expression!
+bgopr10{_}430{_}Thus, safe a-shore, I ask no more, My All is in my Possession.
+bgopr10{_}431{_}PEACHUM.
+bgopr10{_}432{_}I hear Customers in t'other Room:  Go, talk with 'em,  Polly; but come to us again, as soon as they are gone.--But, hark ye,  Child, if 'tis the Gentleman who was here Yesterday about the  Repeating Watch; say, you believe we can't get Intelligence of it  'till to-morrow.
+bgopr10{_}433{_}For I lent it to Suky Straddle, to make a figure  with it to-night at a Tavern in Drury-Lane.
+bgopr10{_}434{_}If t'other Gentleman  calls for the Silver-hilted Sword; you know Beetle-brow'd Jemmy hath  it on, and he doth not come from Tunbridge 'till Tuesday Night; so  that it cannot be had 'till then.
+bgopr10{_}435{_}[Exit Polly.]
+bgopr10{_}436{_}PEACHUM.
+bgopr10{_}437{_}Dear Wife, be a little pacified, Don't let your Passion run  away with your Senses.
+bgopr10{_}438{_}Polly, I grant you, hath done a rash thing.
+bgopr10{_}439{_}MRS. PEACHUM.
+bgopr10{_}440{_}If she had only an Intrigue with the Fellow, why the  very best Families have excus'd and huddled up a Frailty of that  sort.
+bgopr10{_}441{_}'Tis Marriage, Husband, that makes it a Blemish.
+bgopr10{_}442{_}PEACHUM.
+bgopr10{_}443{_}But Money, Wife, is the true Fuller's Earth for  Reputations, there is not a Spot or a Stain but what it can take out.
+bgopr10{_}444{_}A rich Rogue now-a-days is fit Company for any Gentleman; and the  World, my Dear, hath not such a Contempt for Roguery as you imagine.
+bgopr10{_}445{_}I tell you, Wife, I can make this Match turn to our Advantage.
+bgopr10{_}446{_}MRS. PEACHUM.
+bgopr10{_}447{_}I am very sensible, Husband, that Captain Macheath is  worth Money, but I am in doubt whether he hath not two or three Wives  already, and then if he should die in a Session or two, Polly's Dower  would come into Dispute.
+bgopr10{_}448{_}PEACHUM.
+bgopr10{_}449{_}That, indeed, is a Point which ought to be consider'd.
+bgopr10{_}450{_}AIR XI.
+bgopr10{_}451{_}A Soldier and a Sailor.
+bgopr10{_}452{_}A Fox may steal your Hens, Sir, A Whore your Health and Pence, Sir, Your Daughter rob your Chest, Sir, Your Wife may steal your Rest, Sir.
+bgopr10{_}453{_}A Thief your Goods and Plate.
+bgopr10{_}454{_}But this is all but picking, With Rest, Pence, Chest and Chicken; It ever was decreed, Sir, If Lawyer's Hand is fee'd, Sir, He steals your whole Estate.
+bgopr10{_}455{_}The Lawyers are bitter Enemies to those in our Way.
+bgopr10{_}456{_}They don't care  that any body should get a clandestine Livelihood but themselves.
+bgopr10{_}457{_}[Enter Polly.]
+bgopr10{_}458{_}POLLY.
+bgopr10{_}459{_}'Twas only Nimming Ned.
+bgopr10{_}460{_}He brought in a Damask Window- Curtain, a Hoop-Petticoat, a pair of Silver Candlesticks, a Periwig,  and one Silk Stocking, from the Fire that happen'd last Night.
+bgopr10{_}461{_}PEACHUM.
+bgopr10{_}462{_}There is not a Fellow that is cleverer in his way, and  saves more Goods out of the Fire than Ned.
+bgopr10{_}463{_}But now, Polly, to your  Affair; for Matters must not be left as they are.
+bgopr10{_}464{_}You are married  then, it seems?
+bgopr10{_}465{_}POLLY.
+bgopr10{_}466{_}Yes, Sir.
+bgopr10{_}467{_}PEACHUM.
+bgopr10{_}468{_}And how do you propose to live, Child?
+bgopr10{_}469{_}POLLY.
+bgopr10{_}470{_}Like other Women, Sir, upon the Industry of my Husband.
+bgopr10{_}471{_}MRS. PEACHUM.
+bgopr10{_}472{_}What, is the Wench turn'd Fool?
+bgopr10{_}473{_}A Highwayman's Wife,  like a Soldier's, hath as little of his Pay, as of his Company.
+bgopr10{_}474{_}PEACHUM.
+bgopr10{_}475{_}And had not you the common Views of a Gentlewoman in your  Marriage, Polly?
+bgopr10{_}476{_}POLLY.
+bgopr10{_}477{_}I don't know what you mean, Sir.
+bgopr10{_}478{_}PEACHUM.
+bgopr10{_}479{_}Of a Jointure, and of being a Widow.
+bgopr10{_}480{_}POLLY.
+bgopr10{_}481{_}But I love him, Sir; how then could I have Thoughts of  parting with him?
+bgopr10{_}482{_}PEACHUM.
+bgopr10{_}483{_}Parting with him!
+bgopr10{_}484{_}Why, this is the whole Scheme and  Intention of all Marriage-Articles.
+bgopr10{_}485{_}The comfortable Estate of Widow- hood, is the only Hope that keeps up a Wife's Spirits.
+bgopr10{_}486{_}Where is the  Woman who would scruple to be a Wife, if she had it in her Power to  be a Widow, whenever she pleas'd?
+bgopr10{_}487{_}If you have any Views of this  sort, Polly, I shall think the Match not so very unreasonable.
+bgopr10{_}488{_}POLLY.
+bgopr10{_}489{_}How I dread to hear your Advice!
+bgopr10{_}490{_}Yet I must beg you to  explain yourself.
+bgopr10{_}491{_}PEACHUM.
+bgopr10{_}492{_}Secure what he hath got, have him peach'd the next  Sessions, and then at once you are made a rich Widow.
+bgopr10{_}493{_}POLLY.
+bgopr10{_}494{_}What, murder the Man I love!
+bgopr10{_}495{_}The Blood runs cold at my Heart  with the very thought of it.
+bgopr10{_}496{_}PEACHUM.
+bgopr10{_}497{_}Fie, Polly!
+bgopr10{_}498{_}What hath Murder to do in the Affair?
+bgopr10{_}499{_}Since  the thing sooner or later must happen, I dare say, the Captain  himself would like that we should get the Reward for his Death sooner  than a Stranger.
+bgopr10{_}500{_}Why, Polly, the Captain knows, that as 'tis his  Employment to rob, so 'tis ours to take Robbers; every Man in his  Business.
+bgopr10{_}501{_}So that there is no Malice in the Case.
+bgopr10{_}502{_}MRS. PEACHUM.
+bgopr10{_}503{_}Ay, Husband, now you have nick'd the Matter.
+bgopr10{_}504{_}To have  him peach'd is the only thing could ever make me forgive her.
+bgopr10{_}505{_}AIR XII.
+bgopr10{_}506{_}Now ponder well, ye Parents dear.
+bgopr10{_}507{_}POLLY.
+bgopr10{_}508{_}O ponder well!
+bgopr10{_}509{_}be not severe; So save a wretched Wife!
+bgopr10{_}510{_}For on the Rope that hangs my Dear Depends poor Polly's Life.
+bgopr10{_}511{_}MRS. PEACHUM.
+bgopr10{_}512{_}But your Duty to your Parents, Hussy, obliges you to  hang him.
+bgopr10{_}513{_}What would many a Wife give for such an Opportunity!
+bgopr10{_}514{_}POLLY.
+bgopr10{_}515{_}What is a Jointure, what is Widow-hood to me?
+bgopr10{_}516{_}I know my  Heart.
+bgopr10{_}517{_}I cannot survive him.
+bgopr10{_}518{_}AIR XIII.
+bgopr10{_}519{_}Le printems rapelle aux armes.
+bgopr10{_}520{_}The Turtle thus with plaintive Crying, Her Lover dying, The Turtle thus with plaintive Crying, Laments her Dove.
+bgopr10{_}521{_}Down she drops quite spent with Sighing.
+bgopr10{_}522{_}Pair'd in Death, as pair'd in Love.
+bgopr10{_}523{_}Thus, Sir, it will happen to your poor Polly.
+bgopr10{_}524{_}MRS. PEACHUM.
+bgopr10{_}525{_}What, is the Fool in Love in earnest then?
+bgopr10{_}526{_}I hate  thee for being particular:  Why, Wench, thou art a Shame to thy very  Sex.
+bgopr10{_}527{_}POLLY.
+bgopr10{_}528{_}But hear me, Mother.--If you ever lov'd -  MRS. PEACHUM.
+bgopr10{_}529{_}Those cursed Play-Books she reads have been her Ruin.
+bgopr10{_}530{_}One Word more, Hussy, and I shall knock your Brains out, if you have  any.
+bgopr10{_}531{_}PEACHUM.
+bgopr10{_}532{_}Keep out of the way, Polly, for fear of Mischief, and  consider of what is proposed to you.
+bgopr10{_}533{_}MRS. PEACHUM.
+bgopr10{_}534{_}Away, Hussy.
+bgopr10{_}535{_}Hang your Husband, and be dutiful.
+bgopr10{_}536{_}[Exit Polly.]
+bgopr10{_}537{_}[Re-enter Polly, and listens behind column.]
+bgopr10{_}538{_}MRS. PEACHUM.
+bgopr10{_}539{_}The Thing, Husband, must and shall be done.
+bgopr10{_}540{_}For the  sake of Intelligence we must take other measures, and have him  peached the next Session without her Consent.
+bgopr10{_}541{_}If she will not know  her Duty, we know ours.
+bgopr10{_}542{_}PEACHUM.
+bgopr10{_}543{_}But really, my Dear, it grieves one's Heart to take off a  great Man.
+bgopr10{_}544{_}When I consider his Personal Bravery, his fine Stratagem,  how much we have already got by him, and how much more we may get,  methinks I can't find in my Heart to have a hand in his Death.
+bgopr10{_}545{_}I  wish you could have made Polly undertake it.
+bgopr10{_}546{_}MRS. PEACHUM.
+bgopr10{_}547{_}But in a Case of Necessity--our own Lives are in  danger.
+bgopr10{_}548{_}PEACHUM.
+bgopr10{_}549{_}Then, indeed, we must comply with the Customs of the World,  and make Gratitude give way to Interest.--He shall be taken off.
+bgopr10{_}550{_}MRS. PEACHUM.
+bgopr10{_}551{_}I'll undertake to manage Polly.
+bgopr10{_}552{_}PEACHUM.
+bgopr10{_}553{_}And I'll prepare Matters for the Old-Baily.
+bgopr10{_}554{_}[Exeunt severally.]
+bgopr10{_}555{_}POLLY.
+bgopr10{_}556{_}Now I'm a Wretch, indeed.--Methinks I see him already in the  Cart, sweeter and more lovely than the Nosegay in his Hand!--I hear  the Crowd extolling his Resolution and Intrepidity!--What Vollies of  Sighs are sent from the Windows of Holborn, that so comely a Youth  should be brought to Disgrace!--I see him at the Tree!
+bgopr10{_}557{_}The whole  Circle are in Tears!--even Butchers weep!--Jack Ketch himself  hesitates to perform his Duty, and would be glad to lose his Fee, by  a Reprieve.
+bgopr10{_}558{_}What then will become of Polly!--As yet I may inform him  of their Design, and aid him in his Escape.--It shall be so--But then  he flies, absents himself, and I bar myself from his dear dear  Conversation!
+bgopr10{_}559{_}That too will distract me.--If he keep out of the way,  my Papa and Mama may in time relent, and we may be happy.--If he  stays, he is hang'd, and then he is lost for ever!--He intended to  lie conceal'd in my Room, 'till the Dusk of the Evening:  If they are  abroad I'll this Instant let him out, lest some Accident should  prevent him.
+bgopr10{_}560{_}[Exit, and returns with Macheath.]
+bgopr10{_}561{_}Macheath.
+bgopr10{_}562{_}AIR XIV.
+bgopr10{_}563{_}Pretty Parrot, say -  MACHEATH.
+bgopr10{_}564{_}Pretty Polly, say, When I was away, Did your fancy never stray To some newer Lover?
+bgopr10{_}565{_}POLLY.
+bgopr10{_}566{_}Without Disguise, Heaving Sighs, Doting Eyes, My constant Heart discover.
+bgopr10{_}567{_}Fondly let me loll!
+bgopr10{_}568{_}MACHEATH.
+bgopr10{_}569{_}O pretty, pretty Poll.
+bgopr10{_}570{_}POLLY.
+bgopr10{_}571{_}And are YOU as fond as ever, my Dear?
+bgopr10{_}572{_}MACHEATH.
+bgopr10{_}573{_}Suspect my Honour, my Courage, suspect any thing but my  Love.--May my Pistols miss Fire, and my Mare slip her Shoulder while  I am pursu'd, if I ever forsake thee!
+bgopr10{_}574{_}POLLY.
+bgopr10{_}575{_}Nay, my Dear, I have no Reason to doubt you, for I find in  the Romance you lent me, none of the great Heroes were ever false in  Love.
+bgopr10{_}576{_}AIR XV.
+bgopr10{_}577{_}Pray, Fair one, be kind -  MACHEATH.
+bgopr10{_}578{_}My Heart was so free, It rov'd like the Bee, 'Till Polly my Passion requited; I sipt each Flower, I chang'd every Hour, But here every Flower is united.
+bgopr10{_}579{_}POLLY.
+bgopr10{_}580{_}Were you sentenc'd to Transportation, sure, my Dear, you  could not leave me behind you--could you?
+bgopr10{_}581{_}MACHEATH.
+bgopr10{_}582{_}Is there any Power, any Force that could tear me from  thee?
+bgopr10{_}583{_}You might sooner tear a Pension out of the Hands of a  Courtier, a Fee from a Lawyer, a pretty Woman from a Looking-glass,  or any Woman from Quadrille.--But to tear me from thee is impossible!
+bgopr10{_}584{_}AIR XVI.
+bgopr10{_}585{_}Over the Hills and far away.
+bgopr10{_}586{_}Were I laid on Greenland's Coast, And in my Arms embrac'd my Lass; Warm amidst eternal Frost, Too soon the Half Year's Night would pass.
+bgopr10{_}587{_}POLLY.
+bgopr10{_}588{_}Were I sold on Indian Soil, Soon as the burning Day was clos'd, I could mock the sultry Toil When on my Charmer's Breast repos'd.
+bgopr10{_}589{_}MACHEATH.
+bgopr10{_}590{_}And I would love you all the Day, POLLY.
+bgopr10{_}591{_}Every Night would kiss and play, MACHEATH.
+bgopr10{_}592{_}If with me you'd fondly stray POLLY.
+bgopr10{_}593{_}Over the Hills and far away.
+bgopr10{_}594{_}POLLY.
+bgopr10{_}595{_}Yes, I would go with thee.
+bgopr10{_}596{_}But oh!--how shall I speak it?
+bgopr10{_}597{_}I  must be torn from thee.
+bgopr10{_}598{_}We must part.
+bgopr10{_}599{_}MACHEATH.
+bgopr10{_}600{_}How!
+bgopr10{_}601{_}Part!
+bgopr10{_}602{_}POLLY.
+bgopr10{_}603{_}We must, we must.--My Papa and Mama are set against thy Life.
+bgopr10{_}604{_}They now, even now are in Search after thee.
+bgopr10{_}605{_}They are preparing  Evidence against thee.
+bgopr10{_}606{_}Thy Life depends upon a moment.
+bgopr10{_}607{_}AIR XVII.
+bgopr10{_}608{_}Gin thou wert mine awn thing -  Oh what Pain it is to part!
+bgopr10{_}609{_}Can I leave thee, can I leave thee?
+bgopr10{_}610{_}O what pain it is to part!
+bgopr10{_}611{_}Can thy Polly ever leave thee?
+bgopr10{_}612{_}But lest Death my Love should thwart, And bring thee to the fatal Cart, Thus I tear thee from my bleeding Heart!
+bgopr10{_}613{_}Fly hence, and let me leave thee.
+bgopr10{_}614{_}One Kiss and then--one Kiss--be gone--farewel.
+bgopr10{_}615{_}MACHEATH.
+bgopr10{_}616{_}My Hand, my Heart, my Dear, is so riveted to thine, that I  cannot unloose my Hold.
+bgopr10{_}617{_}POLLY.
+bgopr10{_}618{_}But my Papa may intercept thee, and then I should lose the  very glimmering of Hope.
+bgopr10{_}619{_}A few Weeks, perhaps, may reconcile us all.
+bgopr10{_}620{_}Shall thy Polly hear from thee?
+bgopr10{_}621{_}MACHEATH.
+bgopr10{_}622{_}Must I then go?
+bgopr10{_}623{_}POLLY.
+bgopr10{_}624{_}And will not Absence change your Love?
+bgopr10{_}625{_}MACHEATH.
+bgopr10{_}626{_}If you doubt it, let me stay--and be hang'd.
+bgopr10{_}627{_}POLLY.
+bgopr10{_}628{_}O how I fear!
+bgopr10{_}629{_}how I tremble!--Go--but when Safety will give  you leave, you will be sure to see me again; for 'till then Polly is  wretched.
+bgopr10{_}630{_}AIR XVIII.
+bgopr10{_}631{_}O the Broom, &c.  MACHEATH.
+bgopr10{_}632{_}The Miser thus a Shilling sees, Which he's oblig'd to pay, With sighs resigns it by degrees, And fears 'tis gone for ay.
+bgopr10{_}633{_}[Parting, and looking back at each other with fondness; he at one  Door, she at the other.]
+bgopr10{_}634{_}POLLY.
+bgopr10{_}635{_}The Boy, thus, when his Sparrow's flown, The Bird in Silence eyes; But soon as out of Sight 'tis gone, Whines, whimpers, sobs and cries.
+bgopr10{_}636{_}ACT II.
+bgopr10{_}637{_}SCENE I.
+bgopr10{_}638{_}A tavern near Newgate.
+bgopr10{_}639{_}Jemmy Twitcher, Crook-finger'd Jack, Wat Dreary, Robin of Bagshot,  Nimming Ned, Henry Paddington, Matt of the Mint, Ben Budge, and the  rest of the Gang, at the Table, with Wine, Brandy and Tobacco.
+bgopr10{_}640{_}BEN.
+bgopr10{_}641{_}But pr'ythee, Matt, what is become of thy Brother Tom?
+bgopr10{_}642{_}I have  not seen him since my Return from Transportation.
+bgopr10{_}643{_}MATT.
+bgopr10{_}644{_}Poor Brother Tom had an Accident this time Twelve-month, and  so clever a made fellow he was, that I could not save him from those  fleaing Rascals the Surgeons; and now, poor Man, he is among the  Otamys at Surgeons Hall.
+bgopr10{_}645{_}BEN.
+bgopr10{_}646{_}So it seems, his Time was come.
+bgopr10{_}647{_}JEMMY.
+bgopr10{_}648{_}But the present Time is ours, and no body alive hath more.
+bgopr10{_}649{_}Why are the Laws levell'd at us?
+bgopr10{_}650{_}are we more dishonest than the rest  of Mankind?
+bgopr10{_}651{_}What we win, Gentlemen, is our own by the Law of Arms,  and the Right of Conquest.
+bgopr10{_}652{_}CROOK.
+bgopr10{_}653{_}Where shall we find such another Set of Practical  Philosophers, who to a Man are above the Fear of Death?
+bgopr10{_}654{_}WAT.
+bgopr10{_}655{_}Sound Men, and true!
+bgopr10{_}656{_}ROBIN.
+bgopr10{_}657{_}Of try'd Courage, and indefatigable Industry!
+bgopr10{_}658{_}NED.
+bgopr10{_}659{_}Who is there here that would not die for his Friend?
+bgopr10{_}660{_}HARRY.
+bgopr10{_}661{_}Who is there here that would betray him for his Interest?
+bgopr10{_}662{_}MATT.
+bgopr10{_}663{_}Shew me a Gang of Courtiers that can say as much.
+bgopr10{_}664{_}BEN.
+bgopr10{_}665{_}We are for a just Partition of the World, for every Man hath a  Right to enjoy Life.
+bgopr10{_}666{_}MATT.
+bgopr10{_}667{_}We retrench the Superfluities of Mankind.
+bgopr10{_}668{_}The World is  avaritious, and I hate Avarice.
+bgopr10{_}669{_}A covetous fellow, like a Jackdaw,  steals what he was never made to enjoy, for the sake of hiding it.
+bgopr10{_}670{_}These are the Robbers of Mankind, for Money was made for the Free- hearted and Generous, and where is the Injury of taking from another,  what he hath not the Heart to make use of?
+bgopr10{_}671{_}JEMMY.
+bgopr10{_}672{_}Our several Stations for the Day are fixt.
+bgopr10{_}673{_}Good luck attend  us all.
+bgopr10{_}674{_}Fill the Glasses.
+bgopr10{_}675{_}AIR XIX.
+bgopr10{_}676{_}Fill every Glass, &c.  MATT.
+bgopr10{_}677{_}Fill every Glass, for Wine inspires us, And fires us With Courage, Love and Joy.
+bgopr10{_}678{_}Women and Wine should life employ.
+bgopr10{_}679{_}Is there ought else on Earth desirous?
+bgopr10{_}680{_}CHORUS.
+bgopr10{_}681{_}Fill every Glass, &c.  [To them enter Macheath.]
+bgopr10{_}682{_}MACHEATH.
+bgopr10{_}683{_}Gentlemen, well met.
+bgopr10{_}684{_}My Heart hath been with you this  Hour; but an unexpected Affair hath detain'd me.
+bgopr10{_}685{_}No Ceremony, I beg  you.
+bgopr10{_}686{_}MATT.
+bgopr10{_}687{_}We were just breaking up to go upon Duty.
+bgopr10{_}688{_}Am I to have the  Honour of taking the Air with you, Sir, this Evening upon the Heath?
+bgopr10{_}689{_}I drink a Dram now and then with the Stagecoachmen in the way of  Friendship and Intelligence; and I know that about this Time there  will be Passengers upon the Western Road, who are worth speaking  with.
+bgopr10{_}690{_}MACHEATH.
+bgopr10{_}691{_}I was to have been of that Party--but -  MATT.
+bgopr10{_}692{_}But what, Sir?
+bgopr10{_}693{_}MACHEATH.
+bgopr10{_}694{_}Is there any Man who suspects my Courage?
+bgopr10{_}695{_}MATT.
+bgopr10{_}696{_}We have all been Witnesses of it.
+bgopr10{_}697{_}MACHEATH.
+bgopr10{_}698{_}My Honour and Truth to the Gang?
+bgopr10{_}699{_}MATT.
+bgopr10{_}700{_}I'll be answerable for it.
+bgopr10{_}701{_}MACHEATH.
+bgopr10{_}702{_}In the Division of our Booty, have I ever shewn the least  Marks of Avarice or Injustice?
+bgopr10{_}703{_}MATT.
+bgopr10{_}704{_}By these Questions something seems to have ruffled you.
+bgopr10{_}705{_}Are  any of us suspected?
+bgopr10{_}706{_}MACHEATH.
+bgopr10{_}707{_}I have a fixed Confidence, Gentlemen, in you all, as Men  of Honour, and as such I value and respect you.
+bgopr10{_}708{_}Peachum is a Man  that is useful to us.
+bgopr10{_}709{_}MATT.
+bgopr10{_}710{_}Is he about to play us any foul Play?
+bgopr10{_}711{_}I'll shoot him through  the Head.
+bgopr10{_}712{_}MACHEATH.
+bgopr10{_}713{_}I beg you, Gentlemen, act with Conduct and Discretion.
+bgopr10{_}714{_}A  Pistol is your last Resort.
+bgopr10{_}715{_}MATT.
+bgopr10{_}716{_}He knows nothing of this Meeting.
+bgopr10{_}717{_}MACHEATH.
+bgopr10{_}718{_}Business cannot go on without him.
+bgopr10{_}719{_}He is a Man who knows  the World, and is a necessary Agent to us.
+bgopr10{_}720{_}We have had a slight  Difference, and 'till it is accommodated I shall be oblig'd to keep  out of his way.
+bgopr10{_}721{_}Any private Dispute of mine shall be of no ill  consequence to my Friends.
+bgopr10{_}722{_}You must continue to act under his  Direction, for the moment we break loose from him, our Gang is  ruin'd.
+bgopr10{_}723{_}MATT.
+bgopr10{_}724{_}As a Bawd to a Whore, I grant you, he is to us of great  Convenience.
+bgopr10{_}725{_}MACHEATH.
+bgopr10{_}726{_}Make him believe I have quitted the Gang, which I can  never do but with Life.
+bgopr10{_}727{_}At our private Quarters I will continue to  meet you.
+bgopr10{_}728{_}A Week or so will probably reconcile us.
+bgopr10{_}729{_}MATT.
+bgopr10{_}730{_}Your Instructions shall be observ'd.
+bgopr10{_}731{_}'Tis now high time for  us to repair to our several Duties; so 'till the Evening at our  Quarters in Moor-Fields we bid you farewel.
+bgopr10{_}732{_}MACHEATH.
+bgopr10{_}733{_}I shall wish myself with you.
+bgopr10{_}734{_}Success attend you.
+bgopr10{_}735{_}[Sits down melancholy at the Table.]
+bgopr10{_}736{_}AIR XX.
+bgopr10{_}737{_}March in Rinaldo, with Drums and Trumpets.
+bgopr10{_}738{_}MATT.
+bgopr10{_}739{_}Let us take the Road.
+bgopr10{_}740{_}Hark!
+bgopr10{_}741{_}I hear the Sound of Coaches!
+bgopr10{_}742{_}The Hour of Attack approaches, To your Arms, brave Boys, and load.
+bgopr10{_}743{_}See the Ball I hold!
+bgopr10{_}744{_}Let the Chymists toil like Asses, Our Fire their Fire surpasses, And turns all our Lead to Gold.
+bgopr10{_}745{_}[The Gang, rang'd in the Front of the Stage, load their Pistols, and  stick them under their Girdles; then go off singing the first Part in  Chorus.]
+bgopr10{_}746{_}MACHEATH.
+bgopr10{_}747{_}What a Fool is a fond Wench!
+bgopr10{_}748{_}Polly is most confoundedly  bit.--I love the Sex.
+bgopr10{_}749{_}And a Man who loves Money, might as well be  contented with one Guinea, as I with one Woman.
+bgopr10{_}750{_}The Town perhaps  have been as much obliged to me, for recruiting it with free-hearted  Ladies, as to any Recruiting Officer in the Army.
+bgopr10{_}751{_}If it were not for  us, and the other Gentlemen of the Sword, Drury-Lane would be  uninhabited.
+bgopr10{_}752{_}AIR XXI.
+bgopr10{_}753{_}Would you have a young Virgin, &c.  If the Heart of a Man is deprest with Cares, The Mist is dispell'd when a Woman appears; Like the Notes of a Fiddle, she sweetly, sweetly Raises the Spirits, and charms our Ears, Roses and Lilies her Cheeks disclose, But her ripe Lips are more sweet than those.
+bgopr10{_}754{_}Press her, Caress her, With Blisses, Her Kisses Dissolve us in Pleasure, and soft Repose.
+bgopr10{_}755{_}I must have Women.
+bgopr10{_}756{_}There is nothing unbends the Mind like them.
+bgopr10{_}757{_}Money is not so strong a Cordial for the Time.
+bgopr10{_}758{_}Drawer--[Enter  Drawer.]
+bgopr10{_}759{_}Is the Porter gone for all the Ladies according to my  Directions?
+bgopr10{_}760{_}DRAWER.
+bgopr10{_}761{_}I expect him back every Minute.
+bgopr10{_}762{_}But you know, Sir, you sent  him as far as Hockley in the Hole for three of the Ladies, for one in  Vinegar-Yard, and for the rest of them somewhere about Lewkner's- Lane.
+bgopr10{_}763{_}Sure some of them are below, for I hear the Bar-Bell.
+bgopr10{_}764{_}As they  come I will shew them up.
+bgopr10{_}765{_}Coming, Coming.
+bgopr10{_}766{_}[Enter Mrs. Coaxer, Dolly Trull, Mrs. Vixen, Betty Doxy, Jenny Diver,  Mrs. Slammekin, Suky Tawdry, and Molly Brazen.]
+bgopr10{_}767{_}MACHEATH.
+bgopr10{_}768{_}Dear Mrs. Coaxer, you are welcome.
+bgopr10{_}769{_}You look charmingly  to-day.
+bgopr10{_}770{_}I hope you don't want the Repairs of Quality, and lay on  Paint.--Dolly Trull!
+bgopr10{_}771{_}kiss me, you Slut; are you as amorous as ever,  Hussy?
+bgopr10{_}772{_}You are always so taken up with stealing Hearts, that you  don't allow yourself Time to steal any thing else.--Ah Dolly, thou  wilt ever be a Coquette!
+bgopr10{_}773{_}Mrs. Vixen, I'm yours, I always lov'd a  Woman of Wit and Spirit; they make charming Mistresses, but plaguy  Wives--Betty Doxy!
+bgopr10{_}774{_}Come hither, Hussy.
+bgopr10{_}775{_}Do you drink as hard as  ever?
+bgopr10{_}776{_}You had better stick to good wholesom Beer; for in troth,  Betty, Strong-Waters will in time ruin your Constitution.
+bgopr10{_}777{_}You should  leave those to your Betters.--What!
+bgopr10{_}778{_}and my pretty Jenny Diver too!
+bgopr10{_}779{_}As prim and demure as ever!
+bgopr10{_}780{_}There is not any Prude, though ever so  high bred, hath a more sanctify'd Look, with a more mischievous  Heart.
+bgopr10{_}781{_}Ah!
+bgopr10{_}782{_}thou art a dear artful Hypocrite.--Mrs.
+bgopr10{_}783{_}Slammekin!
+bgopr10{_}784{_}as  careless and genteel as ever!
+bgopr10{_}785{_}all you fine Ladies, who know your own  Beauty, affect an Undress.--But see, here's Suky Tawdry come to  contradict what I was saying.
+bgopr10{_}786{_}Every thing she gets one way she lays  out upon her Back.
+bgopr10{_}787{_}Why, Suky, you must keep at least a Dozen  Tallymen.
+bgopr10{_}788{_}Molly Brazen!
+bgopr10{_}789{_}[She kisses him.]
+bgopr10{_}790{_}That's well done.
+bgopr10{_}791{_}I  love a free-hearted Wench.
+bgopr10{_}792{_}Thou hast a most agreeable Assurance,  Girl, and art as willing as a Turtle.--But hark!
+bgopr10{_}793{_}I hear Music.
+bgopr10{_}794{_}The  Harper is at the Door.
+bgopr10{_}795{_}If Music be the Food of Love, play on.
+bgopr10{_}796{_}Ere  you seat yourselves, Ladies, what think you of a Dance?
+bgopr10{_}797{_}Come in.
+bgopr10{_}798{_}[Enter Harper.]
+bgopr10{_}799{_}Play the French Tune, that Mrs. Slammekin was so  fond of.
+bgopr10{_}800{_}[A Dance a la ronde in the French manner; near the end of it this  song and Chorus.]
+bgopr10{_}801{_}AIR XXII.
+bgopr10{_}802{_}Cotillon.
+bgopr10{_}803{_}Youth's the Season made for Joys, Love is then our Duty, She alone who that employs, Well deserves her Beauty.
+bgopr10{_}804{_}Let's be gay, While we may, Beauty's a Flower, despis'd in Decay.
+bgopr10{_}805{_}Youth's the Season, &c.  Let us drink and sport to-day, Ours is not to-morrow.
+bgopr10{_}806{_}Love with Youth flies swift away, Age is nought but Sorrow.
+bgopr10{_}807{_}Dance and sing, Time's on the Wing.
+bgopr10{_}808{_}Life never knows the Return of Spring.
+bgopr10{_}809{_}CHORUS.
+bgopr10{_}810{_}Let us drink, &c.  MACHEATH.
+bgopr10{_}811{_}Now, pray Ladies, take your Places.
+bgopr10{_}812{_}Here Fellow.
+bgopr10{_}813{_}[Pays  the Harper.]
+bgopr10{_}814{_}Bid the Drawer bring us more Wine.
+bgopr10{_}815{_}[Exit Harper.]
+bgopr10{_}816{_}If  any of the Ladies choose Ginn, I hope they will be so free to call  for it.
+bgopr10{_}817{_}JENNY.
+bgopr10{_}818{_}You look as if you meant me.
+bgopr10{_}819{_}Wine is strong enough for me.
+bgopr10{_}820{_}Indeed, Sir, I never drink Strong-Waters, but when I have the Cholic.
+bgopr10{_}821{_}MACHEATH.
+bgopr10{_}822{_}Just the Excuse of the fine Ladies!
+bgopr10{_}823{_}Why, a Lady of  Quality is never without the Cholic.
+bgopr10{_}824{_}I hope, Mrs. Coaxer, you have  had good Success of late in your Visits among the Mercers.
+bgopr10{_}825{_}MRS. COAXER.
+bgopr10{_}826{_}We have so many Interlopers--Yet with Industry, one may  still have a little Picking.
+bgopr10{_}827{_}I carried a silver-flowered Lutestring,  and a Piece of black Padesoy to Mr. Peachum's Lock but last Week.
+bgopr10{_}828{_}MRS. VIXEN.
+bgopr10{_}829{_}There's Molly Brazen hath the Ogle of a Rattle-Snake.
+bgopr10{_}830{_}She rivetted a Linen-Draper's Eye so fast upon her, that he was  nick'd of three Pieces of Cambric before he could look off.
+bgopr10{_}831{_}BRAZEN.
+bgopr10{_}832{_}Oh dear Madam!--But sure nothing can come up to your  handling of Laces!
+bgopr10{_}833{_}And then you have such a sweet deluding Tongue!
+bgopr10{_}834{_}To cheat a Man is nothing; but the Woman must have fine Parts indeed  who cheats a Woman.
+bgopr10{_}835{_}MRS. VIXEN.
+bgopr10{_}836{_}Lace, Madam, lies in a small Compass, and is of easy  Conveyance.
+bgopr10{_}837{_}But you are apt, Madam, to think too well of your  Friends.
+bgopr10{_}838{_}MRS. COAXER.
+bgopr10{_}839{_}If any woman hath more Art than another, to be sure,  'tis Jenny Diver.
+bgopr10{_}840{_}Though her Fellow be never so agreeable, she can  pick his Pocket as coolly, as if money were her only Pleasure.
+bgopr10{_}841{_}Now  that is a Command of the Passions uncommon in a Woman!
+bgopr10{_}842{_}JENNY.
+bgopr10{_}843{_}I never go to the Tavern with a Man, but in the View of  Business.
+bgopr10{_}844{_}I have other Hours, and other sort of Men for my Pleasure.
+bgopr10{_}845{_}But had I your Address, Madam  MACHEATH.
+bgopr10{_}846{_}Have done with your Compliments, Ladies; and drink about:   You are not so fond of me, Jenny, as you use to be.
+bgopr10{_}847{_}JENNY.
+bgopr10{_}848{_}'Tis not convenient, Sir, to shew my Fondness among so many  Rivals.
+bgopr10{_}849{_}'Tis your own Choice, and not the Warmth of my Inclination  that will determine you.
+bgopr10{_}850{_}AIR XXIII.
+bgopr10{_}851{_}All in a misty Morning, &c.  Before the Barn-Door crowing, The Cock by Hens attended, His Eyes around him throwing, Stands for a while suspended.
+bgopr10{_}852{_}Then One he singles from the Crew, And cheers the happy Hen; With how do you do, and how do you do, And how do you do again.
+bgopr10{_}853{_}MACHEATH.
+bgopr10{_}854{_}Ah Jenny!
+bgopr10{_}855{_}thou art a dear Slut.
+bgopr10{_}856{_}JENNY.
+bgopr10{_}857{_}A Man of Courage should never put any thing to the Risk but  his Life.
+bgopr10{_}858{_}These are the Tools of a Man of Honour.
+bgopr10{_}859{_}Cards and Dice  are only fit for cowardly Cheats, who prey upon their Friends.
+bgopr10{_}860{_}[She takes up his Pistol.
+bgopr10{_}861{_}Tawdry takes up the other.]
+bgopr10{_}862{_}TAWDRY.
+bgopr10{_}863{_}This, Sir, is fitter for your Hand.
+bgopr10{_}864{_}Besides your Loss of  Money, 'tis a Loss to the Ladies.
+bgopr10{_}865{_}Gaming takes you off from Women.
+bgopr10{_}866{_}How fond could I be of you!
+bgopr10{_}867{_}but before Company 'tis ill bred.
+bgopr10{_}868{_}MACHEATH.
+bgopr10{_}869{_}Wanton Hussies!
+bgopr10{_}870{_}JENNY.
+bgopr10{_}871{_}I must and will have a Kiss to give my Wine a Zest.
+bgopr10{_}872{_}[They take him about the Neck and make signs to Peachum and  Constables, who rush in upon him.]
+bgopr10{_}873{_}PEACHUM.
+bgopr10{_}874{_}I seize you, Sir, as my Prisoner.
+bgopr10{_}875{_}MACHEATH.
+bgopr10{_}876{_}Was this well done, Jenny?--Women are Decoy Ducks; who can  trust them!
+bgopr10{_}877{_}Beasts, Jades, Jilts, Harpies, Furies, Whores!
+bgopr10{_}878{_}PEACHUM.
+bgopr10{_}879{_}Your Case, Mr. Macheath, is not particular.
+bgopr10{_}880{_}The greatest  Heroes have been ruin'd by Women.
+bgopr10{_}881{_}But, to do them Justice, I must  own they are a pretty sort of Creatures, if we could trust them.
+bgopr10{_}882{_}You  must now, Sir, take your Leave of the Ladies, and if they have a mind  to make you a Visit, they will be sure to find you at home.
+bgopr10{_}883{_}This  Gentleman, Ladies, lodges in Newgate.
+bgopr10{_}884{_}Constables, wait upon the  Captain to his Lodgings.
+bgopr10{_}885{_}AIR XXIV.
+bgopr10{_}886{_}When first I laid Siege to my Chloris, &c.  MACHEATH.
+bgopr10{_}887{_}At the Tree I shall suffer with Pleasure, At the Tree I shall suffer with Pleasure, Let me go where I will, In all kinds of Ill, I shall find no such Furies as these are.
+bgopr10{_}888{_}PEACHUM.
+bgopr10{_}889{_}Ladies, I'll take care the Reckoning shall be discharged.
+bgopr10{_}890{_}[Exit Macheath, guarded with Peachum and Constables.]
+bgopr10{_}891{_}MRS. VIXEN.
+bgopr10{_}892{_}Look ye, Mrs. Jenny, though Mr. Peachum may have made a  private Bargain with you and Suky Tawdry for betraying the Captain,  as we were all assisting, we ought all to share alike.
+bgopr10{_}893{_}MRS. COAXER.
+bgopr10{_}894{_}I think Mr. Peachum, after so long an Acquaintance,  might have trusted me as well as Jenny Diver.
+bgopr10{_}895{_}MRS. SLAMMEKIN.
+bgopr10{_}896{_}I am sure at least three Men of his hanging, and in  a Year's time too (if he did me Justice) should be set down to my  Account.
+bgopr10{_}897{_}TRULL.
+bgopr10{_}898{_}Mrs. Slammekin, that is not fair.
+bgopr10{_}899{_}For you know one of them  was taken in Bed with me.
+bgopr10{_}900{_}JENNY.
+bgopr10{_}901{_}As far as a Bowl of Punch or a Treat, I believe Mrs. Suky  will join with me.--As for any thing else, Ladies, you cannot in  Conscience expect it.
+bgopr10{_}902{_}MRS. SLAMMEKIN.
+bgopr10{_}903{_}Dear Madam -  TRULL.
+bgopr10{_}904{_}I would not for the World -  MRS. SLAMMEKIN.
+bgopr10{_}905{_}'Tis impossible for me -  TRULL.
+bgopr10{_}906{_}As I hope to be sav'd, Madam -  MRS. SLAMMEKIN.
+bgopr10{_}907{_}Nay, then I must stay here all Night -  TRULL.
+bgopr10{_}908{_}Since you command me.
+bgopr10{_}909{_}[Exeunt with great Ceremony.]
+bgopr10{_}910{_}SCENE II.
+bgopr10{_}911{_}Newgate.
+bgopr10{_}912{_}Lockit, Turnkeys, Macheath, Constables.
+bgopr10{_}913{_}LOCKIT.
+bgopr10{_}914{_}Noble Captain, you are welcome.
+bgopr10{_}915{_}You have not been a Lodger  of mine this Year and half.
+bgopr10{_}916{_}You know the Custom, Sir.
+bgopr10{_}917{_}Garnish,  Captain, Garnish.
+bgopr10{_}918{_}Hand me down those Fetters there.
+bgopr10{_}919{_}MACHEATH.
+bgopr10{_}920{_}Those, Mr. Lockit, seem to be the heaviest of the whole  Set.
+bgopr10{_}921{_}With your Leave, I should like the further Pair better.
+bgopr10{_}922{_}LOCKIT.
+bgopr10{_}923{_}Look ye, Captain, we know what is fittest for our Prisoners.
+bgopr10{_}924{_}When a Gentleman uses me with Civility, I always do the best I can to  please him.--Hand them down I say.--We have them of all Prices, from  one Guinea to ten, and 'tis fitting every Gentleman should please  himself.
+bgopr10{_}925{_}MACHEATH.
+bgopr10{_}926{_}I understand you, Sir.
+bgopr10{_}927{_}[Gives Money.]
+bgopr10{_}928{_}The Fees here are  so many, and so exorbitant, that few Fortunes can bear the Expence of  getting off handsomly, or of dying like a Gentleman.
+bgopr10{_}929{_}LOCKIT.
+bgopr10{_}930{_}Those, I see, will fit the Captain better--Take down the  further Pair.
+bgopr10{_}931{_}Do but examine them, Sir.--Never was better work.
+bgopr10{_}932{_}How  genteely they are made!--They will fit as easy as a Glove, and the  nicest Man in England might not be asham'd to wear them.
+bgopr10{_}933{_}[He puts on  the Chains.]
+bgopr10{_}934{_}If I had the best Gentleman in the Land in my Custody I  could not equip him more handsomly.
+bgopr10{_}935{_}And so, Sir--I now leave you to  your private Meditations.
+bgopr10{_}936{_}[Exeunt leaving Macheath solus.]
+bgopr10{_}937{_}MACHEATH.
+bgopr10{_}938{_}AIR XXV.
+bgopr10{_}939{_}Courtiers, Courtiers, think it no Harm, &c.  Man may escape from Rope and Gun; Nay, some have out liv'd the Doctor's Pill; Who takes a Woman must be undone, That Basilisk is sure to kill.
+bgopr10{_}940{_}The Fly that sips Treacle is lost in the Sweets, So he that tastes Woman, Woman, Woman, He that tastes Woman, ruin meets.
+bgopr10{_}941{_}To what a woful Plight have I brought myself!
+bgopr10{_}942{_}Here must I (all Day  long, 'till I am hang'd) be confin'd to hear the Reproaches of a  Wench who lays her Ruin at my Door--I am in the Custody of her  Father, and to be sure, if he knows of the matter, I shall have a  fine time on't betwixt this and my Execution.--But I promis'd the  Wench Marriage--What signifies a Promise to a Woman?
+bgopr10{_}943{_}Does not Man in  Marriage itself promise a hundred things that he never means to  perform?
+bgopr10{_}944{_}Do all we can, Women will believe us; for they look upon a  Promise as an Excuse for following their own Inclinations.--But here  comes Lucy, and I cannot get from her.--Wou'd I were deaf!
+bgopr10{_}945{_}[Enter Lucy.]
+bgopr10{_}946{_}LUCY.
+bgopr10{_}947{_}You base Man you,--how can you look me in the Face after what  hath passed between us?--See here, perfidious Wretch, how I am forc'd  to bear about the Load of Infamy you have laid upon me--O Macheath!
+bgopr10{_}948{_}thou hast robb'd me of my Quiet--to see thee tortur'd would give me  Pleasure.
+bgopr10{_}949{_}AIR XXVI.
+bgopr10{_}950{_}A lovely Lass to a Friar came, &c.  Thus when a good Housewife sees a Rat In her Trap in the Morning taken, With Pleasure her Heart goes pit-a-pat, In Revenge for her Loss of Bacon.
+bgopr10{_}951{_}Then she throws him To the Dog or Cat, To be worried, crush'd and shaken.
+bgopr10{_}952{_}MACHEATH.
+bgopr10{_}953{_}Have you no Bowels, no Tenderness, my dear Lucy, to see a  Husband in these Circumstances?
+bgopr10{_}954{_}LUCY.
+bgopr10{_}955{_}A Husband!
+bgopr10{_}956{_}MACHEATH.
+bgopr10{_}957{_}In ev'ry Respect but the Form, and that, my Dear, may be  said over us at any time.--Friends should not insist upon Ceremonies.
+bgopr10{_}958{_}From a Man of Honour, his Word is as good as his Bond.
+bgopr10{_}959{_}LUCY.
+bgopr10{_}960{_}'Tis the Pleasure of all you fine Men to insult the Women you  have ruin'd.
+bgopr10{_}961{_}AIR XXVII.
+bgopr10{_}962{_}'Twas when the Sea was roaring, &c.  How cruel are the Traitors, Who lye and swear in jest, To cheat unguarded Creatures Of Virtue, Fame, and Rest!
+bgopr10{_}963{_}Whoever steals a Shilling, Through Shame the Guilt conceals: In Love the perjur'd Villain With Boasts the Theft reveals.
+bgopr10{_}964{_}MACHEATH.
+bgopr10{_}965{_}The very first Opportunity, my Dear, (have but Patience)  you shall be my Wife in whatever manner you please.
+bgopr10{_}966{_}LUCY.
+bgopr10{_}967{_}Insinuating Monster!
+bgopr10{_}968{_}And so you think I know nothing of the  Affair of Miss Polly Peachum.--I could tear thy Eyes out!
+bgopr10{_}969{_}MACHEATH.
+bgopr10{_}970{_}Sure, Lucy, you can't be such a Fool as to be jealous of  Polly!
+bgopr10{_}971{_}LUCY.
+bgopr10{_}972{_}Are you not married to her, you Brute, you.
+bgopr10{_}973{_}MACHEATH.
+bgopr10{_}974{_}Married!
+bgopr10{_}975{_}Very good.
+bgopr10{_}976{_}The Wench gives it out only to vex  thee, and to ruin me in thy good opinion.
+bgopr10{_}977{_}'Tis true, I go to the  House; I chat with the Girl, I kiss her, I say a thousand things to  her (as all Gentlemen do) that mean nothing, to divert myself; and  now the silly Jade hath set it about that I am married to her, to let  me know what she would be at.
+bgopr10{_}978{_}Indeed, my dear Lucy, these violent  Passions may be of ill consequence to a Woman in your Condition.
+bgopr10{_}979{_}LUCY.
+bgopr10{_}980{_}Come, come, Captain, for all your Assurance, you know that  Miss Polly hath put it out of your Power to do me the Justice you  promis'd me.
+bgopr10{_}981{_}MACHEATH.
+bgopr10{_}982{_}A jealous Woman believes every thing her Passion suggests.
+bgopr10{_}983{_}To convince you of my Sincerity, if we can find the Ordinary, I shall  have no Scruples of making you my Wife; and I know the Consequence of  having two at a time.
+bgopr10{_}984{_}LUCY.
+bgopr10{_}985{_}That you are only to be hang'd, and so get rid of them both.
+bgopr10{_}986{_}MACHEATH.
+bgopr10{_}987{_}I am ready, my dear Lucy, to give you Satisfaction--if you  think there is any in Marriage.--What can a Man of Honour say more?
+bgopr10{_}988{_}LUCY.
+bgopr10{_}989{_}So then, it seems, you are not married to Miss Polly.
+bgopr10{_}990{_}MACHEATH.
+bgopr10{_}991{_}You know, Lucy, the Girl is prodigiously conceited.
+bgopr10{_}992{_}No  Man can say a civil thing to her, but (like other fine Ladies) her  Vanity makes her think he's her own for ever and ever.
+bgopr10{_}993{_}AIR XXVIII.
+bgopr10{_}994{_}The Sun had loos'd his weary Teams, &c.  The first time at the Looking-glass The Mother sets her Daughter, The Image strikes the smiling Lass With Self-love ever after, Each time she looks, she, fonder grown, Thinks ev'ry Charm grows stronger.
+bgopr10{_}995{_}But alas, vain Maid, all Eyes but your own Can see you are not younger.
+bgopr10{_}996{_}When Women consider their own Beauties, they are all alike  unreasonable in their Demands; for they expect their Lovers should  like them as long as they like themselves.
+bgopr10{_}997{_}LUCY.
+bgopr10{_}998{_}Yonder is my Father--perhaps this way we may light upon the  Ordinary, who shall try if you will be as good as your Word.--For I  long to be made an honest Woman.
+bgopr10{_}999{_}[Exeunt.]
+bgopr10{_}1000{_}[Enter Peachum and Lockit with an Account-Book.]
+bgopr10{_}1001{_}LOCKIT.
+bgopr10{_}1002{_}In this last Affair, Brother Peachum, we are agreed.
+bgopr10{_}1003{_}You  have consented to go halves in Macheath.
+bgopr10{_}1004{_}PEACHUM.
+bgopr10{_}1005{_}We shall never fall out about an Execution--But as to that  Article, pray how stands our last Year's Account?
+bgopr10{_}1006{_}LOCKIT.
+bgopr10{_}1007{_}If you will run your Eye over it, you'll find 'tis fair and  clearly stated.
+bgopr10{_}1008{_}PEACHUM.
+bgopr10{_}1009{_}This long Arrear of the Government is very hard upon us!
+bgopr10{_}1010{_}Can it be expected that we would hang our Acquaintance for nothing,  when our Betters will hardly save theirs without being paid for it.
+bgopr10{_}1011{_}Unless the People in Employment pay better, I promise them for the  future, I shall let other Rogues live besides their own.
+bgopr10{_}1012{_}LOCKIT.
+bgopr10{_}1013{_}Perhaps, Brother, they are afraid these Matters may be  carried too far.
+bgopr10{_}1014{_}We are treated too by them with Contempt, as if our  Profession were not reputable.
+bgopr10{_}1015{_}PEACHUM.
+bgopr10{_}1016{_}In one respect indeed our Employment may be reckon'd  dishonest, because, like Great Statesmen, we encourage those who  betray their Friends.
+bgopr10{_}1017{_}LOCKIT.
+bgopr10{_}1018{_}Such Language, Brother, any where else, might turn to your  Prejudice.
+bgopr10{_}1019{_}Learn to be more guarded, I beg you.
+bgopr10{_}1020{_}AIR XXIX.
+bgopr10{_}1021{_}How happy are we, &c.  When you censure the Age, Be cautious and sage, Lest the Courtiers offended should be: If you mention Vice or Bribe, 'Tis so pat to all the Tribe; Each cries--That was levell'd at me.
+bgopr10{_}1022{_}PEACHUM.
+bgopr10{_}1023{_}Here's poor Ned Clincher's Name, I see.
+bgopr10{_}1024{_}Sure, Brother  Lockit, there was a little unfair Proceeding in Ned's Case:  for he  told me in the Condemn'd Hold, that for Value receiv'd, you had  promis'd him a Session or two longer without Molestation.
+bgopr10{_}1025{_}LOCKIT.
+bgopr10{_}1026{_}Mr. Peachum--this is the first time my Honour was ever  call'd in Question.
+bgopr10{_}1027{_}PEACHUM.
+bgopr10{_}1028{_}Business is at an end--if once we act dishonourably.
+bgopr10{_}1029{_}LOCKIT.
+bgopr10{_}1030{_}Who accuses me?
+bgopr10{_}1031{_}PEACHUM.
+bgopr10{_}1032{_}You are warm, Brother.
+bgopr10{_}1033{_}LOCKIT.
+bgopr10{_}1034{_}He that attacks my Honour, attacks my Livelihood.--And this  Usage--Sir--is not to be borne.
+bgopr10{_}1035{_}PEACHUM.
+bgopr10{_}1036{_}Since you provoke me to speak--I must tell you too, that  Mrs. Coaxer charges you with defrauding her of her Information-Money,  for the apprehending of curl-pated Hugh.
+bgopr10{_}1037{_}Indeed, indeed, Brother, we  must punctually pay our Spies, or we shall have no Information.
+bgopr10{_}1038{_}LOCKIT.
+bgopr10{_}1039{_}Is this Language to me, Sirrah,--who have sav'd you from the  Gallows, Sirrah!
+bgopr10{_}1040{_}[Collaring each other.]
+bgopr10{_}1041{_}PEACHUM.
+bgopr10{_}1042{_}If I am hang'd, it shall be for ridding the World of an  arrant Rascal.
+bgopr10{_}1043{_}LOCKIT.
+bgopr10{_}1044{_}This Hand shall do the Office of the Halter you deserve, and  throttle you--you Dog!
+bgopr10{_}1045{_}-  PEACHUM.
+bgopr10{_}1046{_}Brother, Brother--We are both in the Wrong--We shall be  both Losers in the Dispute--for you know we have it in our Power to  hang each other.
+bgopr10{_}1047{_}You should not be so passionate.
+bgopr10{_}1048{_}LOCKIT.
+bgopr10{_}1049{_}Nor you so provoking.
+bgopr10{_}1050{_}PEACHUM.
+bgopr10{_}1051{_}'Tis our mutual Interest; 'tis for the Interest of the  World we should agree.
+bgopr10{_}1052{_}If I said any thing, Brother, to the  Prejudice of your Character, I ask pardon.
+bgopr10{_}1053{_}LOCKIT.
+bgopr10{_}1054{_}Brother Peachum--I can forgive as well as resent.--Give me  your Hand.
+bgopr10{_}1055{_}Suspicion does not become a Friend.
+bgopr10{_}1056{_}PEACHUM.
+bgopr10{_}1057{_}I only meant to give you Occasion to justify yourself:  But  I must now step home, for I expect the Gentleman about this Snuff- box, that Filch nimm'd two Nights ago in the Park.
+bgopr10{_}1058{_}I appointed him  at this Hour.
+bgopr10{_}1059{_}[Exit Peachum.]
+bgopr10{_}1060{_}[Enter Lucy.]
+bgopr10{_}1061{_}LOCKIT.
+bgopr10{_}1062{_}Whence come you, Hussy?
+bgopr10{_}1063{_}LUCY.
+bgopr10{_}1064{_}My Tears might answer that Question.
+bgopr10{_}1065{_}LOCKIT.
+bgopr10{_}1066{_}You have then been whimpering and fondling, like a Spaniel,  over the Fellow that hath abus'd you.
+bgopr10{_}1067{_}LUCY.
+bgopr10{_}1068{_}One can't help Love; one can't cure it.
+bgopr10{_}1069{_}'Tis not in my Power  to obey you, and hate him.
+bgopr10{_}1070{_}LOCKIT.
+bgopr10{_}1071{_}Learn to bear your Husband's Death like a reasonable Woman.
+bgopr10{_}1072{_}'Tis not the fashion, now-a-days, so much as to affect Sorrow upon  these Occasions.
+bgopr10{_}1073{_}No Woman would ever marry, if she had not the  Chance of Mortality for a Release.
+bgopr10{_}1074{_}Act like a Woman of Spirit,  Hussy, and thank your Father for what he is doing.
+bgopr10{_}1075{_}AIR XXX.
+bgopr10{_}1076{_}Of a noble Race was Shenkin.
+bgopr10{_}1077{_}LUCY.
+bgopr10{_}1078{_}Is then his Fate decreed, Sir?
+bgopr10{_}1079{_}Such a Man can I think of quitting?
+bgopr10{_}1080{_}When first we met, so moves me yet, O see how my Heart is splitting!
+bgopr10{_}1081{_}LOCKIT.
+bgopr10{_}1082{_}Look ye, Lucy--There is no saving him.--So, I think, you  must ev'n do like other Widows--buy yourself Weeds, and be chearful.
+bgopr10{_}1083{_}AIR XXXI.
+bgopr10{_}1084{_}You'll think ere many Days ensue This Sentence not severe; I hang your Husband, Child, 'tis true, But with him hang your Care.
+bgopr10{_}1085{_}Twang dang dillo dee.
+bgopr10{_}1086{_}Like a good Wife, go moan over your dying Husband.
+bgopr10{_}1087{_}That, Child is  your Duty--Consider, Girl, you can't have the Man and the Money too-- so make yourself as easy as you can, by getting all you can from him.
+bgopr10{_}1088{_}[Exit Lockit.]
+bgopr10{_}1089{_}[Enter Macheath.]
+bgopr10{_}1090{_}LUCY.
+bgopr10{_}1091{_}Though the Ordinary was out of the way to-day, I hope, my  Dear, you will, upon the first Opportunity, quiet my Scruples--Oh  Sir!
+bgopr10{_}1092{_}my Father's hard heart is not to be soften'd, and I am in the  utmost Despair.
+bgopr10{_}1093{_}MACHEATH.
+bgopr10{_}1094{_}But if I could raise a small Sum--Would not twenty  Guineas, think you, move him?--Of all the Arguments in the way of  Business, the Perquisite is the most prevailing--Your Father's  Perquisites for the Escape of Prisoners must amount to a considerable  Sum in the Year.
+bgopr10{_}1095{_}Money well tim'd, and properly apply'd, will do any  thing.
+bgopr10{_}1096{_}AIR XXXII.
+bgopr10{_}1097{_}London Ladies.
+bgopr10{_}1098{_}If you at an Office solicit your Due, And would not have Matters neglected; You must quicken the Clerk with the Perquisite too, To do what his Duty directed.
+bgopr10{_}1099{_}Or would you the Frowns of a Lady prevent, She too has this palpable Failing, The Perquisite softens her into Consent; That Reason with all is prevailing.
+bgopr10{_}1100{_}LUCY.
+bgopr10{_}1101{_}What Love or Money can do shall be done:  for all my Comfort  depends upon your Safety.
+bgopr10{_}1102{_}[Enter Polly.]
+bgopr10{_}1103{_}POLLY.
+bgopr10{_}1104{_}Where is my dear Husband?--Was a Rope ever intended for this  Neck!--O let me throw my Arms about it, and throttle thee with Love!- -Why dost thou turn away from me?--'Tis thy Polly--'Tis thy Wife.
+bgopr10{_}1105{_}MACHEATH.
+bgopr10{_}1106{_}Was ever such an unfortunate Rascal as I am!
+bgopr10{_}1107{_}LUCY.
+bgopr10{_}1108{_}Was there ever such another Villain!
+bgopr10{_}1109{_}POLLY.
+bgopr10{_}1110{_}O Macheath!
+bgopr10{_}1111{_}was it for this we parted?
+bgopr10{_}1112{_}Taken!
+bgopr10{_}1113{_}Imprisoned!
+bgopr10{_}1114{_}Try'd!
+bgopr10{_}1115{_}Hang'd--cruel Reflection!
+bgopr10{_}1116{_}I'll stay with thee 'till Death-- no Force shall tear thy dear Wife from thee now.--What means my  Love?--Not one kind Word!
+bgopr10{_}1117{_}not one kind Look!
+bgopr10{_}1118{_}think what thy Polly  suffers to see thee in this Condition.
+bgopr10{_}1119{_}AIR XXXIII.
+bgopr10{_}1120{_}All in the Downs, &c.  Thus when the Swallow seeking Prey, Within the Sash is closely pent, His Consort, with bemoaning Lay, Without sits pining for th' Event.
+bgopr10{_}1121{_}Her chatt'ring Lovers all around her skim; She heeds them not (poor Bird!)
+bgopr10{_}1122{_}her Soul's with him.
+bgopr10{_}1123{_}MACHEATH.
+bgopr10{_}1124{_}[Aside.]
+bgopr10{_}1125{_}I must disown her.
+bgopr10{_}1126{_}[Aloud.]
+bgopr10{_}1127{_}The Wench is  distracted.
+bgopr10{_}1128{_}LUCY.
+bgopr10{_}1129{_}Am I then bilk'd of my Virtue?
+bgopr10{_}1130{_}Can I have no Reparation?
+bgopr10{_}1131{_}Sure Men were born to lie, and Women to believe them!
+bgopr10{_}1132{_}O Villain!
+bgopr10{_}1133{_}Villain!
+bgopr10{_}1134{_}POLLY.
+bgopr10{_}1135{_}Am I not thy Wife?--Thy Neglect of me, thy Aversion to me too  severely proves it.--Look on me.--Tell me, am I not thy Wife?
+bgopr10{_}1136{_}LUCY.
+bgopr10{_}1137{_}Perfidious Wretch!
+bgopr10{_}1138{_}POLLY.
+bgopr10{_}1139{_}Barbarous Husband!
+bgopr10{_}1140{_}LUCY.
+bgopr10{_}1141{_}Hadst thou been hang'd five Months ago, I had been happy.
+bgopr10{_}1142{_}POLLY.
+bgopr10{_}1143{_}And I too--If you had been kind to me 'till Death, it would  not have vexed me--And that's no very unreasonable Request, (though  from a Wife) to a Man who hath not above seven or eight Days to live.
+bgopr10{_}1144{_}LUCY.
+bgopr10{_}1145{_}Art thou then married to another?
+bgopr10{_}1146{_}Hast thou two Wives,  Monster?
+bgopr10{_}1147{_}MACHEATH.
+bgopr10{_}1148{_}If Women's Tongues can cease for an Answer--hear me.
+bgopr10{_}1149{_}LUCY.
+bgopr10{_}1150{_}I won't.--Flesh and Blood can't bear my Usage.
+bgopr10{_}1151{_}POLLY.
+bgopr10{_}1152{_}Shall I not claim my own?
+bgopr10{_}1153{_}Justice bids me speak.
+bgopr10{_}1154{_}AIR XXXIV.
+bgopr10{_}1155{_}Have you heard of a frolicksome Ditty, &c.  MACHEATH.
+bgopr10{_}1156{_}How happy could I be with either, Were t'other dear Charmer away!
+bgopr10{_}1157{_}But while you thus teaze me together, To neither a Word will I say; But tol de rol, &c.  POLLY.
+bgopr10{_}1158{_}Sure, my Dear, there ought to be some Preference shewn to a  Wife!
+bgopr10{_}1159{_}At least she may claim the Appearance of it.
+bgopr10{_}1160{_}He must be  distracted with his Misfortunes, or he could not use me thus.
+bgopr10{_}1161{_}LUCY.
+bgopr10{_}1162{_}O Villain, Villain!
+bgopr10{_}1163{_}thou hast deceiv'd me--I could even inform  against thee with Pleasure.
+bgopr10{_}1164{_}Not a Prude wishes more heartily to have  Facts against her intimate Acquaintance, than I now wish to have  Facts against thee.
+bgopr10{_}1165{_}I would have her Satisfaction, and they should  all out.
+bgopr10{_}1166{_}AIR XXXV.
+bgopr10{_}1167{_}Irish Trot.
+bgopr10{_}1168{_}POLLY.
+bgopr10{_}1169{_}I am bubbled.
+bgopr10{_}1170{_}LUCY.
+bgopr10{_}1171{_}.
+bgopr10{_}1172{_}.
+bgopr10{_}1173{_}.
+bgopr10{_}1174{_}I'm bubbled.
+bgopr10{_}1175{_}POLLY.
+bgopr10{_}1176{_}O how I am troubled!
+bgopr10{_}1177{_}LUCY.
+bgopr10{_}1178{_}Bambouzled, and bit!
+bgopr10{_}1179{_}POLLY.
+bgopr10{_}1180{_}.
+bgopr10{_}1181{_}.
+bgopr10{_}1182{_}.
+bgopr10{_}1183{_}My Distresses are doubled.
+bgopr10{_}1184{_}LUCY.
+bgopr10{_}1185{_}When you come to the Tree, should the Hangman refuse, These Fingers, with Pleasure, could fasten the Noose.
+bgopr10{_}1186{_}POLLY.
+bgopr10{_}1187{_}I'm bubbled, &c.  MACHEATH.
+bgopr10{_}1188{_}Be pacified, my dear Lucy--This is all a Fetch of Polly's,  to make me desperate with you in case I get off.
+bgopr10{_}1189{_}If I am hang'd, she  would fain have the Credit of being thought my Widow--Really, Polly,  this is no time for a Dispute of this sort; for whenever you are  talking of Marriage, I am thinking of Hanging.
+bgopr10{_}1190{_}POLLY.
+bgopr10{_}1191{_}And hast thou the Heart to persist in disowning me?
+bgopr10{_}1192{_}MACHEATH.
+bgopr10{_}1193{_}And hast thou the Heart to persist in persuading me that I  am married?
+bgopr10{_}1194{_}Why, Polly, dost thou seek to aggravate my Misfortunes?
+bgopr10{_}1195{_}LUCY.
+bgopr10{_}1196{_}Really, Miss Peachum, you but expose yourself.
+bgopr10{_}1197{_}Besides, 'tis  barbarous in you to worry a Gentleman in his Circumstances.
+bgopr10{_}1198{_}AIR XXXVI.
+bgopr10{_}1199{_}POLLY.
+bgopr10{_}1200{_}Cease your Funning; Force or Cunning Never shall my Heart trapan.
+bgopr10{_}1201{_}All these Sallies Are but Malice To seduce my constant Man.
+bgopr10{_}1202{_}'Tis most certain, By their flirting Women oft' have Envy shown.
+bgopr10{_}1203{_}Pleas'd, to ruin Others wooing; Never happy in their own.
+bgopr10{_}1204{_}POLLY.
+bgopr10{_}1205{_}Decency, Madam, methinks might teach you to behave yourself  with some Reserve with the Husband, while his Wife is present.
+bgopr10{_}1206{_}MACHEATH.
+bgopr10{_}1207{_}But seriously, Polly, this is carrying the Joke a little  too far.
+bgopr10{_}1208{_}LUCY.
+bgopr10{_}1209{_}If you are determin'd, Madam, to raise a Disturbance in the  Prison, I shall be obliged to send for the Turnkey to shew you the  Door.
+bgopr10{_}1210{_}I am sorry, Madam, you force me to be so ill-bred.
+bgopr10{_}1211{_}POLLY.
+bgopr10{_}1212{_}Give me leave to tell you, Madam:  These forward Airs don't  become you in the least, Madam.
+bgopr10{_}1213{_}And my Duty, Madam, obliges me to  stay with my Husband, Madam.
+bgopr10{_}1214{_}AIR XXXVII.
+bgopr10{_}1215{_}Good-morrow, Gossip Joan.
+bgopr10{_}1216{_}LUCY.
+bgopr10{_}1217{_}Why how now, Madam Flirt?
+bgopr10{_}1218{_}If you thus must chatter; And are for flinging Dirt, Let's try who best can spatter; Madam Flirt.
+bgopr10{_}1219{_}POLLY.
+bgopr10{_}1220{_}Why how now, saucy Jade; Sure the Wench is tipsy!
+bgopr10{_}1221{_}How can you see me made  [To him.]
+bgopr10{_}1222{_}The Scoff of such a Gipsy?
+bgopr10{_}1223{_}Saucy Jade!
+bgopr10{_}1224{_}[To her.]
+bgopr10{_}1225{_}[Enter Peachum.]
+bgopr10{_}1226{_}PEACHUM.
+bgopr10{_}1227{_}Where's my Wench?
+bgopr10{_}1228{_}Ah Hussy!
+bgopr10{_}1229{_}Hussy!--Come you home, you  Slut; and when your Fellow is hang'd, hang yourself, to make your  Family some Amends.
+bgopr10{_}1230{_}POLLY.
+bgopr10{_}1231{_}Dear, dear Father, do not tear me from him--I must speak; I  have more to say to him--Oh!
+bgopr10{_}1232{_}twist thy Fetters about me, that he may  not haul me from thee!
+bgopr10{_}1233{_}PEACHUM.
+bgopr10{_}1234{_}Sure all Women are alike!
+bgopr10{_}1235{_}If ever they commit the Folly,  they are sure to commit another by exposing themselves--Away Not a  Word more--You are my Prisoner, now, Hussy.
+bgopr10{_}1236{_}AIR XXXVIII.
+bgopr10{_}1237{_}Irish Howl.
+bgopr10{_}1238{_}POLLY.
+bgopr10{_}1239{_}No Power on Earth can e'er divide The Knot that sacred Love hath ty'd.
+bgopr10{_}1240{_}When Parents draw against our Mind, The True-Love's Knot they faster bind.
+bgopr10{_}1241{_}Oh, oh ray, oh Amborah--oh, oh, &c.  [Holding Macheath, Peachum pulling her.]
+bgopr10{_}1242{_}SCENE III.
+bgopr10{_}1243{_}The Same.
+bgopr10{_}1244{_}Lucy, Macheath.
+bgopr10{_}1245{_}MACHEATH.
+bgopr10{_}1246{_}I am naturally compassionate, Wife; so that I could not  use the Wench as she deserv'd; which made you at first suspect there  was something in what she said.
+bgopr10{_}1247{_}LUCY.
+bgopr10{_}1248{_}Indeed, my Dear, I was strangely puzzled.
+bgopr10{_}1249{_}MACHEATH.
+bgopr10{_}1250{_}If that had been the Case, her Father would never have  brought me into this Circumstance-- No, Lucy, I had rather die than  be false to thee.
+bgopr10{_}1251{_}LUCY.
+bgopr10{_}1252{_}How happy am I, if you say this from your Heart!
+bgopr10{_}1253{_}For I love  thee so, that I could sooner bear to see thee hang'd than in the Arms  of another.
+bgopr10{_}1254{_}MACHEATH.
+bgopr10{_}1255{_}But could'st thou bear to see me hang'd?
+bgopr10{_}1256{_}LUCY.
+bgopr10{_}1257{_}O Macheath, I can never live to see that Day.
+bgopr10{_}1258{_}MACHEATH.
+bgopr10{_}1259{_}You see, Lucy; in the Account of Love you are in my Debt,  and you must now be convinc'd, that I rather choose to die than be  another's.
+bgopr10{_}1260{_}Make me, if possible, love thee more, and let me owe my  Life to thee--If you refuse to assist me, Peachum and your Father  will immediately put me beyond all means of Escape.
+bgopr10{_}1261{_}LUCY.
+bgopr10{_}1262{_}My Father, I know, hath been drinking hard with the Prisoners:   and I fancy he is now taking his Nap in his own Room--If I can  procure the Keys, shall I go off with thee, my Dear?
+bgopr10{_}1263{_}MACHEATH.
+bgopr10{_}1264{_}If we are together, 'twill be impossible to lie conceal'd.
+bgopr10{_}1265{_}As soon as the Search begins to be a little cool, I will send to  thee--'Till then my Heart is thy Prisoner.
+bgopr10{_}1266{_}LUCY.
+bgopr10{_}1267{_}Come then, my dear Husband--owe thy Life to me--and though you  love me not--be grateful,--but that Polly runs in my Head strangely.
+bgopr10{_}1268{_}MACHEATH.
+bgopr10{_}1269{_}A moment of Time may make us unhappy for ever.
+bgopr10{_}1270{_}AIR XXXIX.
+bgopr10{_}1271{_}The Lass of Patie's Mill, &c.  LUCY.
+bgopr10{_}1272{_}I like the Fox shall grieve, Whose Mate hath left her Side, Whom Hounds from Morn to Eve, Chase o'er the Country wide.
+bgopr10{_}1273{_}Where can my Lover hide?
+bgopr10{_}1274{_}Where cheat the wary Pack?
+bgopr10{_}1275{_}If Love be not his Guide, He never will come back!
+bgopr10{_}1276{_}[Exeunt.]
+bgopr10{_}1277{_}ACT III.
+bgopr10{_}1278{_}SCENE I.
+bgopr10{_}1279{_}Scene, Newgate.
+bgopr10{_}1280{_}Lockit, Lucy.
+bgopr10{_}1281{_}LOCKIT.
+bgopr10{_}1282{_}To be sure, Wench, you must have been aiding and abetting to  help him to this Escape.
+bgopr10{_}1283{_}LUCY.
+bgopr10{_}1284{_}Sir, here hath been Peachum and his Daughter Polly, and to be  sure they know the Ways of Newgate as well as if they had been born  and bred in the Place all their Lives.
+bgopr10{_}1285{_}Why must all your Suspicion  light upon me?
+bgopr10{_}1286{_}LOCKIT.
+bgopr10{_}1287{_}Lucy, Lucy, I will have none of these shuffling Answers.
+bgopr10{_}1288{_}LUCY.
+bgopr10{_}1289{_}Well then--If I know any thing of him I wish I may be burnt!
+bgopr10{_}1290{_}LOCKIT.
+bgopr10{_}1291{_}Keep your Temper, Lucy, or I shall pronounce you guilty.
+bgopr10{_}1292{_}LUCY.
+bgopr10{_}1293{_}Keep yours, Sir,--I do wish I may be burnt.
+bgopr10{_}1294{_}I do--And what  can I say more to convince you?
+bgopr10{_}1295{_}LOCKIT.
+bgopr10{_}1296{_}Did he tip handsomly?--How much did he come down with?
+bgopr10{_}1297{_}Come, Hussy, don't cheat your Father; and I shall not be angry with  you--Perhaps, you have made a better Bargain with him than I could  have done--How much, my good Girl?
+bgopr10{_}1298{_}LUCY.
+bgopr10{_}1299{_}You know, Sir, I am fond of him, and would have given Money to  have kept him with me.
+bgopr10{_}1300{_}LOCKIT.
+bgopr10{_}1301{_}Ah Lucy!
+bgopr10{_}1302{_}thy Education might have put thee more upon thy  Guard; for a Girl in the Bar of an Ale-house is always besieg'd.
+bgopr10{_}1303{_}LUCY.
+bgopr10{_}1304{_}Dear Sir, mention not my Education--for 'twas to that I owe my  Ruin.
+bgopr10{_}1305{_}AIR XL.
+bgopr10{_}1306{_}If Love's a sweet Passion, &c.  When young at the Bar you first taught me to score, And bid me be free of my Lips, and no more; I was kiss'd by the Parson, the Squire, and the Sot, When the Guest was departed, the Kiss was forgot.
+bgopr10{_}1307{_}But his Kiss was so sweet, and so closely he prest, That I languish'd and pin'd till I granted the rest.
+bgopr10{_}1308{_}If you can forgive me, Sir, I will make a fair Confession, for to be  sure he hath been a most barbarous Villain to me.
+bgopr10{_}1309{_}LOCKIT.
+bgopr10{_}1310{_}And so you have let him escape, Hussy--Have you?
+bgopr10{_}1311{_}LUCY.
+bgopr10{_}1312{_}When a Woman loves; a kind Look, a tender Word can persuade  her to any thing--And I could ask no other Bribe.
+bgopr10{_}1313{_}LOCKIT.
+bgopr10{_}1314{_}Thou wilt always be a vulgar Slut, Lucy.--If you would not  be look'd upon as a Fool, you should never do any thing but upon the  foot of Interest.
+bgopr10{_}1315{_}Those that act otherwise are their own Bubbles.
+bgopr10{_}1316{_}LUCY.
+bgopr10{_}1317{_}But Love, Sir, is a Misfortune that may happen to the most  discreet Women, and in Love we are all Fools alike--Notwithstanding  all he swore, I am now fully convinc'd that Polly Peachum is actually  his Wife.--Did I let him escape, (Fool that I was!)
+bgopr10{_}1318{_}to go to her?-- Polly will wheedle herself into his Money, and then Peachum will hang  him, and cheat us both.
+bgopr10{_}1319{_}LOCKIT.
+bgopr10{_}1320{_}So I am to be ruin'd, because, forsooth, you must be in  Love!--a very pretty Excuse!
+bgopr10{_}1321{_}LUCY.
+bgopr10{_}1322{_}I could murder that impudent happy Strumpet: --I gave him his  Life, and that Creature enjoys the Sweets of it.--Ungrateful  Macheath!
+bgopr10{_}1323{_}AIR XLI.
+bgopr10{_}1324{_}South-Sea Ballad.
+bgopr10{_}1325{_}My Love is all Madness and Folly, Alone I lie, Toss, tumble, and cry, What a happy Creature is Polly!
+bgopr10{_}1326{_}Was e'er such a Wretch as I!
+bgopr10{_}1327{_}With rage I redden like Scarlet, That my dear inconstant Varlet, Stark blind to my Charms, Is lost in the Arms Of that Jilt, that inveigling Harlot!
+bgopr10{_}1328{_}Stark blind to my Charms, Is lost in the Arms Of that Jilt, that inveigling Harlot!
+bgopr10{_}1329{_}This, this my Resentment alarms.
+bgopr10{_}1330{_}LOCKIT.
+bgopr10{_}1331{_}And so, after all this Mischief, I must stay here to be  entertain'd with your Catterwauling, Mrs.
+bgopr10{_}1332{_}Puss!--Out of my Sight,  wanton Strumpet!
+bgopr10{_}1333{_}you shall fast and mortify yourself into Reason,  with now and then a little handsom Discipline to bring you to your  Senses.--Go.
+bgopr10{_}1334{_}[Exit Lucy.]
+bgopr10{_}1335{_}Peachum then intends to outwit me in this Affair; but I'll be even  with him.--The Dog is leaky in his Liquor, so I'll ply him that way,  get the Secret from him, and turn this Affair to my own Advantage.-- Lions, Wolves, and Vultures don't live together in Herds, Droves or  Flocks.--Of all Animals of Prey, Man is the only sociable one.
+bgopr10{_}1336{_}Every  one of us preys upon his Neighbour, and yet we herd together.-- Peachum is my Companion, my Friend.--According to the Custom of the  World, indeed, he may quote thousands of Precedents for cheating me-- And shall not I make use of the Privilege of Friendship to make him a  Return.
+bgopr10{_}1337{_}AIR XLII.
+bgopr10{_}1338{_}Packington's Pound.
+bgopr10{_}1339{_}Thus Gamesters united in Friendship are found, Though they know that their Industry all is a Cheat; They flock to their Prey at the Dice-Box's Sound, And join to promote one another's Deceit.
+bgopr10{_}1340{_}But if by mishap They fail of a Chap, To keep in their Hands, they each other entrap.
+bgopr10{_}1341{_}Like Pikes, lank with Hunger, who miss of their Ends, They bite their Companions, and prey on their Friends.
+bgopr10{_}1342{_}Now, Peachum, you and I, like honest Tradesmen, are to have a fair  Trial which of us two can over-reach the other.
+bgopr10{_}1343{_}SCENE II.
+bgopr10{_}1344{_}A Gaming-House.
+bgopr10{_}1345{_}Macheath in a fine tarnish'd Coat, Ben Budge, Matt of the Mint.
+bgopr10{_}1346{_}MACHEATH.
+bgopr10{_}1347{_}I am sorry, Gentlemen, the Road was so barren of Money.
+bgopr10{_}1348{_}When my Friends are in Difficulties, I am always glad that my Fortune  can be serviceable to them.
+bgopr10{_}1349{_}[Gives them Money.]
+bgopr10{_}1350{_}You see, Gentlemen,  I am not a mere Court Friend, who professes every thing and will do  nothing.
+bgopr10{_}1351{_}AIR XLIII.
+bgopr10{_}1352{_}Lillibullero.
+bgopr10{_}1353{_}The Modes of the Court so common are grown, That a true Friend can hardly be met; Friendship for Interest is but a Loan, Which they let out for what they can get.
+bgopr10{_}1354{_}'Tis true, you find Some Friends so kind, Who will give you good Counsel themselves to defend.
+bgopr10{_}1355{_}In sorrowful Ditty, They promise, they pity, But shift for your Money, from Friend to Friend.
+bgopr10{_}1356{_}But we, Gentlemen, have still Honour enough to break through the  Corruptions of the World.--And while I can serve you, you may command  me.
+bgopr10{_}1357{_}BEN.
+bgopr10{_}1358{_}It grieves my Heart that so generous a Man should be involv'd  in such Difficulties, as oblige him to live with such ill Company,  and herd with Gamesters.
+bgopr10{_}1359{_}MATT.
+bgopr10{_}1360{_}See the Partiality of Mankind!--One Man may steal a Horse,  better than another look over a Hedge.--Of all Mechanics, of all  servile Handicrafts-men, a Gamester is the vilest.
+bgopr10{_}1361{_}But yet, as many  of the Quality are of the Profession, he is admitted amongst the  politest Company.
+bgopr10{_}1362{_}I wonder we are not more respected.
+bgopr10{_}1363{_}MACHEATH.
+bgopr10{_}1364{_}There will be deep Play to-night at Marybone, and  consequently Money may be pick'd up upon the Road.
+bgopr10{_}1365{_}Meet me there,  and I'll give you the Hint who is worth Setting.
+bgopr10{_}1366{_}MATT.
+bgopr10{_}1367{_}The Fellow with a brown Coat with a narrow Gold Binding, I am  told, is never without Money.
+bgopr10{_}1368{_}MACHEATH.
+bgopr10{_}1369{_}What do you mean, Matt?--Sure you will not think of  meddling with him!--He's a good honest kind of a Fellow, and one of  us.
+bgopr10{_}1370{_}BEN.
+bgopr10{_}1371{_}To be sure, Sir, we will put ourselves under your Direction.
+bgopr10{_}1372{_}MACHEATH.
+bgopr10{_}1373{_}Have an Eye upon the Money-Lenders.--A Rouleau, or two,  would prove a pretty sort of an Expedition.
+bgopr10{_}1374{_}I hate Extortion.
+bgopr10{_}1375{_}MATT.
+bgopr10{_}1376{_}Those Rouleaus are very pretty Things.--I hate your Bank  Bills.--There is such a Hazard in putting them off.
+bgopr10{_}1377{_}MACHEATH.
+bgopr10{_}1378{_}There is a certain Man of Distinction, who in his Time  hath nick'd me out of a great deal of the Ready.
+bgopr10{_}1379{_}He is in my Cash,  Ben;--I'll point him out to you this Evening, and you shall draw upon  him for the Debt.--The Company are met; I hear the Dice-Box in the  other Room.
+bgopr10{_}1380{_}So, Gentlemen, your Servant.
+bgopr10{_}1381{_}You'll meet me at Mary- bone.
+bgopr10{_}1382{_}SCENE III.
+bgopr10{_}1383{_}Peachum's Lock.
+bgopr10{_}1384{_}A Table with Wine, Brandy, Pipes and Tobacco.
+bgopr10{_}1385{_}Peachum, Lockit.
+bgopr10{_}1386{_}LOCKIT.
+bgopr10{_}1387{_}The Coronation Account, Brother Peachum, is of so intricate  a nature, that I believe it will never be settled.
+bgopr10{_}1388{_}PEACHUM.
+bgopr10{_}1389{_}It consists indeed of a great Variety of Articles.--It was  worth to our People, in Fees of different kinds, above ten  Instalments.--This is part of the Account, Brother, that lies open  before us.
+bgopr10{_}1390{_}LOCKIT.
+bgopr10{_}1391{_}A Lady's Tail of rich Brocade: --that, I see, is dispos'd  of.
+bgopr10{_}1392{_}PEACHUM.
+bgopr10{_}1393{_}To Mrs. Diana Trapes, the Tally-Woman and she will make a  good Hand on't in Shoes and Slippers, to trick out young Ladies, upon  their going into Keeping.
+bgopr10{_}1394{_}-  LOCKIT.
+bgopr10{_}1395{_}But I don't see any Article of the Jewels.
+bgopr10{_}1396{_}PEACHUM.
+bgopr10{_}1397{_}Those are so well known that they must be sent abroad-- You'll find them enter'd under the Article of Exportation.--As for  the Snuff-Boxes, Watches, Swords, &c.--I thought it best to enter  them under their several Heads.
+bgopr10{_}1398{_}LOCKIT.
+bgopr10{_}1399{_}Seven and twenty Women's Pockets complete; with the several  things therein contain'd; all Seal'd, Number'd, and Enter'd.
+bgopr10{_}1400{_}PEACHUM.
+bgopr10{_}1401{_}But, Brother, it is impossible for us now to enter upon  this Affair,--We should have the whole Day before us.--Besides, the  Account of the last Half Year's Plate is in a Book by itself, which  lies at the other Office.
+bgopr10{_}1402{_}LOCKIT.
+bgopr10{_}1403{_}Bring us then more Liquor--To-day shall be for Pleasure--To- morrow for Business--Ah, Brother, those Daughters of ours are two  slippery Hussies--Keep a watchful Eye upon Polly, and Macheath in a  Day or two shall be our own again.
+bgopr10{_}1404{_}AIR XLIV.
+bgopr10{_}1405{_}Down in the North Country, &c.  LOCKIT.
+bgopr10{_}1406{_}What Gudgeons are we Men!
+bgopr10{_}1407{_}Ev'ry Woman's easy Prey.
+bgopr10{_}1408{_}Though we have felt the Hook, agen We bite and they betray.
+bgopr10{_}1409{_}The Bird that hath been trapt, When he hears his calling Mate, To her he flies, again he's clapt Within the wiry Grate.
+bgopr10{_}1410{_}PEACHUM.
+bgopr10{_}1411{_}But what signifies catching the Bird, if your Daughter Lucy  will set open the Door of the Cage?
+bgopr10{_}1412{_}LOCKIT.
+bgopr10{_}1413{_}If men were answerable for the Follies and Frailties of  their Wives and Daughters, no Friends could keep a good  Correspondence together for two Days.--This in unkind of you,  Brother; for among good Friends, what they say or do goes for  nothing.
+bgopr10{_}1414{_}[Enter a Servant.]
+bgopr10{_}1415{_}SERVANT.
+bgopr10{_}1416{_}Sir, here's Mrs. Diana Trapes wants to speak with you.
+bgopr10{_}1417{_}PEACHUM.
+bgopr10{_}1418{_}Shall we admit her, Brother Lockit?
+bgopr10{_}1419{_}LOCKIT.
+bgopr10{_}1420{_}By all means,--She's a good Customer, and a fine-spoken  Woman--And a Woman who drinks and talks so freely, will enliven the  Conversation.
+bgopr10{_}1421{_}PEACHUM.
+bgopr10{_}1422{_}Desire her to walk in.
+bgopr10{_}1423{_}[Exit Servant.]
+bgopr10{_}1424{_}Peachum, Lockit, Mrs. Trapes.
+bgopr10{_}1425{_}PEACHUM.
+bgopr10{_}1426{_}Dear Mrs. Dye, your Servant--One may know by your Kiss,  that your Ginn is excellent.
+bgopr10{_}1427{_}MRS. TRAPES.
+bgopr10{_}1428{_}I was always very curious in my Liquors.
+bgopr10{_}1429{_}LOCKIT.
+bgopr10{_}1430{_}There is no perfum'd Breath like it--I have been long  acquainted with the Flavour of those Lips--Han't I, Mrs. Dye.
+bgopr10{_}1431{_}MRS. TRAPES.
+bgopr10{_}1432{_}Fill it up--I take as large Draughts of Liquor, as I  did of Love.--I hate a Flincher in either.
+bgopr10{_}1433{_}AIR XLV.
+bgopr10{_}1434{_}A Shepherd kept Sheep, &c.  In the Days of my Youth I could bill like a Dove, fa, la, la, &c. Like a Sparrow at all times was ready for Love, fa, la, la, &c. The Life of all Mortals in Kissing should pass, Lip to Lip while we're young--then the Lip to the Glass, fa, la, &c.  But now, Mr. Peachum, to our Business.--If you have Blacks of any  kind, brought in of late; Mantoes--Velvet Scarfs--Petticoats--Let it  be what it will--I am your Chap--for all my Ladies are very fond of  Mourning.
+bgopr10{_}1435{_}PEACHUM.
+bgopr10{_}1436{_}Why, look ye, Mrs. Dye--you deal so hard with us, that we  can afford to give the Gentlemen, who venture their Lives for the  Goods, little or nothing.
+bgopr10{_}1437{_}MRS. TRAPES.
+bgopr10{_}1438{_}The hard Times oblige me to go very near in my  Dealing.--To be sure, of late Years I have been a great Sufferer by  the Parliament.--Three thousand Pounds would hardly make me amends.-- The Act for destroying the Mint, was a severe Cut upon our Business-- 'Till then, if a Customer stept out of the way--we knew where to have  her--No doubt you know Mrs. Coaxer--there's a Wench now ('till to- day) with a good Suit of Clothes of mine upon her Back, and I could  never set Eyes upon her for three Months together.--Since the Act too  against Imprisonment for small Sums, my Loss there too hath been very  considerable, and it must be so, when a Lady can borrow a handsom  Petticoat, or a clean Gown, and I not have the least Hank upon her!
+bgopr10{_}1439{_}And, o' my Conscience, now-a-days most Ladies take a Delight in  cheating, when they can do it with Safety.
+bgopr10{_}1440{_}PEACHUM.
+bgopr10{_}1441{_}Madam, you had a handsom Gold Watch of us 'tother Day for  seven Guineas.--Considering we must have our Profit.--To a Gentleman  upon the Road, a Gold Watch will be scarce worth the taking.
+bgopr10{_}1442{_}MRS. TRAPES.
+bgopr10{_}1443{_}Consider, Mr. Peachum, that Watch was remarkable, and  not of very safe Sale.--If you have any black Velvet Scarfs--they are  a handsom Winter-wear, and take with most Gentlemen who deal with my  Customers.--'Tis I that put the Ladies upon a good Foot.
+bgopr10{_}1444{_}'Tis not  Youth or Beauty that fixes their Price.
+bgopr10{_}1445{_}The Gentlemen always pay  according to their Dress, from half a Crown to two Guineas; and yet  those Hussies make nothing of bilking of me.--Then too, allowing for  Accidents.--I have eleven fine Customers now down under the Surgeon's  Hands--what with Fees and other Expenses, there are great Goings-out,  and no Comings in, and not a Farthing to pay for at least a Month's  Clothing.--We run great Risques--great Risques indeed.
+bgopr10{_}1446{_}PEACHUM.
+bgopr10{_}1447{_}As I remember, you said something just now of Mrs. Coaxer.
+bgopr10{_}1448{_}MRS. TRAPES.
+bgopr10{_}1449{_}Yes, Sir.--To be sure I stript her of a Suit of my own  Clothes about two Hours ago; and have left her as she should be, in  her Shift, with a Lover of hers at my House.
+bgopr10{_}1450{_}She call'd him up  Stairs, as he was going to Mary-bone in a Hackney Coach.--And I hope,  for her own sake and mine, she will persuade the Captain to redeem  her, for the Captain is very generous to the Ladies.
+bgopr10{_}1451{_}LOCKIT.
+bgopr10{_}1452{_}What Captain?
+bgopr10{_}1453{_}MRS. TRAPES.
+bgopr10{_}1454{_}He thought I did not know him--An intimate Acquaintance  of yours, Mr. Peachum--Only Captain Macheath--as fine as a Lord.
+bgopr10{_}1455{_}PEACHUM.
+bgopr10{_}1456{_}To-morrow, dear Mrs. Dye, you shall set your own Price upon  any of the Goods you like--We have at least half a Dozen Velvet  Scarfs, and all at your Service.
+bgopr10{_}1457{_}Will you give me leave to make you  a Present of this Suit of Night-clothes for your own wearing?--But  are you sure it is Captain Macheath.
+bgopr10{_}1458{_}MRS. TRAPES.
+bgopr10{_}1459{_}Though he thinks I have forgot him; no body knows him  better.
+bgopr10{_}1460{_}I have taken a great deal of the Captain's Money in my Time  at second-hand, for he always lov'd to have his Ladies well drest.
+bgopr10{_}1461{_}PEACHUM.
+bgopr10{_}1462{_}Mr. Lockit and I have a little Business with the Captain;-- You understand me--and we will satisfy you for Mrs. Coaxer's Debt.
+bgopr10{_}1463{_}LOCKIT.
+bgopr10{_}1464{_}Depend upon it--we will deal like Men of Honour.
+bgopr10{_}1465{_}MRS. TRAPES.
+bgopr10{_}1466{_}I don't enquire after your Affairs--so whatever  happens, I wash my Hands on't--It hath always been my Maxim, that one  Friend should assist another--But if you please--I'll take one of the  Scarfs home with me.
+bgopr10{_}1467{_}'Tis always good to have something in Hand.
+bgopr10{_}1468{_}SCENE IV.
+bgopr10{_}1469{_}Newgate.
+bgopr10{_}1470{_}LUCY.
+bgopr10{_}1471{_}Jealousy, Rage, Love and Fear are at once tearing me to  pieces, How I am weather-beaten and shatter'd with Distresses!
+bgopr10{_}1472{_}AIR XLVI.
+bgopr10{_}1473{_}One Evening, having lost my Way, &c.  I'm like a Skiff on the Ocean tost, Now high, now low, with each Billow born, With her Rudder broke, and her Anchor lost, Deserted and all forlorn.
+bgopr10{_}1474{_}While thus I lie rolling and tossing all Night, That Polly lies sporting on Seas of Delight!
+bgopr10{_}1475{_}Revenge, Revenge, Revenge, Shall appease my restless Spirit.
+bgopr10{_}1476{_}I have the Rats-bane ready.--I run no Risque; for I can lay her Death  upon the Ginn, and so many die of that naturally that I shall never  be call'd in question.--But say, I were to be hang'd.--I never could  be hang'd for any thing that would give me greater Comfort, than the  poisoning that Slut.
+bgopr10{_}1477{_}[Enter Filch.]
+bgopr10{_}1478{_}FILCH.
+bgopr10{_}1479{_}Madam, here's Miss Polly come to wait upon you.
+bgopr10{_}1480{_}LUCY.
+bgopr10{_}1481{_}Show her in.
+bgopr10{_}1482{_}[Enter Polly.]
+bgopr10{_}1483{_}Dear Madam, your Servant.--I hope you will pardon my Passion, when I  was so happy to see you last.--I was so over-run with the Spleen,  that I was perfectly out of myself.
+bgopr10{_}1484{_}And really when one hath the  Spleen, every thing is to be excus'd by a Friend.
+bgopr10{_}1485{_}AIR XLVII.
+bgopr10{_}1486{_}Now Roger, I'll tell thee because thou 'rt my Son.
+bgopr10{_}1487{_}When a Wife's in her Pout, (As she's sometimes, no doubt;) The good Husband as meek as a Lamb, Her Vapours to still, First grants her her Will, And the quieting Draught is a Dram.
+bgopr10{_}1488{_}Poor Man!
+bgopr10{_}1489{_}And the quieting Draught is a Dram.
+bgopr10{_}1490{_}- I wish all our Quarrels might have so comfortable a Reconciliation.
+bgopr10{_}1491{_}POLLY.
+bgopr10{_}1492{_}I have no Excuse for my own Behaviour, Madam, but my  Misfortunes.--And really, Madam, I suffer too upon your Account.
+bgopr10{_}1493{_}LUCY.
+bgopr10{_}1494{_}But, Miss Polly--in the way of Friendship, will you give me  leave to propose a Glass of Cordial to you?
+bgopr10{_}1495{_}POLLY.
+bgopr10{_}1496{_}Strong-Waters are apt to give me the Headache--I hope, Madam,  you will excuse me.
+bgopr10{_}1497{_}LUCY.
+bgopr10{_}1498{_}Not the greatest Lady in the Land could have better in her  Closet, for her own private drinking.--You seem mighty low in  Spirits, my Dear.
+bgopr10{_}1499{_}POLLY.
+bgopr10{_}1500{_}I am sorry, Madam, my Health will not allow me to accept of  your Offer.--I should not have left you in the rude manner I did when  we met last, Madam, had not my Papa haul'd me away so unexpectedly--I  was indeed somewhat provok'd, and perhaps might use some Expressions  that were disrespectful.--But really, Madam, the Captain treated me  with so much Contempt and Cruelty, that I deserv'd your Pity, rather  than your Resentment.
+bgopr10{_}1501{_}LUCY.
+bgopr10{_}1502{_}But since his Escape, no doubt all Matters are made up again.- -Ah Polly!
+bgopr10{_}1503{_}Polly!
+bgopr10{_}1504{_}'tis I am the unhappy Wife; and he loves you as if  you were only his Mistress.
+bgopr10{_}1505{_}POLLY.
+bgopr10{_}1506{_}Sure, Madam, you cannot think me so happy as to be the object  of your Jealousy.--A Man is always afraid of a Woman who loves him  too well--so that I must expect to be neglected and avoided.
+bgopr10{_}1507{_}LUCY.
+bgopr10{_}1508{_}Then our Cases, my dear Polly, are exactly alike.
+bgopr10{_}1509{_}Both of us  indeed have been too fond.
+bgopr10{_}1510{_}AIR XLVIII.
+bgopr10{_}1511{_}O Bessy Bell.
+bgopr10{_}1512{_}POLLY.
+bgopr10{_}1513{_}A Curse attend that Woman's Love, Who always would be pleasing.
+bgopr10{_}1514{_}LUCY.
+bgopr10{_}1515{_}The Pertness of the billing Dove, Like Tickling, is but teazing.
+bgopr10{_}1516{_}POLLY.
+bgopr10{_}1517{_}What then in Love can Woman do: LUCY.
+bgopr10{_}1518{_}If we grow fond they shun us.
+bgopr10{_}1519{_}POLLY.
+bgopr10{_}1520{_}And when we fly them, they pursue: LUCY.
+bgopr10{_}1521{_}But leave us when they've won us.
+bgopr10{_}1522{_}LUCY.
+bgopr10{_}1523{_}Love is so very whimsical in both Sexes, that it is impossible  to be lasting.--But my Heart is particular, and contradicts my own  Observation.
+bgopr10{_}1524{_}POLLY.
+bgopr10{_}1525{_}But really, Mistress Lucy, by his last Behaviour, I think I  ought to envy you.--When I was forc'd from him, he did not shew the  least Tenderness.--But perhaps, he hath a Heart not capable of it.
+bgopr10{_}1526{_}AIR XLIX.
+bgopr10{_}1527{_}Would Fate to me Belinda give.
+bgopr10{_}1528{_}Among the Men, Coquettes we find, Who court by turns all Woman-kind; And we grant all their Hearts desir'd, When they are flatter'd, and admir'd.
+bgopr10{_}1529{_}The Coquettes of both Sexes are Self-lovers, and that is a Love no  other whatever can dispossess.
+bgopr10{_}1530{_}I hear, my dear Lucy, our Husband is  one of those.
+bgopr10{_}1531{_}LUCY.
+bgopr10{_}1532{_}Away with these melancholy Reflections,--indeed, my dear  Polly, we are both of us a Cup too low--Let me prevail upon you to  accept of my Offer.
+bgopr10{_}1533{_}AIR L.  Come, sweet Lass.
+bgopr10{_}1534{_}Come, sweet Lass, Let's banish Sorrow 'Till To-morrow; Come, sweet Lass, Let's take a chirping Glass.
+bgopr10{_}1535{_}Wine can clear The Vapours of Despair And make us light as Air; Then drink, and banish Care.
+bgopr10{_}1536{_}I can't bear, Child, to see you in such low Spirits.--And I must  persuade you to what I know will do you good.
+bgopr10{_}1537{_}[Aside.]
+bgopr10{_}1538{_}I shall now  soon be even with the hypocrytical Strumpet.
+bgopr10{_}1539{_}[Exit.]
+bgopr10{_}1540{_}POLLY.
+bgopr10{_}1541{_}All this Wheedling of Lucy cannot be for nothing.--At this  time too!
+bgopr10{_}1542{_}when I know she hates me!--The Dissembling of a Woman is  always the Forerunner of Mischief.--By pouring Strong-Waters down my  Throat, she thinks to pump some Secrets out of me,--I'll be upon my  Guard, and won't taste a Drop of her Liquor, I'm resolv'd.
+bgopr10{_}1543{_}[Re-enter Lucy, with Strong-Waters.]
+bgopr10{_}1544{_}LUCY.
+bgopr10{_}1545{_}Come, Miss Polly.
+bgopr10{_}1546{_}POLLY.
+bgopr10{_}1547{_}Indeed, Child, you have given yourself trouble to no  purpose.--You must, my Dear, excuse me.
+bgopr10{_}1548{_}LUCY.
+bgopr10{_}1549{_}Really, Miss Polly, you are as squeamishly affected about  taking a Cup of Strong-Waters as a Lady before Company.
+bgopr10{_}1550{_}I vow,  Polly, I shall take it monstrously ill if you refuse me.--Brandy and  Men (though Women love them ever so well) are always taken by us with  some Reluctance--unless 'tis in private.
+bgopr10{_}1551{_}POLLY.
+bgopr10{_}1552{_}I protest, Madam, it goes against me.--What do I see!
+bgopr10{_}1553{_}Macheath again in Custody!--Now every Glimm'ring of Happiness is  lost.
+bgopr10{_}1554{_}[Drops the Glass of Liquor on the Ground.]
+bgopr10{_}1555{_}LUCY.
+bgopr10{_}1556{_}Since things are thus, I'm glad the Wench hath escap'd:  for  by this Event, 'tis plain, she was not happy enough to deserve to be  poison'd.
+bgopr10{_}1557{_}[Enter Lockit, Macheath, Peachum.]
+bgopr10{_}1558{_}LOCKIT.
+bgopr10{_}1559{_}Set your Heart to rest, Captain.--You have neither the  Chance of Love or Money for another Escape,--for you are order'd to  be call'd down upon your Trial immediately.
+bgopr10{_}1560{_}PEACHUM.
+bgopr10{_}1561{_}Away, Hussies!--This is not a Time for a Man to be hamper'd  with his Wives .--You see, the Gentleman is in Chains already.
+bgopr10{_}1562{_}LUCY.
+bgopr10{_}1563{_}O Husband, Husband, my Heart long'd to see thee; but to see  thee thus distracts me?
+bgopr10{_}1564{_}POLLY.
+bgopr10{_}1565{_}Will not my dear Husband look upon his Polly?
+bgopr10{_}1566{_}Why hadst thou  not flown to me for Protection?
+bgopr10{_}1567{_}with me thou hadst been safe.
+bgopr10{_}1568{_}AIR LI.
+bgopr10{_}1569{_}The last time I went o'er the Moor.
+bgopr10{_}1570{_}POLLY.
+bgopr10{_}1571{_}Hither, dear Husband, turn your Eyes.
+bgopr10{_}1572{_}LUCY.
+bgopr10{_}1573{_}Bestow one Glance to cheer me.
+bgopr10{_}1574{_}POLLY.
+bgopr10{_}1575{_}Think with that Look, thy Polly dies.
+bgopr10{_}1576{_}LUCY.
+bgopr10{_}1577{_}O shun me not--but hear me.
+bgopr10{_}1578{_}POLLY.
+bgopr10{_}1579{_}'Tis Polly sues.
+bgopr10{_}1580{_}LUCY.
+bgopr10{_}1581{_}--'Tis Lucy speaks.
+bgopr10{_}1582{_}POLLY.
+bgopr10{_}1583{_}Is thus true Love requited?
+bgopr10{_}1584{_}LUCY.
+bgopr10{_}1585{_}My Heart is bursting.
+bgopr10{_}1586{_}POLLY.
+bgopr10{_}1587{_}--Mine too breaks.
+bgopr10{_}1588{_}LUCY.
+bgopr10{_}1589{_}Must I POLLY.
+bgopr10{_}1590{_}--Must I be slighted?
+bgopr10{_}1591{_}MACHEATH.
+bgopr10{_}1592{_}What would you have me say, Ladies?--You see this affair  will soon be at an end, without my disobliging either of you.
+bgopr10{_}1593{_}PEACHUM.
+bgopr10{_}1594{_}But the settling this Point, Captain, might prevent a Law- Suit between your two Widows.
+bgopr10{_}1595{_}AIR LII.
+bgopr10{_}1596{_}Tom Tinker's my true Love.
+bgopr10{_}1597{_}MACHEATH.
+bgopr10{_}1598{_}Which way shall I turn me--How can I decide?
+bgopr10{_}1599{_}Wives, the Day of our Death, are as fond as a Bride.
+bgopr10{_}1600{_}One Wife is too much for most Husbands to hear, But two at a time there's no mortal can bear.
+bgopr10{_}1601{_}This way, and that way, and which way I will, What would comfort the one, t' other Wife would take ill.  POLLY.
+bgopr10{_}1602{_}But if his own Misfortunes have made him insensible to mine-- A Father sure will be more compassionate--Dear, dear Sir, sink the  material Evidence, and bring him off at his Trial--Polly upon her  Knees begs it of you.
+bgopr10{_}1603{_}AIR LIII.
+bgopr10{_}1604{_}I am a poor Shepherd undone.
+bgopr10{_}1605{_}When my Heroe in Court appears, And stands arraign'd for his Life; Then think of poor Polly's Tears; For Ah!
+bgopr10{_}1606{_}poor Polly's his Wife.
+bgopr10{_}1607{_}Like the Sailor he holds up his hand, Distrest on the dashing Wave.
+bgopr10{_}1608{_}To die a dry Death at Land, Is as bad as a watery Grave.
+bgopr10{_}1609{_}And alas, poor Polly!
+bgopr10{_}1610{_}A lack, and well-a-day!
+bgopr10{_}1611{_}Before I was in Love, Oh!
+bgopr10{_}1612{_}every Month was May.
+bgopr10{_}1613{_}LUCY.
+bgopr10{_}1614{_}If Peachum's Heart is harden'd; sure you, Sir, will have more  Compassion on a Daughter.--I know the Evidence is in your Power.--How  then can you be a Tyrant to me?
+bgopr10{_}1615{_}[Kneeling.]
+bgopr10{_}1616{_}AIR LIV.
+bgopr10{_}1617{_}Ianthe the lovely, &c.  When he holds up his Hand arraign'd for his Life, O think of your Daughter, and think I'm his Wife!
+bgopr10{_}1618{_}What are Canons, or Bombs, or clashing of Swords?
+bgopr10{_}1619{_}For Death is more certain by Witnesses Words.
+bgopr10{_}1620{_}Then nail up their Lips; that dread Thunder allay; And each Month of my Life will hereafter be May.
+bgopr10{_}1621{_}LOCKIT.
+bgopr10{_}1622{_}Macheath's Time is come, Lucy.--We know our own Affairs,  therefore let us have no more Whimpering or Whining.
+bgopr10{_}1623{_}AIR LV.
+bgopr10{_}1624{_}A Cobler there was, &c.  Ourselves, like the Great, to secure a Retreat, When Matters require it, must give up our Gang: And good reason why, Or, instead of the Fry, Ev'n Peachum and I.
+bgopr10{_}1625{_}Like poor petty Rascals, might hang, hang; Like poor petty Rascals, might hang.
+bgopr10{_}1626{_}PEACHUM.
+bgopr10{_}1627{_}Set your Heart at rest, Polly.--Your Husband is to die to- day.--Therefore if you are not already provided, 'tis high time to  look about for another.
+bgopr10{_}1628{_}There's Comfort for you, you Slut.
+bgopr10{_}1629{_}LOCKIT.
+bgopr10{_}1630{_}We are ready, Sir, to conduct you to the Old Baily.
+bgopr10{_}1631{_}AIR LVI.
+bgopr10{_}1632{_}Bonny Dundee.
+bgopr10{_}1633{_}MACHEATH.
+bgopr10{_}1634{_}The Charge is prepar'd; the Lawyers are met, The Judges all rang'd (a terrible Show!)
+bgopr10{_}1635{_}I go, undismay'd.--For Death is a Debt, A Debt on Demand.--So take what I owe.
+bgopr10{_}1636{_}Then farewell, my Love--Dear Charmers, adieu.
+bgopr10{_}1637{_}Contented I die--'Tis the better for you.
+bgopr10{_}1638{_}Here ends all Disputes the rest of our Lives, For this way at once I please all my Wives.
+bgopr10{_}1639{_}Now, Gentlemen, I am ready to attend you.
+bgopr10{_}1640{_}[Exeunt Macheath, Lockit, and Peachum.]
+bgopr10{_}1641{_}[Enter Filch.]
+bgopr10{_}1642{_}POLLY.
+bgopr10{_}1643{_}Follow them, Filch, to the Court.
+bgopr10{_}1644{_}And when the Trial is  over, bring me a particular Account of his Behaviour, and of every  thing that happen'd--You'll find me here with Miss Lucy.
+bgopr10{_}1645{_}[Exit  Filch.]
+bgopr10{_}1646{_}But why is all this Musick?
+bgopr10{_}1647{_}LUCY.
+bgopr10{_}1648{_}The Prisoners, whose Trials are put off 'till next Session,  are diverting themselves.
+bgopr10{_}1649{_}POLLY.
+bgopr10{_}1650{_}Sure there is nothing so charming as Music!
+bgopr10{_}1651{_}I'm fond of it  to Distraction!--But alas!--now, all Mirth seems an Insult upon my  Affliction.--Let us retire, my dear Lucy, and indulge our Sorrows.-- The noisy Crew, you see, are coming upon us.
+bgopr10{_}1652{_}[Exeunt.]
+bgopr10{_}1653{_}[A Dance of Prisoners in Chains, &c.]   SCENE V.  The Condemn'd Hold.
+bgopr10{_}1654{_}Macheath, in a melancholy Posture.
+bgopr10{_}1655{_}AIR LVII.
+bgopr10{_}1656{_}Happy Groves.
+bgopr10{_}1657{_}O cruel, cruel, cruel Case!
+bgopr10{_}1658{_}Must I suffer this Disgrace?
+bgopr10{_}1659{_}AIR LVIII.
+bgopr10{_}1660{_}Of all the Girls that are so smart.
+bgopr10{_}1661{_}Of all the Friends in time of Grief, When threatning Death looks grimmer, Not one so sure can bring Relief, As this best Friend, a Brimmer.
+bgopr10{_}1662{_}[Drinks.]
+bgopr10{_}1663{_}AIR LIX.
+bgopr10{_}1664{_}Britons strike home.
+bgopr10{_}1665{_}Since I must swing,--I scorn, I scorn to wince or whine.
+bgopr10{_}1666{_}[Rises.]
+bgopr10{_}1667{_}AIR LX.
+bgopr10{_}1668{_}Chevy Chase.
+bgopr10{_}1669{_}But now again my Spirits sink; I'll raise them high with Wine.
+bgopr10{_}1670{_}[Drinks a Glass of Wine.]
+bgopr10{_}1671{_}AIR LXI.
+bgopr10{_}1672{_}To old Sir Simon the King.
+bgopr10{_}1673{_}But Valour the stronger grows, The stronger Liquor we'er drinking; And how can we feel our Woes, When we've lost the Trouble of Thinking?
+bgopr10{_}1674{_}[Drinks.]
+bgopr10{_}1675{_}AIR LXII.
+bgopr10{_}1676{_}Joy to Great Caesar.
+bgopr10{_}1677{_}If thus--A Man can die Much bolder with Brandy.
+bgopr10{_}1678{_}[Pours out a Bumper of Brandy.]
+bgopr10{_}1679{_}AIR LXIII.
+bgopr10{_}1680{_}There was an old Woman.
+bgopr10{_}1681{_}So I drink off this Bumper.--And now I can stand the Test, And my Comrades shall see, that I die as brave as the Best.
+bgopr10{_}1682{_}[Drinks.]
+bgopr10{_}1683{_}AIR LXIV.
+bgopr10{_}1684{_}Did you ever hear of a gallant Sailor.
+bgopr10{_}1685{_}But can I leave my pretty Hussies, Without one Tear, or tender Sigh?
+bgopr10{_}1686{_}AIR LXV.
+bgopr10{_}1687{_}Why are mine Eyes still flowing.
+bgopr10{_}1688{_}Their Eyes, their Lips, their Busses Recall my Love,--Ah must I die!
+bgopr10{_}1689{_}AIR LXVI.
+bgopr10{_}1690{_}Green Sleeves.
+bgopr10{_}1691{_}Since Laws were made for ev'ry Degree, To curb Vice in others, as well as me, I wonder we han't better Company, Upon Tyburn Tree!
+bgopr10{_}1692{_}But Gold from Law can take out the Sting; And if rich Men like us were to swing, 'Twou'd thin the Land, such Numbers to string Upon Tyburn Tree!
+bgopr10{_}1693{_}JAILOR.
+bgopr10{_}1694{_}Some Friends of yours, Captain, desire to be admitted I leave you together.
+bgopr10{_}1695{_}[Enter Ben Budge, Matt of the Mint.]
+bgopr10{_}1696{_}MACHEATH.
+bgopr10{_}1697{_}For my having broke Prison, you see, Gentlemen, I am  order'd immediate Execution.--The Sheriff's Officers, I believe, are  now at the Door.--That Jemmy Twitcher should peach me, I own  surpris'd me!--'Tis a plain Proof that the World is all alike, and  that even our Gang can no more trust one another than other People.
+bgopr10{_}1698{_}Therefore, I beg you, Gentlemen, look well to yourselves, for in all  probability you may live some Months longer.
+bgopr10{_}1699{_}MATT.
+bgopr10{_}1700{_}We are heartily sorry, Captain, for your Misfortune.--But 'tis  what we must all come to.
+bgopr10{_}1701{_}MACHEATH.
+bgopr10{_}1702{_}Peachum and Lockit, you know, are infamous Scoundrels.
+bgopr10{_}1703{_}Their Lives are as much in your Power, as yours are in theirs.-- Remember your dying Friend!--'Tis my last Request.--Bring those  Villains to the Gallows before you, and I am satisfied.
+bgopr10{_}1704{_}MATT.
+bgopr10{_}1705{_}We'll do't.
+bgopr10{_}1706{_}JAILOR.
+bgopr10{_}1707{_}Miss Polly and Miss Lucy intreat a Word with you.
+bgopr10{_}1708{_}MACHEATH.
+bgopr10{_}1709{_}Gentlemen, adieu.
+bgopr10{_}1710{_}[Exeunt Ben Budge and Matt.]
+bgopr10{_}1711{_}[Enter Lucy and Polly.]
+bgopr10{_}1712{_}MACHEATH.
+bgopr10{_}1713{_}My dear Lucy--My dear Polly--Whatsoever hath pass'd  between us is now at an end--If you are fond of marrying again, the  best Advice I can give you, is to Ship yourselves off for the West- Indies, where you'll have a fair Chance of getting a Husband a-piece,  or by good Luck, two or three, as you like best.
+bgopr10{_}1714{_}POLLY.
+bgopr10{_}1715{_}How can I support this Sight!
+bgopr10{_}1716{_}LUCY.
+bgopr10{_}1717{_}There is nothing moves one so much as a great Man in Distress.
+bgopr10{_}1718{_}AIR LXVII.
+bgopr10{_}1719{_}All you that must take a Leap, &c.  LUCY.
+bgopr10{_}1720{_}Would I might be hang'd!
+bgopr10{_}1721{_}POLLY.
+bgopr10{_}1722{_}--And I would so too!
+bgopr10{_}1723{_}LUCY.
+bgopr10{_}1724{_}To be hang'd with you.
+bgopr10{_}1725{_}POLLY.
+bgopr10{_}1726{_}--My Dear, with you.
+bgopr10{_}1727{_}MACHEATH.
+bgopr10{_}1728{_}O leave me to Thought!
+bgopr10{_}1729{_}I fear!
+bgopr10{_}1730{_}I doubt!
+bgopr10{_}1731{_}I tremble!
+bgopr10{_}1732{_}I droop!--See, my Courage is out.
+bgopr10{_}1733{_}[Turns up the empty Bottle.]
+bgopr10{_}1734{_}POLLY.
+bgopr10{_}1735{_}No Token of Love?
+bgopr10{_}1736{_}MACHEATH.--See, my Courage is out.
+bgopr10{_}1737{_}[Turns up the empty Pot.]
+bgopr10{_}1738{_}LUCY.
+bgopr10{_}1739{_}No Token of Love?
+bgopr10{_}1740{_}POLLY.
+bgopr10{_}1741{_}--Adieu.
+bgopr10{_}1742{_}LUCY.
+bgopr10{_}1743{_}--Farewell.
+bgopr10{_}1744{_}MACHEATH.
+bgopr10{_}1745{_}But hark!
+bgopr10{_}1746{_}I hear the Toll of the Bell.
+bgopr10{_}1747{_}CHORUS.
+bgopr10{_}1748{_}Tol de rol lol, &c.  JAILOR.
+bgopr10{_}1749{_}Four Women more, Captain, with a Child apiece!
+bgopr10{_}1750{_}See, here  they come.
+bgopr10{_}1751{_}[Enter Women and Children.]
+bgopr10{_}1752{_}MACHEATH.
+bgopr10{_}1753{_}What--four Wives more!--This is too much--Here--tell the  Sheriff's Officers I am ready.
+bgopr10{_}1754{_}[Exit Macheath guarded.]
+bgopr10{_}1755{_}[To them, Enter Player and Beggar.]
+bgopr10{_}1756{_}PLAYER.
+bgopr10{_}1757{_}But, honest Friend, I hope you don't intend that Macheath  shall be really executed.
+bgopr10{_}1758{_}BEGGAR.
+bgopr10{_}1759{_}Most certainly, Sir.--To make the Piece perfect, I was for  doing strict poetical Justice.--Macheath is to be hang'd; and for the  other Personages of the Drama, the Audience must have suppos'd they  were all either hang'd or transported.
+bgopr10{_}1760{_}PLAYER.
+bgopr10{_}1761{_}Why then, Friend, this is a downright deep Tragedy.
+bgopr10{_}1762{_}The  Catastrophe is manifestly wrong, for an Opera must end happily.
+bgopr10{_}1763{_}BEGGAR.
+bgopr10{_}1764{_}Your Objection, Sir, is very just, and is easily remov'd.
+bgopr10{_}1765{_}For you must allow, that in this kind of Drama, 'tis no matter how  absurdly things are brought about--So--you Rabble there--run and cry,  A Reprieve!--let the Prisoner be brought back to his Wives in  Triumph.
+bgopr10{_}1766{_}PLAYER.
+bgopr10{_}1767{_}All this we must do, to comply with the Taste of the Town.
+bgopr10{_}1768{_}BEGGAR.
+bgopr10{_}1769{_}Through the whole Piece you may observe such a Similitude of  Manners in high and low Life, that it is difficult to determine  whether (in the fashionable Vices) the fine Gentlemen imitate the  Gentlemen of the Road, or the Gentlemen of the Road the fine  Gentlemen.--Had the Play remained, as I at first intended, it would  have carried a most excellent Moral.
+bgopr10{_}1770{_}'Twould have shewn that the  lower Sort of People have their Vices in a degree as well as the  Rich:  And that they are punish'd for them.
+bgopr10{_}1771{_}[To them, Macheath with Rabble, &c.]  MACHEATH.
+bgopr10{_}1772{_}So, it seems, I am not left to my Choice, but must have a  Wife at last.--Look ye, my Dears, we will have no Controversy now.
+bgopr10{_}1773{_}Let us give this Day to Mirth, and I am sure she who thinks herself  my Wife will testify her Joy by a Dance.
+bgopr10{_}1774{_}ALL.
+bgopr10{_}1775{_}Come, a Dance--a Dance.
+bgopr10{_}1776{_}MACHEATH.
+bgopr10{_}1777{_}Ladies, I hope you will give me leave to present a Partner  to each of you.
+bgopr10{_}1778{_}And (if I may without Offence) for this time, I take  Polly for mine.--And for Life, you Slut,--for we were really  marry'd.--As for the rest.--But at present keep your own Secret.
+bgopr10{_}1779{_}[To  Polly.]
+bgopr10{_}1780{_}[A DANCE.]
+bgopr10{_}1781{_}AIR LXVIII.
+bgopr10{_}1782{_}Lumps of Pudding, &c.  Thus I stand like the Turk, with his Doxies around; From all Sides their Glances his Passion confound; For Black, Brown, and Fair, his Inconstancy burns, And the different Beauties subdue him by turns: Each calls forth her Charms to provoke his Desires: Though willing to all, with but one he retires.
+bgopr10{_}1783{_}But think of this Maxim, and put off your Sorrow, The Wretch of To-day, may be happy To-morrow.
+bgopr10{_}1784{_}CHORUS.
+bgopr10{_}1785{_}But think of this Maxim, &c.     End of the Project Gutenberg eText The Beggar's Opera  

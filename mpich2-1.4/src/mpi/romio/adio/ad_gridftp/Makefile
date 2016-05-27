@@ -1,0 +1,52 @@
+CC          = gcc
+AR          = ar cr
+RANLIB      = ranlib
+LIBNAME     = /home/kumamon/Documents/paruj/219351_Webapp_homework/mpich2-1.4/lib/libmpich.a
+srcdir      = /home/kumamon/Documents/paruj/219351_Webapp_homework/mpich2-1.4/src/mpi/romio/adio/ad_gridftp
+CC_SHL      = true
+SHLIBNAME   = /home/kumamon/Documents/paruj/219351_Webapp_homework/mpich2-1.4/lib/libmpich
+
+INCLUDES    = -I. -I${srcdir}/../include -I../include -I../../include  -I${srcdir}/../../../../include -I../../../../include
+CFLAGS      =    -O2  -D_LARGEFILE64_SOURCE -D_FILE_OFFSET_BITS=64 -DHAVE_ROMIOCONF_H -D_LARGEFILE64_SOURCE -D_FILE_OFFSET_BITS=64 $(INCLUDES)
+
+top_builddir  = /home/kumamon/Documents/paruj/219351_Webapp_homework/mpich2-1.4
+LIBTOOL       = 
+C_COMPILE_SHL = $(CC_SHL) 
+
+VPATH=.:${srcdir}
+
+AD_GRIDFTP_OBJECTS = ad_gridftp_close.o \
+	ad_gridftp_open.o ad_gridftp_read.o ad_gridftp_write.o \
+	ad_gridftp_fcntl.o ad_gridftp_flush.o \
+	ad_gridftp_resize.o ad_gridftp_hints.o \
+	ad_gridftp_delete.o ad_gridftp.o globus_routines.o ad_gridftp_features.o
+
+default: $(LIBNAME)
+	@if [ "none" != "none" ] ; then \
+	    $(MAKE) $(SHLIBNAME).la ;\
+	fi
+
+.SUFFIXES: $(SUFFIXES) .p .lo
+
+.c.o:
+	$(CC) $(CFLAGS) -c $<
+.c.lo:
+	$(C_COMPILE_SHL) $(CFLAGS) -c $< -o _s$*.o
+	@mv -f _s$*.o $*.lo
+
+$(LIBNAME): $(AD_GRIDFTP_OBJECTS)
+	$(AR) $(LIBNAME) $(AD_GRIDFTP_OBJECTS)
+	$(RANLIB) $(LIBNAME) 
+
+AD_GRIDFTP_LOOBJECTS=$(AD_GRIDFTP_OBJECTS:.o=.lo)
+$(SHLIBNAME).la: $(AD_GRIDFTP_LOOBJECTS)
+	$(AR) $(SHLIBNAME).la $(AD_GRIDFTP_LOOBJECTS)
+
+coverage:
+	-@for file in  ${AD_UFS_OBJECTS:.o=.c} ; do \
+		gcov -b -f $$file ; done
+
+clean:
+	@rm -f *.o *.lo *.gcno *.gcda *.bb *.bbg
+	@rm -f ${srcdir}/*.gcno ${srcdir}/*.gcda 
+	@rm -f ${srcdir}/*.bb ${srcdir}/*.bbg

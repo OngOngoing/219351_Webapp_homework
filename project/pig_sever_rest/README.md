@@ -10,11 +10,7 @@
 
 ## Development
 
-- Run webserver: `python manage.py runserver`
-- Enter the front page at http://localhost:8000/static/index.html
- OR
 - Run webserver: `python manage.py runserver 0.0.0.0:80`
-- Enter the front page at http://{{server-ip}}/static/index.html
 
 #Calling pig from django
 - Use subprocess in python to run pig.(bash/sh)

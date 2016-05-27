@@ -1,9 +1,10 @@
-#How To Use
+#Pig Usage
 
 ##Parameters
 * user_input
 * output_path
 
+##Execution
 * Execute the pig sentence search script (Local).
 ```sh
 pig -x local -param user_input="input.txt" -param output_path=output_search -f sentence_search.pig

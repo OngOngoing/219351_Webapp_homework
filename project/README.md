@@ -11,4 +11,5 @@ Our main page is the following link: http://52.221.229.121/static/index.html#/
 ![alt text](ImageSource/Result.PNG "Webpage")
 
 ##Design
+* Result
 ![alt text](ImageSource/Design.PNG "Webpage")

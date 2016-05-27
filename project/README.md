@@ -12,14 +12,14 @@
 pig -x local -param user_input="input.txt" -param output_path=output_search -f sentence_search.pig
 ```
 
-Where `input.txt` is the input file (generated depends on request).
+Where `input.txt` and `output_search` is the input/output file/folder (generated depends on request).
 
 * Execute the pig sentence search script (Map-Reduce)
 ```sh
 pig -param user_input="input.txt" -param output_path=output_search -f sentence_search.pig
 ```
 
-Where `input.txt` is the input file (generated depends on a request).
+Where `input.txt` and `output_search` is the input/output file/folder (generated depends on request).
 
 ##Input
 
@@ -70,4 +70,4 @@ bookname{_}sentence_id{_}sentence
 ![alt text](img/issue1.png "Issue 1")
 (Already configured the name `hadoop-master` to specific ip in `etc/hosts` and `hdfs` service is already started)
 ![alt text](img/issue2.png "Issue 2")
-(`ConnetionException` issue when trying to run pig in map-reduce mode)
+(ERROR when trying to run pig in map-reduce mode)

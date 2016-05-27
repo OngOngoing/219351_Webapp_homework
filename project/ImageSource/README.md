@@ -1,1 +1,1 @@
-ImageForReadme
+ImageForProjectReadme

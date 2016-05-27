@@ -19,7 +19,7 @@ Where `input.txt` is the input file (generated depends on request).
 pig -param user_input="input.txt" -param output_path=output_search -f sentence_search.pig
 ```
 
-Where `input.txt` is the input file (generated depends on request).
+Where `input.txt` is the input file (generated depends on a request).
 
 ##Input
 
@@ -50,9 +50,9 @@ morem10	1	Be sure to check the copyright laws for your country before downloadin
 ```
 
 ##Searching Pool
-* Uses sentence breaker library from `nltk.corpus.Gutenberg` and generate modified version book files.
+* Uses a sentence breaker library from `nltk.corpus.Gutenberg` and generate modified version book files.
 (Special thanks to [WebApp8](https://github.com/vasupol11/219351_homework) group for the sentence breaker)
-* Folder name(Searching pool) : `GTB`(See in script)
+* Folder name(Searching pool) : `GTB`(See in the script)
 * modified version of book files have the following structure
 ```sh
 bookname{_}sentence_id{_}sentence

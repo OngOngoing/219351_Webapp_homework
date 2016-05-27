@@ -52,7 +52,7 @@ morem10	1	Be sure to check the copyright laws for your country before downloadin
 ##Searching Pool
 * Uses a sentence breaker library from `nltk.corpus.Gutenberg` and generate modified version book files.
 (Special thanks to [WebApp8](https://github.com/vasupol11/219351_homework) group for the sentence breaker)
-* Folder name(Searching pool) : `GTB`(See in the script)
+* Folder name(Searching pool) : `GTB`(See in the [script](sentence_search.pig))
 * modified version of book files have the following structure
 ```sh
 bookname{_}sentence_id{_}sentence

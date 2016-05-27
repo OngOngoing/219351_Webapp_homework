@@ -50,7 +50,8 @@ morem10	1	Be sure to check the copyright laws for your country before downloadin
 ```
 
 ##Searching Pool
-* Uses sentence breaker library from `nltk.corpus.Gutenberg` and generate modified version book files
+* Uses sentence breaker library from `nltk.corpus.Gutenberg` and generate modified version book files.
+(Special thanks to [WebApp8](https://github.com/vasupol11/219351_homework) group for the sentence breaker)
 * Folder name(Searching pool) : `GTB`(See in script)
 * modified version of book files have the following structure
 ```sh

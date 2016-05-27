@@ -4,4 +4,4 @@ books = FOREACH lines GENERATE FLATTEN(REGEX_EXTRACT_ALL(line,'(.*)\\{\\_\\}(.*)
 joined = JOIN user_input BY user_sentence, books BY sentence;
 result = FOREACH joined GENERATE name, sentence_id, sentence;
 
-DUMP result;
+store result into '$output_path';

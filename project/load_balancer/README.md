@@ -7,3 +7,6 @@
 * sudo apt-get install nginx
 * copy default to /etc/nginx/sites-available/
 * service nginx restart
+
+##Bug / Issues
+* -

@@ -59,3 +59,15 @@ bookname{_}sentence_id{_}sentence
 bookname{_}sentence_id{_}sentence
 ...
 ```
+
+##Limitation
+* The input-searching-sentence must be exactly the same as in searching pool.
+
+
+
+##Issues
+* Cannot run pig in map-reduce mode
+![alt text](img/issue1.png "Issue 1")
+(Already configured the name `hadoop-master` to specific ip in `etc/hosts` and `hdfs` service is already started)
+![alt text](img/issue2.png "Issue 2")
+(`ConnetionException` issue when trying to run pig in map-reduce mode)

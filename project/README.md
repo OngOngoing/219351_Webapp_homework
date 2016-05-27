@@ -51,6 +51,20 @@ Our main page is the following link: http://52.221.229.121/static/index.html#/
 * Result
 ![alt text](ImageSource/Result.PNG "Webpage")
 
-##Design
-* Result
+#Short Report
+
+##How we design and implement our project
+* Architecture Design
 ![alt text](ImageSource/Design.PNG "Webpage")
+
+For the load balancer, we decide to use Nginx because we are familiar with it and we have limited time.
+We don't have enough time to learn new tools.
+Also the decision using Django for Web application, we have the same reason as Nginx.
+We use Hadoop and Pig for the map&reduce work.
+
+* Server
+
+1. Load balancer - 52.221.229.121
+2. Web server - 52.77.248.211, 52.77.242.91
+3. Master node - 52.221.255.33
+4. Slave node - 54.169.118.41, 54.169.118.83

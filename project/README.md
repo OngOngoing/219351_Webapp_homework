@@ -60,7 +60,7 @@ Our main page is the following link: http://52.221.229.121/static/index.html#/
 For the load balancer, we decide to use Nginx because we are familiar with it and we have limited time.
 We don't have enough time to learn new tools.
 Also the decision using Django for Web application, we have the same reason as Nginx.
-We use Hadoop and Pig for the map&reduce work.
+For map&reduce, when we observe the data, we realize that we can make the code shorter. We decide to use Pig for the map&reduce work.
 
 * Server
 
@@ -68,3 +68,11 @@ We use Hadoop and Pig for the map&reduce work.
 2. Web server - 52.77.248.211, 52.77.242.91
 3. Master node - 52.221.255.33
 4. Slave node - 54.169.118.41, 54.169.118.83
+
+* Contributions
+1. Install and Implement Front-End - @kittinan1
+2. Install and Implement Back-End - @jarunithi, @new08242
+3. Install and Implement Load Balancer - @thanachote-Frank
+4. Install and Implement Rest Pig Server - @jarunithi, @new08242
+5. Install Hadoop & Pig - @thanachote-Frank, @OngOngoing
+6. Implement Hadoop & Pig - @OngOngoing, @smart2538

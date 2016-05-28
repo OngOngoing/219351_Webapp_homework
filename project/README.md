@@ -70,6 +70,7 @@ For map&reduce, when we observe the data, we realize that we can make the code s
 4. Slave node - 54.169.118.41, 54.169.118.83
 
 * Contributions
+* 
 1. Install and Implement Front-End - @kittinan1
 2. Install and Implement Back-End - @jarunithi, @new08242
 3. Install and Implement Load Balancer - @thanachote-Frank
